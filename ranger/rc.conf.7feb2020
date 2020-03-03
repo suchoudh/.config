@@ -393,13 +393,6 @@ map tp tab_new ~/Pictures
 map mp shell mv %s ~/Pictures
 map Yp shell cp %s ~/Pictures
 map bg shell cp %f ~/.config/wall.png && feh --bg-max %f
-
-# BasePics setting 
-map zg shell cd %s ~/Pictures/_BGPics
-map zm shell mv %s ~/Pictures/_BGPics
-map zc shell cp %s ~/Pictures/_BGPics
-
-
 # options are bg-max bg-fill and bg-center
 
 # Custom -- sunil added  change only single directory 
@@ -496,8 +489,8 @@ map K7 shell cp %s ~/Dropbox/1700_food
 #18_ChildGrowthMonitor 
 map O8 cd ~/Dropbox/
 map B8 tab_new ~/Dropbox/
-map E8 shell mv %s ~/Dropbox/3000_GovtITProjects
-map K8 shell cp %s ~/Dropbox/3000_GovtITProjects
+map E8 shell mv %s ~/Dropbox/
+map K8 shell cp %s ~/Dropbox/
 
 #19_GetupAgain_Artist
 map O9 cd ~/Dropbox/1900_
@@ -634,20 +627,20 @@ map oE chain set sort=extension; set sort_reverse=True
 
 map dc get_cumulative_size
 
-# Settings - all commented by Sunil for enabling the BGPics - 10 feb 2020 
-#map zc    set collapse_preview!
-#map zd    set sort_directories_first!
-#map zh    set show_hidden!
-#map <C-h> set show_hidden!
-#map zI    set flushinput!
-#map zi    set preview_images!
-#map zm    set mouse_enabled!
-#map zp    set preview_files!
-#map zP    set preview_directories!
-#map zs    set sort_case_insensitive!
-#map zu    set autoupdate_cumulative_size!
-#map zv    set use_preview_script!
-#map zf    console filter%space
+# Settings
+map zc    set collapse_preview!
+map zd    set sort_directories_first!
+map zh    set show_hidden!
+map <C-h> set show_hidden!
+map zI    set flushinput!
+map zi    set preview_images!
+map zm    set mouse_enabled!
+map zp    set preview_files!
+map zP    set preview_directories!
+map zs    set sort_case_insensitive!
+map zu    set autoupdate_cumulative_size!
+map zv    set use_preview_script!
+map zf    console filter%space
 
 # Bookmarks
 map `<any>  enter_bookmark %any
