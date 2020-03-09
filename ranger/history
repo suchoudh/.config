@@ -13,7 +13,6 @@ rename qs.png
 cw 
 rename screenshot.png
 rename screenshot_delay.png
-open_with 
 
 search adv
 nauti
@@ -48,3 +47,4 @@ search wallpa
 cw
 rename 
 search Wall
+open_with 
