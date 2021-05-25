@@ -1,0 +1,26 @@
+{
+  "&Load last folder at startup": {
+    "value": false
+  }, 
+  "Program to &play files with:": {
+    "value": "xdg-open"
+  }, 
+  "Show &gridlines": {
+    "value": true
+  }, 
+  "Su&bfolders": {
+    "value": true
+  }, 
+  "&Preserve file modification times (if supported)": {
+    "value": false
+  }, 
+  "Show tooltips in file-view:": {
+    "value": true
+  }, 
+  "Automatically resize columns to contents": {
+    "value": false
+  }, 
+  "Show &row numbers": {
+    "value": true
+  }
+}

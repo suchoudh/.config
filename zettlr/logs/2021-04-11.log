@@ -1,0 +1,99 @@
+[22:52:09] [Info] こんにちは！　Booting Zettlr at Sun Apr 11 2021 22:52:07 GMT+0530 (India Standard Time).
+[22:52:09] [Info] Electron reports ready state. Instantiating main process...
+[22:52:14] [Info] Loaded all roots in 3.013 seconds
+[22:53:18] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:53:18] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618144359882, and fs.lstat reports 1618161797992
+[22:53:18] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618144359882
+[22:53:18] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:53:53] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:53:53] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161797992, and fs.lstat reports 1618161833733
+[22:53:53] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161797992
+[22:53:53] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:54:04] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:54:04] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161833733, and fs.lstat reports 1618161844473
+[22:54:04] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161833733
+[22:54:04] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:54:19] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:54:19] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161844473, and fs.lstat reports 1618161859214
+[22:54:19] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161844473
+[22:54:19] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:54:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:54:33] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161859214, and fs.lstat reports 1618161873546
+[22:54:33] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161859214
+[22:54:33] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:54:47] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:54:47] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161873546, and fs.lstat reports 1618161887382
+[22:54:47] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161873546
+[22:54:47] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:55:40] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:55:40] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161887382, and fs.lstat reports 1618161940840
+[22:55:40] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161887382
+[22:55:40] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:55:54] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:55:54] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161940840, and fs.lstat reports 1618161954568
+[22:55:54] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161940840
+[22:55:54] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:56:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:56:01] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161954568, and fs.lstat reports 1618161961953
+[22:56:01] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161954568
+[22:56:01] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:56:30] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:56:30] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161961953, and fs.lstat reports 1618161990433
+[22:56:30] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161961953
+[22:56:30] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:57:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:57:01] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618161990433, and fs.lstat reports 1618162021058
+[22:57:01] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618161990433
+[22:57:01] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[22:59:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[22:59:28] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162021058, and fs.lstat reports 1618162168606
+[22:59:28] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162021058
+[22:59:28] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:00:06] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:00:06] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162168606, and fs.lstat reports 1618162206578
+[23:00:06] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162168606
+[23:00:06] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:00:30] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:00:30] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162206578, and fs.lstat reports 1618162230603
+[23:00:30] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162206578
+[23:00:30] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:00:40] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:00:40] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162230603, and fs.lstat reports 1618162240491
+[23:00:40] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162230603
+[23:00:40] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:02:06] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:02:06] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162240491, and fs.lstat reports 1618162326649
+[23:02:06] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162240491
+[23:02:06] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:08:49] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:08:49] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162326649, and fs.lstat reports 1618162729593
+[23:08:49] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162326649
+[23:08:49] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:08:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:08:59] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162729593, and fs.lstat reports 1618162739657
+[23:08:59] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162729593
+[23:08:59] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:09:17] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:09:17] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162739657, and fs.lstat reports 1618162757621
+[23:09:17] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162739657
+[23:09:17] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:28:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:28:01] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618162757621, and fs.lstat reports 1618163881227
+[23:28:01] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618162757621
+[23:28:01] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:53:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:53:44] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618163881227, and fs.lstat reports 1618165424833
+[23:53:44] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618163881227
+[23:53:44] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:57:14] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:57:14] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618165424833, and fs.lstat reports 1618165634552
+[23:57:14] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618165424833
+[23:57:14] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:57:29] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:57:29] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618165634552, and fs.lstat reports 1618165649140
+[23:57:29] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618165634552
+[23:57:29] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[23:58:16] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[23:58:16] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618165649140, and fs.lstat reports 1618165696014
+[23:58:16] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618165649140
+[23:58:16] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...

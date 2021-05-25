@@ -1,0 +1,37 @@
+*** /dev/null
+--- /dev/null
+***************
+*** 61,65
+- 
+- 	&apos;Get first file in directory
+- 	sFile = dir(sDir)
+- 	&apos;Go through all files in directory
+- 	While Not (sFile = &quot;&quot;)
+--- 61,67 -----
++ 
++ 	&apos; N7DR simple sort to put photos in filename order
++ 	
++ 	dim iFiles as integer
++ 	iFiles = 0
++ 	sFile = dir(sDir)
++ 	While Not (sFile = &quot;&quot;)
+***************
+*** 67,79
+- 
+- 
+- 			&apos;Add a slide for this graphic
+- 			oSlides.InsertNewByIndex (oSlides.Count)
+- 			
+- 			&apos;Set page changing properties included fade effect
+- 			oDrawPage = oSlides.getByIndex (oSlides.Count -1)
+- 			oDrawPage.Effect = oEffect
+- 			oDrawPage.Speed = oSpeed
+- 			oDrawPage.Change = iChange
+- 			oDrawPage.Duration = iDuration
+- 			&apos;Add graphic to slide
+- 			AddGraphic (oAlbum, ConvertToURL (sDir &amp; sFile), oDrawPage)
+--- 69,72 -----
++ 			iFiles = iFiles + 1
++ 		end if
++ 		sFile = dir
++ 	Wend

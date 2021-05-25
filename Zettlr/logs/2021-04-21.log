@@ -1,0 +1,153 @@
+[14:23:17] [Info] こんにちは！ Booting Zettlr at Wed Apr 21 2021 14:23:17 GMT+0530 (India Standard Time).
+[14:23:17] [Info] Performing environment check ...
+[14:23:17] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIVbr0S6/resources/pandoc
+[14:23:17] [Info] Creating required directory /home/rahu/.config/Zettlr/dict ...
+[14:23:17] [Info] Creating required directory /home/rahu/.config/Zettlr/lang ...
+[14:23:17] [Info] Creating required directory /home/rahu/.config/Zettlr/logs ...
+[14:23:17] [Info] Environment check complete.
+[14:23:17] [Info] Registering custom protocol safe-file
+[14:23:17] [Info] [Config Provider] No configuration file found - using defaults.
+[14:23:17] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[14:23:17] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[14:23:18] [Info] [First Start] Copying over the interactive tutorial to /home/rahu/Documents!
+[14:23:18] [Info] Successfully copied the tutorial files | Details: Pandoc and LaTeX Guide.md, Pandoc and LaTeX Guide.pdf, citing.md, references.json, welcome.md, zettelkasten.md, zettlr.png
+[14:23:18] [Info] Clearing the FSAL cache ...
+[14:23:18] [Info] Cache cleared!
+[14:23:19] [Warning] [FSAL] Path /home/rahu/Documents/Zettlr Tutorial took 671ms to load.
+[14:23:19] [Info] Loaded all roots in 0.673 seconds
+[14:23:19] [Info] [Update Provider] Checking for application updates ...
+[14:23:20] [Info] [Update Provider] No new update available. Current version is v1.8.7.
+[14:23:20] [Info] Added DevTools extension:  Vue.js devtools
+[14:23:23] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[14:23:23] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object] (index.js:593)
+[14:26:02] [Info] Saving file zettelkasten.md...
+[14:26:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:26:02] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618995362606
+[14:26:02] [Info] File zettelkasten.md saved.
+[14:26:15] [Info] Saving file zettelkasten.md...
+[14:26:15] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:26:15] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618995375247
+[14:26:15] [Info] File zettelkasten.md saved.
+[14:32:28] [Info] Saving file welcome.md...
+[14:32:28] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:32:28] [Info] Updated modtime for fileDescriptor welcome.md to 1618995748092
+[14:32:28] [Info] File welcome.md saved.
+[14:33:18] [Info] Saving file welcome.md...
+[14:33:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:33:18] [Info] Updated modtime for fileDescriptor welcome.md to 1618995798118
+[14:33:18] [Info] File welcome.md saved.
+[14:34:53] [Info] Saving file welcome.md...
+[14:34:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:34:53] [Info] Updated modtime for fileDescriptor welcome.md to 1618995893425
+[14:34:53] [Info] File welcome.md saved.
+[14:35:22] [Info] Saving file welcome.md...
+[14:35:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:35:22] [Info] Updated modtime for fileDescriptor welcome.md to 1618995922226
+[14:35:22] [Info] File welcome.md saved.
+[14:36:03] [Info] Saving file welcome.md...
+[14:36:03] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:36:03] [Info] Updated modtime for fileDescriptor welcome.md to 1618995963436
+[14:36:03] [Info] File welcome.md saved.
+[14:36:41] [Info] Saving file zettelkasten.md...
+[14:36:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:36:41] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996001562
+[14:36:41] [Info] File zettelkasten.md saved.
+[14:37:17] [Info] Saving file zettelkasten.md...
+[14:37:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:37:17] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996037063
+[14:37:17] [Info] File zettelkasten.md saved.
+[14:38:00] [Info] Saving file zettelkasten.md...
+[14:38:00] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:38:00] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996080406
+[14:38:00] [Info] File zettelkasten.md saved.
+[14:38:18] [Info] Saving file zettelkasten.md...
+[14:38:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:38:18] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996098563
+[14:38:18] [Info] File zettelkasten.md saved.
+[14:39:03] [Info] Saving file welcome.md...
+[14:39:03] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:39:03] [Info] Updated modtime for fileDescriptor welcome.md to 1618996143637
+[14:39:03] [Info] File welcome.md saved.
+[14:39:14] [Info] Saving file welcome.md...
+[14:39:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:39:14] [Info] Updated modtime for fileDescriptor welcome.md to 1618996154169
+[14:39:14] [Info] File welcome.md saved.
+[14:39:53] [Info] Saving file zettelkasten.md...
+[14:39:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:39:53] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996193644
+[14:39:53] [Info] File zettelkasten.md saved.
+[14:40:05] [Info] Saving file welcome.md...
+[14:40:05] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:40:05] [Info] Updated modtime for fileDescriptor welcome.md to 1618996205816
+[14:40:05] [Info] File welcome.md saved.
+[14:40:25] [Info] Saving file Pandoc and LaTeX Guide.md...
+[14:40:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/Pandoc and LaTeX Guide.md
+[14:40:25] [Info] Updated modtime for fileDescriptor Pandoc and LaTeX Guide.md to 1618996225125
+[14:40:25] [Info] File Pandoc and LaTeX Guide.md saved.
+[14:40:48] [Info] Saving file welcome.md...
+[14:40:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/welcome.md
+[14:40:48] [Info] Updated modtime for fileDescriptor welcome.md to 1618996248159
+[14:40:48] [Info] File welcome.md saved.
+[14:41:01] [Info] Saving file Pandoc and LaTeX Guide.md...
+[14:41:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/Pandoc and LaTeX Guide.md
+[14:41:01] [Info] Updated modtime for fileDescriptor Pandoc and LaTeX Guide.md to 1618996261135
+[14:41:01] [Info] File Pandoc and LaTeX Guide.md saved.
+[14:41:26] [Info] Saving file zettelkasten.md...
+[14:41:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[14:41:26] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1618996286865
+[14:41:26] [Info] File zettelkasten.md saved.
+[14:46:46] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:47] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:48] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:48] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:48] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:49] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:49] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:50] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:46:58] [Info] Saving file citing.md...
+[14:46:58] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/citing.md
+[14:46:58] [Info] Updated modtime for fileDescriptor citing.md to 1618996618100
+[14:46:58] [Info] File citing.md saved.
+[14:47:37] [Error] [R] [Main Window] Uncaught TypeError: a.filter is not a function (index.js:585)
+[14:47:39] [Info] Saving file citing.md...
+[14:47:39] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:47:39] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/citing.md
+[14:47:39] [Info] Updated modtime for fileDescriptor citing.md to 1618996659580
+[14:47:39] [Info] File citing.md saved.
+[14:47:40] [Info] [R] [Main Window] Error attempting to parse citation [@Marx 1962,23:249] Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:160)
+[14:47:45] [Info] Saving file citing.md...
+[14:47:45] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:47:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/citing.md
+[14:47:45] [Info] Updated modtime for fileDescriptor citing.md to 1618996665168
+[14:47:45] [Info] File citing.md saved.
+[14:47:49] [Info] [R] [Main Window] Error attempting to parse citation [@Marx 1962,23:249] Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:160)
+[14:47:54] [Info] Saving file citing.md...
+[14:47:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/citing.md
+[14:47:54] [Info] Updated modtime for fileDescriptor citing.md to 1618996674220
+[14:47:54] [Info] File citing.md saved.
+[14:47:54] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:48:11] [Info] Saving file citing.md...
+[14:48:11] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/citing.md
+[14:48:11] [Info] Updated modtime for fileDescriptor citing.md to 1618996691444
+[14:48:11] [Info] File citing.md saved.
+[14:48:11] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:49:16] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:49:19] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[14:49:41] [Info] [R] [Main Window] Unknown command received: update-check (index.js:593)
+[20:04:40] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[20:05:04] [Info] Saving file zettelkasten.md...
+[20:05:04] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[20:05:04] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1619015704341
+[20:05:04] [Info] File zettelkasten.md saved.
+[20:05:41] [Info] Saving file zettelkasten.md...
+[20:05:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[20:05:41] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1619015741177
+[20:05:41] [Info] File zettelkasten.md saved.
+[20:05:52] [Info] Saving file zettelkasten.md...
+[20:05:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[20:05:52] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1619015752829
+[20:05:52] [Info] File zettelkasten.md saved.
+[20:05:59] [Info] Saving file zettelkasten.md...
+[20:05:59] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Documents/Zettlr Tutorial/zettelkasten.md
+[20:05:59] [Info] Updated modtime for fileDescriptor zettelkasten.md to 1619015759546
+[20:05:59] [Info] File zettelkasten.md saved.

@@ -1,0 +1,9 @@
+{
+  "__copyright__": "2010, Kovid Goyal <kovid@kovidgoyal.net>", 
+  "__docformat__": "restructuredtext en", 
+  "__license__": "GPL v3", 
+  "compile_gpm_templates": true, 
+  "highlight_virtual_library": "yellow", 
+  "max_content_server_tags_shown": 5, 
+  "server_listen_on": "0.0.0.0"
+}

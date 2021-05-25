@@ -1,0 +1,28 @@
+{
+  "disabled_plugins": {
+    "__class__": "set", 
+    "__value__": [
+      "ISBNDB"
+    ]
+  }, 
+  "enabled_plugins": {
+    "__class__": "set", 
+    "__value__": [
+      "Edelweiss", 
+      "Google Images", 
+      "OZON.ru", 
+      "Big Book Search", 
+      "Overdrive", 
+      "Android driver"
+    ]
+  }, 
+  "filetype_mapping": {}, 
+  "plugin_customization": {}, 
+  "plugins": {
+    "Author Book Count Hierarchy": "/home/rahu/.config/calibre/plugins/Author Book Count Hierarchy.zip", 
+    "Count Pages": "/home/rahu/.config/calibre/plugins/Count Pages.zip", 
+    "Fantastic Fiction Adults": "/home/rahu/.config/calibre/plugins/Fantastic Fiction Adults.zip", 
+    "Goodreads": "/home/rahu/.config/calibre/plugins/Goodreads.zip", 
+    "Goodreads Sync": "/home/rahu/.config/calibre/plugins/Goodreads Sync.zip"
+  }
+}

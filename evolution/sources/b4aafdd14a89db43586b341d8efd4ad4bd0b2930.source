@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=sunil.choudhary@gmail.com
+Enabled=true
+Parent=e5ea46415e83db75143a403ed9fe1151d25c14fb
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=sunil.choudhary@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=b25610a99be2823e4f1175a3d281c5f68d698fd3
+RepliesToOriginFolder=false
+UseSentFolder=true

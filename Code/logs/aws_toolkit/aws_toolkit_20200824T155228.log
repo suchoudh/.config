@@ -1,0 +1,8 @@
+2020-08-24 15:52:28 [INFO]: log level: info
+2020-08-24 15:52:28 [INFO]: Retrieving AWS endpoint data
+2020-08-24 15:52:28 [INFO]: OS:  Linux x64 4.15.0-109-generic
+Visual Studio Code Version:  1.47.3
+AWS Toolkit Version:  1.12.0
+
+2020-08-24 15:52:29 [INFO]: SAM CLI location: undefined
+2020-08-24 15:57:30 [INFO]: Successfully sent a telemetry batch of 8

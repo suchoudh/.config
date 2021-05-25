@@ -1,0 +1,5 @@
+2020/12/23-13:28:06.058 4bc4 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_onesignal.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/23-13:47:14.451 506c Level-0 table #5: started
+2020/12/23-13:47:14.553 506c Level-0 table #5: 5433 bytes OK
+2020/12/23-13:47:14.682 506c Delete type=0 #3
+2020/12/23-13:47:14.683 506c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

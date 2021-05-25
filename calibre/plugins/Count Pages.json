@@ -1,0 +1,24 @@
+{
+  "Options": {
+    "askForConfirmation": true, 
+    "checkAllSources": true, 
+    "downloadSources": [
+      [
+        "goodreads", 
+        true, 
+        true
+      ], 
+      [
+        "lubimyczytac.pl", 
+        true, 
+        true
+      ]
+    ], 
+    "useIcuWordcount": true, 
+    "updateIfUnchanged": false, 
+    "buttonDefault": "Estimate", 
+    "overwriteExisting": true, 
+    "showTryAllSources": true, 
+    "usePreferredOutput": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "vendor/browser-polyfill.js", "background.dist.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": "images/icon-128.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appLauncher__"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "description": "Save page",
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+S",
+            "linux": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S",
+            "windows": "Ctrl+Shift+S"
+         }
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.b368f12d79c462d57b48b1bd222b8ecd4408fa7c5882f95ebb0fecbe7bb0acee",
+   "homepage_url": "http://tagspaces.org",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCeZvYcVTaX1Hy1lJ5s9E1M4tNHYdPfsof+xNU0di+ja0NBvVmc/3ktK2cafnoGTDS8mJ/FMWaZGBiwkZLWg2EGgs+TQw+4MtaRPV7iiG0EACP8MtHnox8FODZ3TnFv2fdys3GKlyTLEWOJ4rv8Fs4ORexxhMtFjsV372uuMcrolQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "\u003Call_urls>", "pageCapture", "downloads", "activeTab", "storage" ],
+   "short_name": "TagSpaces",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.4",
+   "version_name": "3.1.4"
+}

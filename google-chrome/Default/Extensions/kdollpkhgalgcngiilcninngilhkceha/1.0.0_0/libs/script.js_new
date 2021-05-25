@@ -1,0 +1,88 @@
+
+var since = null;
+
+$(document).ready( function() {
+
+	if (localStorage['username'] == "") {
+		showLoginPage();
+		return;
+	}
+	//$("#processing16").hide();
+	$("#refreshing").hide();
+	$("#adder").hide();
+	$("#addButton").click(addToList);
+	$("#iframelist").load( function() {
+		$("#addButton").show();
+		//$("#processing16").hide();
+		$("#iframecontainer").show();
+		$("#adder").hide();
+		$("#refreshing").hide();
+	});
+});
+
+function showLoginPage() {
+	
+}
+
+function addToList() {
+	$("#addButton").hide();
+	$("#iframecontainer").hide();
+	
+	//$("#processing16").show();
+	//$("#refreshing").show();
+	
+//	chrome.windows.getCurrent(function(windows) {
+//		chrome.tabs.getSelected(null, function(tab) {
+			$("input[name='title']").val("label"/*tab.title*/);
+			$("input[name='url']").val("http://test.com"/*tab.url*/);
+			
+			$("#adder").show();
+			$("#addButton").hide();
+			$("#iframecontainer").hide();
+			
+			$("form").bind("submit", function(){
+				var src = 'https://readitlaterlist.com/edit_process.php?' +
+				'BL=1&' +
+				'url=' + 'http://test.com' + '&' +
+				'title=' + 'label';				
+			
+			//$("input[name='url']").val()
+			//$("input[name='title']").val()
+				$.ajax({
+					url: src,
+					type: "POST",
+					dataType: "html",
+					success: function(data, textStatus, xmlhttprequest){
+						//alert("success");
+					},
+					error: function(xmlhttprequest, textStatus, errorThrown){
+						//$("#processing16").hide();
+						//alert("fault");
+						//$("#refreshing").show();
+					}
+		   		});
+			});
+//		});
+//	});
+//	$("#processing16").show();
+//	$("#refreshing").show();
+	
+//	chrome.tabs.getSelected(null, addPage)
+}
+
+//function addPage(tab) {
+//	var params = 'username='+localStorage['username']+'&password='+localStorage['password']+'&apikey='+localStorage['apikey']+'&url='+tab.url+'&title='+tab.title;
+//	$.ajax({
+//		type: "GET",
+//		url: "https://readitlaterlist.com/v2/add",
+//		data: params,
+//		success: function(data, status, XMLHttpRequest) {
+//			var f = document.getElementById('iframelist');
+//			f.src = f.src;
+//		},
+//		error: function(xhr, errorStatus, errorThrown) {
+//			alert('Failed to add page');
+//		}
+//	});
+//}
+

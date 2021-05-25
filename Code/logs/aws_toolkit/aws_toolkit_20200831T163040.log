@@ -1,0 +1,10 @@
+2020-08-31 16:30:40 [INFO]: log level: info
+2020-08-31 16:30:40 [INFO]: Retrieving AWS endpoint data
+2020-08-31 16:30:40 [INFO]: OS:  Linux x64 4.15.0-112-generic
+Visual Studio Code Version:  1.48.2
+AWS Toolkit Version:  1.13.0
+
+2020-08-31 16:30:41 [INFO]: SAM CLI location: undefined
+2020-08-31 16:33:59 [INFO]: Python CodeLens Provider is activating the python extension
+2020-08-31 16:33:59 [INFO]: Python CodeLens Provider is activating the python extension
+2020-08-31 16:35:45 [INFO]: Successfully sent a telemetry batch of 4

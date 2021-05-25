@@ -1,0 +1,15 @@
+2020/12/24-20:29:41.582 6a9c Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.srnnews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-20:29:41.582 6a9c Recovering log #7
+2020/12/24-20:29:41.582 6a9c Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.srnnews.com_0.indexeddb.leveldb/000007.log 
+2020/12/24-20:30:13.728 6a9c Level-0 table #12: started
+2020/12/24-20:30:13.999 6a9c Level-0 table #12: 42904 bytes OK
+2020/12/24-20:30:14.391 6a9c Delete type=0 #7
+2020/12/24-20:30:14.391 6a9c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/24-20:30:14.391 6a9c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x04\x00c\x00o\x00d\x00e' @ 125 : 1
+2020/12/24-20:30:14.391 6a9c Compacting 1@1 + 1@2 files
+2020/12/24-20:30:14.677 6a9c Generated table #13@1: 34 keys, 11314 bytes
+2020/12/24-20:30:14.677 6a9c Compacted 1@1 + 1@2 files => 11314 bytes
+2020/12/24-20:30:15.113 6a9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/24-20:30:15.114 6a9c Delete type=2 #9
+2020/12/24-20:30:15.114 6a9c Delete type=2 #12
+2020/12/24-20:30:15.114 6a9c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x04\x00c\x00o\x00d\x00e' @ 125 : 1 .. (end); will stop at (end)

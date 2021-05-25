@@ -1,0 +1,27 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/rahu/sarthak/taskwarrior
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse 2.6.0
+> git rev-parse --symbolic-full-name 2.6.0@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right 2.6.0...refs/remotes/origin/2.6.0
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/rahu/sarthak/taskwarrior/.git/refs/remotes/origin/2.6.0', is most likely packed.
+> git config --get commit.template
+> git show --textconv :DEVELOPER.md
+> git ls-files --stage -- /home/rahu/sarthak/taskwarrior/DEVELOPER.md
+> git cat-file -s 3d9b0a553e6707f6b68a121a0c065a0bb7d6a089
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :test/basetest/__init__.py
+> git ls-files --stage -- /home/rahu/sarthak/taskwarrior/test/basetest/__init__.py
+> git cat-file -s a3934330d53b8ff4f14b5efc62676aa10a3c7a91
+> git show --textconv :test/basetest/task.py
+> git ls-files --stage -- /home/rahu/sarthak/taskwarrior/test/basetest/task.py
+> git cat-file -s 812655db8b1592148b48b3cd68d2d19518ea833b

@@ -1,0 +1,14 @@
+2020-09-01 22:18:18 [INFO]: log level: info
+2020-09-01 22:18:18 [INFO]: Retrieving AWS endpoint data
+2020-09-01 22:18:18 [INFO]: OS:  Linux x64 4.15.0-112-generic
+Visual Studio Code Version:  1.48.2
+AWS Toolkit Version:  1.13.0
+
+2020-09-01 22:18:18 [ERROR]: Error loading resource from https://idetoolkits.amazonwebservices.com/endpoints.json: [Error: getaddrinfo ENOTFOUND idetoolkits.amazonwebservices.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)] {
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'idetoolkits.amazonwebservices.com'
+}
+2020-09-01 22:18:20 [INFO]: SAM CLI location: undefined

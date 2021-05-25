@@ -1,0 +1,664 @@
+Handbrake Version: 1.1.0 (2018042400)
+[21:56:07] gtkgui: Preset: /General/Fast 1080p30
+[21:56:07] 1 job(s) to process
+[21:56:07] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "dpl2",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 544,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "War 2019 Hindi 720p AMZN WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[21:56:07] CPU: 
+[21:56:07]  - logical processor count: 2
+[21:56:07] hb_scan: path=/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[21:56:07] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.0
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[21:56:07] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv':
+  Metadata:
+    title           : War 2019 Hindi 720p AMZN WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly
+    encoder         : libebml v1.3.9 + libmatroska v1.5.2
+    creation_time   : 2019-11-28T03:58:02.000000Z
+  Duration: 02:31:51.50, start: 0.000000, bitrate: 1209 kb/s
+    Stream #0:0(hin): Video: h264 (High), yuv420p(progressive), 1280x544 [SAR 1:1 DAR 40:17], 24 fps, 24 tbr, 1k tbn, 48 tbc (default) (forced)
+    Metadata:
+      title           : LOKiHD@Telly
+      BPS-eng         : 1015905
+      DURATION-eng    : 02:31:51.459000000
+      NUMBER_OF_FRAMES-eng: 218675
+      NUMBER_OF_BYTES-eng: 1157047287
+      _STATISTICS_WRITING_APP-eng: mkvmerge v40.0.0 ('Old Town Road + Pony') 32-bit
+      _STATISTICS_WRITING_DATE_UTC-eng: 2019-11-28 03:58:02
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0:1(hin): Audio: aac (HE-AAC), 48000 Hz, 5.1, fltp (default) (forced)
+    Metadata:
+      title           : LOKiHD@Telly
+      BPS-eng         : 191789
+      DURATION-eng    : 02:31:51.467000000
+      NUMBER_OF_FRAMES-eng: 213550
+      NUMBER_OF_BYTES-eng: 218434956
+      _STATISTICS_WRITING_APP-eng: mkvmerge v40.0.0 ('Old Town Road + Pony') 32-bit
+      _STATISTICS_WRITING_DATE_UTC-eng: 2019-11-28 03:58:02
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0:2(eng): Subtitle: subrip (default) (forced)
+    Metadata:
+      title           : English [SDH]
+      BPS-eng         : 33
+      DURATION-eng    : 02:26:27.630000000
+      NUMBER_OF_FRAMES-eng: 1266
+      NUMBER_OF_BYTES-eng: 36466
+      _STATISTICS_WRITING_APP-eng: mkvmerge v40.0.0 ('Old Town Road + Pony') 32-bit
+      _STATISTICS_WRITING_DATE_UTC-eng: 2019-11-28 03:58:02
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+[21:56:07] add_ffmpeg_subtitle: unknown subtitle stream type: 0x17808
+[21:56:07] scan: decoding previews for title 1
+[21:56:07] scan: audio 0x1: aac, rate=48000Hz, bitrate=1 हिंदी (HE-AAC) (5.1 ch)
+[21:56:07] scan: 10 previews, 1280x544, 24.000 fps, autocrop = 0/0/0/0, aspect 2.35:1, PAR 1:1
+[21:56:07] libhb: scan thread found 1 valid title(s)
+[21:56:07] starting job
+[21:56:07] decomb filter thread started for segment 0
+[21:56:07] decomb filter thread started for segment 1
+[21:56:07] yadif thread started for segment 0
+[21:56:07] yadif thread started for segment 1
+[21:56:07] mask dilate thread started for segment 1
+[21:56:07] mask dilate thread started for segment 0
+[21:56:07] mask erode thread started for segment 1
+[21:56:07] mask erode thread started for segment 0
+[21:56:07] decomb check thread started for segment 0
+[21:56:07] job configuration:
+[21:56:07]  * source
+[21:56:07]    + /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv
+[21:56:07]    + title 1, chapter(s) 1 to 1
+[21:56:07]    + container: matroska,webm
+[21:56:07]    + data rate: 1209 kbps
+[21:56:07]  * destination
+[21:56:07]    + /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.m4v
+[21:56:07]    + container: MPEG-4 (libavformat)
+[21:56:07]      + align initial A/V stream timestamps
+[21:56:07]  * video track
+[21:56:07]    + decoder: h264
+[21:56:07]    + filters
+[21:56:07]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[21:56:07]      + Decomb (mode=39)
+[21:56:07]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[21:56:07]        + frame rate: 24.000 fps -> peak rate limited to 30.000 fps
+[21:56:07]      + Crop and Scale (width=1280:height=544:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[21:56:07]        + source: 1280 * 544, crop (0/0/0/0): 1280 * 544, scale: 1280 * 544
+[21:56:07]    + Output geometry
+[21:56:07]      + storage dimensions: 1280 x 544
+[21:56:07]      + pixel aspect ratio: 1 : 1
+[21:56:07]      + display dimensions: 1280 x 544
+[21:56:07]    + encoder: H.264 (libx264)
+[21:56:07]      + preset:  fast
+[21:56:07]      + profile: main
+[21:56:07]      + level:   4.0
+[21:56:07]      + quality: 22.00 (RF)
+[21:56:07]  * audio track 1
+[21:56:07]    + decoder: हिंदी (HE-AAC) (5.1 ch) (track 1, id 0x1)
+[21:56:07]      + samplerate: 48000 Hz
+[21:56:07]    + mixdown: Dolby Pro Logic II
+[21:56:07]    + encoder: AAC (libavcodec)
+[21:56:07]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[21:56:07] decomb check thread started for segment 1
+[21:56:07] mask filter thread started for segment 1
+[21:56:07] mask filter thread started for segment 0
+[21:56:07] sync: expecting 218675 video frames
+[21:56:07] encavcodecaInit: Unknown avcodec option stereo_mode
+[21:56:07] encx264: min-keyint: 24, keyint: 240
+[21:56:07] encx264: encoding at constant RF 22.000000
+[21:56:07] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[21:56:07] sync: first pts video is 0
+[21:56:07] sync: Chapter 1 at frame 1 time 0
+[21:56:07] sync: first pts audio 0x1 is 0
+
+(ghb:8088): Gtk-WARNING **: 21:56:19.333: Failed to fetch network locations: Timeout was reached
+[21:57:29] 1 job(s) to process
+[21:57:29] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "dpl2",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/tmp/hb.8088/live01",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 544,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "War 2019 Hindi 720p AMZN WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv",
+        "Range": {
+            "End": 1350000,
+            "SeekPoints": 10,
+            "Start": 2,
+            "Type": "preview"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[21:57:29] CPU: 
+[21:57:29]  - logical processor count: 2
+[21:57:29] hb_scan: path=/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[21:57:29] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.0
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[21:57:29] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv':
+[21:57:29] add_ffmpeg_subtitle: unknown subtitle stream type: 0x17808
+[21:57:29] scan: decoding previews for title 1
+[21:57:29] scan: audio 0x1: aac, rate=48000Hz, bitrate=1 हिंदी (HE-AAC) (5.1 ch)
+[21:57:30] scan: 10 previews, 1280x544, 24.000 fps, autocrop = 0/0/0/0, aspect 2.35:1, PAR 1:1
+[21:57:30] libhb: scan thread found 1 valid title(s)
+[21:57:30] starting job
+[21:57:30] mask erode thread started for segment 1
+[21:57:30] job configuration:
+[21:57:30] mask erode thread started for segment 0
+[21:57:30]  * source
+[21:57:30]    + /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv
+[21:57:30]    + title 1, start 00:00:0.00 stop 00:00:15.00
+[21:57:30]    + container: matroska,webm
+[21:57:30]    + data rate: 1209 kbps
+[21:57:30]  * destination
+[21:57:30]    + /tmp/hb.8088/live01
+[21:57:30]    + container: MPEG-4 (libavformat)
+[21:57:30]      + align initial A/V stream timestamps
+[21:57:30]  * video track
+[21:57:30]    + decoder: h264
+[21:57:30]    + filters
+[21:57:30]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[21:57:30]      + Decomb (mode=39)
+[21:57:30]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[21:57:30]        + frame rate: 24.000 fps -> peak rate limited to 30.000 fps
+[21:57:30]      + Crop and Scale (width=1280:height=544:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[21:57:30]        + source: 1280 * 544, crop (0/0/0/0): 1280 * 544, scale: 1280 * 544
+[21:57:30]    + Output geometry
+[21:57:30]      + storage dimensions: 1280 x 544
+[21:57:30]      + pixel aspect ratio: 1 : 1
+[21:57:30]      + display dimensions: 1280 x 544
+[21:57:30]    + encoder: H.264 (libx264)
+[21:57:30]      + preset:  fast
+[21:57:30]      + profile: main
+[21:57:30]      + level:   4.0
+[21:57:30]      + quality: 22.00 (RF)
+[21:57:30]  * audio track 1
+[21:57:30]    + decoder: हिंदी (HE-AAC) (5.1 ch) (track 1, id 0x1)
+[21:57:30]      + samplerate: 48000 Hz
+[21:57:30]    + mixdown: Dolby Pro Logic II
+[21:57:30]    + encoder: AAC (libavcodec)
+[21:57:30]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[21:57:30] yadif thread started for segment 0
+[21:57:30] yadif thread started for segment 1
+[21:57:30] mask filter thread started for segment 1
+[21:57:30] mask dilate thread started for segment 1
+[21:57:30] mask filter thread started for segment 0
+[21:57:30] mask dilate thread started for segment 0
+[21:57:30] decomb check thread started for segment 1
+[21:57:30] decomb check thread started for segment 0
+[21:57:30] decomb filter thread started for segment 1
+[21:57:30] decomb filter thread started for segment 0
+[21:57:30] sync: expecting 384 video frames
+[21:57:30] encavcodecaInit: Unknown avcodec option stereo_mode
+[21:57:30] encx264: min-keyint: 24, keyint: 240
+[21:57:30] encx264: encoding at constant RF 22.000000
+[21:57:30] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[21:57:30] sync: first pts video is 0
+[21:57:30] sync: Chapter 1 at frame 1 time 0
+[21:57:30] sync: first pts audio 0x1 is 0
+[21:57:37] 1 job(s) to process
+[21:57:37] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "dpl2",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/tmp/hb.8088/live01",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 544,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "War 2019 Hindi 720p AMZN WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv",
+        "Range": {
+            "End": 1350000,
+            "SeekPoints": 10,
+            "Start": 2,
+            "Type": "preview"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[21:57:37] starting job
+[21:57:37] job configuration:
+[21:57:37]  * source
+[21:57:37]    + /home/rahu/Videos/WAR (RITIK TIGER)(2019)(720)  00 W.mkv
+[21:57:37]    + title 1, start 00:00:0.00 stop 00:00:15.00
+[21:57:37]    + container: matroska,webm
+[21:57:37]    + data rate: 1209 kbps
+[21:57:37]  * destination
+[21:57:37]    + /tmp/hb.8088/live01
+[21:57:37]    + container: MPEG-4 (libavformat)
+[21:57:37]      + align initial A/V stream timestamps
+[21:57:37]  * video track
+[21:57:37]    + decoder: h264
+[21:57:37]    + filters
+[21:57:37]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[21:57:37]      + Decomb (mode=39)
+[21:57:37]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[21:57:37]        + frame rate: 24.000 fps -> peak rate limited to 30.000 fps
+[21:57:37]      + Crop and Scale (width=1280:height=544:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[21:57:37]        + source: 1280 * 544, crop (0/0/0/0): 1280 * 544, scale: 1280 * 544
+[21:57:37]    + Output geometry
+[21:57:37]      + storage dimensions: 1280 x 544
+[21:57:37]      + pixel aspect ratio: 1 : 1
+[21:57:37]      + display dimensions: 1280 x 544
+[21:57:37]    + encoder: H.264 (libx264)
+[21:57:37]      + preset:  fast
+[21:57:37]      + profile: main
+[21:57:37]      + level:   4.0
+[21:57:37]      + quality: 22.00 (RF)
+[21:57:37]  * audio track 1
+[21:57:37]    + decoder: हिंदी (HE-AAC) (5.1 ch) (track 1, id 0x1)
+[21:57:37]      + samplerate: 48000 Hz
+[21:57:37]    + mixdown: Dolby Pro Logic II
+[21:57:37]    + encoder: AAC (libavcodec)
+[21:57:37]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[21:57:37] yadif thread started for segment 0
+[21:57:37] yadif thread started for segment 1
+[21:57:37] decomb check thread started for segment 1
+[21:57:37] mask filter thread started for segment 0
+[21:57:37] mask filter thread started for segment 1
+[21:57:37] mask erode thread started for segment 0
+[21:57:37] decomb filter thread started for segment 0
+[21:57:37] mask dilate thread started for segment 1
+[21:57:37] mask dilate thread started for segment 0
+[21:57:37] mask erode thread started for segment 1
+[21:57:37] decomb check thread started for segment 0
+[21:57:37] decomb filter thread started for segment 1
+[21:57:37] sync: expecting 384 video frames
+[21:57:37] encavcodecaInit: Unknown avcodec option stereo_mode
+[21:57:37] encx264: min-keyint: 24, keyint: 240
+[21:57:37] encx264: encoding at constant RF 22.000000
+[21:57:37] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[21:57:38] sync: first pts video is 0
+[21:57:38] sync: Chapter 1 at frame 1 time 0
+[21:57:38] sync: first pts audio 0x1 is 0
+[21:58:13] sync: reached video pts 1350000, exiting early
+[21:58:13] sync: reached audio 0x1 pts 1350180, exiting early
+[21:58:17] work: average encoding speed for job is 20.343466 fps
+[21:58:17] comb detect: heavy 477 | light 42 | uncombed 2096 | total 2615
+[21:58:17] decomb: deinterlaced 477 | blended 42 | unfiltered 2087 | total 2606
+[21:58:17] vfr: 2597 frames output, 0 dropped and 0 duped for CFR/PFR
+[21:58:17] vfr: lost time: 0 (0 frames)
+[21:58:17] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[21:58:17] aac-decoder done: 2634 frames, 0 decoder errors
+[21:58:17] h264-decoder done: 2671 frames, 0 decoder errors
+[21:58:17] sync: got 2632 frames, 218675 expected
+[21:58:17] sync: framerate min 24.000 fps, max 24.000 fps, avg 24.000 fps
+x264 [info]: frame I:30    Avg QP:15.31  size: 40356
+x264 [info]: frame P:904   Avg QP:18.80  size: 11004
+x264 [info]: frame B:1616  Avg QP:20.48  size:  3692
+x264 [info]: consecutive B-frames:  8.0% 15.8% 19.9% 56.3%
+x264 [info]: mb I  I16..4: 54.4%  0.0% 45.6%
+x264 [info]: mb P  I16..4: 16.9%  0.0%  7.0%  P16..4: 28.3%  7.8%  3.2%  0.0%  0.0%    skip:36.8%
+x264 [info]: mb B  I16..4:  4.1%  0.0%  1.4%  B16..8: 22.3%  4.4%  0.3%  direct: 5.7%  skip:61.9%  L0:46.1% L1:47.6% BI: 6.4%
+x264 [info]: coded y,uvDC,uvAC intra: 29.0% 48.8% 10.4% inter: 6.3% 14.8% 0.7%
+x264 [info]: i16 v,h,dc,p: 48% 23% 10% 18%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 34% 18%  4%  5%  4%  6%  4%  4%
+x264 [info]: i8c dc,h,v,p: 55% 19% 20%  6%
+x264 [info]: Weighted P-Frames: Y:6.0% UV:5.2%
+x264 [info]: ref P L0: 74.4% 25.6%
+x264 [info]: ref B L0: 84.3% 15.7%
+x264 [info]: ref B L1: 97.1%  2.9%
+x264 [info]: kb/s:1289.36
+[21:58:18] mux: track 0, 2549 frames, 17101309 bytes, 1247.99 kbps, fifo 2048
+[21:58:18] mux: track 1, 5139 frames, 2227707 bytes, 162.57 kbps, fifo 4096
+[21:58:18] libhb: work result = 1

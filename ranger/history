@@ -1,24 +1,3 @@
-rename LennonG
-bulkrename
-search 500
-search 500_
-touch 
-rename _ASAP
-rename _Computer
-rename _Delegated
-rename _NextAction
-rename _Someday
-rename kermit_Xray.png
-rename qs.png
-cw 
-rename screenshot.png
-rename screenshot_delay.png
-
-search adv
-nauti
-rename 2200Parachuteut
-rename 1101ArtNews
-rename 1102GovernanceNews
 rename 1103ITNews
 rename 1104Alkapuri
 rename 1105SangamNagar
@@ -37,7 +16,6 @@ search
 mkdir Kagaz
 rename 27reyburn-4-jumboa.jpg
 mkdir myinspiration
-delete
 rename 4Bhw.jpg
 search prashant
 search Prashant
@@ -48,3 +26,25 @@ cw
 rename 
 search Wall
 open_with 
+
+bw
+rename
+rename giving.jpg
+rename reach
+rename reach.jpg
+rename ph1
+rename ph2
+rename ph3
+rename ph4
+rename ph1.jpg
+rename ph2.jpg
+rename ph3.jpg
+rename ph4.jpg
+rename ownyourFace.jpg
+rename buddha
+rename .jpg
+rename shriyantra_women.jpg
+delete
+re
+h
+open_with c

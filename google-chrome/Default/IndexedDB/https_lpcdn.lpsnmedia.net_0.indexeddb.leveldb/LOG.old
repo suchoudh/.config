@@ -1,0 +1,15 @@
+2020/12/18-23:22:08.914 412d Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-23:22:08.915 412d Recovering log #4
+2020/12/18-23:22:08.915 412d Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000004.log 
+2020/12/18-23:22:33.251 78fb Level-0 table #8: started
+2020/12/18-23:22:33.284 78fb Level-0 table #8: 1529 bytes OK
+2020/12/18-23:22:33.381 78fb Delete type=0 #4
+2020/12/18-23:22:33.381 78fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/18-23:22:33.381 78fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 148 : 1
+2020/12/18-23:22:33.381 78fb Compacting 1@1 + 1@2 files
+2020/12/18-23:22:33.453 78fb Generated table #9@1: 28 keys, 907 bytes
+2020/12/18-23:22:33.453 78fb Compacted 1@1 + 1@2 files => 907 bytes
+2020/12/18-23:22:33.523 78fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/18-23:22:33.523 78fb Delete type=2 #8
+2020/12/18-23:22:33.523 78fb Delete type=2 #5
+2020/12/18-23:22:33.523 78fb Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 148 : 1 .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2020/12/15-02:46:29.542 7937 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-02:46:29.543 7937 Recovering log #3
+2020/12/15-02:46:29.608 7937 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000003.log 
+2020/12/15-02:46:46.382 2193 Level-0 table #5: started
+2020/12/15-02:46:47.641 2193 Level-0 table #5: 393 bytes OK
+2020/12/15-02:46:48.095 2193 Delete type=0 #3
+2020/12/15-02:46:48.155 2193 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+Error logs for this session are permanently stored in /home/rahu/.config/Code/logs/aws_toolkit/aws_toolkit_20210318T180649.log
+2021-03-18 18:06:54 [INFO]: log level: info
+2021-03-18 18:06:54 [INFO]: Retrieving AWS endpoint data
+2021-03-18 18:06:54 [INFO]: OS:  Linux x64 4.15.0-124-generic
+Visual Studio Code Version:  1.52.0
+AWS Toolkit Version:  1.17.0
+
+2021-03-18 18:07:46 [INFO]: Python CodeLens Provider is activating the python extension
+2021-03-18 18:07:48 [INFO]: Python CodeLens Provider is activating the python extension
+2021-03-18 18:07:48 [INFO]: Python CodeLens Provider is activating the python extension
+2021-03-18 18:12:00 [INFO]: Successfully sent a telemetry batch of 10

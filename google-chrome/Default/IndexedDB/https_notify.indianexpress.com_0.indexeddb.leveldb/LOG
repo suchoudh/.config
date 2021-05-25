@@ -1,0 +1,5 @@
+2021/01/02-12:20:53.671 35a3 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_notify.indianexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/02-12:23:15.543 201d Level-0 table #5: started
+2021/01/02-12:23:16.193 201d Level-0 table #5: 1377 bytes OK
+2021/01/02-12:23:16.843 201d Delete type=0 #3
+2021/01/02-12:23:16.843 201d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

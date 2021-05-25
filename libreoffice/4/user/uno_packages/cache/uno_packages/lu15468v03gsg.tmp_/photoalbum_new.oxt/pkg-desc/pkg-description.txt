@@ -1,0 +1,5 @@
+<Add-on title> 
+Copyright (c) 2007 Jan Navratil
+
+<add a short description here>
+

@@ -1,0 +1,7 @@
+2020/05/09-08:03:36.050 16dc Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thecut.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/09-08:03:36.051 16dc Recovering log #3
+2020/05/09-08:03:37.115 16dc Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thecut.com_0.indexeddb.leveldb/000003.log 
+2020/05/09-09:02:57.842 1a8d Level-0 table #5: started
+2020/05/09-09:02:58.879 1a8d Level-0 table #5: 349352 bytes OK
+2020/05/09-09:02:59.173 1a8d Delete type=0 #3
+2020/05/09-09:02:59.201 1a8d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,157 @@
+[DownloadDialog Settings]
+Height 768=486
+Width 1366=700
+
+[FileDialogSize]
+Height 768=470
+Width 1366=740
+
+[KFileDialog Settings]
+Recent Files[$e]=2020-04-22-001208.webm,file:$HOME/0del/_working/FirstYoutube/Teacher.mp4,file:$HOME/0del/_working/FirstYoutube/DhruvaTry/_3.m4a,file:$HOME/0del/_working/FirstYoutube/YouTubefirst.m4a,file:$HOME/0del/_working/FirstYoutube/test.mp3,file:$HOME/0del/_working/FirstYoutube/2020-04-22-001208.webm
+Recent URLs[$e]=file:$HOME/Downloads/,baloosearch:/?json=%7B%22dayFilter%22: 0\\, %22monthFilter%22: 0\\, %22yearFilter%22: 0\\, %22type%22: [ %22Image%22]%7D,file:$HOME/0del/_working/FirstYoutube/,file:$HOME/Dropbox/,file:$HOME/0del/_working/FirstYoutube/DhruvaTry/
+
+[MainWindow]
+Height 768=768
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAVWAAABavwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAYAEAAAP7AAAADgBsAGkAYgByAGEAcgB5AQAAAAAAAAEFAAAAZAEAAAP7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAZwEAAAP7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAABBgAAAQUAAABmAQAAA/wAAAIMAAABAgAAAN0A////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAA3QEAAAP7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwEAAAAA/////wAAAFQBAAAD/AAAAw8AAAECAAAA1AD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAABgAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAANQBAAAD/AAABBIAAAFEAAABRAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFEAQAAA/sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABRAEAAAP7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAGABAAAD+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABKgEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACiAQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACfAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABRgEAAAMAAAVWAAABNAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACMv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1366=1366
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/0del/_working/FirstYoutube/,$HOME/0del/_working/FirstYoutube/DhruvaTry/,$HOME/Downloads/
+KdenliveProjectsFolder[$e]=$HOME/0del/_working/FirstYoutube/Teacher,$HOME/0del/_working/FirstYoutube/DhruvaTry,$HOME/0del/_working/FirstYoutube
+KdenliveSlideShowFolder[$e]=$HOME/0del/_working/FirstYoutube/,$HOME/Downloads/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Documents/first.kdenlive
+File2[$e]=$HOME/Documents/test.kdenlive
+File3[$e]=$HOME/0del/_working/FirstYoutube/MyFirstAUdioMergeVId.kdenlive
+File4[$e]=$HOME/0del/_working/FirstYoutube/DhruvaTry/FureElise.kdenlive
+File5[$e]=$HOME/0del/_working/FirstYoutube/Teacher/Teacher.kdenlive
+Name1[$e]=first.kdenlive
+Name2[$e]=test.kdenlive
+Name3[$e]=MyFirstAUdioMergeVId.kdenlive
+Name4[$e]=FureElise.kdenlive
+Name5[$e]=Teacher.kdenlive
+
+[ResourceWidget]
+mainsplitter=506,343
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[TitleWidget]
+background_alpha=0
+background_color=0,0,0
+dialog_geometry=AdnQywACAAAAAAGLAAAAkwAABK4AAAK0AAABjQAAAJUAAASsAAACsgAAAAAAAAAABVY=
+font_color=254,255,240
+font_family=Arial Black,-1,79,5,50,0,0,0,0,0
+font_italic=false
+font_outline=27
+font_outline_color=0,0,0
+font_pixel_size=79
+font_underlined=false
+font_weight=50
+rect_background_alpha=136
+rect_background_color=175,175,175,136
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=true
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA/AAAARgAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAABGAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAEY=
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_device_found=false
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+detectedv4ldevices=1
+dvgrab_path=/usr/bin/dvgrab
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+video4vdevice=/dev/video1
+
+[env]
+defaultaudioapp=/usr/bin/audacity
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Documents
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles/
+rendererpath[$e]=/usr/bin/melt
+
+[misc]
+use_magicLantern=true
+
+[project]
+proxyextension=mkv
+proxyparams=-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le
+
+[sdl]
+audiobackend=sdl2_audio
+blackmagic_output_device=-1
+sdlAudioBackend=sdl2_audio
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[timeline]
+showmarkers=true
+timelineheaderwidth=AAAA/wAAAAEAAAACAAAAlgAABIkB/////wEAAAABAA==
+trackheight=71
+
+[titles]
+selected_template=simple.kdenlivetitle
+
+[unmanaged]
+current_profile=atsc_1080p_25
+default_profile=atsc_1080p_25
+defaultrescaleheight=180
+favorite_effects=fadein,fadeout
+force_breeze=true
+monitor_audio=false
+producerslist=pgm,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,blipflash,count,xml,xml-string,xml-nogl,slowmotion,framebuffer,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,avformat,avformat-novalidate,ladspa.1416,ladspa.1885,ladspa.1881,qimage,qtext,kdenlivetitle,pango,pixbuf
+project_display_ratio=1.7777777777777777
+properties_panel_page=1
+selected_effecttab=5
+showeffectinfo=true
+showslideshowthumbs=true
+widgetstyle=Default
+
+[version]
+version=17.12.3

@@ -1,0 +1,5 @@
+2020/12/12-17:35:43.894 3fcc Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_327ef452bfe06373e070ec2bc8a15427.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/12-17:35:48.389 311e Level-0 table #5: started
+2020/12/12-17:35:49.266 311e Level-0 table #5: 439 bytes OK
+2020/12/12-17:35:49.411 311e Delete type=0 #3
+2020/12/12-17:35:49.411 311e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

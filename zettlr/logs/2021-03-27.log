@@ -1,0 +1,99 @@
+[13:54:10] [Info] こんにちは！　Booting Zettlr at Sat Mar 27 2021 13:54:09 GMT+0530 (India Standard Time).
+[13:54:10] [Info] Electron reports ready state. Instantiating main process...
+[13:54:14] [Info] Loaded all roots in 2.038 seconds
+[14:01:53] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/Untitled Folder
+[14:01:57] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/Untitled Folder
+[14:01:57] [Info] Could not process event unlinkDir for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/Untitled Folder: The corresponding node does not exist anymore!
+[14:01:57] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/2021_03_17_09_19_53.md
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210315_204446.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210315_204450.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210315_223732.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210315_223736.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210321_191957.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210321_192126.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210325_233330.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210325_233345.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210326_123724.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210326_130915.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210326_131242.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210326_131315.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_204446.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_204450.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223732.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223736.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210321_191957.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210321_192126.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210325_233330.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210325_233345.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_123724.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_130915.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131242.png
+[14:02:04] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131315.png
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_204446.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_204450.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223732.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223736.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210321_191957.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210321_192126.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210325_233330.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210325_233345.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_123724.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_130915.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131242.png: The corresponding node does not exist anymore!
+[14:02:05] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131315.png: The corresponding node does not exist anymore!
+[14:02:08] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210315_223742.png
+[14:02:08] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/_old/screenshot_20210326_131019.png
+[14:02:08] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223742.png
+[14:02:08] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210315_223742.png: The corresponding node does not exist anymore!
+[14:02:08] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131019.png
+[14:02:08] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210326_131019.png: The corresponding node does not exist anymore!
+[14:02:22] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/anilDharkar.jpeg
+[14:02:22] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/anilDharkar.jpeg
+[14:02:22] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/anilDharkar.jpeg: The corresponding node does not exist anymore!
+[14:02:28] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021-03-15_.png
+[14:02:28] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021-03-15_.png: The corresponding node does not exist anymore!
+[14:02:35] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/durgaBengali.jpeg
+[14:02:35] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/unnamed.jpg
+[14:02:35] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/durgaBengali.jpeg
+[14:02:35] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/durgaBengali.jpeg: The corresponding node does not exist anymore!
+[14:02:35] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/unnamed.jpg
+[14:02:35] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/unnamed.jpg: The corresponding node does not exist anymore!
+[14:02:39] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/Untitled Folder
+[14:02:42] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/Untitled Folder
+[14:02:42] [Info] Could not process event unlinkDir for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/Untitled Folder: The corresponding node does not exist anymore!
+[14:02:42] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_old
+[14:03:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_old/11_20210318-10_18_42.md
+[14:03:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_old/2021_01_07_16_12_09.md
+[14:03:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_old/2021_03_17_15_46_33.md
+[14:03:11] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/11_20210318-10_18_42.md
+[14:03:11] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021_01_07_16_12_09.md
+[14:03:11] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021_03_17_15_46_33.md
+[14:03:11] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/11_20210318-10_18_42.md: The corresponding node does not exist anymore!
+[14:03:11] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021_01_07_16_12_09.md: The corresponding node does not exist anymore!
+[14:03:11] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021_03_17_15_46_33.md: The corresponding node does not exist anymore!
+[21:42:46] [Info] こんにちは！ Booting Zettlr at Sat Mar 27 2021 21:42:46 GMT+0530 (India Standard Time).
+[21:42:46] [Info] Performing environment check ...
+[21:42:46] [Info] Environment check complete.
+[21:42:46] [Info] Registering custom protocol safe-file
+[21:42:46] [Info] Migrating from 1.7.1 to 1.8.1!
+[21:42:46] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[21:42:47] [Info] Clearing the FSAL cache ...
+[21:42:47] [Info] Added DevTools extension:  Vue.js devtools
+[21:42:47] [Info] Cache cleared!
+[21:42:48] [Info] Loaded all roots in 0.831 seconds
+[21:43:33] [Info] さようなら！ Shutting down at Sat Mar 27 2021 21:43:33 GMT+0530 (India Standard Time)
+[21:43:56] [Info] こんにちは！　Booting Zettlr at Sat Mar 27 2021 21:43:55 GMT+0530 (India Standard Time).
+[21:43:56] [Info] Electron reports ready state. Instantiating main process...
+[21:43:58] [Error] Could not open new root file readme_Routine.md!
+[21:43:58] [Info] Loaded all roots in 1.046 seconds
+[23:04:42] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:04:50] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:05:49] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:05:59] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:06:05] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:06:28] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:07:11] [Info] [WATCHDOG] Ignore event: change:readme_Routine.md
+[23:33:03] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/800px-GTDcanonical.png

@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "Çoklu etiketler virgül (,) ile ayrılmalıdır. Etiketler en az iki (2) karaktere sahip olmalı ve özel karakter içermemelidir. (Örnek : boşluk, #, / or \\)"
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Etiket ekle"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Web (Ağ) içeriklerini boş dosyaya topla ve organize et."
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "TagSpaces'i Başlat"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Web İçeriğini Yakala"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web (Ağ) Kırpıcı"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Organize the collected content with the TagSpaces desktop app. It is freely available on "
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Dosyayı indir"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Dosyayı orijinal formatta indir"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Dosya başlığını düzenle"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Tüm sayfayı kaydet"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Tüm sayfayı resimler ile MHTML formatında kaydet, orijinal dizaynı korur"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Kırp"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Ayraç oluştur"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Save a bookmark of the current page as URL file, compartible with Windows® and Mac OS®"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Kaydedilen eylemi seç."
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Değiştirilebilir sayfayı kaydet"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Save complete page including images as one HTML file, the original design will not be preserved"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Ekran görüntüsü al"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Görünen sayfa alanının PNG olarak ekran görüntüsü al. Ekran görüntüsünü tam netlemek için tarayıcı ekranını yeniden ölçeklendir. "
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Seçilmiş eklentiyi resimler ile birlikte HTML formatında kaydet"
+   }
+}

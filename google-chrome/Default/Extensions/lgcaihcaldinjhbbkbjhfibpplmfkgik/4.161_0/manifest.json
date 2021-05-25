@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/icon48.png",
+      "default_popup": "popup.html",
+      "default_title": "India Rail Info"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/abcd.330.js", "js/csload.js" ],
+      "matches": [ "http://*.indiarailinfo.com/*", "https://*.indiarailinfo.com/*", "http://*.indianrail.gov.in/*", "http://*.trainenquiry.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "This app works with the website indiarailinfo.com, to optimize browsing experience.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEwc9kAf8RJC3R4LsiVAgu36iDgCs3Dptks/kIamijEJEjrRuKeD02DDVMBxL7836+Pdn4jxnVD0iwwNfKsYc70kI2FFLk7BD6ts3YffMyEyl/WtXEjJJrnRerl3BJbQngAab2IRURDY2t8yshZ6kYxyxqMljh/cc4CnD+mtvM3wIDAQAB",
+   "manifest_version": 2,
+   "name": "India Rail Info",
+   "offline_enabled": true,
+   "optional_permissions": [ "tabs", "\u003Call_urls>" ],
+   "permissions": [ "webRequest", "webRequestBlocking", "tabs", "contextMenus", "notifications", "background", "unlimitedStorage", "geolocation", "http://*.indiarailinfo.com/*", "http://*.indianrail.gov.in/*", "http://*.appspot.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.161",
+   "web_accessible_resources": [ "images/logo.ico", "images/logo16.png", "images/ajax-loader.gif", "popup.html", "background.html", "blank.html", "blank2.html", "js/csload.js", "js/abcd.330.js", "css/abcd-def.330.js" ]
+}

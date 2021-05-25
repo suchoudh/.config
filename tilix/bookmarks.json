@@ -1,0 +1,11 @@
+{
+    "list": [
+        {
+            "command": "cd $NOW",
+            "name": "NOW",
+            "type": "COMMAND"
+        }
+    ],
+    "name": "Root",
+    "type": "FOLDER"
+}

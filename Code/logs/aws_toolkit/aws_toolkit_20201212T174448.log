@@ -1,0 +1,45 @@
+2020-12-12 17:46:11 [INFO]: log level: info
+2020-12-12 17:46:11 [INFO]: Retrieving AWS endpoint data
+2020-12-12 17:46:11 [INFO]: OS:  Linux x64 4.15.0-124-generic
+Visual Studio Code Version:  1.52.0
+AWS Toolkit Version:  1.16.0
+
+2020-12-12 17:46:25 [ERROR]: Error getting AccountId: [InvalidClientTokenId: The security token included in the request is invalid.
+	at constructor.extractError (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1276572)
+	at constructor.callListeners (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1297223)
+	at constructor.emit (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1296933)
+	at constructor.emitEvent (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2226296)
+	at constructor.e (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2221803)
+	at r.runTo (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2228138)
+	at /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2228344
+	at constructor.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2222073)
+	at constructor.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2226352)
+	at constructor.callListeners (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1297329)
+	at constructor.emit (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1296933)
+	at constructor.emitEvent (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2226296)
+	at constructor.e (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2221803)
+	at r.runTo (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2228138)
+	at /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2228344
+	at constructor.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2222073)
+	at constructor.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2226352)
+	at constructor.callListeners (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1297329)
+	at s (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:1297109)
+	at IncomingMessage.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:2210279)
+	at IncomingMessage.emit (events.js:228:7)
+	at IncomingMessage.EventEmitter.emit (domain.js:475:20)
+	at endReadableNT (_stream_readable.js:1185:12)
+	at processTicksAndRejections (internal/process/task_queues.js:81:21)] {
+  message: 'The security token included in the request is invalid.',
+  code: 'InvalidClientTokenId',
+  time: 2020-12-12T12:16:25.811Z,
+  requestId: 'e55b0cdd-80bb-457f-b0cf-55e2e38dad64',
+  statusCode: 403,
+  retryable: false,
+  retryDelay: 95.91043506559353
+}
+2020-12-12 17:46:25 [ERROR]: Error trying to connect to AWS with Credentials Provider profile:admin. Toolkit will now disconnect from AWS. [Error: Could not determine Account Id for credentials
+	at t.LoginManager.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:7376034)
+	at Generator.next (<anonymous>)
+	at o (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.16.0/dist/extension.js:2:7375006)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+2020-12-12 17:51:14 [INFO]: Successfully sent a telemetry batch of 5

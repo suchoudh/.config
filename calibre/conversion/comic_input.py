@@ -1,0 +1,17 @@
+{
+	'disable_trim' : False,
+	'wide' : False,
+	'dont_add_comic_pages_to_toc' : False,
+	'comic_image_size' : None,
+	'keep_aspect_ratio' : False,
+	'output_format' : u'png',
+	'dont_normalize' : False,
+	'dont_sharpen' : False,
+	'dont_grayscale' : False,
+	'right2left' : False,
+	'colors' : 256,
+	'no_sort' : False,
+	'no_process' : False,
+	'despeckle' : False,
+	'landscape' : False,
+}

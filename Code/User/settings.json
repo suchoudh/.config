@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "files.autoSave": "off",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.mouseWheelZoom": true,
+    "vscode-stocks.stockSymbols": [
+    "msft",
+    "aapl",
+    "infy"
+],
+"code-runner.clearPreviousOutput": true,
+"code-runner.runInTerminal": true,
+"code-runner.saveFileBeforeRun": true,
+"window.zoomLevel": 0,
+"editor.minimap.enabled": true
+}

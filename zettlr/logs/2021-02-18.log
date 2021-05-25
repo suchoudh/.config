@@ -1,0 +1,142 @@
+[09:17:57] [Info] こんにちは！ Booting Zettlr at Thu Feb 18 2021 09:17:57 GMT+0530 (India Standard Time).
+[09:17:57] [Info] Performing environment check ...
+[09:17:57] [Info] Environment check complete.
+[09:17:57] [Info] Registering custom protocol safe-file
+[09:17:57] [Info] Migrating from 1.7.1 to 1.8.1!
+[09:17:57] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[09:17:58] [Info] Clearing the FSAL cache ...
+[09:17:58] [Info] Cache cleared!
+[09:17:58] [Info] Added DevTools extension:  Vue.js devtools
+[09:18:03] [Info] Loaded all roots in 5.108 seconds
+[09:32:38] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR
+[09:32:52] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR/Anoop
+[09:33:05] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR/Vaibhav
+[09:33:16] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR/Utkarsh
+[09:33:40] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR/Sankalp
+[09:33:57] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/HR/Sunil
+[09:34:42] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin
+[09:34:58] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin/admin.md
+[09:35:18] [Info] Saving file admin.md...
+[09:35:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin/admin.md
+[09:35:18] [Info] Updated modtime for fileDescriptor admin.md to 1613621118928
+[09:35:18] [Info] File admin.md saved.
+[09:35:39] [Info] Saving file admin.md...
+[09:35:39] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin/admin.md
+[09:35:39] [Info] Updated modtime for fileDescriptor admin.md to 1613621139132
+[09:35:39] [Info] File admin.md saved.
+[09:36:09] [Info] Saving file admin.md...
+[09:36:09] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin/admin.md
+[09:36:09] [Info] Updated modtime for fileDescriptor admin.md to 1613621169164
+[09:36:09] [Info] File admin.md saved.
+[09:36:47] [Info] Saving file admin.md...
+[09:36:47] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/Admin/admin.md
+[09:36:47] [Info] Updated modtime for fileDescriptor admin.md to 1613621207144
+[09:36:47] [Info] File admin.md saved.
+[09:39:48] [Info] Saving file readMeBoT.md...
+[09:39:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:39:48] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621388416
+[09:39:48] [Info] File readMeBoT.md saved.
+[09:39:59] [Info] Saving file readMeBoT.md...
+[09:39:59] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:39:59] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621399440
+[09:39:59] [Info] File readMeBoT.md saved.
+[09:40:20] [Info] Saving file readMeBoT.md...
+[09:40:20] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:40:20] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621420272
+[09:40:20] [Info] File readMeBoT.md saved.
+[09:40:36] [Info] Saving file readMeBoT.md...
+[09:40:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:40:36] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621436828
+[09:40:36] [Info] File readMeBoT.md saved.
+[09:40:46] [Info] Saving file readMeBoT.md...
+[09:40:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:40:46] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621446615
+[09:40:46] [Info] File readMeBoT.md saved.
+[09:41:13] [Info] Saving file readMeBoT.md...
+[09:41:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:41:13] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621473376
+[09:41:13] [Info] File readMeBoT.md saved.
+[09:42:18] [Info] Saving file readMeBoT.md...
+[09:42:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:42:18] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621538821
+[09:42:18] [Info] File readMeBoT.md saved.
+[09:42:48] [Info] Saving file readMeBoT.md...
+[09:42:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:42:48] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621568163
+[09:42:48] [Info] File readMeBoT.md saved.
+[09:43:01] [Info] Saving file readMeBoT.md...
+[09:43:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:43:01] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621581577
+[09:43:01] [Info] File readMeBoT.md saved.
+[09:44:42] [Info] Saving file readMeBoT.md...
+[09:44:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:44:42] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621682605
+[09:44:42] [Info] File readMeBoT.md saved.
+[09:46:18] [Info] Saving file readMeBoT.md...
+[09:46:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:46:18] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621778722
+[09:46:18] [Info] File readMeBoT.md saved.
+[09:48:51] [Info] Saving file readMeBoT.md...
+[09:48:51] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:48:51] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621931737
+[09:48:51] [Info] File readMeBoT.md saved.
+[09:49:21] [Info] Saving file readMeBoT.md...
+[09:49:21] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:49:21] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613621961543
+[09:49:21] [Info] File readMeBoT.md saved.
+[09:50:08] [Info] Saving file readMeBoT.md...
+[09:50:08] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:50:08] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622008413
+[09:50:08] [Info] File readMeBoT.md saved.
+[09:50:45] [Info] Saving file readMeBoT.md...
+[09:50:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:50:45] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622045919
+[09:50:45] [Info] File readMeBoT.md saved.
+[09:51:02] [Info] Saving file readMeBoT.md...
+[09:51:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:51:02] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622062514
+[09:51:02] [Info] File readMeBoT.md saved.
+[09:51:14] [Info] Saving file readMeBoT.md...
+[09:51:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:51:14] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622074566
+[09:51:14] [Info] File readMeBoT.md saved.
+[09:51:51] [Info] Saving file readMeBoT.md...
+[09:51:51] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:51:51] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622111888
+[09:51:51] [Info] File readMeBoT.md saved.
+[09:52:23] [Info] Saving file readMeBoT.md...
+[09:52:23] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:52:23] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622143035
+[09:52:23] [Info] File readMeBoT.md saved.
+[09:52:46] [Info] Saving file readMeBoT.md...
+[09:52:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:52:46] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622166590
+[09:52:46] [Info] File readMeBoT.md saved.
+[09:52:52] [Info] Saving file readMeBoT.md...
+[09:52:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:52:52] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622172262
+[09:52:52] [Info] File readMeBoT.md saved.
+[09:54:54] [Info] Saving file readMeBoT.md...
+[09:54:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:54:54] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622294793
+[09:54:54] [Info] File readMeBoT.md saved.
+[09:55:02] [Info] Saving file readMeBoT.md...
+[09:55:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:55:02] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622302585
+[09:55:02] [Info] File readMeBoT.md saved.
+[09:55:42] [Info] Saving file readMeBoT.md...
+[09:55:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:55:42] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622342671
+[09:55:42] [Info] File readMeBoT.md saved.
+[09:56:01] [Info] Saving file readMeBoT.md...
+[09:56:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:56:01] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622361251
+[09:56:01] [Info] File readMeBoT.md saved.
+[09:56:55] [Info] Saving file readMeBoT.md...
+[09:56:55] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[09:56:55] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613622415237
+[09:56:55] [Info] File readMeBoT.md saved.
+[12:42:36] [Info] Saving file readMeBoT.md...
+[12:42:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/BlueOceanTech/readMeBoT.md
+[12:42:36] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1613632356301
+[12:42:36] [Info] File readMeBoT.md saved.

@@ -1,0 +1,45 @@
+[23:01:09] gtkgui: HandBrake 1.1.0 (2018042400) - Linux x86_64 - https://handbrake.fr
+[23:01:09] hb_init: starting libhb thread
+[23:01:09] hb_init: starting libhb thread
+[23:01:09] hb_init: starting libhb thread
+[23:01:11] CPU: 
+[23:01:11]  - logical processor count: 2
+[23:01:11] hb_scan: path=/home/rahu/Videos/jan2021/tutubackup/Scam 1992 The Harshad Mehta Story S01 Hindi 720p/Scam 1992 The Harshad Mehta Story S01E04 Hindi 720p WEBRip x264 AAC - LOKiHD - Telly.mkv, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/rahu/Videos/jan2021/tutubackup/Scam 1992 The Harshad Mehta Story S01 Hindi 720p/Scam 1992 The Harshad Mehta Story S01E04 Hindi 720p WEBRip x264 AAC - LOKiHD - Telly.mkv
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[23:01:11] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.0
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[23:01:12] dvd: not a dvd - trying as a stream/file instead
+Input #0, matroska,webm, from '/home/rahu/Videos/jan2021/tutubackup/Scam 1992 The Harshad Mehta Story S01 Hindi 720p/Scam 1992 The Harshad Mehta Story S01E04 Hindi 720p WEBRip x264 AAC - LOKiHD - Telly.mkv':
+  Metadata:
+    encoder         : libebml v1.3.10 + libmatroska v1.5.2
+    creation_time   : 2020-10-09T08:05:16.000000Z
+  Duration: 00:55:16.72, start: 0.000000, bitrate: 1294 kb/s
+    Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x640 [SAR 1:1 DAR 2:1], 25 fps, 25 tbr, 1k tbn, 50 tbc (default)
+    Metadata:
+      BPS-eng         : 1100664
+      DURATION-eng    : 00:55:16.720000000
+      NUMBER_OF_FRAMES-eng: 82918
+      NUMBER_OF_BYTES-eng: 456324347
+      _STATISTICS_WRITING_APP-eng: mkvmerge v42.0.0 ('Overtime') 64-bit
+      _STATISTICS_WRITING_DATE_UTC-eng: 2020-10-09 08:05:16
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+    Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+    Metadata:
+      BPS-eng         : 191999
+      DURATION-eng    : 00:55:16.715000000
+      NUMBER_OF_FRAMES-eng: 155471
+      NUMBER_OF_BYTES-eng: 79601152
+      _STATISTICS_WRITING_APP-eng: mkvmerge v42.0.0 ('Overtime') 64-bit
+      _STATISTICS_WRITING_DATE_UTC-eng: 2020-10-09 08:05:16
+      _STATISTICS_TAGS-eng: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+[23:01:12] scan: decoding previews for title 1
+[23:01:12] scan: audio 0x1: aac, rate=48000Hz, bitrate=1 English (LC) (2.0 ch)
+[23:01:13] scan: 10 previews, 1280x640, 25.000 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1
+[23:01:13] libhb: scan thread found 1 valid title(s)

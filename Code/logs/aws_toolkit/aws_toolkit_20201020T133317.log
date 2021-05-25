@@ -1,0 +1,9 @@
+2020-10-20 13:33:24 [INFO]: log level: info
+2020-10-20 13:33:24 [INFO]: Retrieving AWS endpoint data
+2020-10-20 13:33:24 [INFO]: OS:  Linux x64 4.15.0-112-generic
+Visual Studio Code Version:  1.48.2
+AWS Toolkit Version:  1.15.0
+
+2020-10-20 13:33:24 [WARN]: Item in telemetry cache: [object Object]
+ has invalid data in the field 'data': [object Object]! skipping!
+2020-10-20 13:38:26 [INFO]: Successfully sent a telemetry batch of 4

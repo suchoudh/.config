@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_manage_authors_search</key>
+	<array>
+		<string>""</string>
+		<string>Dell</string>
+		<string>ots</string>
+		<string>26-03-201826-03-2018</string>
+		<string>26-03-2018</string>
+		<string>At</string>
+	</array>
+	<key>lineedit_history_store_search_search</key>
+	<array>
+		<string>Tech</string>
+	</array>
+	<key>lineedit_history_store_search_search_title</key>
+	<array>
+		<string>dracula</string>
+	</array>
+	<key>lineedit_history_tag_browser_search</key>
+	<array>
+		<string>bansal</string>
+		<string>recentlyAdded</string>
+		<string>JSTOR</string>
+		<string>PT</string>
+		<string>+after</string>
+		<string>data</string>
+		<string>kanad</string>
+		<string>recently</string>
+		<string>GoI</string>
+		<string>laxman</string>
+	</array>
+	<key>lineedit_history_tag_list_search_box_Publisher</key>
+	<array/>
+	<key>lineedit_history_tag_list_search_box_Read</key>
+	<array/>
+	<key>lineedit_history_tag_list_search_box_Series</key>
+	<array/>
+	<key>lineedit_history_tag_list_search_box_Tags</key>
+	<array>
+		<string>rece</string>
+	</array>
+	<key>lineedit_history_xpath_edit_opt_level1_toc</key>
+	<array/>
+</dict>
+</plist>

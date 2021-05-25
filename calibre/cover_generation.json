@@ -1,0 +1,18 @@
+{
+  "footer_font_size": 80, 
+  "color_themes": {}, 
+  "title_font_family": null, 
+  "footer_font_family": null, 
+  "cover_height": 1600, 
+  "subtitle_font_size": 80, 
+  "last_used_colors": "Water", 
+  "last_used_style": "Banner", 
+  "title_template": "<b>{title}", 
+  "cover_width": 1200, 
+  "disabled_color_themes": [], 
+  "title_font_size": 120, 
+  "subtitle_font_family": null, 
+  "subtitle_template": "{series:'test($, strcat(\"<i>\", $, \"</i> - \", raw_field(\"formatted_series_index\")), \"\")'}", 
+  "disabled_styles": [], 
+  "footer_template": "program:\n# Show at most two authors, on separate lines.\nauthors = field('authors');\nnum = count(authors, ' &amp; ');\nauthors = sublist(authors, 0, 2, ' &amp; ');\nauthors = list_re(authors, ' &amp; ', '(.+)', '<b>\\1');\nauthors = re(authors, ' &amp; ', '<br>');\nre(authors, '&amp;&amp;', '&amp;')\n"
+}

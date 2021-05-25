@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="libs/jquery.js"></script>
+		<script type="text/javascript" src="libs/script_options.js"></script>
+	</head>
+	<body>
+		<h1 align="center">Reading List - Options</h1>
+			<div id="login_form">
+			  <form name="login" action="" align="center">
+				<fieldset width="300">
+				  <label for="username" id="username_label">Username: </label>
+				  <input type="text" name="username" id="username" size="30" value="" class="text-input" />
+				  <label class="error" for="username" id="username_error">This field is required.</label>
+				  <br/>
+				  <label for="password" id="password_label">Password: </label>
+				  <input type="password" name="password" id="password" size="30" value="" class="text-input" />
+				  <label class="error" for="password" id="password_error">This field is required.</label>
+				  <br />
+				  <input type="submit" name="submit" class="button" id="save_btn" value="Save" />
+				  <input type="submit" name="register" class="button" id="register_btn" value="Register" />
+				</fieldset>
+			  </form>
+			</div>
+			<table align="center">
+				<tbody>
+					<tr><td><img id='processing' src='icons/processing.gif'/></td></tr>
+					<tr>
+						<td width="20%">
+							<div id="status_image">
+							</div>
+						</td>
+						<td width="80%">
+							<div id="notification">
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+	  </body>
+</html>

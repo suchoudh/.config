@@ -1,0 +1,250 @@
+Handbrake Version: 1.1.0 (2018042400)
+[12:38:19] gtkgui: Modified Preset: /Web/Vimeo YouTube HQ 2160p60 4K
+[12:38:19] 1 job(s) to process
+[12:38:19] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 256,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "mono",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 48000,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": false,
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/rahu/Videos/fish11.mp4",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/450000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 426,
+                    "width": 640
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "fish"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/rahu/Downloads/fish.mov",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "5.2",
+        "Options": "keyint=30:min-keyint=15:ref=1:bframes=2:b-pyramid=none",
+        "Preset": "medium",
+        "Profile": "high",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[12:38:19] CPU: 
+[12:38:19]  - logical processor count: 2
+[12:38:19] hb_scan: path=/home/rahu/Downloads/fish.mov, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /home/rahu/Downloads/fish.mov
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[12:38:19] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.0
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[12:38:20] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/rahu/Downloads/fish.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2020-11-10T05:57:31.000000Z
+  Duration: 00:00:05.61, start: 0.000000, bitrate: 849 kb/s
+    Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt709/bt709), 640x426 [SAR 1:1 DAR 320:213], 781 kb/s, 8.39 fps, 25.17 tbr, 600 tbn, 1200 tbc (default)
+    Metadata:
+      creation_time   : 2020-11-10T05:57:32.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 63 kb/s (default)
+    Metadata:
+      creation_time   : 2020-11-10T05:57:33.000000Z
+      handler_name    : Core Media Data Handler
+[12:38:20] scan: decoding previews for title 1
+[12:38:20] scan: audio 0x1: aac, rate=44100Hz, bitrate=63380 Unknown (LC) (1.0 ch)
+[12:38:21] scan: 10 previews, 640x426, 8.385 fps, autocrop = 0/0/0/0, aspect 1.50:1, PAR 1:1
+[12:38:21] libhb: scan thread found 1 valid title(s)
+[12:38:21] starting job
+[12:38:21] job configuration:
+[12:38:21]  * source
+[12:38:21]    + /home/rahu/Downloads/fish.mov
+[12:38:21]    + title 1, chapter(s) 1 to 1
+[12:38:21]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[12:38:21]    + data rate: 849 kbps
+[12:38:21]  * destination
+[12:38:21]    + /home/rahu/Videos/fish11.mp4
+[12:38:21]    + container: MPEG-4 (libavformat)
+[12:38:21]  * video track
+[12:38:21]    + decoder: h264
+[12:38:21]      + bitrate 781 kbps
+[12:38:21]    + filters
+[12:38:21]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[12:38:21]      + Decomb (mode=39)
+[12:38:21]      + Framerate Shaper (mode=2:rate=27000000/450000)
+[12:38:21]        + frame rate: 8.385 fps -> peak rate limited to 60.000 fps
+[12:38:21]      + Crop and Scale (width=640:height=426:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[12:38:21]        + source: 640 * 426, crop (0/0/0/0): 640 * 426, scale: 640 * 426
+[12:38:21]    + Output geometry
+[12:38:21]      + storage dimensions: 640 x 426
+[12:38:21]      + pixel aspect ratio: 1 : 1
+[12:38:21]      + display dimensions: 640 x 426
+[12:38:21]    + encoder: H.264 (libx264)
+[12:38:21]      + preset:  medium
+[12:38:21]      + options: keyint=30:min-keyint=15:ref=1:bframes=2:b-pyramid=none
+[12:38:21]      + profile: high
+[12:38:21]      + level:   5.2
+[12:38:21]      + quality: 22.00 (RF)
+[12:38:21]  * audio track 1
+[12:38:21]    + decoder: Unknown (LC) (1.0 ch) (track 1, id 0x1)
+[12:38:21]      + bitrate: 63 kbps, samplerate: 44100 Hz
+[12:38:21]    + mixdown: Mono
+[12:38:21]    + encoder: AAC (libavcodec)
+[12:38:21]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[12:38:21] yadif thread started for segment 0
+[12:38:21] yadif thread started for segment 1
+[12:38:21] mask dilate thread started for segment 1
+[12:38:21] mask dilate thread started for segment 0
+[12:38:21] mask erode thread started for segment 1
+[12:38:21] mask erode thread started for segment 0
+[12:38:21] decomb filter thread started for segment 1
+[12:38:21] mask filter thread started for segment 1
+[12:38:21] decomb check thread started for segment 0
+[12:38:21] decomb check thread started for segment 1
+[12:38:21] mask filter thread started for segment 0
+[12:38:21] decomb filter thread started for segment 0
+[12:38:21] sync: expecting 47 video frames
+[12:38:21] encavcodecaInit: Unknown avcodec option stereo_mode
+[12:38:21] encx264: min-keyint: 15, keyint: 30
+[12:38:21] encx264: encoding at constant RF 22.000000
+[12:38:21] encx264: unparsed options: keyint=30:keyint-min=15:ref=1:bframes=2:b-pyramid=none:level=5.2:vbv-bufsize=300000:vbv-maxrate=300000
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile High, level 5.2
+[12:38:21] sync: first pts audio 0x1 is 8500
+[12:38:21] sync: first pts video is 0
+[12:38:21] sync: Chapter 1 at frame 1 time 0
+[12:38:21] reader: done. 1 scr changes
+[12:38:22] work: average encoding speed for job is 0.000000 fps
+[12:38:23] comb detect: heavy 0 | light 0 | uncombed 47 | total 47
+[12:38:23] decomb: deinterlaced 0 | blended 0 | unfiltered 47 | total 47
+[12:38:23] vfr: 47 frames output, 0 dropped and 0 duped for CFR/PFR
+[12:38:23] vfr: lost time: 0 (0 frames)
+[12:38:23] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[12:38:23] aac-decoder done: 235 frames, 0 decoder errors
+[12:38:23] h264-decoder done: 47 frames, 0 decoder errors
+[12:38:23] sync: got 47 frames, 47 expected
+[12:38:23] sync: framerate min 8.386 fps, max 8.386 fps, avg 8.385 fps
+x264 [info]: frame I:2     Avg QP:20.28  size: 32386
+x264 [info]: frame P:21    Avg QP:22.13  size: 19466
+x264 [info]: frame B:24    Avg QP:23.28  size: 12069
+x264 [info]: consecutive B-frames: 12.8% 42.6% 44.7%
+x264 [info]: mb I  I16..4:  2.9% 81.3% 15.8%
+x264 [info]: mb P  I16..4:  3.4% 53.6%  8.3%  P16..4: 19.5% 11.0%  3.8%  0.0%  0.0%    skip: 0.4%
+x264 [info]: mb B  I16..4:  0.9% 18.3%  5.2%  B16..8: 27.9% 15.7%  3.7%  direct:10.8%  skip:17.4%  L0:41.0% L1:49.0% BI:10.0%
+x264 [info]: 8x8 transform intra:80.1% inter:88.2%
+x264 [info]: coded y,uvDC,uvAC intra: 85.3% 99.3% 89.3% inter: 47.8% 62.2% 24.0%
+x264 [info]: i16 v,h,dc,p: 13% 19% 14% 54%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 16% 13%  5% 10% 12%  9%  8%  8%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 15%  9%  6% 12% 12%  9%  7%  6%
+x264 [info]: i8c dc,h,v,p: 37% 19% 23% 20%
+x264 [info]: Weighted P-Frames: Y:9.5% UV:4.8%
+x264 [info]: kb/s:1089.36
+[12:38:23] mux: track 0, 47 frames, 763145 bytes, 1066.54 kbps, fifo 64
+[12:38:23] mux: track 1, 256 frames, 86219 bytes, 120.50 kbps, fifo 512
+[12:38:23] libhb: work result = 0

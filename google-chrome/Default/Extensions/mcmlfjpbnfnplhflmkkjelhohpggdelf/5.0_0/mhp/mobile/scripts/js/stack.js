@@ -1,0 +1,1 @@
+(function(){var a=function(){var b=[];return{push:function(c){b.push(c);return this},pop:function(){return b.pop()},peek:function(){return b[b.length-1]},empty:function(){while(b.length>0){b.pop()}},size:function(){return b.length},inspect:function(){if(b.length<1){return}var c=b.length;var e="";for(var d=0;d<c;d++){e+=b[d];e+="|"}return e}}}();this.Stack=a})();

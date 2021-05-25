@@ -1,0 +1,8 @@
+2021/01/02-11:49:51.174 3417 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/02-11:49:51.174 3417 Recovering log #15
+2021/01/02-11:49:51.175 3417 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/000015.log 
+2021/01/02-11:52:19.050 32c2 Level-0 table #19: started
+2021/01/02-11:52:19.050 32c2 Level-0 table #19: 0 bytes OK
+2021/01/02-11:52:19.780 32c2 Delete type=0 #15
+2021/01/02-11:52:19.780 32c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/02-11:52:19.780 32c2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "Несколько тегов должны быть разделены запятой. Метки должны иметь минимальную длину 2 символа и не должны содержать специальных символов, таких как пробелы, #, / или \\."
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Добавить теги"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Собирайте и организуйте веб-контент в виде простых файлов."
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "Запустить TagSpaces"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Получить содержимое страницы"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Организуйте собранный контент с настольным приложением TagSpaces. Это свободно доступно на"
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Скачать файл"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Скачать файл в оригинальном формате"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Изменить заголовок файла"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Сохранить полную страницу"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Сохраните полную страницу, включая изображения, как один файл MHTML, сохранив оригинальный дизайн"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Выбор клипа"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Создать закладку"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Сохранить закладку текущей страницы в виде файла URL, совместимого с Windows® и Mac OS®"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Выберите действие сохранения"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Сохранить редактируемую страницу"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Сохраните полную страницу, включая изображения, как один файл HTML, оригинальный дизайн не будет сохранен"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Сделать скриншот"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Сделайте скриншот видимой области страницы в виде файла PNG. Измените размер окна браузера, чтобы выделить точную область для скриншота."
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Сохранить выбранный контент, включая изображения, в виде одного файла HTML"
+   }
+}

@@ -1,0 +1,12 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/0del/0pranay/Photos/20190625_172712.jpg
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 768x1366=true

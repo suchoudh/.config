@@ -1,0 +1,25 @@
+2020/12/22-22:46:31.168 3b0b Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.csoonline.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/22-22:46:31.169 3b0b Recovering log #4
+2020/12/22-22:46:31.169 3b0b Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.csoonline.com_0.indexeddb.leveldb/000004.log 
+2020/12/22-22:46:45.097 5034 Level-0 table #8: started
+2020/12/22-22:46:45.323 5034 Level-0 table #8: 4268512 bytes OK
+2020/12/22-22:46:45.498 5034 Delete type=0 #4
+2020/12/22-23:34:02.908 4feb Level-0 table #10: started
+2020/12/22-23:34:06.890 4feb Level-0 table #10: 2258552 bytes OK
+2020/12/22-23:34:07.216 4feb Delete type=0 #7
+2020/12/22-23:34:07.417 4feb Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 1143 : 1
+2020/12/22-23:34:07.417 4feb Compacting 1@0 + 1@1 files
+2020/12/22-23:34:08.646 4feb Generated table #11@0: 243 keys, 2564 bytes
+2020/12/22-23:34:08.646 4feb Compacted 1@0 + 1@1 files => 2564 bytes
+2020/12/22-23:34:09.121 4feb compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/22-23:34:09.121 4feb Delete type=2 #10
+2020/12/22-23:34:09.121 4feb Delete type=2 #8
+2020/12/22-23:34:09.123 4feb Manual compaction at level-0 from '\x00\x01\x01\x03\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 1143 : 1 .. (end); will stop at (end)
+2020/12/22-23:34:09.123 4feb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 1221 : 1
+2020/12/22-23:34:09.123 4feb Compacting 1@1 + 1@2 files
+2020/12/22-23:34:09.821 4feb Generated table #12@1: 47 keys, 1143 bytes
+2020/12/22-23:34:09.822 4feb Compacted 1@1 + 1@2 files => 1143 bytes
+2020/12/22-23:34:10.071 4feb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/22-23:34:10.072 4feb Delete type=2 #11
+2020/12/22-23:34:10.072 4feb Delete type=2 #5
+2020/12/22-23:34:10.073 4feb Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 1221 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/12/19-00:54:33.604 3d64 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_arstechnica.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/19-01:36:27.605 5bbd Level-0 table #5: started
+2020/12/19-01:36:27.648 5bbd Level-0 table #5: 1051 bytes OK
+2020/12/19-01:36:27.710 5bbd Delete type=0 #3
+2020/12/19-01:36:27.710 5bbd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

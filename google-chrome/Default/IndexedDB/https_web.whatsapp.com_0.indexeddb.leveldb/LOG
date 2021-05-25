@@ -1,0 +1,15 @@
+2021/03/18-15:00:00.726 5cda Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/18-15:00:00.726 5cda Recovering log #19
+2021/03/18-15:00:00.726 5cda Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
+2021/03/18-15:01:30.184 6256 Level-0 table #24: started
+2021/03/18-15:01:30.399 6256 Level-0 table #24: 409844 bytes OK
+2021/03/18-15:01:30.582 6256 Delete type=0 #19
+2021/03/18-15:01:30.583 6256 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/18-15:01:30.583 6256 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00p\xd2\xc7J\x84wB\x00\x01,\x008\x00y\x00v\x00T\x00T\x00N\x00X\x00A\x00u\x00F\x00t\x00C\x00l\x00h\x005\x00L\x00Q\x00v\x00K\x00J\x00i\x00X\x000\x00R\x001\x00n\x00n\x00+\x00m\x00p\x00J\x00R\x00J\x00L\x00l\x00g\x00s\x00F\x00e\x00C\x006\x00V\x00I\x00=' @ 124155 : 1
+2021/03/18-15:01:30.583 6256 Compacting 1@1 + 1@2 files
+2021/03/18-15:01:30.681 6256 Generated table #25@1: 1588 keys, 132748 bytes
+2021/03/18-15:01:30.681 6256 Compacted 1@1 + 1@2 files => 132748 bytes
+2021/03/18-15:01:30.850 6256 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/18-15:01:30.851 6256 Delete type=2 #24
+2021/03/18-15:01:30.851 6256 Delete type=2 #21
+2021/03/18-15:01:30.904 6256 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00p\xd2\xc7J\x84wB\x00\x01,\x008\x00y\x00v\x00T\x00T\x00N\x00X\x00A\x00u\x00F\x00t\x00C\x00l\x00h\x005\x00L\x00Q\x00v\x00K\x00J\x00i\x00X\x000\x00R\x001\x00n\x00n\x00+\x00m\x00p\x00J\x00R\x00J\x00L\x00l\x00g\x00s\x00F\x00e\x00C\x006\x00V\x00I\x00=' @ 124155 : 1 .. (end); will stop at (end)

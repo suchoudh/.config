@@ -1,0 +1,1 @@
+{VMware, Inc./llvmpipe (LLVM 9.0, 128 bits)/3.3 (Core Profile) Mesa 19.2.8}=SUPPORTED

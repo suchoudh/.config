@@ -1,0 +1,14 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/rahu/sarthak/taskwarrior
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse 2.6.0
+> git rev-parse --symbolic-full-name 2.6.0@{u}
+> git rev-list --left-right 2.6.0...refs/remotes/origin/2.6.0
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/rahu/sarthak/taskwarrior/.git/refs/remotes/origin/2.6.0', is most likely packed.
+> git config --get commit.template

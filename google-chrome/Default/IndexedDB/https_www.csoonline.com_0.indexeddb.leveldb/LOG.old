@@ -1,0 +1,5 @@
+2020/12/22-22:44:36.988 363e Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.csoonline.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/22-22:46:30.432 3b0b Level-0 table #5: started
+2020/12/22-22:46:30.616 3b0b Level-0 table #5: 1351306 bytes OK
+2020/12/22-22:46:30.821 3b0b Delete type=0 #3
+2020/12/22-22:46:30.823 3b11 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

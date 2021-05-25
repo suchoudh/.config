@@ -1,0 +1,5 @@
+2020/12/23-13:19:52.148 5a68 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/23-13:21:05.563 5bb9 Level-0 table #5: started
+2020/12/23-13:21:05.602 5bb9 Level-0 table #5: 1245 bytes OK
+2020/12/23-13:21:05.653 5bb9 Delete type=0 #3
+2020/12/23-13:21:05.653 5bb9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

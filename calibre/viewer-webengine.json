@@ -1,0 +1,61 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAK1AAAALAAABTwAAALmAAACtwAAAC4AAAU6AAAC5AAAAAAAAAAABVYAAAK3AAAALgAABToAAALk"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADpAAACt/wCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACtwAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAABDQAAArf8AgAAAAP7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAArcAAADNAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAD/////AAAAYwD///8AAAKEAAACtwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAAAAAABAAAAHgBhAGMAdABpAG8AbgBzAF8AdABvAG8AbABiAGEAcgIAAAAA/////wAAAAAAAAAA"
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "controls_help_shown_count": 2, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Appropriation Acs"
+        ], 
+        "key": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub", 
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub", 
+        "timestamp": "2020-08-03T12:00:47.643Z", 
+        "title": "Appropriation Acs 15-16 Eng"
+      }, 
+      {
+        "key": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub", 
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub", 
+        "timestamp": "2020-07-22T12:24:29.982Z", 
+        "title": "OracleAIM2016"
+      }, 
+      {
+        "key": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub", 
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub", 
+        "timestamp": "2020-07-22T12:21:07.047Z", 
+        "title": "ServerLessArchitecture"
+      }, 
+      {
+        "authors": [
+          "Jakub Narobski"
+        ], 
+        "key": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub", 
+        "pathtoebook": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub", 
+        "timestamp": "2020-07-09T11:19:40.132Z", 
+        "title": "Mastering Git"
+      }, 
+      {
+        "authors": [
+          "Eric Pidoux"
+        ], 
+        "key": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub", 
+        "pathtoebook": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub", 
+        "timestamp": "2020-07-09T10:59:41.827Z", 
+        "title": "Git Best Practices Guide"
+      }
+    ]
+  }
+}

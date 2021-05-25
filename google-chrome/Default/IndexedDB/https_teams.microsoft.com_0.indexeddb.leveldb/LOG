@@ -1,0 +1,15 @@
+2021/01/30-14:13:40.952 2405 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/30-14:13:40.952 2405 Recovering log #4
+2021/01/30-14:13:40.952 2405 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000004.log 
+2021/01/30-14:29:21.848 4690 Level-0 table #8: started
+2021/01/30-14:29:21.881 4690 Level-0 table #8: 1021 bytes OK
+2021/01/30-14:29:21.933 4690 Delete type=0 #4
+2021/01/30-14:29:21.934 4690 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/30-14:29:21.934 4690 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 61 : 1
+2021/01/30-14:29:21.934 4690 Compacting 1@1 + 1@2 files
+2021/01/30-14:29:21.967 4690 Generated table #9@1: 20 keys, 1163 bytes
+2021/01/30-14:29:21.967 4690 Compacted 1@1 + 1@2 files => 1163 bytes
+2021/01/30-14:29:22.017 4690 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/30-14:29:22.018 4690 Delete type=2 #8
+2021/01/30-14:29:22.018 4690 Delete type=2 #5
+2021/01/30-14:29:22.018 4690 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 61 : 1 .. (end); will stop at (end)

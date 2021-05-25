@@ -1,0 +1,27 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/rahu"
+"Desktop[path]/home/rahu/Desktop"
+"Collections[path]/home/rahu/.local/share/geeqie/collections"
+
+[path_list]
+"/home/rahu/Dropbox"
+"/home/rahu/Pictures/screenshots"
+"/home/rahu/Dropbox/2200Parachute/2201ArtofSunil"
+"/home/rahu/Dropbox/2250_Gagne2020"
+"/home/rahu/Dropbox/3500_Globtek"
+"/home/rahu/Pictures/366Drucker"
+"/home/rahu/Downloads"
+"/home/rahu/1working1/printLater/Bargue"
+"/home/rahu/Pictures"
+"/tmp"
+
+[bookmarks]
+".[path]/home/rahu/Pictures/screenshots"
+"Home[path]/home/rahu"
+"Desktop[path]/home/rahu/Desktop"
+"Collections[path]/home/rahu/.local/share/geeqie/collections"
+
+#end

@@ -1,0 +1,280 @@
+[08:39:34] [Info] こんにちは！ Booting Zettlr at Wed Mar 17 2021 08:39:33 GMT+0530 (India Standard Time).
+[08:39:34] [Info] Performing environment check ...
+[08:39:34] [Info] Environment check complete.
+[08:39:34] [Info] Registering custom protocol safe-file
+[08:39:34] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[08:39:34] [Info] Added DevTools extension:  Vue.js devtools
+[08:39:35] [Info] Loaded all roots in 0.306 seconds
+[08:39:37] [Warning] [Translation Provider] Could not update translations: ENOTFOUND | Details: {"name":"RequestError","code":"ENOTFOUND","timings":{"start":1615950577857,"socket":1615950577857,"lookup":1615950577897,"error":1615950577898,"phases":{"wait":0,"dns":40,"total":41}}}
+[09:00:14] [Info] Saving file 2021_02_19_20_45_38.md...
+[09:00:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[09:00:14] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1615951814704
+[09:00:14] [Info] File 2021_02_19_20_45_38.md saved.
+[09:19:56] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:20:11] [Info] Saving file 2021_03_17_09_19_53.md...
+[09:20:11] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:20:11] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615953011502
+[09:20:11] [Info] File 2021_03_17_09_19_53.md saved.
+[09:20:27] [Info] Saving file 2021_03_17_09_19_53.md...
+[09:20:27] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:20:27] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615953027210
+[09:20:27] [Info] File 2021_03_17_09_19_53.md saved.
+[09:20:44] [Info] Saving file 2021_03_17_09_19_53.md...
+[09:20:44] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:20:44] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615953044750
+[09:20:44] [Info] File 2021_03_17_09_19_53.md saved.
+[09:21:35] [Info] Saving file 2021_03_17_09_19_53.md...
+[09:21:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:21:35] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615953095971
+[09:21:35] [Info] File 2021_03_17_09_19_53.md saved.
+[09:30:15] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[09:30:15] [Info] The file 2021_03_17_09_19_53.md has not changed, but a change event was fired by chokidar.
+[13:18:13] [Info] Saving file 2021_03_17_09_19_53.md...
+[13:18:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[13:18:14] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615967294112
+[13:18:14] [Info] File 2021_03_17_09_19_53.md saved.
+[13:18:25] [Info] Saving file 2021_03_17_09_19_53.md...
+[13:18:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/2021_03_17_09_19_53.md
+[13:18:25] [Info] Updated modtime for fileDescriptor 2021_03_17_09_19_53.md to 1615967305843
+[13:18:25] [Info] File 2021_03_17_09_19_53.md saved.
+[13:18:39] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/2021_03_17_13_18_37.md
+[13:18:54] [Info] Saving file 2021_03_17_13_18_37.md...
+[13:18:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/2021_03_17_13_18_37.md
+[13:18:54] [Info] Updated modtime for fileDescriptor 2021_03_17_13_18_37.md to 1615967334627
+[13:18:54] [Info] File 2021_03_17_13_18_37.md saved.
+[13:24:17] [Info] Saving file 2021_03_17_13_18_37.md...
+[13:24:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/2021_03_17_13_18_37.md
+[13:24:17] [Info] Updated modtime for fileDescriptor 2021_03_17_13_18_37.md to 1615967657914
+[13:24:17] [Info] File 2021_03_17_13_18_37.md saved.
+[13:50:10] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:50:45] [Info] Saving file 2021_03_17_13_50_10.md...
+[13:50:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:50:45] [Info] Updated modtime for fileDescriptor 2021_03_17_13_50_10.md to 1615969245181
+[13:50:45] [Info] File 2021_03_17_13_50_10.md saved.
+[13:55:59] [Info] Saving file 2021_03_17_13_50_10.md...
+[13:55:59] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:55:59] [Info] Updated modtime for fileDescriptor 2021_03_17_13_50_10.md to 1615969559765
+[13:55:59] [Info] File 2021_03_17_13_50_10.md saved.
+[13:56:06] [Info] Saving file 2021_03_17_13_50_10.md...
+[13:56:06] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:56:06] [Info] Updated modtime for fileDescriptor 2021_03_17_13_50_10.md to 1615969566329
+[13:56:06] [Info] File 2021_03_17_13_50_10.md saved.
+[13:56:34] [Info] Saving file 2021_03_17_13_50_10.md...
+[13:56:34] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:56:34] [Info] Updated modtime for fileDescriptor 2021_03_17_13_50_10.md to 1615969594414
+[13:56:34] [Info] File 2021_03_17_13_50_10.md saved.
+[13:56:55] [Info] Saving file 2021_03_17_13_50_10.md...
+[13:56:55] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/harnaam/2021_03_17_13_50_10.md
+[13:56:55] [Info] Updated modtime for fileDescriptor 2021_03_17_13_50_10.md to 1615969615551
+[13:56:55] [Info] File 2021_03_17_13_50_10.md saved.
+[13:57:06] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/Preeti
+[13:57:22] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/Tarun DMI
+[13:57:34] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/SankalpLovee
+[13:57:51] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/AshishKOlarkar
+[15:46:23] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Dropbox/myCloud/1500usePeopleAroundMe/2100_GTD_Phone/Ch_People/Dhruva
+[15:46:34] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2021_03_17_15_46_33.md
+[15:49:47] [Info] Saving file 2020_12_24_20_34_49.md...
+[15:49:47] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2020_12_24_20_34_49.md
+[15:49:47] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1615976387213
+[15:49:47] [Info] File 2020_12_24_20_34_49.md saved.
+[15:50:05] [Info] Saving file 2020_12_24_20_34_49.md...
+[15:50:05] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2020_12_24_20_34_49.md
+[15:50:05] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1615976405013
+[15:50:05] [Info] File 2020_12_24_20_34_49.md saved.
+[15:51:00] [Info] Saving file 2020_12_24_20_34_49.md...
+[15:51:00] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2020_12_24_20_34_49.md
+[15:51:00] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1615976460303
+[15:51:00] [Info] File 2020_12_24_20_34_49.md saved.
+[15:51:32] [Info] Saving file 2020_12_24_20_34_49.md...
+[15:51:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2020_12_24_20_34_49.md
+[15:51:32] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1615976492175
+[15:51:32] [Info] File 2020_12_24_20_34_49.md saved.
+[16:03:54] [Info] Saving file readme.md...
+[16:03:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/006ReimburseMent/readme.md
+[16:03:54] [Info] Updated modtime for fileDescriptor readme.md to 1615977234879
+[16:03:54] [Info] File readme.md saved.
+[16:12:32] [Info] Saving file SunilREsumeText.md...
+[16:12:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/0Core/SunilREsumeText.md
+[16:12:32] [Info] Updated modtime for fileDescriptor SunilREsumeText.md to 1615977752700
+[16:12:32] [Info] File SunilREsumeText.md saved.
+[16:13:11] [Info] Updated modtime for fileDescriptor Mckinsey.md to 1465302732000
+[16:13:11] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2200ParachteArchive/jhjhjh.md
+[16:13:11] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2200ParachteArchive/Mckinsey.md
+[16:21:52] [Info] Saving file readme.md...
+[16:21:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:21:52] [Info] Updated modtime for fileDescriptor readme.md to 1615978312108
+[16:21:52] [Info] File readme.md saved.
+[16:22:14] [Info] Saving file readme.md...
+[16:22:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:22:14] [Info] Updated modtime for fileDescriptor readme.md to 1615978334485
+[16:22:14] [Info] File readme.md saved.
+[16:22:22] [Info] Saving file readme.md...
+[16:22:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:22:22] [Info] Updated modtime for fileDescriptor readme.md to 1615978342889
+[16:22:22] [Info] File readme.md saved.
+[16:22:39] [Info] Saving file readme.md...
+[16:22:39] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:22:39] [Info] Updated modtime for fileDescriptor readme.md to 1615978359981
+[16:22:39] [Info] File readme.md saved.
+[16:22:53] [Info] Saving file readme.md...
+[16:22:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:22:53] [Info] Updated modtime for fileDescriptor readme.md to 1615978373197
+[16:22:53] [Info] File readme.md saved.
+[16:23:06] [Info] Saving file readme.md...
+[16:23:06] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:23:06] [Info] Updated modtime for fileDescriptor readme.md to 1615978386074
+[16:23:06] [Info] File readme.md saved.
+[16:23:25] [Info] Saving file readme.md...
+[16:23:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:23:25] [Info] Updated modtime for fileDescriptor readme.md to 1615978405054
+[16:23:25] [Info] File readme.md saved.
+[16:35:26] [Info] Saving file readme.md...
+[16:35:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:35:26] [Info] Updated modtime for fileDescriptor readme.md to 1615979126198
+[16:35:26] [Info] File readme.md saved.
+[16:37:31] [Info] Saving file readme.md...
+[16:37:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme.md
+[16:37:31] [Info] Updated modtime for fileDescriptor readme.md to 1615979251532
+[16:37:31] [Info] File readme.md saved.
+[18:05:50] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/0Core/SC2021.odt
+[18:06:34] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/0Core/SC2021Mar.odt
+[18:06:48] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten
+[18:06:53] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:07:23] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SunilChoudhary.pdf
+[18:10:13] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:10:29] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SunilChoudhary.pdf
+[18:12:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:16:56] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:22:06] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:23:36] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar.odt
+[18:23:56] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.odt
+[18:24:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.pdf
+[18:24:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.odt
+[18:26:05] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.odt
+[18:26:51] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.odt
+[18:27:20] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.pdf
+[18:27:24] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SunilChoudhary.pdf
+[18:29:26] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.odt
+[18:29:46] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Rakuten/SC2021Mar1.pdf
+[20:09:07] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/readme (Case Conflict).md
+[20:09:39] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/README.md
+[20:10:37] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/Today
+[20:10:37] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/Today/readme.md
+[20:10:37] [Error] Could not process remote change, as no fitting descriptor was found | Details: {"event":"unlink","path":"/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/Today/readme.md"}
+[20:11:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1myProgress__ASAP1.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Tomorrow.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/URLS.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/eoiPWD.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/1myProgress__ASAP1.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/eoiPWD.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/Tomorrow.md
+[20:11:06] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD/URLS.md
+[20:11:13] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1ASAP_GTD
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/1myProgress_2200Parachute1.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Hadoop_bangalore.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JS.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Kotlin.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/askingQuestionInInterview.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/monster.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Naukri.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Oreilly.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Readme.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/WorkingRemotely.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/readme_docker.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/1myProgress_2200Parachute1.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/askingQuestionInInterview.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/Hadoop_bangalore.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/JS.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/Kotlin.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/monster.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/Naukri.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/Oreilly.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/Readme.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/readme_docker.md
+[20:11:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/WorkingRemotely.md
+[20:11:48] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2020_12_15_12_25_18.md
+[20:11:48] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/_pics/2020_12_15_12_25_18.md
+[20:11:58] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/_pics
+[20:12:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/ProjectInfo.md
+[20:12:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/Staying-vs-leaving-consulting-1200x640-1024x546.jpg
+[20:12:11] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2251Gagne2021/ProjectInfo.md
+[20:12:11] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2251Gagne2021/Staying-vs-leaving-consulting-1200x640-1024x546.jpg
+[20:12:19] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2251Gagne2021
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/2251SageUniv
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/MAPIT
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/_outsideJobs
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/noBreakResume
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/1myProgress_2250_Gagne20201.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Kolarkarsir.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Lovee.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Lovee1.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/ProjectInfo.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/awsNotes.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/frmGlobtek.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/letter1.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/letter2.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/managingAPI.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/2251SageUniv
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/MAPIT
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/_outsideJobs
+[20:12:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/noBreakResume
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/2020_11_08_21_22_48.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Aartech_Solonics_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Bansal_Group_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/BlueOCeanTech_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/CiS_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Datatrack_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/HEG_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Impetus_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Infobean_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Infosys_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/NetLink_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/Procter_and_Gamble_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/TCS_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/VRDigitech.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/Nov2020/WorldPay_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/_outsideJobs/canada_fullstack.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/_outsideJobs/duoFlag.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/2250_Gagne2020/noBreakResume/1myProgress1.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/1myProgress_2250_Gagne20201.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Kolarkarsir.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Lovee.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Lovee1.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/ProjectInfo.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/awsNotes.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/frmGlobtek.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/letter1.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/letter2.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/managingAPI.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/2020_11_08_21_22_48.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Aartech_Solonics_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Bansal_Group_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/BlueOCeanTech_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/CiS_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Datatrack_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/HEG_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Impetus_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Infobean_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Infosys_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/NetLink_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/Procter_and_Gamble_Bhopal.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/TCS_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/VRDigitech.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/Nov2020/WorldPay_Indore.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/_outsideJobs/canada_fullstack.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/_outsideJobs/duoFlag.md
+[20:12:36] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb/2250_Gagne2020/noBreakResume/1myProgress1.md
+[20:12:43] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/70NextActionin_GTD/JobSearch/JOb
+[20:13:05] [Info] さようなら！ Shutting down at Wed Mar 17 2021 20:13:05 GMT+0530 (India Standard Time)
+[20:13:42] [Info] こんにちは！　Booting Zettlr at Wed Mar 17 2021 20:13:41 GMT+0530 (India Standard Time).
+[20:13:42] [Info] Electron reports ready state. Instantiating main process...
+[20:13:42] [Info] Migrating from 1.8.1 to 1.7.1!
+[20:13:43] [Info] Clearing the FSAL cache ...
+[20:13:44] [Info] Cache cleared!
+[20:13:47] [Error] global.log is not a function
+[20:13:47] [Info] Loaded all roots in 4.45 seconds
+[20:21:51] [Error] Unknown command received: dir-rename

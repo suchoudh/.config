@@ -1,0 +1,89 @@
+
+[alarm]
+alarm_h=13
+alarm_m=52
+cmd_on=TRUE
+fri_h=13
+fri_m=52
+mon_h=13
+mon_m=52
+playlist=file:///home/rahu/Dropbox/6_Music/04-DEVI_SUKTHAM-MANTRA_MANJUSHA.ogg.mp3
+reminder_on=TRUE
+sat_h=13
+sat_m=52
+sun_h=13
+sun_m=52
+thu_h=13
+thu_m=52
+tue_h=13
+tue_m=52
+wed_h=13
+wed_m=52
+
+[audacious]
+filepopup_showprogressbar=TRUE
+leading_zero=TRUE
+recurse_for_cover=TRUE
+recurse_for_cover_depth=2
+repeat=TRUE
+show_numbers_in_pl=TRUE
+shuffle=TRUE
+slow_probe=TRUE
+use_file_cover=TRUE
+
+[audgui]
+clear_song_fields=FALSE
+eq_preset_win=531,254,300,221
+equalizer_win=537,220,288,288
+filebrowser_win=513,141,700,450
+filesel_path=/home/rahu/Music
+info_win=334,251,567,400
+jump_to_track_win=268,126,600,500
+no_confirm_playlist_delete=TRUE
+playlist_export_win=346,85,673,568
+playlist_import_win=263,69,673,568
+playlist_path=file:///home/rahu/Music
+preset_browser_win=261,49,840,630
+queue_manager_win=727,468,400,250
+url_opener_win=491,291,384,162
+
+[gtkui]
+column_widths=75,275,175,48,175,175,30,102,86,75,275,275,275,39,275
+entry_count_visible=TRUE
+player_height=729
+player_width=1362
+player_x=0
+player_y=37
+playlist_columns=title artist album queued length genre album-artist custom path filename year number bitrate track comment
+show_remaining_time=TRUE
+
+[gtkui-layout]
+item0_name=Blur Scope
+item0_pos=-1,683,37,675,725
+item1_name=Spectrum Analyzer
+item1_pos=-1,45,27,671,707
+item2_name=Search Tool
+item2_pos=0,-1,-1,194,641
+item3_name=OpenGL Spectrum Analyzer
+item3_pos=0,785,20,194,16
+item4_name=Album Art
+item4_pos=-1,436,418,604,226
+item5_name=LyricWiki Plugin
+item5_pos=-1,0,18,675,725
+item6_name=Playlist Manager
+item6_pos=-1,456,18,447,725
+item_count=7
+
+[search-tool]
+path=/home/rahu/Music
+
+[skins]
+skin=/usr/share/audacious/Skins/Default
+
+[skins-layout]
+albumart=537,268,288,192
+blur_scope=537,268,288,192
+cairo-spectrum=537,268,288,192
+gl-spectrum=537,268,288,192
+lyricwiki=537,268,288,192
+search-tool=537,268,288,192

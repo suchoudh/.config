@@ -1,0 +1,5 @@
+[00:01:39] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/readmethisDay.md
+[00:01:39] [Info] [FSALFile::hasChangedOnDisk] File readmethisDay.md has modification time 1618165696014, and fs.lstat reports 1618165899049
+[00:01:39] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1618165696014
+[00:01:39] [Info] Chokidar has detected a change event for file readmethisDay.md. Attempting to re-parse ...
+[00:02:02] [Info] Cleaned up FSAL cache: Removed 1 remnants.

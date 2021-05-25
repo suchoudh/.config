@@ -1,0 +1,4 @@
+frameworks:
+  ide:
+    visual-studio-code:
+      path: /home/rahu/.local/share/umake/ide/visual-studio-code

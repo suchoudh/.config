@@ -1,0 +1,91 @@
+{
+  "SchemaVersion": 1.68, 
+  "Users": {
+    "testmy": {
+      "userToken": null, 
+      "userSecret": null, 
+      "userId": null, 
+      "shelves": []
+    }, 
+    "Sunil Choudhary": {
+      "userToken": "CKlAHzTO2FwWofXy7AobQQ", 
+      "userSecret": "1sA593ixNcXt9hAyWCDC8zKGxKfczjtq4LxYjfpKis", 
+      "userId": "54483017", 
+      "shelves": [
+        {
+          "exclusive": true, 
+          "add_date_read": false, 
+          "name": "read", 
+          "sync_actions": [], 
+          "sync_date_read": false, 
+          "sync_review_text": false, 
+          "add_rating": false, 
+          "tagMappings": [], 
+          "active": true, 
+          "sync_rating": false, 
+          "add_actions": [], 
+          "book_count": "4"
+        }, 
+        {
+          "exclusive": true, 
+          "add_date_read": false, 
+          "name": "currently-reading", 
+          "sync_actions": [], 
+          "sync_date_read": false, 
+          "sync_review_text": false, 
+          "add_rating": false, 
+          "tagMappings": [], 
+          "active": true, 
+          "sync_rating": false, 
+          "add_actions": [], 
+          "book_count": "1"
+        }, 
+        {
+          "exclusive": true, 
+          "add_date_read": false, 
+          "name": "to-read", 
+          "sync_actions": [], 
+          "sync_date_read": false, 
+          "sync_review_text": false, 
+          "add_rating": false, 
+          "tagMappings": [], 
+          "active": true, 
+          "sync_rating": false, 
+          "add_actions": [], 
+          "book_count": "9"
+        }, 
+        {
+          "exclusive": false, 
+          "add_date_read": false, 
+          "name": "shelf1", 
+          "sync_actions": [], 
+          "sync_date_read": false, 
+          "sync_review_text": false, 
+          "add_rating": false, 
+          "tagMappings": [], 
+          "active": true, 
+          "sync_rating": false, 
+          "add_actions": [], 
+          "book_count": "1"
+        }
+      ]
+    }
+  }, 
+  "Goodreads": {
+    "displayAddMenu": true, 
+    "readingProgressColumn": "", 
+    "displayUpdateProgressMenu": true, 
+    "updateISBN": "NEVER", 
+    "displayRemoveMenu": true, 
+    "ratingColumn": "rating", 
+    "devkeyToken": "UxvtOM3ogQWjfgiCnMleA", 
+    "reviewTextColumn": "comments", 
+    "swapAuthor": false, 
+    "displayViewShelfMenu": true, 
+    "dateReadColumn": "", 
+    "displaySyncMenu": true, 
+    "tagMappingColumn": "tags", 
+    "devkeySecret": "AwXtlLJJquCXa2O0L9W6g6MjCoHXEMPZ1eZT6K0Wo", 
+    "progressIsPercent": true
+  }
+}

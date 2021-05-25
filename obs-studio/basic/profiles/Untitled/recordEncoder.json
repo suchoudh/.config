@@ -1,0 +1,6 @@
+{
+    "bitrate": 30000,
+    "keyint_sec": 2,
+    "profile": "main",
+    "rate_control": "CBR"
+}

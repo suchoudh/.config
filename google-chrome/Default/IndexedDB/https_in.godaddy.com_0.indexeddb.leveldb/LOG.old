@@ -1,0 +1,5 @@
+2020/12/18-23:22:09.943 5756 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_in.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-23:22:33.138 3219 Level-0 table #5: started
+2020/12/18-23:22:33.171 3219 Level-0 table #5: 1056 bytes OK
+2020/12/18-23:22:33.250 3219 Delete type=0 #3
+2020/12/18-23:22:33.250 78fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

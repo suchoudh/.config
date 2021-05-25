@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "Multiple tags should be separated with comma. Tags should have a minimum length of 2 characters and should not contain special characters such as spaces, #, / or \\."
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Adicionar etiquetas"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Recolher e organizar conteúdo web em ficheiros simples."
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "Abrir o TagSpaces"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Recolher conteúdo da Internet"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Organize the collected content with the TagSpaces desktop app. It is freely available on "
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Descarregar ficheiro"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Descarregar ficheiro no seu formato original"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Editar título do ficheiro"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Guardar página completa"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Save complete page including images as one MHTML file, preserving the original design"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Clip Selection"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Criar marcador"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Save a bookmark of the current page as URL file, compartible with Windows® and Mac OS®"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Choose the saving action"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Guardar página editável"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Save complete page including images as one HTML file, the original design will not be preserved"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Tirar fotografia do ecrã"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Take a screenshot of the visible page area as a PNG file. Resize the browser window in order to focus the exact area for the screenshot."
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Save selected content including images as one HTML file"
+   }
+}

@@ -1,0 +1,8 @@
+[07:47:40] [Info] こんにちは！ Booting Zettlr at Fri Mar 05 2021 07:47:38 GMT+0530 (India Standard Time).
+[07:47:40] [Info] Performing environment check ...
+[07:47:40] [Info] Environment check complete.
+[07:47:40] [Info] Registering custom protocol safe-file
+[07:47:40] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[07:47:41] [Info] Added DevTools extension:  Vue.js devtools
+[07:47:42] [Info] Loaded all roots in 0.752 seconds
+[07:47:45] [Warning] [Translation Provider] Could not update translations: ENOTFOUND | Details: {"name":"RequestError","code":"ENOTFOUND","timings":{"start":1614910665117,"socket":1614910665117,"lookup":1614910665118,"error":1614910665118,"phases":{"wait":0,"dns":1,"total":1}}}

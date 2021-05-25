@@ -1,0 +1,25 @@
+add /home/rahu/Music
+add /home/rahu/Music/*
+add /home/rahu/Music/
+s Ravi
+search Ravi
+roll
+filter ravi
+add
+add -q
+add -p
+help
+myRecorded.pl
+w
+quit
+save
+play
+rand
+clear
+q
+a
+add ~/Music
+a /home/rahu/Music/trfd/SunilSelection5may19
+find
+f Dhaar
+add ~/Music/

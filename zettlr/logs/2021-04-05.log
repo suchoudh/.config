@@ -1,0 +1,117 @@
+[17:35:19] [Info] こんにちは！　Booting Zettlr at Mon Apr 05 2021 17:35:17 GMT+0530 (India Standard Time).
+[17:35:19] [Info] Electron reports ready state. Instantiating main process...
+[17:35:23] [Info] Loaded all roots in 2.386 seconds
+[17:35:53] [Error] Unknown command received: file-rename
+[17:35:53] [Info] [WATCHDOG] Ignore event: unlink:readme.md
+[18:54:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/FeynManDirac..png
+[18:54:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/EyHkOcoW8AIf4sf.jpeg
+[18:54:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/138627794_2454910434818805_6273055144426111052_n.jpg
+[18:54:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/150371842_2474951359481379_388847182613680416_n.jpg
+[18:54:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_172355.png
+[18:54:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/153777129_2480923192217529_7408853374540760920_n.jpg
+[18:54:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/168922286_10218745685744582_6764251211861093518_n.jpg
+[18:54:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/149730247_2474951336148048_1620326149708494529_n.jpg
+[18:54:34] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_172454.png
+[18:54:34] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/140752386_2459040591072456_3184765617665155920_n.jpg
+[18:54:34] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_172539.png
+[18:54:34] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/masaharuKogaonFB.jpg
+[18:54:35] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/ratnamonSupreme.jpg
+[18:54:35] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_172510.png
+[18:54:35] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/169151378_4067636523287561_2954529728394872924_n.jpg
+[18:57:26] [Info] Cleaned up FSAL cache: Removed 1 remnants.
+[18:58:30] [Info] こんにちは！　Booting Zettlr at Mon Apr 05 2021 18:58:30 GMT+0530 (India Standard Time).
+[18:58:30] [Info] Electron reports ready state. Instantiating main process...
+[18:58:32] [Error] Could not open new root file readme.md!
+[18:58:32] [Info] Loaded all roots in 0.804 seconds
+[18:59:07] [Info] [WATCHDOG] Ignore event: change:readme.md
+[18:59:14] [Error] Unknown command received: file-rename
+[18:59:14] [Info] [WATCHDOG] Ignore event: unlink:readme.md
+[19:19:10] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/external-content.duckduckgo.com.png
+[19:19:11] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/external-content.duckduckgo.com.png
+[19:20:19] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/awscp.png
+[19:20:19] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/external-content.duckduckgo.com.png
+[19:20:19] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/external-content.duckduckgo.com.png: The corresponding node does not exist anymore!
+[19:40:10] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/sign.jpg
+[19:44:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_194406.png
+[20:00:12] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/SunilPic.pdf
+[20:01:26] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates
+[20:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.JPG
+[20:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.JPG
+[20:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA(1).JPG
+[20:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA.JPG
+[20:01:26] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.JPG
+[20:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.JPG
+[20:01:27] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.JPG
+[20:02:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:02:36] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:02:36] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:02:36] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:04:13] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.pdf
+[20:04:13] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.pdf
+[20:04:13] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.pdf
+[20:04:14] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.pdf
+[20:04:14] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/12.pdf
+[20:04:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:04:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:04:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:04:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:04:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:04:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/BE.pdf
+[20:05:12] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA.pdf
+[20:05:12] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA.pdf
+[20:05:12] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA.pdf
+[20:05:12] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA.pdf
+[20:08:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/Sign.pdf
+[20:08:06] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/Sign.pdf
+[20:08:06] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/Sign.pdf
+[20:10:52] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/sign.jpg
+[20:10:52] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/sign.jpg: The corresponding node does not exist anymore!
+[20:11:37] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA(1).JPG
+[20:11:37] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/MBA(1).JPG: The corresponding node does not exist anymore!
+[20:11:51] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/Self.pdf
+[20:11:51] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:11:51] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf: The corresponding node does not exist anymore!
+[20:12:32] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:12:32] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:12:32] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:12:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:12:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/10.pdf
+[20:14:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/SunilPic.jpg
+[20:14:12] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/SunilPic.jpeg
+[20:14:12] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/SunilPic.jpeg: The corresponding node does not exist anymore!
+[20:16:47] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_194406.jpg
+[20:17:40] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates/screenshot_20210405_194406.jpg
+[20:17:41] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_194406.jpg
+[20:17:41] [Info] Could not process event unlink for /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210405_194406.jpg: The corresponding node does not exist anymore!
+[20:17:56] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/BE.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/MBA.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/BE.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/12.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/12.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/10.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/10.JPG
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/Self.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/Self.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/12.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/12.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/BE.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/BE.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/MBA.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/MBA.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/10.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/10.pdf
+[20:17:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/screenshot_20210405_194406.jpg
+[20:21:55] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/readmeHAM.md
+[20:21:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/readmeHAM.md
+[20:21:59] [Info] [FSALFile::hasChangedOnDisk] File readmeHAM.md has modification time 1617634315270, and fs.lstat reports 1617634319794
+[20:21:59] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: true with modtime 1617634315270
+[20:21:59] [Info] Chokidar has detected a change event for file readmeHAM.md. Attempting to re-parse ...
+[20:21:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/readmeHAM.md
+[20:21:59] [Info] [FSALFile::hasChangedOnDisk] File readmeHAM.md has modification time 1617634319794, and fs.lstat reports 1617634319794
+[20:21:59] [Info] Change event detected. FSALFile::hasChangedOnDisk reports: false with modtime 1617634319794
+[20:21:59] [Info] The file readmeHAM.md has not changed, but a change event was fired by chokidar.
+[20:52:00] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/PSN.jpg
+[20:52:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/PSN.jpg
+[20:52:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/PSN.jpg
+[20:52:01] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/_Certificates/PSN.jpg

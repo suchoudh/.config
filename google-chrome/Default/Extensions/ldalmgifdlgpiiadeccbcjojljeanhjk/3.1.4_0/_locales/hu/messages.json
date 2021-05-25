@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "A címkéket vesszővel kell elválasztani. A címkéknek legalább 2 karakternek hosszúnak kell lenni és nem tartalmazhatnak speciális karaktereket, mint a szóköz, #, / vagy \\."
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Címke hozzáadása"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Webtartalom összegyűjtése és -rendezése egyszerű szövegfájlba."
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "TagSpaces indítása"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Webtartalom elkapása"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Rendezze az összegyűjtött tartalmat a TagSpaces asztali alkalmazással. Szabadon hozzáférhető"
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Fájl letöltése"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Fájl letöltése az eredeti forrmátumában"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Fájl címének szerkesztése"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Teljes oldal mentése"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Teljes oldal mentése képekkel együtt egy MHTML fájlba, megőrizve az eredeti kinézetet"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Vágólap kiválasztása"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Könyvjelző készítése"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Mentse el egy könyvjelzőként a jelenlegi oldal URL fájlba, Windows® és Mac OS® kompatibilisen"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Válaszd ki a mentési műveletet"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Szerkeszthető oldal mentése"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Teljes oldal mentése képekkel együtt egy HTML fájlba, az eredeti kinézetet nélkül"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Képernyőkép készítése"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Képernyőkép készítése a látható területről egy PNG fájlba. Méretezze át a böngésző ablakot egy bizonyos területre."
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Kijelölt tartalom mentése képekkel együtt egy HTML fájlba"
+   }
+}

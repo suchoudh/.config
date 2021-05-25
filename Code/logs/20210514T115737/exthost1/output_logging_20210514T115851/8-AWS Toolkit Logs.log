@@ -1,0 +1,16 @@
+Error logs for this session are permanently stored in /home/rahu/.config/Code/logs/aws_toolkit/aws_toolkit_20210514T115851.log
+2021-05-14 11:58:58 [ERROR]: log level: info
+2021-05-14 11:58:58 [INFO]: Retrieving AWS endpoint data
+2021-05-14 11:58:58 [INFO]: OS:  Linux x64 4.15.0-124-generic
+Visual Studio Code Extension Host Version:  1.52.0
+AWS Toolkit Version:  1.21.0
+
+2021-05-14 11:59:25 [INFO]: SAM CLI location: undefined
+2021-05-14 11:59:25 [ERROR]: An error occured while resuming SAM Application creation. Check the logs for more information by running the "View AWS Toolkit Logs" command from the Command Palette.
+2021-05-14 11:59:25 [ERROR]: Error resuming new SAM Application: [s [Error]: SAM CLI was not found
+	at a (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.21.0/dist/extension.js:2:1406107)
+	at Object.t.throwAndNotifyIfInvalid (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.21.0/dist/extension.js:2:1406415)
+	at Object.<anonymous> (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.21.0/dist/extension.js:2:510791)
+	at Generator.next (<anonymous>)
+	at o (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.21.0/dist/extension.js:2:509816)]
+2021-05-14 12:04:05 [INFO]: Successfully sent a telemetry batch of 6

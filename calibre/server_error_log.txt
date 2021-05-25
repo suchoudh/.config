@@ -1,0 +1,144 @@
+[04/Mar/2018:14:05:43] ENGINE Bus STARTING
+[04/Mar/2018:14:05:43] ENGINE Started monitor thread '_TimeoutMonitor'.
+[04/Mar/2018:14:05:44] ENGINE Serving on http://0.0.0.0:8080
+[04/Mar/2018:14:05:46]  Failed to start BonJour:
+[04/Mar/2018:14:05:46]  Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/library/server/base.py", line 99, in start
+    publish_zeroconf(*s, use_ip_address=zeroconf_ip_address)
+  File "/usr/lib/calibre/calibre/utils/mdns.py", line 152, in publish
+    server = start_server()
+  File "/usr/lib/calibre/calibre/utils/mdns.py", line 107, in start_server
+    _server = Zeroconf()
+  File "/usr/lib/calibre/calibre/utils/Zeroconf.py", line 1292, in __init__
+    self.intf = socket.gethostbyname(socket.gethostname())
+gaierror: [Errno -2] Name or service not known
+
+[04/Mar/2018:14:05:46] ENGINE Bus STARTED
+[04/Mar/2018:14:11:57] ENGINE Bus STOPPING
+[04/Mar/2018:14:11:59]  Failed to stop BonJour:
+[04/Mar/2018:14:11:59]  Traceback (most recent call last):
+  File "/usr/lib/calibre/calibre/library/server/base.py", line 110, in stop
+    unpublish_zeroconf(*s)
+  File "/usr/lib/calibre/calibre/utils/mdns.py", line 164, in unpublish
+    server = start_server()
+  File "/usr/lib/calibre/calibre/utils/mdns.py", line 107, in start_server
+    _server = Zeroconf()
+  File "/usr/lib/calibre/calibre/utils/Zeroconf.py", line 1292, in __init__
+    self.intf = socket.gethostbyname(socket.gethostname())
+gaierror: [Errno -2] Name or service not known
+
+[04/Mar/2018:14:11:59] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[04/Mar/2018:14:11:59] ENGINE Stopped thread '_TimeoutMonitor'.
+[04/Mar/2018:14:11:59] ENGINE Bus STOPPED
+[04/Mar/2018:14:11:59] ENGINE Bus EXITING
+[04/Mar/2018:14:11:59] ENGINE Bus EXITED
+[04/Mar/2018:14:11:59] ENGINE Waiting for child threads to terminate...
+[25/Jul/2018:10:27:19] ENGINE Bus STARTING
+[25/Jul/2018:10:27:19] ENGINE Started monitor thread '_TimeoutMonitor'.
+[25/Jul/2018:10:27:19] ENGINE Serving on http://0.0.0.0:8080
+[25/Jul/2018:10:27:21] ENGINE Bus STARTED
+[25/Jul/2018:12:53:46] HTTP Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/usr/lib/python2.7/dist-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "/usr/lib/calibre/calibre/library/server/utils.py", line 54, in do
+    ans = func(*args, **kwargs)
+  File "/usr/lib/calibre/calibre/library/server/browse.py", line 203, in do
+    ans = func(self, *args, **kwargs)
+  File "/usr/lib/calibre/calibre/library/server/browse.py", line 698, in browse_matches
+    ids = self.db.get_books_for_category(q, cid)
+  File "/usr/lib/calibre/calibre/db/legacy.py", line 784, in <lambda>
+    lambda self, category, id_:self.new_api.get_books_for_category(category, id_))
+  File "/usr/lib/calibre/calibre/db/cache.py", line 57, in call_func_with_lock
+    return func(*args, **kwargs)
+  File "/usr/lib/calibre/calibre/db/cache.py", line 1891, in get_books_for_category
+    return self._books_for_field(f.name, int(item_id_or_composite_value))
+ValueError: invalid literal for int() with base 10: 'favicon.ico'
+
+[25/Jul/2018:12:59:07] ENGINE Bus STOPPING
+[25/Jul/2018:12:59:08] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[25/Jul/2018:12:59:08] ENGINE Stopped thread '_TimeoutMonitor'.
+[25/Jul/2018:12:59:08] ENGINE Bus STOPPED
+[25/Jul/2018:12:59:08] ENGINE Bus EXITING
+[25/Jul/2018:12:59:08] ENGINE Bus EXITED
+[25/Jul/2018:12:59:08] ENGINE Waiting for child threads to terminate...
+[25/Jul/2018:12:59:43] ENGINE Bus STARTING
+[25/Jul/2018:12:59:43] ENGINE Bus STARTING
+[25/Jul/2018:12:59:43] ENGINE Started monitor thread '_TimeoutMonitor'.
+[25/Jul/2018:12:59:43] ENGINE Started monitor thread '_TimeoutMonitor'.
+[25/Jul/2018:12:59:43] ENGINE Serving on http://0.0.0.0:8080
+[25/Jul/2018:12:59:43] ENGINE Serving on http://0.0.0.0:8080
+[25/Jul/2018:12:59:45] ENGINE Bus STARTED
+[25/Jul/2018:12:59:45] ENGINE Bus STARTED
+[25/Jul/2018:13:01:03] ENGINE Bus STOPPING
+[25/Jul/2018:13:01:03] ENGINE Bus STOPPING
+[25/Jul/2018:13:01:04] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[25/Jul/2018:13:01:04] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[25/Jul/2018:13:01:04] ENGINE Stopped thread '_TimeoutMonitor'.
+[25/Jul/2018:13:01:04] ENGINE Stopped thread '_TimeoutMonitor'.
+[25/Jul/2018:13:01:04] ENGINE Bus STOPPED
+[25/Jul/2018:13:01:04] ENGINE Bus STOPPED
+[25/Jul/2018:13:01:04] ENGINE Bus EXITING
+[25/Jul/2018:13:01:04] ENGINE Bus EXITING
+[25/Jul/2018:13:01:04] ENGINE Bus EXITED
+[25/Jul/2018:13:01:04] ENGINE Bus EXITED
+[25/Jul/2018:13:01:04] ENGINE Waiting for child threads to terminate...
+[25/Jul/2018:13:01:04] ENGINE Waiting for child threads to terminate...
+[30/Jul/2018:17:41:11] ENGINE Bus STARTING
+[30/Jul/2018:17:41:11] ENGINE Started monitor thread '_TimeoutMonitor'.
+[30/Jul/2018:17:41:11] ENGINE Serving on http://0.0.0.0:8080
+[30/Jul/2018:17:41:13] ENGINE Bus STARTED
+[30/Jul/2018:18:53:22] ENGINE Bus STOPPING
+[30/Jul/2018:18:53:24] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[30/Jul/2018:18:53:24] ENGINE Stopped thread '_TimeoutMonitor'.
+[30/Jul/2018:18:53:24] ENGINE Bus STOPPED
+[30/Jul/2018:18:53:24] ENGINE Bus EXITING
+[30/Jul/2018:18:53:24] ENGINE Bus EXITED
+[30/Jul/2018:18:53:24] ENGINE Waiting for child threads to terminate...
+[21/Nov/2018:23:01:56] ENGINE Bus STARTING
+[21/Nov/2018:23:01:56] ENGINE Started monitor thread '_TimeoutMonitor'.
+[21/Nov/2018:23:01:56] ENGINE Serving on http://0.0.0.0:8080
+[21/Nov/2018:23:01:58] ENGINE Bus STARTED
+[21/Nov/2018:23:29:42] ENGINE Bus STOPPING
+[21/Nov/2018:23:29:43] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[21/Nov/2018:23:29:43] ENGINE Stopped thread '_TimeoutMonitor'.
+[21/Nov/2018:23:29:43] ENGINE Bus STOPPED
+[21/Nov/2018:23:29:43] ENGINE Bus EXITING
+[21/Nov/2018:23:29:43] ENGINE Bus EXITED
+[21/Nov/2018:23:29:43] ENGINE Waiting for child threads to terminate...
+[21/Nov/2018:23:29:54] ENGINE Bus STARTING
+[21/Nov/2018:23:29:54] ENGINE Bus STARTING
+[21/Nov/2018:23:29:54] ENGINE Started monitor thread '_TimeoutMonitor'.
+[21/Nov/2018:23:29:54] ENGINE Started monitor thread '_TimeoutMonitor'.
+[21/Nov/2018:23:29:54] ENGINE Serving on http://0.0.0.0:8080
+[21/Nov/2018:23:29:54] ENGINE Serving on http://0.0.0.0:8080
+[21/Nov/2018:23:29:56] ENGINE Bus STARTED
+[21/Nov/2018:23:29:56] ENGINE Bus STARTED
+[21/Nov/2018:23:30:41] ENGINE Bus STOPPING
+[21/Nov/2018:23:30:41] ENGINE Bus STOPPING
+[21/Nov/2018:23:30:41] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[21/Nov/2018:23:30:41] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[21/Nov/2018:23:30:41] ENGINE Stopped thread '_TimeoutMonitor'.
+[21/Nov/2018:23:30:41] ENGINE Stopped thread '_TimeoutMonitor'.
+[21/Nov/2018:23:30:41] ENGINE Bus STOPPED
+[21/Nov/2018:23:30:41] ENGINE Bus STOPPED
+[21/Nov/2018:23:30:41] ENGINE Bus EXITING
+[21/Nov/2018:23:30:41] ENGINE Bus EXITING
+[21/Nov/2018:23:30:41] ENGINE Bus EXITED
+[21/Nov/2018:23:30:41] ENGINE Bus EXITED
+[21/Nov/2018:23:30:42] ENGINE Waiting for child threads to terminate...
+[21/Nov/2018:23:30:42] ENGINE Waiting for child threads to terminate...
+[21/Nov/2018:23:35:31] ENGINE Bus STARTING
+[21/Nov/2018:23:35:31] ENGINE Started monitor thread '_TimeoutMonitor'.
+[21/Nov/2018:23:35:31] ENGINE Serving on http://0.0.0.0:8080
+[21/Nov/2018:23:35:33] ENGINE Bus STARTED
+[22/Nov/2018:10:30:24] ENGINE Bus STOPPING
+[22/Nov/2018:10:30:27] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8080)) shut down
+[22/Nov/2018:10:30:27] ENGINE Stopped thread '_TimeoutMonitor'.
+[22/Nov/2018:10:30:27] ENGINE Bus STOPPED
+[22/Nov/2018:10:30:27] ENGINE Bus EXITING
+[22/Nov/2018:10:30:27] ENGINE Bus EXITED
+[22/Nov/2018:10:30:28] ENGINE Waiting for child threads to terminate...

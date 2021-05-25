@@ -1,0 +1,8 @@
+2021/04/29-11:17:10.165 71e4 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-11:17:10.166 71e4 Recovering log #6370
+2021/04/29-11:17:10.166 71e4 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/006370.log 
+2021/04/29-11:17:43.679 e79 Level-0 table #6375: started
+2021/04/29-11:17:43.679 e79 Level-0 table #6375: 0 bytes OK
+2021/04/29-11:17:44.115 e79 Delete type=0 #6370
+2021/04/29-11:17:44.115 e79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-11:17:44.115 e79 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

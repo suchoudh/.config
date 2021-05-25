@@ -1,0 +1,1 @@
+function setPersistentValue(b,a){localStorage.removeItem(b);localStorage.setItem(b,a.toString());return}function getPersistentValue(a){if(localStorage.getItem(a)==null){return null}else{return localStorage.getItem(a)}}function isPersistentValue(a){if(localStorage.getItem(a)==null){return false}else{return true}};

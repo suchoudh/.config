@@ -1,0 +1,7 @@
+TODO:
+-----
+
+See PhotoAlbom add-on which modifies the previous version to be able to
+install this archive by extension manager. Initially, it is written in
+OOo basic. Later it should be written in C/C++ as well and it is planned
+to add some settings options.

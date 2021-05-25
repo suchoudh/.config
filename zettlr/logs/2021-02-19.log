@@ -1,0 +1,51 @@
+[20:03:14] [Info] こんにちは！ Booting Zettlr at Fri Feb 19 2021 20:03:13 GMT+0530 (India Standard Time).
+[20:03:14] [Info] Performing environment check ...
+[20:03:14] [Info] Environment check complete.
+[20:03:14] [Info] Registering custom protocol safe-file
+[20:03:14] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[20:03:14] [Info] Added DevTools extension:  Vue.js devtools
+[20:03:15] [Info] Loaded all roots in 0.716 seconds
+[20:03:38] [Error] Unknown command received: dir-open
+[20:45:40] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:46:00] [Info] Saving file 2021_02_19_20_45_38.md...
+[20:46:00] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:46:00] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1613747760388
+[20:46:00] [Info] File 2021_02_19_20_45_38.md saved.
+[20:46:26] [Info] Saving file 2021_02_19_20_45_38.md...
+[20:46:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:46:26] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1613747786244
+[20:46:26] [Info] File 2021_02_19_20_45_38.md saved.
+[20:46:46] [Info] Saving file 2021_02_19_20_45_38.md...
+[20:46:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:46:46] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1613747806845
+[20:46:46] [Info] File 2021_02_19_20_45_38.md saved.
+[20:47:25] [Info] Saving file 2021_02_19_20_45_38.md...
+[20:47:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:47:25] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1613747845737
+[20:47:25] [Info] File 2021_02_19_20_45_38.md saved.
+[20:48:56] [Info] Saving file 2021_02_19_20_45_38.md...
+[20:48:56] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/4000How2/doBackUp/2021_02_19_20_45_38.md
+[20:48:56] [Info] Updated modtime for fileDescriptor 2021_02_19_20_45_38.md to 1613747936562
+[20:48:56] [Info] File 2021_02_19_20_45_38.md saved.
+[20:51:17] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:51:50] [Info] Saving file 2021_02_19_20_51_16.md...
+[20:51:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:51:50] [Info] Updated modtime for fileDescriptor 2021_02_19_20_51_16.md to 1613748110616
+[20:51:50] [Info] File 2021_02_19_20_51_16.md saved.
+[20:52:10] [Info] Saving file 2021_02_19_20_51_16.md...
+[20:52:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:52:10] [Info] Updated modtime for fileDescriptor 2021_02_19_20_51_16.md to 1613748130821
+[20:52:10] [Info] File 2021_02_19_20_51_16.md saved.
+[20:52:40] [Info] Saving file 2021_02_19_20_51_16.md...
+[20:52:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:52:40] [Info] Updated modtime for fileDescriptor 2021_02_19_20_51_16.md to 1613748160405
+[20:52:40] [Info] File 2021_02_19_20_51_16.md saved.
+[20:53:02] [Info] Saving file 2021_02_19_20_51_16.md...
+[20:53:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:53:02] [Info] Updated modtime for fileDescriptor 2021_02_19_20_51_16.md to 1613748182197
+[20:53:02] [Info] File 2021_02_19_20_51_16.md saved.
+[20:53:48] [Info] Saving file 2021_02_19_20_51_16.md...
+[20:53:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/Gov_MPState/2021_02_19_20_51_16.md
+[20:53:48] [Info] Updated modtime for fileDescriptor 2021_02_19_20_51_16.md to 1613748228378
+[20:53:48] [Info] File 2021_02_19_20_51_16.md saved.
+[22:59:59] [Info] さようなら！ Shutting down at Fri Feb 19 2021 22:59:59 GMT+0530 (India Standard Time)

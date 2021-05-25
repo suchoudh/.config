@@ -1,0 +1,84 @@
+[23:31:19] [Info] こんにちは！ Booting Zettlr at Sun Jan 17 2021 23:31:18 GMT+0530 (India Standard Time).
+[23:31:19] [Info] Performing environment check ...
+[23:31:19] [Info] Environment check complete.
+[23:31:19] [Info] Registering custom protocol safe-file
+[23:31:19] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[23:31:19] [Info] Added DevTools extension:  Vue.js devtools
+[23:31:19] [Info] Loaded all roots in 0.156 seconds
+[23:36:53] [Info] Saving file 2020_12_24_20_34_49.md...
+[23:36:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Mon/2020_12_24_20_34_49.md
+[23:36:53] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1610906813783
+[23:36:53] [Info] File 2020_12_24_20_34_49.md saved.
+[23:37:01] [Info] Saving file 2020_12_24_20_34_49.md...
+[23:37:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Mon/2020_12_24_20_34_49.md
+[23:37:01] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1610906821063
+[23:37:01] [Info] File 2020_12_24_20_34_49.md saved.
+[23:37:22] [Info] Saving file 2020_12_24_20_34_49.md...
+[23:37:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Mon/2020_12_24_20_34_49.md
+[23:37:22] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1610906842924
+[23:37:22] [Info] File 2020_12_24_20_34_49.md saved.
+[23:38:42] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:38:47] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:38:47] [Info] Chokidar has detected a change event for file Week02.md. Attempting to re-parse ...
+[23:40:00] [Info] Saving file 2020_12_24_20_34_49.md...
+[23:40:00] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Mon/2020_12_24_20_34_49.md
+[23:40:00] [Info] Updated modtime for fileDescriptor 2020_12_24_20_34_49.md to 1610907000882
+[23:40:00] [Info] File 2020_12_24_20_34_49.md saved.
+[23:41:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:41:31] [Info] Chokidar has detected a change event for file Week02.md. Attempting to re-parse ...
+[23:42:05] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:42:05] [Info] Chokidar has detected a change event for file Week02.md. Attempting to re-parse ...
+[23:42:27] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:42:27] [Info] Chokidar has detected a change event for file Week02.md. Attempting to re-parse ...
+[23:42:47] [Info] Saving file Week02.md...
+[23:42:47] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:42:47] [Info] Updated modtime for fileDescriptor Week02.md to 1610907167800
+[23:42:47] [Info] File Week02.md saved.
+[23:43:20] [Info] Saving file Week02.md...
+[23:43:20] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:43:20] [Info] Updated modtime for fileDescriptor Week02.md to 1610907200845
+[23:43:20] [Info] File Week02.md saved.
+[23:43:50] [Info] Saving file Week02.md...
+[23:43:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:43:50] [Info] Updated modtime for fileDescriptor Week02.md to 1610907230925
+[23:43:50] [Info] File Week02.md saved.
+[23:44:38] [Info] Saving file Week02.md...
+[23:44:38] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:44:38] [Info] Updated modtime for fileDescriptor Week02.md to 1610907278290
+[23:44:38] [Info] File Week02.md saved.
+[23:46:54] [Info] Saving file Week02.md...
+[23:46:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:46:54] [Info] Updated modtime for fileDescriptor Week02.md to 1610907414864
+[23:46:54] [Info] File Week02.md saved.
+[23:47:17] [Info] Saving file Week02.md...
+[23:47:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:47:17] [Info] Updated modtime for fileDescriptor Week02.md to 1610907437632
+[23:47:17] [Info] File Week02.md saved.
+[23:47:27] [Info] Saving file Week02.md...
+[23:47:27] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:47:27] [Info] Updated modtime for fileDescriptor Week02.md to 1610907447024
+[23:47:27] [Info] File Week02.md saved.
+[23:48:07] [Info] Saving file Week02.md...
+[23:48:07] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:48:07] [Info] Updated modtime for fileDescriptor Week02.md to 1610907487541
+[23:48:07] [Info] File Week02.md saved.
+[23:48:20] [Info] Saving file Week02.md...
+[23:48:20] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:48:20] [Info] Updated modtime for fileDescriptor Week02.md to 1610907500713
+[23:48:20] [Info] File Week02.md saved.
+[23:55:10] [Info] Saving file Week02.md...
+[23:55:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:55:10] [Info] Updated modtime for fileDescriptor Week02.md to 1610907910610
+[23:55:10] [Info] File Week02.md saved.
+[23:55:19] [Info] Saving file Week02.md...
+[23:55:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:55:19] [Info] Updated modtime for fileDescriptor Week02.md to 1610907919670
+[23:55:19] [Info] File Week02.md saved.
+[23:56:35] [Info] Saving file Week02.md...
+[23:56:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:56:35] [Info] Updated modtime for fileDescriptor Week02.md to 1610907995619
+[23:56:35] [Info] File Week02.md saved.
+[23:57:18] [Info] Saving file Week02.md...
+[23:57:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/DailyDo/43F/2021/02/Week02.md
+[23:57:18] [Info] Updated modtime for fileDescriptor Week02.md to 1610908038512
+[23:57:18] [Info] File Week02.md saved.

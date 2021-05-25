@@ -1,0 +1,49 @@
+{
+   "addto": {
+      "message": "Add To"
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "quick add note into your GNotes account by GNotes extension."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "GNotes"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "createFail": {
+      "message": "Note created failed, please try again!"
+   },
+   "createSuccess": {
+      "message": "Note Created successfully!"
+   },
+   "createSuccessCheck": {
+      "message": "Check your note here."
+   },
+   "defaultDomain": {
+      "message": "gnotes.me"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "login": {
+      "message": "login"
+   },
+   "needLogin": {
+      "message": "User was signed out, please "
+   },
+   "placeholder": {
+      "message": "Content"
+   },
+   "return": {
+      "message": "Return"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "screenCapture": {
+      "message": "Screen Capture"
+   }
+}

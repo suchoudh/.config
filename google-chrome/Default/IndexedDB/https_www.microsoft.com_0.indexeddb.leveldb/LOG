@@ -1,0 +1,7 @@
+2021/01/30-14:13:14.283 4690 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/30-14:13:14.283 4690 Recovering log #3
+2021/01/30-14:13:14.342 4690 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.microsoft.com_0.indexeddb.leveldb/000003.log 
+2021/01/30-14:29:31.020 10f1 Level-0 table #5: started
+2021/01/30-14:29:31.057 10f1 Level-0 table #5: 152491 bytes OK
+2021/01/30-14:29:31.108 10f1 Delete type=0 #3
+2021/01/30-14:29:31.109 10f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

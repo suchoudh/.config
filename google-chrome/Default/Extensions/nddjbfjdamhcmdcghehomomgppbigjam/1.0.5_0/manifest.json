@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_popup": "/views/popup.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Gentle reminder about how fleeting life is. Time to make the most of it!",
+   "icons": {
+      "128": "icons/hourglass-128.png",
+      "16": "icons/hourglass-16.png",
+      "48": "icons/hourglass-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApxlfj2+/gjqd0Mf87n17CPFPlmh7HtDCmHWBEuwew1FFij2+WSiTVKJU7SUEHkGhhZB7fnSAK391q1X7dstcVC5lKS8Fs8uAFe4KNkVDafR4zp7BL0b2iO/HXDB6UyXj2ir+Xh+8v3RXtaVbbFbA1hC7fNOTrGs4SLo6Dwt92YEL2m/BJAQAAlFn5psOo8cBfmFOmQMq/eY3CqRchzKRRzRETALAS2UWNXpPXLHgrCaokjGCNGGO6UWmSFgIWHUEA8ktwEp5T2ZPTqexb33k1MvPuhS4gCNXFdE5dESda9QAVSPQsdiaIcDCYrq5qR7BfcytwTjsYlQMv+hTdydzmQIDAQAB",
+   "manifest_version": 2,
+   "name": "Death Clock",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.5"
+}

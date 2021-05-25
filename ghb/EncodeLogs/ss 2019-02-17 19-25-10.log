@@ -1,0 +1,226 @@
+Handbrake Version: 1.1.0 (2018042400)
+[19:25:10] gtkgui: Modified Custom Preset: /General/Fast 1080p30
+[19:25:11] 1 job(s) to process
+[19:25:11] json job:
+{
+    "Audio": {
+        "AudioList": [],
+        "CopyMask": [],
+        "FallbackEncoder": 0
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Name": "Chapter 1"
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/rahu/Videos/ss.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 576,
+                    "width": 720
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "LongDescription": "",
+        "Name": "VIDEO_TS"
+    },
+    "PAR": {
+        "Den": 45,
+        "Num": 64
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/rahu/MONEY_MONSTER/VIDEO_TS/VIDEO_TS.VOB",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[19:25:11] CPU: 
+[19:25:11]  - logical processor count: 2
+[19:25:11] hb_scan: path=/media/rahu/MONEY_MONSTER/VIDEO_TS/VIDEO_TS.VOB, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /media/rahu/MONEY_MONSTER/VIDEO_TS/VIDEO_TS.VOB
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+[19:25:14] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.0
+libdvdread: Encrypted DVD support unavailable.
+************************************************
+**                                            **
+**  No css library available. See             **
+**  /usr/share/doc/libdvdread4/README.css     **
+**  for more information.                     **
+**                                            **
+************************************************
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[19:25:16] dvd: not a dvd - trying as a stream/file instead
+[19:25:17] file is MPEG Program Stream
+[19:25:38] Probing 3 unknown streams
+[19:25:38]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[19:25:38] Found the following streams
+[19:25:38]     Video Streams : 
+[19:25:38]       0xe0-0x0 type MPEG2 (0x2)
+[19:25:38]     Audio Streams : 
+[19:25:38]     Subtitle Streams : 
+[19:25:38]     Other Streams : 
+[19:25:52] scan: decoding previews for title 1
+[19:25:52] file is MPEG Program Stream
+[19:25:56] Probing 3 unknown streams
+[19:25:56]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[19:25:57] stream: 38 good frames, 0 errors (0%)
+[19:25:57] scan: 10 previews, 720x576, 25.000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 64:45
+[19:25:57] libhb: scan thread found 1 valid title(s)
+[19:25:57] starting job
+[19:25:57] mask erode thread started for segment 1
+[19:25:57] mask dilate thread started for segment 0
+[19:25:57] mask dilate thread started for segment 1
+[19:25:57] job configuration:
+[19:25:57]  * source
+[19:25:57]    + /media/rahu/MONEY_MONSTER/VIDEO_TS/VIDEO_TS.VOB
+[19:25:57]    + title 1, chapter(s) 1 to 1
+[19:25:57]  * destination
+[19:25:57]    + /home/rahu/Videos/ss.m4v
+[19:25:57]    + container: MPEG-4 (libavformat)
+[19:25:57]      + align initial A/V stream timestamps
+[19:25:57]  * video track
+[19:25:57]    + decoder: mpeg2video
+[19:25:57]      + bitrate 5000 kbps
+[19:25:57]    + filters
+[19:25:57] decomb filter thread started for segment 0
+[19:25:57] yadif thread started for segment 0
+[19:25:57] yadif thread started for segment 1
+[19:25:57] mask erode thread started for segment 0
+[19:25:57] mask filter thread started for segment 1
+[19:25:57] mask filter thread started for segment 0
+[19:25:57] decomb check thread started for segment 1
+[19:25:57] decomb check thread started for segment 0
+[19:25:57] decomb filter thread started for segment 1
+[19:25:57]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[19:25:57]      + Decomb (mode=39)
+[19:25:57]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[19:25:57]        + frame rate: 25.000 fps -> peak rate limited to 30.000 fps
+[19:25:57]      + Crop and Scale (width=720:height=576:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[19:25:57]        + source: 720 * 576, crop (0/0/0/0): 720 * 576, scale: 720 * 576
+[19:25:57]    + Output geometry
+[19:25:57]      + storage dimensions: 720 x 576
+[19:25:57]      + pixel aspect ratio: 64 : 45
+[19:25:57]      + display dimensions: 1024 x 576
+[19:25:57]    + encoder: H.264 (libx264)
+[19:25:57]      + preset:  fast
+[19:25:57]      + profile: main
+[19:25:57]      + level:   4.0
+[19:25:57]      + quality: 22.00 (RF)
+[19:25:57] file is MPEG Program Stream
+[19:25:57] Probing 3 unknown streams
+[19:25:57]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[19:25:57] sync: expecting 3003 video frames
+[19:25:57] encx264: encoding at constant RF 22.000000
+[19:25:57] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=64/45
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[19:25:57] sync: first pts video is 0
+[19:26:26] reader: done. 2 scr changes
+[19:26:27] work: average encoding speed for job is 102.025429 fps
+[19:26:27] comb detect: heavy 0 | light 0 | uncombed 3001 | total 3001
+[19:26:27] decomb: deinterlaced 0 | blended 0 | unfiltered 3001 | total 3001
+[19:26:27] vfr: 3001 frames output, 0 dropped and 0 duped for CFR/PFR
+[19:26:27] vfr: lost time: 0 (0 frames)
+[19:26:27] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[19:26:27] stream: 37235 good frames, 0 errors (0%)
+[19:26:27] mpeg2video-decoder done: 3001 frames, 0 decoder errors
+[19:26:27] sync: got 3001 frames, 3003 expected
+[19:26:27] sync: framerate min 25.000 fps, max 25.000 fps, avg 25.000 fps
+x264 [info]: frame I:13    Avg QP: 6.51  size:  2649
+x264 [info]: frame P:756   Avg QP: 8.07  size:    28
+x264 [info]: frame B:2232  Avg QP:11.67  size:    24
+x264 [info]: consecutive B-frames:  0.8%  0.0%  0.0% 99.2%
+x264 [info]: mb I  I16..4: 96.6%  0.0%  3.4%
+x264 [info]: mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+x264 [info]: mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%
+x264 [info]: coded y,uvDC,uvAC intra: 3.8% 3.4% 1.3% inter: 0.0% 0.0% 0.0%
+x264 [info]: i16 v,h,dc,p: 97%  1%  3%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 24% 12% 17%  6%  7%  8% 10% 10%  6%
+x264 [info]: i8c dc,h,v,p: 96%  1%  3%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: kb/s:7.22
+[19:26:27] mux: track 0, 3001 frames, 107801 bytes, 7.18 kbps, fifo 4096
+[19:26:27] libhb: work result = 0

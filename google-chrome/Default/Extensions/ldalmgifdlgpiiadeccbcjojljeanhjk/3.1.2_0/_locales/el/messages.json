@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "Multiple tags should be separated with comma. Tags should have a minimum length of 2 characters and should not contain special characters such as spaces, #, / or \\."
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Add tags"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Collect and organize web content in plain files."
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "TagSpaces Έναρξη"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Σύλληψη Περιεχομένου του Ιστού"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Organize the collected content with the TagSpaces desktop app. It is freely available on "
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Download File"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Download the file in its original file format"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Edit file title"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Save complete page"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Save complete page including images as one MHTML file, preserving the original design"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Clip Selection"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Create Bookmark"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Save a bookmark of the current page as URL file, compartible with Windows® and Mac OS®"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Choose the saving action"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Save editable page"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Save complete page including images as one HTML file, the original design will not be preserved"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Λήψη Στιγμιότυπου "
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Take a screenshot of the visible page area as a PNG file. Resize the browser window in order to focus the exact area for the screenshot."
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Save selected content including images as one HTML file"
+   }
+}

@@ -1,0 +1,15 @@
+2020/12/18-23:22:36.187 78fb Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_in.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-23:22:36.187 78fb Recovering log #4
+2020/12/18-23:22:36.187 78fb Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_in.godaddy.com_0.indexeddb.leveldb/000004.log 
+2020/12/18-23:22:52.235 3751 Level-0 table #8: started
+2020/12/18-23:22:52.278 3751 Level-0 table #8: 464 bytes OK
+2020/12/18-23:22:52.339 3751 Delete type=0 #4
+2020/12/18-23:22:52.340 3751 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/18-23:22:52.340 3751 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x006\x000\x008\x003\x001\x003\x009\x005\x006\x001\x006\x005' @ 63 : 1
+2020/12/18-23:22:52.340 3751 Compacting 1@1 + 1@2 files
+2020/12/18-23:22:52.604 3751 Generated table #9@1: 17 keys, 470 bytes
+2020/12/18-23:22:52.604 3751 Compacted 1@1 + 1@2 files => 470 bytes
+2020/12/18-23:22:52.865 3751 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/18-23:22:52.866 3751 Delete type=2 #8
+2020/12/18-23:22:52.866 3751 Delete type=2 #5
+2020/12/18-23:22:52.866 3751 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x00t\x00k\x001\x006\x000\x008\x003\x001\x003\x009\x005\x006\x001\x006\x005' @ 63 : 1 .. (end); will stop at (end)

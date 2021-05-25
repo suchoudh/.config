@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Gives you more control over the speed of your re:Invent videos.",
+   "icons": {
+      "128": "images/rv-128.png",
+      "16": "images/rv-16.png",
+      "32": "images/rv-32.png",
+      "48": "images/rv-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkV5dzty9lSvEC3nnhSDM8j6Cpc1h9QgoGB0s20J6gqTMc1uVuJj7BrqA9VoWkCdKb7C41uPzZEXXkQgyLtunujOEfMkz7DFgIb6IMpsicEubgyNXqXtxQIeX7B7smUWngIg/p4IFmv/kgY3HliJ47SLj2XbGmF70SPZuk1POjUg9xyypv/R6t4fbJOEF0nCFkuO8i4q/Q2aPLY0ETYpkst7igF8o3IOUYf8QIJxQUhpxxKiR9DIP8dGotWvkZjeX1b8Qsfr+0w16K3ZuwKgseU9ycI4y3sEQ2k1vNi69Nu/1zbYw1qbc0bA+fEPeoIcQiiXu31Yhc6yWMKhhber/QwIDAQAB",
+   "manifest_version": 2,
+   "name": "re:Invent Video Speed Controls",
+   "page_action": {
+      "default_icon": {
+         "128": "images/rv-128.png",
+         "16": "images/rv-16.png",
+         "32": "images/rv-32.png",
+         "48": "images/rv-48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "activeTab", "declarativeContent", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}

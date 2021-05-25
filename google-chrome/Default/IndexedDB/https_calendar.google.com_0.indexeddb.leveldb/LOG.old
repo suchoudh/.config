@@ -1,0 +1,8 @@
+2020/12/22-02:19:37.812 3594 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/22-02:19:37.812 3594 Recovering log #7
+2020/12/22-02:19:37.813 3594 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
+2020/12/22-02:19:41.905 6d86 Level-0 table #12: started
+2020/12/22-02:19:41.905 6d86 Level-0 table #12: 0 bytes OK
+2020/12/22-02:19:41.978 6d86 Delete type=0 #7
+2020/12/22-02:19:41.978 6d86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/22-02:19:41.978 6d86 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

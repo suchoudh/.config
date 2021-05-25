@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/libs/jquery-3.1.1.min.js", "scripts/context.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6rEX+YvVIEQyP6rgIRujo2gNSYxVU6hi/NS8p2EZGjrxQB+qNNkjXxc7hcHRyFl+7mWMPgSV/WnGJJ65BjV0VVSvZEuNY9ST0FvU8fHDvGCseV9GbgttboNMAPqDIzPLD8hKrN9p6lNr+ZvCNe9qaw7T7XWUfk58VgLFqCPU71QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "cookies", "http://gnotes.me/*", "http://suibiji.com/*", "https://gnotes.me/*", "https://suibiji.com/*", "*://*.google.com/", "pageCapture", "storage", "contextMenus", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2",
+   "web_accessible_resources": [ "images/**/*", "styles/*", "scripts/**/*", "popup.html", "manifest.json" ]
+}

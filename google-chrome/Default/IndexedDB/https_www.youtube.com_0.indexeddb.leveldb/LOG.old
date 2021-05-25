@@ -1,0 +1,15 @@
+2021/01/20-16:23:19.385 73ab Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-16:23:19.385 73ab Recovering log #84
+2021/01/20-16:23:19.385 73ab Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000084.log 
+2021/01/20-16:49:42.420 1b9d Level-0 table #89: started
+2021/01/20-16:49:42.453 1b9d Level-0 table #89: 866 bytes OK
+2021/01/20-16:49:42.504 1b9d Delete type=0 #84
+2021/01/20-16:49:42.504 1b9d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/20-16:49:42.504 1b9d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 2326 : 1
+2021/01/20-16:49:42.504 1b9d Compacting 1@1 + 1@2 files
+2021/01/20-16:49:42.538 1b9d Generated table #90@1: 92 keys, 2682 bytes
+2021/01/20-16:49:42.538 1b9d Compacted 1@1 + 1@2 files => 2682 bytes
+2021/01/20-16:49:42.908 1b9d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-16:49:42.908 1b9d Delete type=2 #86
+2021/01/20-16:49:42.908 1b9d Delete type=2 #89
+2021/01/20-16:49:42.908 1b9d Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 2326 : 1 .. (end); will stop at (end)

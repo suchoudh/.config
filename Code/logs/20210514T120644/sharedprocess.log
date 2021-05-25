@@ -1,0 +1,5 @@
+[2021-05-14 12:06:52.365] [sharedprocess] [info] main {"machineId":"5798b655c0fa67a4c579a728601cf4b916f89fc6f98b92d12f1bdd3e01fc5a9c","windowId":3}
+[2021-05-14 12:06:57.180] [sharedprocess] [info] Deleted from disk golang.go /home/rahu/.vscode/extensions/golang.go-0.23.2
+[2021-05-14 12:06:57.213] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/rahu/.vscode/extensions/vscodevim.vim-1.18.9
+[2021-05-14 12:06:58.161] [sharedprocess] [info] Deleted from disk amazonwebservices.aws-toolkit-vscode /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.21.0
+[2021-05-14 12:07:32.415] [sharedprocess] [info] Starting to clean up unused language packs.

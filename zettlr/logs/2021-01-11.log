@@ -1,0 +1,64 @@
+[15:59:32] [Info] こんにちは！ Booting Zettlr at Mon Jan 11 2021 15:59:30 GMT+0530 (India Standard Time).
+[15:59:32] [Info] Performing environment check ...
+[15:59:32] [Info] Environment check complete.
+[15:59:32] [Info] Registering custom protocol safe-file
+[15:59:32] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[15:59:33] [Info] Added DevTools extension:  Vue.js devtools
+[15:59:50] [Info] Loaded all roots in 16.731 seconds
+[16:16:59] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/DailyDo/C_this.Week/this.Day/ThisWeek.md
+[16:17:12] [Info] Saving file ThisWeek.md...
+[16:17:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/DailyDo/C_this.Week/this.Day/ThisWeek.md
+[16:17:12] [Info] Updated modtime for fileDescriptor ThisWeek.md to 1610362032107
+[16:17:12] [Info] File ThisWeek.md saved.
+[16:17:43] [Info] Saving file ThisWeek.md...
+[16:17:43] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/DailyDo/C_this.Week/this.Day/ThisWeek.md
+[16:17:43] [Info] Updated modtime for fileDescriptor ThisWeek.md to 1610362063528
+[16:17:43] [Info] File ThisWeek.md saved.
+[16:29:39] [Info] Saving file readmeAWS.md...
+[16:29:39] [Info] Updated modtime for fileDescriptor readmeAWS.md to 1610362779840
+[16:29:39] [Info] File readmeAWS.md saved.
+[16:31:08] [Info] Updated modtime for fileDescriptor AWS_CLI.md to 1609098334297
+[16:43:33] [Info] Saving file README.md...
+[16:43:34] [Error] Error saving file: ENOENT: no such file or directory, open '/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md' | Details: {"errno":-2,"code":"ENOENT","syscall":"open","path":"/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md"}
+[16:43:35] [Info] Saving file README.md...
+[16:43:35] [Error] Error saving file: ENOENT: no such file or directory, open '/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md' | Details: {"errno":-2,"code":"ENOENT","syscall":"open","path":"/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md"}
+[16:45:29] [Info] Saving file README.md...
+[16:45:29] [Error] Error saving file: ENOENT: no such file or directory, open '/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md' | Details: {"errno":-2,"code":"ENOENT","syscall":"open","path":"/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md"}
+[16:52:47] [Info] Saving file README.md...
+[16:52:47] [Error] Error saving file: ENOENT: no such file or directory, open '/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md' | Details: {"errno":-2,"code":"ENOENT","syscall":"open","path":"/home/rahu/Homebox/Whatis/AWS/2237_AWS_ExamCert/AWS/README.md"}
+[16:55:19] [Info] Saving file readmeAWS.md...
+[16:55:19] [Info] Updated modtime for fileDescriptor readmeAWS.md to 1610364319782
+[16:55:19] [Info] File readmeAWS.md saved.
+[16:55:37] [Info] こんにちは！ Booting Zettlr at Mon Jan 11 2021 16:55:37 GMT+0530 (India Standard Time).
+[16:55:37] [Info] Performing environment check ...
+[16:55:37] [Info] Environment check complete.
+[16:55:37] [Info] Registering custom protocol safe-file
+[16:55:37] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[16:55:38] [Info] Added DevTools extension:  Vue.js devtools
+[16:55:39] [Info] Loaded all roots in 0.829 seconds
+[16:56:28] [Info] Saving file readmeAWS.md...
+[16:56:28] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/Whatis/AWS/readmeAWS.md
+[16:56:28] [Info] Updated modtime for fileDescriptor readmeAWS.md to 1610364388546
+[16:56:28] [Info] File readmeAWS.md saved.
+[16:56:48] [Info] Saving file readmeAWS.md...
+[16:56:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/Whatis/AWS/readmeAWS.md
+[16:56:48] [Info] Updated modtime for fileDescriptor readmeAWS.md to 1610364408710
+[16:56:48] [Info] File readmeAWS.md saved.
+[16:57:06] [Info] [WATCHDOG] Ignore event: addDir:/home/rahu/Homebox/Whatis/AWS/Practitioner
+[16:57:18] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/Whatis/AWS/Practitioner/readmePractitioner.md
+[16:57:43] [Info] Saving file readmePractitioner.md...
+[16:57:43] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/Whatis/AWS/Practitioner/readmePractitioner.md
+[16:57:43] [Info] Updated modtime for fileDescriptor readmePractitioner.md to 1610364463519
+[16:57:43] [Info] File readmePractitioner.md saved.
+[17:14:52] [Info] Saving file readmethisDay.md...
+[17:14:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/DailyDo/C_this.Week/this.Day/readmethisDay.md
+[17:14:52] [Info] Updated modtime for fileDescriptor readmethisDay.md to 1610365492191
+[17:14:52] [Info] File readmethisDay.md saved.
+[17:15:16] [Info] Saving file readmethisDay.md...
+[17:15:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/DailyDo/C_this.Week/this.Day/readmethisDay.md
+[17:15:16] [Info] Updated modtime for fileDescriptor readmethisDay.md to 1610365516715
+[17:15:16] [Info] File readmethisDay.md saved.
+[17:15:48] [Info] Saving file readmePractitioner.md...
+[17:15:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/Whatis/AWS/Practitioner/readmePractitioner.md
+[17:15:48] [Info] Updated modtime for fileDescriptor readmePractitioner.md to 1610365548636
+[17:15:48] [Info] File readmePractitioner.md saved.

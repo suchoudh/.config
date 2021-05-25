@@ -1,0 +1,5 @@
+2020/12/05-07:20:03.565 4b46 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/05-07:20:25.331 1e80 Level-0 table #5: started
+2020/12/05-07:20:25.430 1e80 Level-0 table #5: 1553 bytes OK
+2020/12/05-07:20:25.907 1e80 Delete type=0 #3
+2020/12/05-07:20:25.908 1e80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

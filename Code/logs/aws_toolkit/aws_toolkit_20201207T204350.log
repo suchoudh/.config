@@ -1,0 +1,19 @@
+2020-12-07 20:43:50 [INFO]: log level: info
+2020-12-07 20:43:50 [INFO]: Retrieving AWS endpoint data
+2020-12-07 20:43:50 [INFO]: OS:  Linux x64 4.15.0-112-generic
+Visual Studio Code Version:  1.48.2
+AWS Toolkit Version:  1.16.0
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"session_end","Value":23464136,"EpochTimestamp":1603301245877,"Unit":"None","Passive":true,"Metadata":[{"Key":"awsAccount","Value":"n/a"}]}]}
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"session_start","Value":1,"EpochTimestamp":1607354005880,"Unit":"None","Passive":true,"Metadata":[{"Key":"awsAccount","Value":"n/a"}]}]}
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"vscode_activeRegions","Value":0,"EpochTimestamp":1607354005972,"Unit":"Count","Passive":true,"Metadata":[{"Key":"awsAccount","Value":"not-set"}]}]}
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"aws_loadCredentials","Value":1,"EpochTimestamp":1607354006340,"Unit":"Count","Passive":true,"Metadata":[{"Key":"credentialSourceId","Value":"profile"},{"Key":"awsAccount","Value":"not-set"}]}]}
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"toolkit_init","Value":1,"EpochTimestamp":1607354007426,"Unit":"None","Passive":true,"Metadata":[{"Key":"duration","Value":"1605"},{"Key":"awsAccount","Value":"344880718559"}]}]}
+
+2020-12-07 20:43:50 [WARN]: skipping invalid item in telemetry cache: {"data":[{"MetricName":"session_end","Value":13962,"EpochTimestamp":1607354019790,"Unit":"None","Passive":true,"Metadata":[{"Key":"awsAccount","Value":"n/a"}]}]}
+
+2020-12-07 20:48:52 [INFO]: Successfully sent a telemetry batch of 4

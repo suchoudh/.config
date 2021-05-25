@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="modPhotoAlbum" script:language="StarBasic">Option Explicit
+
+&apos;Impress Photo Album: Create digital photo albums with OpenOffice.org Impress
+&apos;Copyright (C) 2003, 2005 Russell Phillips
+&apos;
+&apos;This program is free software; you can redistribute it and/or modify
+&apos;it under the terms of the GNU General Public License as published by
+&apos;the Free Software Foundation; either version 2 of the License, or
+&apos;(at your option) any later version.
+&apos;
+&apos;This program is distributed in the hope that it will be useful,
+&apos;but WITHOUT ANY WARRANTY; without even the implied warranty of
+&apos;MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+&apos;GNU General Public License for more details.
+&apos;
+&apos;You should have received a copy of the GNU General Public License
+&apos;along with this program; if not, write to the Free Software
+&apos;Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA02111-1307USA
+&apos;
+&apos;The author, Russell Phillips, can be contacted at avantman42@users.sourceforge.net
+&apos;Additional authors, Jan Navratil, jnavrati@redhat.com
+
+Sub rppPhotoAlbum
+	dim oSlides as object, oAlbum as object, oPresentation as object
+	dim sDir as string, sFile as string
+	dim oDrawPage as object
+	
+	dim iChange as integer
+	dim iDuration as integer
+	dim oEffect as string
+	dim oSpeed as string
+	
+	&apos;Initialization constants
+	iChange = 1
+	iDuration = 3
+	oEffect = com.sun.star.presentation.FadeEffect.RANDOM
+	oSpeed = com.sun.star.presentation.AnimationSpeed.MEDIUM
+
+	&apos;Get directory with graphics to be imported
+	sDir = rppChooseDirectory (False, True)
+	if sDir = &quot;&quot; then
+		&apos;User cancelled directory dialogue box
+		exit sub
+	end if
+
+	&apos;Create new Impress document
+	oAlbum = StarDesktop.loadComponentFromUrl (&quot;private:factory/simpress&quot;,&quot;_blank&quot;,0,dimArray())
+	
+	&apos;Get slides
+	oSlides = oAlbum.getDrawPages
+
+	&apos;Insert slide at end, then delete existing slides, except for the new one
+	oSlides.InsertNewByIndex (oSlides.Count)
+	While oSlides.Count &gt; 1
+		oSlides.Remove (oSlides (0))
+	Wend
+	&apos;Now have one blank slide, to be used as title slide
+	oSlides(0).Name = &quot;Title&quot;
+	
+	&apos; N7DR simple sort to put photos in filename order
+	
+	dim iFiles as integer
+	iFiles = 0
+	sFile = dir(sDir)
+	While Not (sFile = &quot;&quot;)
+		if rppIsGraphicFile (sFile) then
+			iFiles = iFiles + 1
+		end if
+		sFile = dir
+	Wend
+
+	dim sFileNames(iFiles) as string
+	
+	iFiles = 0
+	sFile = dir(sDir)
+	While Not (sFile = &quot;&quot;)
+		if rppIsGraphicFile (sFile) then
+			iFiles = iFiles + 1
+			sFileNames(iFiles) = sFile
+		end if
+		sFile = dir
+	Wend
+	
+	dim sSortedFileNames(iFiles) as string
+	
+	dim iLoop1 as integer
+	dim iLoop2 as integer
+	
+	dim sName as string
+	dim iIndex as integer
+	
+	sName = &quot;&quot;
+	iIndex = 1
+	
+	for iLoop1 = 1 to iFiles
+	    sName = &quot;}&quot;
+	    iIndex = 1
+	    for iLoop2 = 1 to iFiles
+		if Not (sFilenames(iLoop2) = &quot;&quot;) then
+			if (sFileNames(iLoop2) &lt; sName) then
+				sName = sFileNames(iLoop2)
+				iIndex = iLoop2
+			end if
+		end if
+	    next iLoop2
+	    
+	    sSortedFileNames(iLoop1) = sName
+	    sFileNames(iIndex) = &quot;&quot;
+	next iLoop1
+	
+	for iIndex = 1 to iFiles
+		sFile = sSortedFileNames(iIndex)
+		
+		&apos;Add a slide for this graphic
+		oSlides.InsertNewByIndex (oSlides.Count)
+		
+		&apos;Set page changing properties included fade effect
+		oDrawPage = oSlides.getByIndex (oSlides.Count -1)
+		oDrawPage.Effect = oEffect
+		oDrawPage.Speed = oSpeed
+		oDrawPage.Change = iChange
+		oDrawPage.Duration = iDuration
+		&apos;Add graphic to slide
+		AddGraphic (oAlbum, ConvertToURL (sDir &amp; sFile), oDrawPage)
+		
+		&apos;Name slide with file name
+		oSlides (oSlides.Count - 1).Name = sFile
+	next iIndex
+	
+	&apos;Remove a title page and start presentation
+	if(oSlides(0).getName = &quot;Title&quot;) then
+		oSlides.Remove (oSlides (0))
+	end if
+	
+	if(oSlides.Count&gt;1)	then
+		oPresentation = oAlbum.getPresentation
+	
+		oPresentation.IsFullScreen = true
+		oPresentation.IsEndless = true
+		oPresentation.Pause = 0
+		oPresentation.start
+	else
+		&apos;Display message
+		msgbox &quot;Finished. &quot; &amp; CStr (oSlides.Count - 1) &amp; &quot; graphics imported&quot;, 64, &quot;Impress Photo Album&quot;
+	end if
+
+End Sub
+
+Function rppIsGraphicFile (FileName as string) as Boolean
+&apos;Function to determine if file is a graphic file
+&apos;Returns True if file is graphics file, False if not
+	dim asGraphicExt
+	dim sLFile as string
+	dim iExt as integer
+
+	&apos;asGraphicExt is array of graphics file extensions
+	asGraphicExt = Array (&quot;.bmp&quot;, &quot;.dxf&quot;, &quot;.emf&quot;, &quot;.eps&quot;, &quot;.gif&quot;, &quot;.jpg&quot;, &quot;.jpeg&quot;, &quot;.met&quot;, _
+		&quot;.pbm&quot;, &quot;.pcd&quot;, &quot;.pct&quot;, &quot;.pcx&quot;, &quot;.pgm&quot;, &quot;.png&quot;, &quot;.ppm&quot;, &quot;.psd&quot;, &quot;.ras&quot;, &quot;.sgf&quot;, _
+		&quot;.sgv&quot;, &quot;.svm&quot;, &quot;.tga&quot;, &quot;.tif&quot;, &quot;.tiff&quot;, &quot;.wmf&quot;, &quot;.xbm&quot;, &quot;.xpm&quot;)
+
+	&apos;Initialise return value to False
+	rppIsGraphicFile = False
+	
+	&apos;Convert FileName to lower-case, to make comparison simpler
+	sLFile = LCase (FileName)
+
+	&apos;Loop through asGraphicExt
+	for iExt = LBound (asGraphicExt) to UBound (asGraphicExt)
+		&apos;Check file extension against element iExt of asGraphicExt
+		If Right (sLFile, Len (asGraphicExt (iExt))) = asGraphicExt (iExt) then
+			&apos;Match: file is graphic file. Set return value to True
+			rppIsGraphicFile = True
+		end if
+	next iExt
+	
+End Function
+
+Function rppChooseDirectory (asURL as Boolean, incSeperator as Boolean) as string
+&apos;Function to allow user to choose a directory via a dialogue box
+&apos;Returns path to directory, or empty string if user cancelled
+&apos;If asURL is true, returns as a URL
+&apos;If incSeperator is true, includes seperator (\ or /) at end of string
+
+	dim dlgDirectory as Object
+	dim sReturn as string
+
+	&apos;Set up FolderPicker object &amp; initialise return value
+	dlgDirectory = CreateUnoService (&quot;com.sun.star.ui.dialogs.FolderPicker&quot;)
+	sReturn = &quot;&quot;
+
+	&apos;Display dialogue box
+	if dlgDirectory.Execute () = 1 then
+		&apos;User did not cancel dialogue box. Get path to directory
+		sReturn = CStr (dlgDirectory.GetDirectory ())
+		if asURL and incSeperator then
+			&apos;Append / at end if not already present
+			if not (Right (sReturn, 1) = &quot;/&quot;) then
+				sReturn = sReturn &amp; &quot;/&quot;
+			end if
+		elseif not (asURL) then
+			&apos;Convert sReturn from URL format
+			sReturn = ConvertFromURL (sReturn)
+			&apos;Append seperator if not already present
+			if incSeperator then
+				if not (Right (sReturn, 1) = GetPathSeparator ()) then
+					sReturn = sReturn &amp; GetPathSeparator ()
+				end if
+			end if
+		end if
+	end if
+	
+	&apos;Set function return value
+	rppChooseDirectory = sReturn
+
+End Function
+
+</script:module>

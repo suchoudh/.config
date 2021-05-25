@@ -1,0 +1,633 @@
+{
+  "Keyboard shortcut dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAGcAAAAxAAAA88AAAIgAAABnAAAAOAAAAPPAAACIAAAAAAAAAAABVY="
+  },
+  "Plugin Updater plugin:plugin updater dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAADTAAAAgwAABKcAAAKHAAAA0wAAAKEAAASnAAAChwAAAAAAAAAABVYAAADTAAAAoQAABKcAAAKH"
+  },
+  "Prefs Viewer dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAHdAAAA6QAAA44AAAH7AAAB3QAAAQUAAAOOAAAB+wAAAAAAAAAABVY="
+  },
+  "action-layout-context-menu-cover-browser": [
+    "Edit Metadata",
+    "Save To Disk",
+    "Connect Share",
+    "Copy To Library",
+    null,
+    "Convert Books",
+    "View",
+    "Open Folder",
+    "Show Book Details",
+    "Similar Books",
+    "Tweak ePub",
+    null,
+    "Remove Books",
+    "Pick Random Book"
+  ],
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    null,
+    "Store",
+    "Donate",
+    "Fetch News",
+    "Help",
+    null,
+    "Remove Books",
+    "Choose Library",
+    "Save To Disk",
+    "Connect Share",
+    "Tweak ePub",
+    "Preferences",
+    "Goodreads Sync",
+    "Count Pages",
+    "author_book_count_hierarchy",
+    "Author Mapper",
+    "Edit ToC",
+    "Mark Books",
+    "Open Folder"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    "Send To Device",
+    null,
+    null,
+    "Location Manager",
+    null,
+    null,
+    "Fetch News",
+    "Save To Disk",
+    "Store",
+    "Connect Share",
+    null,
+    "Remove Books",
+    null,
+    "Help",
+    "Preferences",
+    "Goodreads Sync",
+    "Count Pages",
+    "author_book_count_hierarchy"
+  ],
+  "add-custom-news-source-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAB+AAAAUwAABAEAAALBAAAAfgAAAGoAAAQBAAACwQAAAAAAAAAABIA="
+  },
+  "add-saved-search-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAG/AAABNAAAA58AAAHZAAABwQAAATYAAAOdAAAB1wAAAAAAAAAABVYAAAHBAAABNgAAA50AAAHX"
+  },
+  "advanced search dialog current tab": 3,
+  "advanced_search_simple_tab_focused_field": "tags_box",
+  "advanced_search_template_tab_program_field": "",
+  "advanced_search_template_tab_test_field": "0",
+  "advanced_search_template_tab_value_field": "",
+  "auto_add_check_for_duplicates": true,
+  "auto_add_everything": false,
+  "auto_add_path": null,
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA/AAAAWgAAAEKAf////8BAAAAAQA="
+  },
+  "book-details-popup-conf-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAFmAAAAfgAAA/0AAAJ1AAABaAAAAIAAAAP7AAACcwAAAAAAAAAABVYAAAFoAAAAgAAAA/sAAAJz"
+  },
+  "book_details_splitter_horizontal_state": [
+    true,
+    491
+  ],
+  "book_info_dialog_fit_cover": true,
+  "book_info_dialog_layout": [
+    {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFYAAAAOAAABBcAAAK/AAABWgAAADoAAAQVAAACvQAAAAAAAAAABVYAAAFaAAAAOgAABBUAAAK9"
+    },
+    {
+      "__class__": "bytearray",
+      "__value__": "AAAA/wAAAAEAAAACAAABXgAAAXAB/////wEAAAABAA=="
+    }
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "bulk-mde-casing-algorithm": "title_case",
+  "bulk_metadata_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAFDAAAALgAABWsAAALOAAABRQAAADAAAAVpAAACzAAAAAAAAAAABVYAAAFFAAAAMAAABWkAAALM"
+  },
+  "bulk_metadata_window_tab": 0,
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 97,
+      "collections": 108,
+      "inlibrary": 99,
+      "size": 58,
+      "timestamp": 74,
+      "title": 60
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 97,
+      "collections": 108,
+      "inlibrary": 99,
+      "size": 58,
+      "timestamp": 74,
+      "title": 60
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "catalog_csv_xml_db_fields": [
+    "rating",
+    "title",
+    "author_sort",
+    "authors",
+    "tags",
+    "comments",
+    "cover",
+    "timestamp",
+    "formats",
+    "isbn",
+    "identifiers",
+    "languages",
+    "library_name",
+    "ondevice",
+    "pubdate",
+    "publisher",
+    "series",
+    "series_index",
+    "size",
+    "title_sort",
+    "id",
+    "uuid"
+  ],
+  "catalog_csv_xml_db_fields_sort_order": {
+    "author_sort": 2,
+    "authors": 3,
+    "comments": 5,
+    "cover": 6,
+    "formats": 8,
+    "id": 20,
+    "identifiers": 10,
+    "isbn": 9,
+    "languages": 11,
+    "library_name": 12,
+    "ondevice": 13,
+    "pubdate": 14,
+    "publisher": 15,
+    "rating": 0,
+    "series": 16,
+    "series_index": 17,
+    "size": 18,
+    "tags": 4,
+    "timestamp": 7,
+    "title": 1,
+    "title_sort": 19,
+    "uuid": 21
+  },
+  "catalog_epub_mobi_cross_reference_authors": true,
+  "catalog_epub_mobi_exclude_genre": "\\[.+\\]|^\\+$",
+  "catalog_epub_mobi_exclusion_rules_tw": [
+    {
+      "enabled": true,
+      "field": "Tags",
+      "name": "Catalogs",
+      "ordinal": 0,
+      "pattern": "Catalog"
+    }
+  ],
+  "catalog_epub_mobi_generate_authors": true,
+  "catalog_epub_mobi_generate_descriptions": true,
+  "catalog_epub_mobi_generate_genres": true,
+  "catalog_epub_mobi_generate_new_cover": true,
+  "catalog_epub_mobi_generate_recently_added": true,
+  "catalog_epub_mobi_generate_series": true,
+  "catalog_epub_mobi_generate_titles": true,
+  "catalog_epub_mobi_genre_source_field": "Tags",
+  "catalog_epub_mobi_header_note_source_field": "",
+  "catalog_epub_mobi_include_hr": true,
+  "catalog_epub_mobi_merge_after": false,
+  "catalog_epub_mobi_merge_before": false,
+  "catalog_epub_mobi_merge_source_field": "",
+  "catalog_epub_mobi_prefix_rules_tw": [
+    {
+      "enabled": true,
+      "field": "Tags",
+      "name": "Read book",
+      "ordinal": 0,
+      "pattern": "",
+      "prefix": "✓"
+    },
+    {
+      "enabled": true,
+      "field": "Tags",
+      "name": "Wishlist item",
+      "ordinal": 1,
+      "pattern": "",
+      "prefix": "×"
+    }
+  ],
+  "catalog_epub_mobi_preset_field": "",
+  "catalog_epub_mobi_thumb_width": "1.0",
+  "catalog_epub_mobi_use_existing_cover": false,
+  "comments_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAJuAAAArAAAA/0AAAJXAAACbgAAAMgAAAP9AAACVwAAAAAAAAAABVY="
+  },
+  "convert_bulk_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAC2AAAAGAAABLUAAALvAAAAtgAAADQAAAS1AAAC7wAAAAAAAAAABVY="
+  },
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAC2AAAAGAAABLUAAALvAAAAtgAAADQAAAS1AAAC7wAAAAAAAAAABVY="
+  },
+  "cover_browser_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAADZAAABQAAABGoAAAPqAAAA2wAAAUAAAARoAAAD6AAAAAAAAAAABVYAAADbAAABQAAABGgAAAPo"
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    150
+  ],
+  "cover_generation_save_settings_for_future": true,
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_texture": null,
+  "cover_settings_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAADxAAAAPQAAA9QAAAJ9AAAA8QAAAFIAAAPUAAACfQAAAAAAAAAABIA="
+  },
+  "custcol-prefs-table-geometry": [
+    80,
+    73,
+    294,
+    61
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "default_author_link": null,
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAJTAAAAqwAABKYAAALjAAACVQAAAK0AAASkAAAC4QAAAAAAAAAABVYAAAJVAAAArQAABKQAAALh"
+  },
+  "edit-add-filter-rule-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAEuAAABJwAABD0AAAG9AAABLgAAAUMAAAQ9AAABvQAAAAAAAAAABVY="
+  },
+  "edit-file-filter-rules-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAADxAAAAqgAABCYAAAJWAAAA8QAAAMYAAAQmAAACVgAAAAAAAAAABVY="
+  },
+  "edit-tag-mapper-rule-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAFLAAABJwAABCAAAAHeAAABSwAAAUMAAAQgAAAB3gAAAAAAAAAABVY="
+  },
+  "edit-tag-mapper-rules-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAADxAAAAuwAABCYAAAJFAAAA8QAAANcAAAQmAAACRQAAAAAAAAAABVY="
+  },
+  "exim-calibre-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAH8AAAAcQAABR8AAALMAAAB/gAAAHMAAAUdAAACygAAAAAAAAAABVYAAAH+AAAAcwAABR0AAALK"
+  },
+  "filename_pattern_history": [
+    "(?P<title>.+)",
+    "(?P<author>[^_-]+) -?\\s*(?P<series>[^_0-9-]*)(?P<series_index>[0-9]*)\\s*-\\s*(?P<title>[^_].+) ?",
+    "(?P<title>.+) - (?P<author>[^_]+)"
+  ],
+  "goodreads sync plugin:add remove dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAEZAAAArwAABCwAAAH/AAABGwAAAK8AAAQqAAAB/QAAAAAAAAAABVY="
+  },
+  "goodreads sync plugin:add remove dialog:other_prefs": {
+    "display_active_shelves": true,
+    "last_selected_shelves": [
+      "to-read"
+    ]
+  },
+  "goodreads sync plugin:pick goodreads book dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAGxAAAAeQAAA7oAAAJrAAABsQAAAJUAAAO6AAACawAAAAAAAAAABVY="
+  },
+  "grid view visible": true,
+  "job-detail-view-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAElAAAA6QAAA+AAAAL6AAABJQAAAQcAAAPgAAAC+gAAAAAAAAAABVY="
+  },
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA/kAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABeQAAAAEAAAAAAAABVAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AD/////"
+  },
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAFEAAABNQAAA90AAAKQAAABRgAAATcAAAPbAAACjgAAAAAAAAAABVYAAAFGAAABNwAAA9sAAAKO"
+  },
+  "library_usage_stats": {
+    "/home/rahu/Calibre_1": 226
+  },
+  "manage-saved-searches-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAF9AAAAzwAAA9gAAALGAAABfwAAANEAAAPWAAACxAAAAAAAAAAABVYAAAF/AAAA0QAAA9YAAALE"
+  },
+  "manage_authors_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAAtAAAAGwAABVUAAAL/AAAALQAAAOMAAAMsAAACVAAAAAACAAAABVY="
+  },
+  "manage_authors_table_widths": [
+    421,
+    229,
+    229
+  ],
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 97,
+      "collections": 108,
+      "inlibrary": 99,
+      "size": 58,
+      "timestamp": 74,
+      "title": 60
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "metadata_single_gui_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAEYAAAAcAAABG0AAALJAAABGgAAAHAAAARrAAACxwAAAAAAAAAABVYAAAEaAAAAcAAABGsAAALH"
+  },
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAIJAAAAOwAABs4AAALiAAACCwAAAD0AAAbMAAAC4AAAAAAAAAAABVYAAAILAAAAPQAABswAAALg"
+  },
+  "plugin config dialog:Device Interface:Android driver": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAGlAAAAEwAAA1sAAAKiAAABpQAAACoAAANbAAACogAAAAAAAAAABQA="
+  },
+  "plugin config dialog:User Interface Action:Count Pages": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAGaAAAAGAAAA9IAAALNAAABmgAAADQAAAPSAAACzQAAAAAAAAAABVY="
+  },
+  "plugin config dialog:User Interface Action:Goodreads Sync": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAACMAAAAMwAABA4AAALxAAAAjAAAAE8AAAQOAAAC8QAAAAAAAAAABVY="
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAC/AAAABwAABGQAAAKvAAAAwQAAAAkAAARiAAACrQAAAAAAAAAABVYAAADBAAAACQAABGIAAAKt"
+  },
+  "previous_sort_order_BooksView": {
+    "authors": false,
+    "last_modified": true,
+    "rating": false,
+    "timestamp": false,
+    "title": false
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "quickview_dialog_books_table_widths": [
+    189,
+    189,
+    189
+  ],
+  "quickview_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAEnAAAAxgAABCoAAAIfAAABKQAAAMgAAAQoAAACHQAAAAAAAAAABVYAAAEpAAAAyAAABCgAAAId"
+  },
+  "quickview_dialog_heights": [
+    248,
+    318
+  ],
+  "quickview_is_pane": false,
+  "recently_used_languages": [
+    "English",
+    "Chinese",
+    "Hindi",
+    "Sanskrit",
+    "Telugu"
+  ],
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
+  ],
+  "scheduler_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAAAAABVUAAAL/AAABLAAAAFwAAARDAAACmgAAAAAABAAABVYAAAAAAAAAAAAABVUAAAL/"
+  },
+  "search bar visible": true,
+  "server3_warning_done": true,
+  "show_emblems": false,
+  "show_size_on_cover_edit_metadata_cover_widget": true,
+  "show_vl_tabs": true,
+  "single-cover-fetch-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAELAAAAPAAABGAAAAKXAAABDQAAAD4AAAReAAAClQAAAAAAAAAABVYAAAENAAAAPgAABF4AAAKV"
+  },
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    351
+  ],
+  "tag_editor_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAEyAAAAGwAABFAAAAL/AAABMgAAADkAAARQAAAC/wAAAAAAAAAABVY="
+  },
+  "tag_editor_last_filter": "available_filter_input",
+  "tag_list_editor_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAABLAAAAfwAAAq8AAAH+AAAATQAAAIEAAAKtAAAB/AAAAAAAAAAABVYAAABNAAAAgQAAAq0AAAH8"
+  },
+  "tag_list_editor_table_widths": [
+    298,
+    172,
+    172
+  ],
+  "test-file-filter-rules-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAG2AAABJgAAA04AAAHBAAABtgAAAUIAAANOAAABwQAAAAAAAAAABVY="
+  },
+  "test-tag-mapper-rules-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywACAAAAAAGMAAABFAAAA3gAAAHUAAABlgAAAToAAANuAAABygAAAAAAAAAABVY="
+  },
+  "toolbar_icon_size": "small",
+  "toolbar_text": "auto",
+  "ui_style": "calibre",
+  "worker_max_time": 1
+}

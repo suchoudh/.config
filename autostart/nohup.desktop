@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=java -jar "/home/rahu/ThinkingClock/ThinkingClock.jar"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_IN]=thinkingClock
+Name=thinkingClock
+Comment[en_IN]=thinking clock starting
+Comment=thinking clock starting

@@ -1,0 +1,15 @@
+[Job0]
+Command[$e]=$HOME/Music/01 It's Probably Me.mp3
+Delay=100
+Loop=true
+OneInstance=true
+State=1
+
+[Job1]
+Delay=100
+Loop=false
+OneInstance=true
+State=0
+
+[Jobs]
+Number=2

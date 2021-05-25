@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="Pitonyak" script:language="StarBasic">&apos;Impress Photo Album: Create digital photo albums with OpenOffice.org Impress
+&apos;Copyright (C) 2003, 2005 Russell Phillips (but see note below)
+&apos;
+&apos;This program is free software; you can redistribute it and/or modify
+&apos;it under the terms of the GNU General Public License as published by
+&apos;the Free Software Foundation; either version 2 of the License, or
+&apos;(at your option) any later version.
+&apos;
+&apos;This program is distributed in the hope that it will be useful,
+&apos;but WITHOUT ANY WARRANTY; without even the implied warranty of
+&apos;MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the
+&apos;GNU General Public License for more details.
+&apos;
+&apos;You should have received a copy of the GNU General Public License
+&apos;along with this program; if not, write to the Free Software
+&apos;Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA02111-1307USA
+&apos;
+&apos;The author, Russell Phillips, can be contacted at avantman42@users.sourceforge.net
+&apos;
+&apos;The code in this module is derived from code in Andrew Pitonyak&apos;s excellent book,
+&apos;OpenOffice.org Macros Explained (http://www.pitonyak.org/book/)
+
+Sub AddGraphic (oAlbum, sURL, oDrawPage)
+	Dim oGraph &apos;The created graphics image
+	Dim oNewSize As New com.sun.star.awt.Size&apos;New Image size
+	Dim oBitmapSize As New com.sun.star.awt.Size &apos;Bitmap size
+	Dim dImageRatio As Double &apos;Ratio of the height to width
+	Dim dPageRatio As Double&apos;Ratio of the height to width
+	Dim oPosition as new com.sun.star.awt.Point
+
+	&apos;Create a graphics object that can be inserted into the document
+	oGraph = oAlbum.createInstance(&quot;com.sun.star.drawing.GraphicObjectShape&quot;)
+
+	&apos;Add graphic
+	oGraph.GraphicURL = sURL
+	oDrawPage.add(oGraph)
+
+	oBitmapSize = oGraph.GraphicObjectFillBitmap.GetSize
+	dImageRatio = CDbl(oBitmapSize.Height) / CDbl(oBitmapSize.Width)
+	dPageRatio = CDbl(oDrawPage.Height) / CDbl(oDrawPage.Width)
+	
+	&apos; Compare the ratios to see which is wider, relatively speaking.
+	If dPageRatio &gt; dImageRatio Then
+		oNewSize.Width = oDrawPage.Width
+		oNewSize.Height = CLng(CDbl(oDrawPage.Width) * dImageRatio)
+	Else
+		oNewSize.Width = CLng(CDbl(oDrawPage.Height) / dImageRatio)
+		oNewSize.Height = oDrawPage.Height
+	End If
+
+	&apos;Center the image
+	oPosition.X = (oDrawPage.Width - oNewSize.Width)/2
+	oPosition.Y = (oDrawPage.Height - oNewSize.Height)/2
+	
+	oGraph.SetSize(oNewSize)
+	oGraph.SetPosition(oPosition)
+end sub
+
+
+
+
+</script:module>

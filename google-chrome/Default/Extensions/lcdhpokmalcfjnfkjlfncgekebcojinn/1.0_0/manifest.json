@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.steambirds.com/"
+      },
+      "urls": [ "http://www.steambirds.com/" ]
+   },
+   "description": "Face off against increasingly deadly waves of enemies in this aerial strategy game.",
+   "icons": {
+      "128": "SteamBirdsSurvival_128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQChPM+S5ZWYxgi1rpwdBUgYQQ3uP199reeS9GG2qXo9HI0aU3jx5GeBu8G79FD9P00t2ixXlwt4OtPhQZxCYinz7t1yx2Qj7GVNPEzpLgtFgrRZl0V1ICb4fTpd4DMDDbOesMeSS5yfCoNdU3C0NTbsEJ9s1QP8w0ZlTmGk2IJTpwIDAQAB",
+   "name": "Steambirds: Survival",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

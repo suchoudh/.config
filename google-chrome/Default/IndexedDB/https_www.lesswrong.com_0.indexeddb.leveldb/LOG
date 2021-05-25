@@ -1,0 +1,5 @@
+2020/12/24-19:15:14.392 462e Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.lesswrong.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-20:27:27.436 473b Level-0 table #5: started
+2020/12/24-20:27:27.469 473b Level-0 table #5: 5153 bytes OK
+2020/12/24-20:27:27.521 473b Delete type=0 #3
+2020/12/24-20:27:27.521 473b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

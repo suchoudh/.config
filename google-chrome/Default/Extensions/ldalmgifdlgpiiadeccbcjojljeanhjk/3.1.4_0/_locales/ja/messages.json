@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "複数のタグは、コンマで区切る必要があります。タグは、2文字以上必要であり、スペース、#、/、\\などの特殊文字を使用できません。"
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "タグの追加"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "ウェブコンテンツをプレーンファイルで収集整理します。"
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "TagSpacesを起動"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "ウェブコンテンツのキャプチャ"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "TagSpacesのデスクトップアプリで収集したコンテンツを整理します。自由に利用できます。"
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "ファイルのダウンロード"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "オリジナルのファイルフォーマットでファイルをダウンロードします。"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "ファイルのタイトルを編集"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "ページ全体の保存"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "1つのMHTMLファイルとして画像を含む全ページを元のデザインを維持したまま保存します。"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "選択を保存"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "ブックマークの作成"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Windows®とMac OS®と互換性のあるURLファイルとして現在のページのブックマークを保存します。"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "保存方法の選択"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "編集可能ページの保存"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "1つのHTMLファイルとして画像を含む全ページを保存します。元のデザインは、維持されないでしょう。"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "スクリーンショットの撮影"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "PNGファイルとして表示しているページ範囲のスクリーンショットを撮影します。ブラウザウィンドウのサイズを変更して、スクリーンショットの正確な範囲にフォーカスを合わせます。"
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "1つのHTMLファイルとして画像を含む選択されたコンテンツをセーブします。"
+   }
+}

@@ -1,0 +1,7 @@
+Error logs for this session are permanently stored in /home/rahu/.config/Code/logs/aws_toolkit/aws_toolkit_20201228T033444.log
+2020-12-28 03:34:48 [INFO]: log level: info
+2020-12-28 03:34:48 [INFO]: Retrieving AWS endpoint data
+2020-12-28 03:34:48 [INFO]: OS:  Linux x64 4.15.0-124-generic
+Visual Studio Code Version:  1.52.0
+AWS Toolkit Version:  1.17.0
+

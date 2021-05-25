@@ -1,0 +1,2 @@
+[2021-05-14 11:58:07.527] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/rahu/sarthak/taskwarrior/.vscode'
+[2021-05-14 11:59:23.698] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-vscode.js-debug' took 100% of 1598.451ms, saved PROFILE here: '/tmp/exthost-257f9c.cpuprofile' [{"id":"ms-vscode.js-debug","total":1598326,"percentage":100}]

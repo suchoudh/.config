@@ -1,0 +1,5 @@
+2020/12/03-20:06:38.413 4767 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.lottosmile.in_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/03-20:36:18.993 425e Level-0 table #5: started
+2020/12/03-20:36:19.026 425e Level-0 table #5: 30021 bytes OK
+2020/12/03-20:36:19.077 425e Delete type=0 #3
+2020/12/03-20:36:19.078 425e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,22 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "http://chromebounceball.appspot.com/"
+      },
+      "web_content": {
+         "enabled": true,
+         "origin": "http://chromebounceball.appspot.com/"
+      }
+   },
+   "description": "Run with the ever bouncing chrome ball in this (almost) never ending platform game.",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDraDXEryQiXzBA6KpcHCxHElHTKsSPJdBpPZTFte8WSNk6kyzZO6OmEbYrBdUQE/Fo3iy167doAnQNaiWyf1dtnEKPci8DXIBcK4n6et7BnWs/hZo2dbEMybWJXov6Rm8pKKcX9yO5s1wLqjJB2Q/pEZdbzm4Zrf64BeY3dOgezQIDAQAB",
+   "name": "Bounceball",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

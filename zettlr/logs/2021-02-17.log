@@ -1,0 +1,276 @@
+[14:44:23] [Info] こんにちは！ Booting Zettlr at Wed Feb 17 2021 14:44:22 GMT+0530 (India Standard Time).
+[14:44:23] [Info] Performing environment check ...
+[14:44:23] [Info] Environment check complete.
+[14:44:23] [Info] Registering custom protocol safe-file
+[14:44:23] [Info] Migrating from 1.7.1 to 1.8.1!
+[14:44:23] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[14:44:24] [Info] Clearing the FSAL cache ...
+[14:44:24] [Info] Added DevTools extension:  Vue.js devtools
+[14:44:24] [Info] Cache cleared!
+[14:44:33] [Info] Loaded all roots in 9.216 seconds
+[14:46:33] [Info] Saving file readme.md...
+[14:46:33] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/006ReimburseMent/readme.md
+[14:46:33] [Info] Updated modtime for fileDescriptor readme.md to 1613553393093
+[14:46:33] [Info] File readme.md saved.
+[14:46:52] [Info] Saving file readme.md...
+[14:46:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/006ReimburseMent/readme.md
+[14:46:52] [Info] Updated modtime for fileDescriptor readme.md to 1613553412112
+[14:46:52] [Info] File readme.md saved.
+[14:47:00] [Info] Saving file readme.md...
+[14:47:00] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/006ReimburseMent/readme.md
+[14:47:00] [Info] Updated modtime for fileDescriptor readme.md to 1613553420908
+[14:47:00] [Info] File readme.md saved.
+[14:47:47] [Info] Saving file readme.md...
+[14:47:47] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/006ReimburseMent/readme.md
+[14:47:47] [Info] Updated modtime for fileDescriptor readme.md to 1613553467823
+[14:47:47] [Info] File readme.md saved.
+[14:52:02] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0709godis-thumb-4.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0711thankyouthankyou-5.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0Screenshot from 2017-04-20.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0Screenshot from 2017-04-21.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0dinosaur.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0zzzzzz7654105.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0zzzzzz7654130-6.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/14334445_168208933624815_3227541693855170560_n.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/25ed4f5c0c31d2471c7f0fefb53e6225.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/2be4b325-668a-4e0b-b979-da2b9f309958-large.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/7bc160859a94e15bd350ce6d0a7e21d7.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/Getting Old Cartoon.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0images.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0images.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0imasasasages.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_114446615687-thumb-5.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_imadsssges.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/brain001JPEG B-thumb.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/exportOption_not_there.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/fdd.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/hjsdert02A-2.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imabbbbmnges.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imagejjjs.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imagrdftes.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imakmges.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imamnges.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/immnnbnnmages.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imssddsssaages.jpeg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy2.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy3.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy5.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy6.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/rulesxtheGame.png
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/shipofOrder.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/stupid002-thumb-2.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/thefuturebelongs219-thumb-4.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/vayner-media-1211-01j-550x432.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/zzzzazzdggg52.jpg
+[14:52:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/zzzzzz7654144ego-2.jpg
+[14:52:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/yoda-man.png
+[14:52:20] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/Untitled Folder
+[14:52:45] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/Untitled Folder
+[14:52:45] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid
+[14:52:50] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0709godis-thumb-4.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0711thankyouthankyou-5.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0Screenshot from 2017-04-20.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0Screenshot from 2017-04-21.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0dinosaur.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0zzzzzz7654105.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/0zzzzzz7654130-6.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/14334445_168208933624815_3227541693855170560_n.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/25ed4f5c0c31d2471c7f0fefb53e6225.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/2be4b325-668a-4e0b-b979-da2b9f309958-large.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/7bc160859a94e15bd350ce6d0a7e21d7.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/Getting Old Cartoon.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/_0images.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/_0images.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/_0imasasasages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/_114446615687-thumb-5.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/_imadsssges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/brain001JPEG B-thumb.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/exportOption_not_there.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/fdd.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/hjsdert02A-2.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imabbbbmnges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imagejjjs.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imagrdftes.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imakmges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imamnges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/immnnbnnmages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/imssddsssaages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/lappy2.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/lappy3.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/lappy5.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/lappy6.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/rulesxtheGame.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/shipofOrder.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/stupid002-thumb-2.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/thefuturebelongs219-thumb-4.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/vayner-media-1211-01j-550x432.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/zzzzazzdggg52.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/gapingvoid/zzzzzz7654144ego-2.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0709godis-thumb-4.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0711thankyouthankyou-5.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0Screenshot from 2017-04-20.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0Screenshot from 2017-04-21.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0dinosaur.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0zzzzzz7654105.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0zzzzzz7654130-6.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/14334445_168208933624815_3227541693855170560_n.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/25ed4f5c0c31d2471c7f0fefb53e6225.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/2be4b325-668a-4e0b-b979-da2b9f309958-large.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/7bc160859a94e15bd350ce6d0a7e21d7.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/Getting Old Cartoon.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0images.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0images.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_0imasasasages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_114446615687-thumb-5.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/_imadsssges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/brain001JPEG B-thumb.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/exportOption_not_there.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/fdd.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/hjsdert02A-2.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imabbbbmnges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imagejjjs.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imagrdftes.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imakmges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imamnges.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/immnnbnnmages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/imssddsssaages.jpeg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy2.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy3.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy5.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/lappy6.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/rulesxtheGame.png
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/shipofOrder.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/stupid002-thumb-2.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/thefuturebelongs219-thumb-4.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/vayner-media-1211-01j-550x432.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/zzzzazzdggg52.jpg
+[14:52:50] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/zzzzzz7654144ego-2.jpg
+[14:52:53] [Error] Could not process remote change, as no fitting descriptor was found | Details: {"event":"unlink","path":"/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/gapingvoid/0709godis-thumb-4.jpg"}
+[14:57:42] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/0©-Dato-Koridze.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/0©-Dato-Koridze.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/002.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/002.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/003.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/003.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/004.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/004.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/9f3226993a832e31-godzilla001.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/012.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/012ae7d7803725f1-fatlady.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/022.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/022.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/023.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/029.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/031R2.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/034.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/037.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/31b2ea9866609b37-racecar.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/34b9627f0aca8532-poster.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/049.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019-12-31-131300_1141x665_scrot.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019-12-31-131300_1141x665_scrot.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019-12-31-131406_1074x648_scrot.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019-12-31-131406_1074x648_scrot.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019-12-31-131541_1332x715_scrot.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019promptlist.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/2019promptlist.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/4774.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/alexandra-small.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/alexandra-small.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/antico.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/antico.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/baa1a74f02d82e0e-towtruck.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/banksy.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/banksy.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Bharat_Mata.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Bharat_Mata.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/budapestPainting.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/budapestPainting.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/buzz.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/buzz.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/culturewall111.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/culturewall111.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/d41586-019-02969-8_17222542.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/douglusAdams.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/douglusAdams.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/DYLUWRrXkAE5NUA.jpg:large.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/DYLUWRrXkAE5NUA.jpg:large.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/earth_temperature_timeline_xkcd.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/earth_temperature_timeline_xkcd.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/eienstienGrades.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/eienstienGrades.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/ELBJhb6W4AANpTk.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/ELBJhb6W4AANpTk.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/fiberOpticsWings.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/GLOB TEK 2438.pdf
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/GLOB TEK 2438.pdf
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/goodt000e.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/goodt000e.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/goodtree.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/goodtree.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/googleCar.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/googleCar.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/home-insurance-building.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/images.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/jf20chapter3phones5.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/jf20chapter3phones5.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/john-deere-plow.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/john-deere-plow.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Julie-Mehretu-at-work.-Courtesy-the-artist-and-Marian-Goodman-Gallery---Julie-Mehretu-photo-Tom-Powel-Imaging-Inc..jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Julie-Mehretu-at-work.-Courtesy-the-artist-and-Marian-Goodman-Gallery---Julie-Mehretu-photo-Tom-Powel-Imaging-Inc..jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Kalighat_Shitala.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Kalighat_Shitala.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/kermit_Xray.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/kermit_Xray.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/KUNDALI.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/linchpin-XY.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/marioyoshi.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/medium-Jan_Cossiers_-_Prometheus_Carrying_Fire.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/menstrual.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/menstrual.png
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/MM-Cover.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/modi_practice.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/monalisa.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/monalisa.jpg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/naoshima.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/naoshima.jpeg
+[14:57:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/NBoseFeat2.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/NBoseFeat2.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/porco.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/qs.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/qs.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/redbeangrowsinSouth_WeiWei.jpeg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/redcoatlg.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Screenshot from 2019-10-21 19-55-12.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Screenshot from 2019-11-20 20-43-23.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Screenshot from 2019-11-22 21-07-06.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/runsmb.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/santasszoofinalsm+copy.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/screenshot.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/screenshot_delay.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Screenshot from 2019-12-02 21-35-13.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Screenshot from 2019-12-22 21-17-50.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/spacemario.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/spideyJakeparker.jpeg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tattoobot.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tetrachromat.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tetrachromat2.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tetrachromatWomenOnly.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tilak.jpeg
+[14:57:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/tilak.jpeg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/TW_Interior_ATWOOD_Final_Art.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/TW_Interior_ATWOOD_Final_Art.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/umbHK.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/umbrellaHK.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/umbrella_HK.jpg
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/urbanPlannerDreamPizza.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/urbanPlannerDreamPizza.png
+[14:57:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/welldoneNarendra.jpeg
+[15:13:20] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/999EarnVia/ReducingMoneyLeakages/readmeReduceLeakageofMoney.md
+[15:14:14] [Info] Saving file readmeReduceLeakageofMoney.md...
+[15:14:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/999EarnVia/ReducingMoneyLeakages/readmeReduceLeakageofMoney.md
+[15:14:14] [Info] Updated modtime for fileDescriptor readmeReduceLeakageofMoney.md to 1613555054965
+[15:14:14] [Info] File readmeReduceLeakageofMoney.md saved.

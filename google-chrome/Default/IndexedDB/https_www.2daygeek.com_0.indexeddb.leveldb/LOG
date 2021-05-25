@@ -1,0 +1,5 @@
+2020/12/15-02:46:30.370 7937 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.2daygeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-02:46:45.061 4dee Level-0 table #5: started
+2020/12/15-02:46:45.127 4dee Level-0 table #5: 1031 bytes OK
+2020/12/15-02:46:45.243 4dee Delete type=0 #3
+2020/12/15-02:46:45.243 4dee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

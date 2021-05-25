@@ -1,0 +1,49 @@
+{
+   "addto": {
+      "message": "添加到"
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "通过随笔记扩展程序快速添加笔记到随笔记账户"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "随笔记"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "createFail": {
+      "message": "笔记创建失败，请重试"
+   },
+   "createSuccess": {
+      "message": "笔记创建成功"
+   },
+   "createSuccessCheck": {
+      "message": "查看创建的笔记"
+   },
+   "defaultDomain": {
+      "message": "suibiji.com"
+   },
+   "folder": {
+      "message": "选择文件夹"
+   },
+   "login": {
+      "message": "重新登录"
+   },
+   "needLogin": {
+      "message": "当前用户已登出，请"
+   },
+   "placeholder": {
+      "message": "内容"
+   },
+   "return": {
+      "message": "返回"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "screenCapture": {
+      "message": "截屏"
+   }
+}

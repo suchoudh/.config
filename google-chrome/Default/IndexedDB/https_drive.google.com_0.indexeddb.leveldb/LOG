@@ -1,0 +1,15 @@
+2021/04/29-11:03:49.559 71e4 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-11:03:49.561 71e4 Recovering log #984
+2021/04/29-11:03:49.561 71e4 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000984.log 
+2021/04/29-11:04:41.335 71aa Level-0 table #1006: started
+2021/04/29-11:04:42.426 71aa Level-0 table #1006: 22589 bytes OK
+2021/04/29-11:04:42.559 71aa Delete type=0 #984
+2021/04/29-11:04:42.559 71aa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-11:04:42.559 71aa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x04\x02\x01\x17\x001\x000\x003\x001\x006\x005\x000\x008\x006\x007\x007\x004\x001\x007\x004\x001\x000\x003\x002\x001\x009\x00:\x001' @ 414177 : 1
+2021/04/29-11:04:42.559 71aa Compacting 1@1 + 1@2 files
+2021/04/29-11:04:42.767 71aa Generated table #1007@1: 2290 keys, 2126811 bytes
+2021/04/29-11:04:42.767 71aa Compacted 1@1 + 1@2 files => 2126811 bytes
+2021/04/29-11:04:42.841 71aa compacted to: files[ 0 0 14 0 0 0 0 ]
+2021/04/29-11:04:42.841 71aa Delete type=2 #989
+2021/04/29-11:04:42.842 71aa Delete type=2 #1006
+2021/04/29-11:04:42.849 71aa Manual compaction at level-1 from '\x00\x01\x04\x02\x01\x17\x001\x000\x003\x001\x006\x005\x000\x008\x006\x007\x007\x004\x001\x007\x004\x001\x000\x003\x002\x001\x009\x00:\x001' @ 414177 : 1 .. (end); will stop at (end)

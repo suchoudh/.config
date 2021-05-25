@@ -1,0 +1,38 @@
+[Print Settings]
+cups-NupOrient=port
+print-at-time=
+cups-job-sheets=none,none
+print-at=now
+cups-Duplex=None
+cups-halftone=default
+cups-number-up=1
+cover-before=none
+cups-Resolution=1200x600dpi
+duplex=simplex
+cover-after=none
+cups-InputSlot=Auto
+evince-print-setting-page-size=false
+resolution-x=1200
+resolution-y=600
+default-source=Auto
+media-type=Plain
+evince-print-setting-page-scale=1
+resolution=1200
+cups-NupPages=1up
+cups-Quality=normal
+cups-MediaType=Plain
+cups-job-priority=50
+evince-print-setting-page-autorotate=true
+printer=HP-LaserJet-M1005
+cups-Density=Density3
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

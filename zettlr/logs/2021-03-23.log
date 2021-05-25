@@ -1,0 +1,12 @@
+[16:27:48] [Info] こんにちは！ Booting Zettlr at Tue Mar 23 2021 16:27:48 GMT+0530 (India Standard Time).
+[16:27:48] [Info] Performing environment check ...
+[16:27:48] [Info] Environment check complete.
+[16:27:48] [Info] Registering custom protocol safe-file
+[16:27:49] [Info] Migrating from 1.7.1 to 1.8.1!
+[16:27:49] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[16:27:49] [Info] Clearing the FSAL cache ...
+[16:27:49] [Info] Added DevTools extension:  Vue.js devtools
+[16:27:50] [Info] Cache cleared!
+[16:27:50] [Info] Loaded all roots in 1.217 seconds
+[16:29:32] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20210321_191957.png
+[17:47:44] [Info] さようなら！ Shutting down at Tue Mar 23 2021 17:47:44 GMT+0530 (India Standard Time)

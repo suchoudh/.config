@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Calendar
+Comment=Access, and manage calendar
+Exec=gnome-calendar 
+Icon=org.gnome.Calendar
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Office;Calendar;Core;
+Keywords=Calendar;Event;Reminder;
+MimeType=text/calendar;
+DBusActivatable=true
+X-Ubuntu-Gettext-Domain=gnome-calendar
+X-GNOME-Autostart-enabled=false

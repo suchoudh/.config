@@ -1,0 +1,5 @@
+2020/12/21-19:43:28.528 262 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_planetstoryline.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/21-20:43:20.995 354c Level-0 table #5: started
+2020/12/21-20:43:21.057 354c Level-0 table #5: 6045 bytes OK
+2020/12/21-20:43:21.176 354c Delete type=0 #3
+2020/12/21-20:43:21.177 354c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

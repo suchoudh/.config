@@ -1,0 +1,8 @@
+2021/01/07-01:48:43.225 6743 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/07-01:48:43.225 6743 Recovering log #25
+2021/01/07-01:48:43.225 6743 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000025.log 
+2021/01/07-01:49:19.833 195f Level-0 table #29: started
+2021/01/07-01:49:19.833 195f Level-0 table #29: 0 bytes OK
+2021/01/07-01:49:19.904 195f Delete type=0 #25
+2021/01/07-01:49:19.905 195f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/07-01:49:19.905 195f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

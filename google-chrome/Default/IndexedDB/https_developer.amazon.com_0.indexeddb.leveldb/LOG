@@ -1,0 +1,5 @@
+2020/12/10-09:42:20.713 5a6 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_developer.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-09:42:36.687 7ad Level-0 table #5: started
+2020/12/10-09:42:36.721 7ad Level-0 table #5: 1354 bytes OK
+2020/12/10-09:42:36.789 7ad Delete type=0 #3
+2020/12/10-09:42:36.789 7ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

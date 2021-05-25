@@ -1,0 +1,5 @@
+2020/12/04-20:41:54.058 1ef7 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_howto.thec2matrix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-20:46:28.001 3410 Level-0 table #5: started
+2020/12/04-20:46:28.341 3410 Level-0 table #5: 1124 bytes OK
+2020/12/04-20:46:28.449 3410 Delete type=0 #3
+2020/12/04-20:46:28.450 3410 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
