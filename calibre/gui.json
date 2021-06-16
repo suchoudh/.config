@@ -124,7 +124,7 @@
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAFDAAAALgAABWsAAALOAAABRQAAADAAAAVpAAACzAAAAAAAAAAABVYAAAFFAAAAMAAABWkAAALM"
+    "__value__": "AdnQywADAAAAAAFFAAAALgAABW0AAALOAAABRwAAADAAAAVrAAACzAAAAAAAAAAABVYAAAFHAAAAMAAABWsAAALM"
   },
   "bulk_metadata_window_tab": 0,
   "card_a_view books view state": {
@@ -288,7 +288,7 @@
   },
   "convert_bulk_dialog_geom": {
     "__class__": "bytearray",
-    "__value__": "AdnQywACAAAAAAC2AAAAGAAABLUAAALvAAAAtgAAADQAAAS1AAAC7wAAAAAAAAAABVY="
+    "__value__": "AdnQywADAAAAAAC2AAAAMgAABLkAAALxAAAAuAAAADQAAAS3AAAC7wAAAAAAAAAABVYAAAC4AAAANAAABLcAAALv"
   },
   "convert_single_dialog_geom": {
     "__class__": "bytearray",
@@ -420,7 +420,7 @@
   "default_author_link": null,
   "duplicates-question-dialog-geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAJTAAAAqwAABKYAAALjAAACVQAAAK0AAASkAAAC4QAAAAAAAAAABVYAAAJVAAAArQAABKQAAALh"
+    "__value__": "AdnQywADAAAAAAJVAAAAqwAABKgAAALjAAACVwAAAK0AAASmAAAC4QAAAAAAAAAABVYAAAJXAAAArQAABKYAAALh"
   },
   "edit-add-filter-rule-geometry": {
     "__class__": "bytearray",
@@ -472,10 +472,11 @@
   },
   "jobs_dialog_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAFEAAABNQAAA90AAAKQAAABRgAAATcAAAPbAAACjgAAAAAAAAAABVYAAAFGAAABNwAAA9sAAAKO"
+    "__value__": "AdnQywADAAAAAAFGAAABNQAAA98AAAKQAAABSAAAATcAAAPdAAACjgAAAAAAAAAABVYAAAFIAAABNwAAA90AAAKO"
   },
   "library_usage_stats": {
-    "/home/rahu/Calibre_1": 226
+    "/home/rahu/Calibre_1": 227,
+    "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 1
   },
   "manage-saved-searches-geometry": {
     "__class__": "bytearray",

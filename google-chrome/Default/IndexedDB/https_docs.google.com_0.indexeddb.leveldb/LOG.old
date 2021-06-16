@@ -1,8 +1,15 @@
-2021/04/29-11:17:10.165 71e4 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/29-11:17:10.166 71e4 Recovering log #6370
-2021/04/29-11:17:10.166 71e4 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/006370.log 
-2021/04/29-11:17:43.679 e79 Level-0 table #6375: started
-2021/04/29-11:17:43.679 e79 Level-0 table #6375: 0 bytes OK
-2021/04/29-11:17:44.115 e79 Delete type=0 #6370
-2021/04/29-11:17:44.115 e79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/04/29-11:17:44.115 e79 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/06/12-18:52:10.118 5681 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-18:52:10.119 5681 Recovering log #6589
+2021/06/12-18:52:10.119 5681 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/006589.log 
+2021/06/12-18:52:46.286 55e9 Level-0 table #6593: started
+2021/06/12-18:52:46.327 55e9 Level-0 table #6593: 17378 bytes OK
+2021/06/12-18:52:46.378 55e9 Delete type=0 #6589
+2021/06/12-18:52:46.379 55e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/12-18:52:46.379 55e9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x03\x01'\x00b\x009\x00f\x009\x00e\x005\x00f\x00b\x008\x007\x00c\x00f\x005\x00a\x003\x00d\x007\x00f\x00d\x004\x00f\x004\x003\x002\x005\x00b\x004\x000\x002\x001\x009\x003\x00_\x003\x00_\x001\x00:\x000\x000' @ 421085 : 0
+2021/06/12-18:52:46.379 55e9 Compacting 1@1 + 1@2 files
+2021/06/12-18:52:46.501 55e9 Generated table #6594@1: 2985 keys, 2055937 bytes
+2021/06/12-18:52:46.501 55e9 Compacted 1@1 + 1@2 files => 2055937 bytes
+2021/06/12-18:52:46.562 55e9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/12-18:52:46.563 55e9 Delete type=2 #6593
+2021/06/12-18:52:46.563 55e9 Delete type=2 #6581
+2021/06/12-18:52:46.564 55e9 Manual compaction at level-1 from '\x00\x03\x03\x03\x01'\x00b\x009\x00f\x009\x00e\x005\x00f\x00b\x008\x007\x00c\x00f\x005\x00a\x003\x00d\x007\x00f\x00d\x004\x00f\x004\x003\x002\x005\x00b\x004\x000\x002\x001\x009\x003\x00_\x003\x00_\x001\x00:\x000\x000' @ 421085 : 0 .. (end); will stop at (end)

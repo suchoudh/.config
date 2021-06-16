@@ -1,0 +1,86 @@
+{
+   "addTagHelp": {
+      "description": "Add tag help message",
+      "message": "Flere stikkord separeres med komma. Stikkordene bør ha en lengde på minst 2 tegn og skal ikke inneholde spesialtegn som mellomrom, #, / eller \\."
+   },
+   "addTagLabel": {
+      "description": "Title of label.",
+      "message": "Legg til stikkord"
+   },
+   "appDesc": {
+      "description": "Description of the extension",
+      "message": "Samle og organiser nettinnhold enkle filer"
+   },
+   "appLauncher": {
+      "description": "Title of the application launcher in the browser.",
+      "message": "Åpne TagSpaces"
+   },
+   "appLauncherLabel": {
+      "description": "Title of label.",
+      "message": "Lagre nettinnhold"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "TagSpaces Web Clipper"
+   },
+   "desktopTagSpacesLabel": {
+      "description": "Reference to TagSpaces Desktop label",
+      "message": "Organiser det samlede innholdet med TagSpaces skriverbordsprogram. Det er tilgjengelig gratis på"
+   },
+   "downloadLabel": {
+      "description": "Label of the download button",
+      "message": "Last ned fil"
+   },
+   "downloadTitle": {
+      "description": "Title of the download button",
+      "message": "Last ned filen i opprinnelig format"
+   },
+   "editTitleLabel": {
+      "description": "Title of label.",
+      "message": "Endre tittelfil"
+   },
+   "saveAsMhtmlLabel": {
+      "description": "Label of the save as MHTML button",
+      "message": "Lagre den ferdige siden"
+   },
+   "saveAsMhtmlTitle": {
+      "description": "Title of the save as MHTML button",
+      "message": "Lage ferdig side inkludert bilder som én HTML-fil, det originale designet bevares"
+   },
+   "saveAsSelectionLabel": {
+      "description": "Label of save selection button",
+      "message": "Klipputvalg"
+   },
+   "saveBookmarkLabel": {
+      "description": "Lable of bookmark button",
+      "message": "Opprett bokmerke"
+   },
+   "saveBookmarkTitle": {
+      "description": "Title of bookmark button",
+      "message": "Lagre et bokmerke av gjeldene side som en URL-fil, kompatibel med Windows® og Mac OS®"
+   },
+   "saveFileLabel": {
+      "description": "SAving action label.",
+      "message": "Velg lagringshandlingen"
+   },
+   "savePageAsHtmlLabel": {
+      "description": "Label of the save as html button",
+      "message": "Lage redigerbar side"
+   },
+   "savePageAsHtmlTitle": {
+      "description": "Title of the save as html button",
+      "message": "Lage ferdig side inkludert bilder som én HTML-fil, det originale designet vil ikke lagres"
+   },
+   "saveScreenshotLabel": {
+      "description": "Label of the take screenshot button",
+      "message": "Ta skjermbilde"
+   },
+   "saveScreenshotTitle": {
+      "description": "Title of the take screenshot button",
+      "message": "Ta skjermbilde av siden som en PNG-fil. Endre størrelsen på nettleservinduet for å fokusere det nøyaktige området for skjermbildet."
+   },
+   "saveSelectionAsHtmlTitle": {
+      "description": "Title of save selection button",
+      "message": "Lagre valgt innhold inkludert bilder som én HTML-fil"
+   }
+}

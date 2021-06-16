@@ -1,1 +1,7 @@
-2018/03/20-16:46:13.045 26320 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_timesofindia.indiatimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-14:22:20.374 624c Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_timesofindia.indiatimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/12-14:22:20.374 624c Recovering log #3
+2021/06/12-14:22:20.375 624c Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_timesofindia.indiatimes.com_0.indexeddb.leveldb/000003.log 
+2021/06/12-14:22:52.301 6610 Level-0 table #5: started
+2021/06/12-14:22:52.341 6610 Level-0 table #5: 1911 bytes OK
+2021/06/12-14:22:52.392 6610 Delete type=0 #3
+2021/06/12-14:22:52.409 6610 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

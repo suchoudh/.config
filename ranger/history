@@ -1,9 +1,3 @@
-rename 1103ITNews
-rename 1104Alkapuri
-rename 1105SangamNagar
-rename 1106Bought
-rename 1107BDA
-rename 1108VegNonVegJokes
 rename 1109Hinduism
 rename 1110AudioTech
 rename 1111EventsofChoudhary2.0
@@ -26,7 +20,6 @@ cw
 rename 
 search Wall
 open_with 
-
 bw
 rename
 rename giving.jpg
@@ -44,7 +37,14 @@ rename ownyourFace.jpg
 rename buddha
 rename .jpg
 rename shriyantra_women.jpg
-delete
 re
 h
 open_with c
+rename 5_6244488440969166865.wav
+touch 
+delete
+rename screenshot_20210326_131242.png
+
+rename screenshot_20210404_225247.png
+scout -ftsea 
+rename 800px-GTDcanonical.png

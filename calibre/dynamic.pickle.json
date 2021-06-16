@@ -1,6 +1,6 @@
 {
   "Export Catalog Directory": "/home/rahu/Desktop/0del",
-  "add books dialog dir": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day",
+  "add books dialog dir": "/home/rahu/Homebox/1200InterfaceWith/lawSikho",
   "auto add path choose": "/home/rahu/Documents/_add2Calibre",
   "catalog_add_to_library": true,
   "catalog_last_used_title": "My Books222",
@@ -15,7 +15,7 @@
     "__value__": []
   },
   "change cover dialog": "/home/rahu/Calibre Library/NA/samurai-on-horse-statue (907)",
-  "choose library location": "/home/rahu/Calibre1Mar2021",
+  "choose library location": "/home/rahu/Homebox/1200InterfaceWith/lawSikho",
   "choose-export-folder-for-import": "/home/rahu/Calibre_Reorg",
   "database location dialog": "/home/rahu/Calibre1Mar2021",
   "export-calibre-dir": "/home/rahu/_backup/31mar2021/calibre",
@@ -23,20 +23,21 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "4.10",
-      "4.13",
-      "4.4",
-      "4.8",
       "4.9",
       "4.3",
-      "4.12",
-      "4.6",
-      "5.14",
-      "4.2",
-      "4.16",
-      "4.11",
+      "5.18",
       "5.3",
-      "4.7"
+      "5.14",
+      "4.16",
+      "4.10",
+      "4.6",
+      "4.7",
+      "4.8",
+      "4.13",
+      "4.12",
+      "4.4",
+      "4.2",
+      "4.11"
     ]
   },
   "opml-select-dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day",
@@ -45,6 +46,10 @@
   "save to disk dialog": "/home/rahu/Calibre_4meOnly",
   "select-folder-for-imported-library": "/home/rahu/Calibre_1",
   "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
     [
       "title",
       false

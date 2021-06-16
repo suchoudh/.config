@@ -12,12 +12,6 @@ Width 1366=1366
 
 [Recent Files]
 File1[$e]=$HOME/cookbook-openshift3-frozen/README.md
-File2[$e]=$HOME/Dropbox/3000_GovtITProjects/MOSBurgerJapan.pdf
-File3[$e]=$HOME/Dropbox/2200Parachute/2202ATS_Bhopal/adv-in-eng.pdf
-File4[$e]=$HOME/Dropbox/500_working/2Print/CentralStateData_Manual_write_up.pdf
-File5[$e]=$HOME/Pictures/366Drucker/Drucker-4.png
+File2[$e]=$HOME/GigDesc.pdf
 Name1[$e]=README.md
-Name2[$e]=MOSBurgerJapan.pdf
-Name3[$e]=adv-in-eng.pdf
-Name4[$e]=CentralStateData_Manual_write_up.pdf
-Name5[$e]=Drucker-4.png
+Name2[$e]=GigDesc.pdf

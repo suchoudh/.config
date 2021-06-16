@@ -1,15 +1,8 @@
-2021/04/09-14:29:34.400 3660 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/09-14:29:34.446 3660 Recovering log #289
-2021/04/09-14:29:34.446 3660 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000289.log 
-2021/04/09-15:01:17.691 7a73 Level-0 table #294: started
-2021/04/09-15:01:18.614 7a73 Level-0 table #294: 635544 bytes OK
-2021/04/09-15:01:18.900 7a73 Delete type=0 #289
-2021/04/09-15:01:19.021 7a73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/04/09-15:01:19.021 7a73 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 109576 : 1
-2021/04/09-15:01:19.021 7a73 Compacting 1@1 + 1@2 files
-2021/04/09-15:01:19.121 7a73 Generated table #295@1: 59 keys, 14923 bytes
-2021/04/09-15:01:19.121 7a73 Compacted 1@1 + 1@2 files => 14923 bytes
-2021/04/09-15:01:19.239 7a73 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/09-15:01:19.240 7a73 Delete type=2 #291
-2021/04/09-15:01:19.240 7a73 Delete type=2 #294
-2021/04/09-15:01:19.268 7a73 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 109576 : 1 .. (end); will stop at (end)
+2021/04/29-11:01:48.017 714a Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/29-11:01:48.292 714a Recovering log #293
+2021/04/29-11:01:48.292 714a Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000293.log 
+2021/04/29-11:02:30.015 714a Level-0 table #298: started
+2021/04/29-11:02:30.015 714a Level-0 table #298: 0 bytes OK
+2021/04/29-11:02:30.263 714a Delete type=0 #293
+2021/04/29-11:02:30.263 714a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/29-11:02:30.263 714a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

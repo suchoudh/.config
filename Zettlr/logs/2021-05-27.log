@@ -1,0 +1,196 @@
+[12:45:21] [Info] こんにちは！ Booting Zettlr at Thu May 27 2021 12:45:21 GMT+0530 (India Standard Time).
+[12:45:21] [Info] Performing environment check ...
+[12:45:21] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIGNLzRu/resources/pandoc
+[12:45:21] [Info] Environment check complete.
+[12:45:21] [Info] Registering custom protocol safe-file
+[12:45:22] [Info] Migrating from 1.8.7 to 1.8.9!
+[12:45:22] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[12:45:22] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[12:45:22] [Info] Clearing the FSAL cache ...
+[12:45:22] [Info] Added DevTools extension:  Vue.js devtools
+[12:45:22] [Info] Cache cleared!
+[12:45:22] [Warning] [FSAL Directory] Path /home/rahu/Documents/Zettlr Tutorial/citing.md took 111ms to load.
+[12:45:22] [Info] Loaded all roots in 0.291 seconds
+[12:45:22] [Info] [Update Provider] Checking for application updates ...
+[12:45:23] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[12:45:25] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:45:34] [Error] [R] [Main Window] Uncaught Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:121)
+[12:45:34] [Info] [R] [Main Window] Error attempting to parse citation [@Marx 1962,23:249] Error: Invalid Key - Invalid citation passed: @Marx 1962,23:249 (index.js:160)
+[12:58:25] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho
+[12:59:21] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu
+[12:59:21] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu/LPJ & Partners - April (1)
+[12:59:22] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu/LPJ & Partners - April (1)/cover.jpg
+[12:59:22] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu/LPJ & Partners - April (1)/cover.jpg
+[12:59:22] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu/LPJ & Partners - April (1)/LPJ & Partners - April - Harshini Naidu.pdf
+[12:59:24] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown
+[12:59:24] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/DOMAIN NAME TRANSFER AGREEMENT (2)
+[12:59:25] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/DOMAIN NAME TRANSFER AGREEMENT (2)/DOMAIN NAME TRANSFER AGREEMENT - Unknown.docx
+[12:59:27] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shilpa Lunge
+[12:59:27] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shilpa Lunge/Assignment 26 Venue Hire Agreements 106809 (3)
+[12:59:28] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shilpa Lunge/Assignment 26 Venue Hire Agreements 106809 (3)/Assignment 26 Venue Hire Agreements 106809 - Shilpa Lunge.docx
+[12:59:30] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL
+[12:59:30] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL/SALE DEED 105201 (4)
+[12:59:31] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL/SALE DEED 105201 (4)/SALE DEED 105201 - ARUSHI AGARWAL.docx
+[12:59:33] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Lenovo
+[12:59:33] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Lenovo/Asset Purchase Agreement (5)
+[12:59:33] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Lenovo/Asset Purchase Agreement (5)/Asset Purchase Agreement - Lenovo.docx
+[12:59:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/sandeepchauhan657@gmail.com
+[12:59:36] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/sandeepchauhan657@gmail.com/Software Development Agreement and a Software maintenance and support Agreement (6)
+[12:59:36] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/sandeepchauhan657@gmail.com/Software Development Agreement and a Software maintenance and support Agreement (6)/Software Development Agreement and a Softw - sandeepchauhan657@gmail.com.docx
+[12:59:38] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Submission Technology Transfer Agreement (7)
+[12:59:39] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Submission Technology Transfer Agreement (7)/Submission Technology Transfer Agreement - Unknown.docx
+[12:59:41] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Comfort Letter and Side Letter (8)
+[12:59:41] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Comfort Letter and Side Letter (8)/Comfort Letter and Side Letter - Unknown.docx
+[12:59:43] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhargavi
+[12:59:43] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhargavi/Corporate Contracts (9)
+[12:59:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhargavi/Corporate Contracts (9)/Corporate Contracts - Bhargavi.docx
+[12:59:46] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Komal Mittal
+[12:59:46] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Komal Mittal/Arbitration clause assignment (10)
+[12:59:46] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Komal Mittal/Arbitration clause assignment (10)/Arbitration clause assignment - Komal Mittal.docx
+[12:59:47] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Mithi Jaiswal (123944) (11)
+[12:59:48] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Mithi Jaiswal (123944) (11)/Mithi Jaiswal (123944) - Unknown.docx
+[12:59:50] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/KSHITIJ KOTHARI
+[12:59:50] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/KSHITIJ KOTHARI/Kshitij Kothari SOC and SOD (12)
+[12:59:51] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/KSHITIJ KOTHARI/Kshitij Kothari SOC and SOD (12)/Kshitij Kothari SOC and SOD - KSHITIJ KOTHARI.docx
+[12:59:53] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Submission (13)
+[12:59:53] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Submission (13)/Submission - Unknown.doc
+[12:59:55] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Neha Nav
+[12:59:55] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Neha Nav/SOC AND SOD- Arbi (14)
+[12:59:56] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Neha Nav/SOC AND SOD- Arbi (14)/SOC AND SOD- Arbi - Neha Nav.docx
+[12:59:58] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER
+[12:59:58] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/statement of claims & defence (15)
+[12:59:58] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/statement of claims & defence (15)/statement of claims & defence - USER.docx
+[13:00:00] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/CHANDRASHEKAR SUBRAMANIAN
+[13:00:00] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/CHANDRASHEKAR SUBRAMANIAN/Chandrashekar 123496-20.02.2021 (16)
+[13:00:01] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/CHANDRASHEKAR SUBRAMANIAN/Chandrashekar 123496-20.02.2021 (16)/Chandrashekar 123496-20.02.2021 - CHANDRASHEKAR SUBRAMANIAN.docx
+[13:00:03] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/SYNDICATED LOAN AGREEMENT (17)
+[13:00:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/SYNDICATED LOAN AGREEMENT (17)/SYNDICATED LOAN AGREEMENT - Unknown.docx
+[13:00:05] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shubhanker
+[13:00:06] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shubhanker/SPECIAL POWER OF ATTORNEY (18)
+[13:00:06] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Shubhanker/SPECIAL POWER OF ATTORNEY (18)/SPECIAL POWER OF ATTORNEY - Shubhanker.docx
+[13:00:08] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK
+[13:00:08] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK/Loan Agreement Aditya Sunil Naik (19)
+[13:00:09] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK/Loan Agreement Aditya Sunil Naik (19)/Loan Agreement Aditya Sunil Naik - ADITYA NAIK.docx
+[13:00:11] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com
+[13:00:11] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com/Mithi Jaiswal 134140 (20)
+[13:00:12] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com/Mithi Jaiswal 134140 (20)/Mithi Jaiswal 134140 - lawyeroncall.in@outlook.com.docx
+[13:00:14] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK/SYNDICATE LOAN AGREEMENT Aditya Sunil Naik (21)
+[13:00:14] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK/SYNDICATE LOAN AGREEMENT Aditya Sunil Naik (21)/SYNDICATE LOAN AGREEMENT Aditya Sunil Naik - ADITYA NAIK.docx
+[13:00:16] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/SYNDICATE LOAN AGREEMENT Qamar (22)
+[13:00:17] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/SYNDICATE LOAN AGREEMENT Qamar (22)/SYNDICATE LOAN AGREEMENT Qamar - Unknown.docx
+[13:00:19] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/jayant hemade
+[13:00:19] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/jayant hemade/Prakash Kasbe Assignment Syndicated Loan Agreement Draft 20032021 (23)
+[13:00:20] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/jayant hemade/Prakash Kasbe Assignment Syndicated Loan Agreement Draft 20032021 (23)/Prakash Kasbe Assignment Syndicated Loan A - jayant hemade.docx
+[13:00:22] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com/Mithi Jaiswal 143303 (Share pledge agreement) (24)
+[13:00:22] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com/Mithi Jaiswal 143303 (Share pledge agreement) (24)/Mithi Jaiswal 143303 (Share pledge agreeme - lawyeroncall.in@outlook.com.docx
+[13:00:24] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/HOW TO DRAFT A TERMS OF USE OR TERMS OF SERVICE (25)
+[13:00:25] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/HOW TO DRAFT A TERMS OF USE OR TERMS OF SERVICE (25)/HOW TO DRAFT A TERMS OF USE OR TERMS OF SE - USER.docx
+[13:00:29] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Pulkit Rastogi
+[13:00:29] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Pulkit Rastogi/LOAN AGREEMENT (26)
+[13:00:32] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Pulkit Rastogi/LOAN AGREEMENT (26)/LOAN AGREEMENT - Pulkit Rastogi.docx
+[13:00:34] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Dhruv
+[13:00:34] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Dhruv/119155 Dhruv (27)
+[13:00:35] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Dhruv/119155 Dhruv (27)/119155 Dhruv - Dhruv.docx
+[13:00:37] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Loan Agreement - Niket Khandelwal (28)
+[13:00:38] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Loan Agreement - Niket Khandelwal (28)/Loan Agreement - Niket Khandelwal - Unknown.docx
+[13:00:39] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL/INDIVIDUAL LOAN AGREEMENT- 131048 (29)
+[13:00:40] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL/INDIVIDUAL LOAN AGREEMENT- 131048 (29)/INDIVIDUAL LOAN AGREEMENT- 131048 - ARUSHI AGARWAL.docx
+[13:00:43] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/Corporate Lease Agreement (30)
+[13:00:43] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/Corporate Lease Agreement (30)/Corporate Lease Agreement - USER.docx
+[13:00:45] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/FRANCHISE AGREEMENT Qamar (31)
+[13:00:46] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/FRANCHISE AGREEMENT Qamar (31)/FRANCHISE AGREEMENT Qamar - Unknown.docx
+[13:00:49] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhairavi
+[13:00:49] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhairavi/Franchise Agreement Distribution Agreement (32)
+[13:00:49] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Bhairavi/Franchise Agreement Distribution Agreement (32)/Franchise Agreement Distribution Agreement - Bhairavi.docx
+[13:00:52] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Windows User
+[13:00:52] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Windows User/Franchise and Distribution agreements (33)
+[13:00:52] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Windows User/Franchise and Distribution agreements (33)/Franchise and Distribution agreements - Windows User.docx
+[13:00:54] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Windows User/FRANCHISE AGREEMENT (34)
+[13:00:55] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Windows User/FRANCHISE AGREEMENT (34)/FRANCHISE AGREEMENT - Windows User.docx
+[13:00:58] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Akshita Taneja
+[13:00:58] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Akshita Taneja/A. code.131148 LOAN AGREEMENT (35)
+[13:00:59] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Akshita Taneja/A. code.131148 LOAN AGREEMENT (35)/A. code.131148 LOAN AGREEMENT - Akshita Taneja.docx
+[13:01:01] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/HP
+[13:01:01] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/HP/ASSIGNMENT ON FRANCHISE AGREEMENT (36)
+[13:01:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/HP/ASSIGNMENT ON FRANCHISE AGREEMENT (36)/ASSIGNMENT ON FRANCHISE AGREEMENT - HP.docx
+[13:01:04] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Babita Singh (Faculty Pathways Aravali)
+[13:01:04] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Babita Singh (Faculty Pathways Aravali)/Ayushi Singh Franchise and Distribution Agreement (final) (37)
+[13:01:05] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Babita Singh (Faculty Pathways Aravali)/Ayushi Singh Franchise and Distribution Agreement (final) (37)/Ayushi Singh Franchise and Distribution Ag - Babita Singh (Faculty Pathways Aravali).docx
+[13:01:07] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Sneha Murgudkar
+[13:01:07] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Sneha Murgudkar/LS Exercise Franchise Agreement (38)
+[13:01:08] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Sneha Murgudkar/LS Exercise Franchise Agreement (38)/LS Exercise Franchise Agreement - Sneha Murgudkar.docx
+[13:01:10] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA
+[13:01:10] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Franschise and Distrubution Agreement Assignement by harita mehta (39)
+[13:01:11] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Franschise and Distrubution Agreement Assignement by harita mehta (39)/Franschise and Distrubution Agreement Assi - VEENA CHANDRA.docx
+[13:01:17] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL
+[13:01:17] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL/charu atrey Assignment#14 franchise agreement and distribution agreement (40)
+[13:01:17] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL/charu atrey Assignment#14 franchise agreement and distribution agreement (40)/charu atrey Assignment#14 franchise agreem - DeLL.docx
+[13:01:20] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Vartika Srivastava
+[13:01:20] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Vartika Srivastava/Vartika Srivastava Assignment FRANCHISE AND DISTRIBUTION AGREEMENT (41)
+[13:01:21] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Vartika Srivastava/Vartika Srivastava Assignment FRANCHISE AND DISTRIBUTION AGREEMENT (41)/Vartika Srivastava Assignment FRANCHISE AN - Vartika Srivastava.docx
+[13:01:22] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Nihar Ranjan Das
+[13:01:22] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Nihar Ranjan Das/Inter creditor Agreement (42)
+[13:01:23] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Nihar Ranjan Das/Inter creditor Agreement (42)/Inter creditor Agreement - Nihar Ranjan Das.docx
+[13:01:25] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Ayushi
+[13:01:25] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Ayushi/Exercises on Drafting a loan agreement (43)
+[13:01:26] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Ayushi/Exercises on Drafting a loan agreement (43)/Exercises on Drafting a loan agreement - Ayushi.docx
+[13:01:28] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/Intercreditor Agreement (44)
+[13:01:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER/Intercreditor Agreement (44)/Intercreditor Agreement - USER.docx
+[13:01:31] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL/Exercise (45)
+[13:01:32] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL/Exercise (45)/Exercise - DeLL.docx
+[13:01:34] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Franschise Agreement and Distrubution Agreement Assigenment (46)
+[13:01:35] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Franschise Agreement and Distrubution Agreement Assigenment (46)/Franschise Agreement and Distrubution Agre - VEENA CHANDRA.docx
+[13:01:37] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/harshit rastogi
+[13:01:37] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/harshit rastogi/Excercise on Technology Transfer agreement (47)
+[13:01:38] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/harshit rastogi/Excercise on Technology Transfer agreement (47)/Excercise on Technology Transfer agreement - harshit rastogi.docx
+[13:01:40] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ACHYUT DAS
+[13:01:40] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ACHYUT DAS/POWER OF ATTORNEY and Board Resolution (48)
+[13:01:41] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ACHYUT DAS/POWER OF ATTORNEY and Board Resolution (48)/POWER OF ATTORNEY and Board Resolution - ACHYUT DAS.docx
+[13:01:43] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Order Fullfillment agreement ASSIGNMENT (49)
+[13:01:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/VEENA CHANDRA/Order Fullfillment agreement ASSIGNMENT (49)/Order Fullfillment agreement ASSIGNMENT - VEENA CHANDRA.docx
+[13:01:46] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Non Disclosure Agreements (NDA), Drafting a MOU & Legal Notice - May Bootcam (50)
+[13:01:47] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Non Disclosure Agreements (NDA), Drafting a MOU & Legal Notice - May Bootcam (50)/cover.jpg
+[13:01:47] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Non Disclosure Agreements (NDA), Drafting a MOU & Legal Notice - May Bootcam (50)/cover.jpg
+[13:01:47] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Non Disclosure Agreements (NDA), Drafting a MOU & Legal Notice - May Bootcam (50)/Weekly Exercises on Non Disclosure Agreeme - Unknown.pdf
+[13:01:49] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Contract Grammar and Sentence Structure - English Communication(Boot Camp) - (51)
+[13:01:50] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Contract Grammar and Sentence Structure - English Communication(Boot Camp) - (51)/cover.jpg
+[13:01:51] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Weekly Exercises on Contract Grammar and Sentence Structure - English Communication(Boot Camp) - (51)/Weekly Exercises on Contract Grammar and S - Unknown.pdf
+[13:01:52] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/attachment The Definitive Contract Checklist lyst9266 (52)
+[13:01:53] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/attachment The Definitive Contract Checklist lyst9266 (52)/cover.jpg
+[13:01:54] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/attachment The Definitive Contract Checklist lyst9266 (52)/attachment The Definitive Contract Checkli - Unknown.pdf
+[13:01:54] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/attachment The Definitive Contract Checklist lyst9266 (52)/attachment The Definitive Contract Checkli - Unknown.pdf
+[13:01:56] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Template - Non-Disclosure Agreement NDA lyst1199 (53)
+[13:01:57] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Template - Non-Disclosure Agreement NDA lyst1199 (53)/Template - Non-Disclosure Agreement NDA ly - Unknown.odt
+[13:02:00] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/natalie amsden
+[13:02:00] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/natalie amsden/preetikharecoachingclient agreement (54)
+[13:02:01] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/natalie amsden/preetikharecoachingclient agreement (54)/preetikharecoachingclient agreement - natalie amsden.docx
+[13:02:03] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Study plan for your LawSikho course (55)
+[13:02:03] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Study plan for your LawSikho course (55)/cover.jpg
+[13:02:03] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Study plan for your LawSikho course (55)/cover.jpg
+[13:02:04] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Study plan for your LawSikho course (55)/Study plan for your LawSikho course - Unknown.pdf
+[13:24:49] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/shantanu parmanand
+[13:24:49] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/shantanu parmanand/Franchise Agreement (56)
+[13:24:49] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/shantanu parmanand/Franchise Agreement (56)/Franchise Agreement - shantanu parmanand.docx
+[13:59:57] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:00:24] [Info] Saving file 20210527135956.md...
+[14:00:24] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:00:24] [Info] Updated modtime for fileDescriptor 20210527135956.md to 1622104224732
+[14:00:24] [Info] File 20210527135956.md saved.
+[14:01:37] [Info] Saving file 20210527135956.md...
+[14:01:37] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:01:37] [Info] Updated modtime for fileDescriptor 20210527135956.md to 1622104297439
+[14:01:37] [Info] File 20210527135956.md saved.
+[14:01:57] [Info] Saving file 20210527135956.md...
+[14:01:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:01:57] [Info] Updated modtime for fileDescriptor 20210527135956.md to 1622104317809
+[14:01:57] [Info] File 20210527135956.md saved.
+[14:02:13] [Info] Saving file 20210527135956.md...
+[14:02:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:02:13] [Info] Updated modtime for fileDescriptor 20210527135956.md to 1622104333982
+[14:02:13] [Info] File 20210527135956.md saved.
+[14:03:00] [Info] Updated modtime for fileDescriptor Templates.md to 1622104333982
+[14:03:00] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Templates.md
+[14:03:00] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/20210527135956.md
+[14:03:00] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[17:20:10] [Info] さようなら！ Shutting down at Thu May 27 2021 17:20:10 GMT+0530 (India Standard Time)
+[17:20:24] [Info] Shutdown almost complete. Application uptime was: 4 hours, 35 minutes, and 3.45 seconds.
