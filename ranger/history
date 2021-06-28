@@ -1,6 +1,3 @@
-rename 1109Hinduism
-rename 1110AudioTech
-rename 1111EventsofChoudhary2.0
 rename 1112DhruvaMedical
 rename 1113ArtNews
 rename 1101ARS
@@ -42,9 +39,12 @@ h
 open_with c
 rename 5_6244488440969166865.wav
 touch 
-delete
 rename screenshot_20210326_131242.png
 
 rename screenshot_20210404_225247.png
-scout -ftsea 
 rename 800px-GTDcanonical.png
+rename awsaudiokelly
+rename 2see
+rename Zettlr Tutorial
+scout -ftsea 
+delete

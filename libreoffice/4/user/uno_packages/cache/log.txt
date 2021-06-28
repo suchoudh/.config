@@ -411,3 +411,5 @@ Copying: photoalbum_new.oxt
 ###### Progress log entry 2021-06-08 13:25:12 ######
 ###### Progress log entry 2021-06-11 23:11:09 ######
 ###### Progress log entry 2021-06-11 23:38:29 ######
+###### Progress log entry 2021-06-18 11:05:50 ######
+###### Progress log entry 2021-06-28 14:51:09 ######

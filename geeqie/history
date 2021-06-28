@@ -7,7 +7,6 @@
 "Collections[path]/home/rahu/.local/share/geeqie/collections"
 
 [path_list]
-"/home/rahu/Dropbox"
 "/home/rahu/Pictures/screenshots"
 "/home/rahu/Dropbox/2200Parachute/2201ArtofSunil"
 "/home/rahu/Dropbox/2250_Gagne2020"
@@ -17,6 +16,7 @@
 "/home/rahu/1working1/printLater/Bargue"
 "/home/rahu/Pictures"
 "/tmp"
+"/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core"
 
 [bookmarks]
 ".[path]/home/rahu/Pictures/screenshots"
