@@ -1,0 +1,190 @@
+[12:42:08] [Info] こんにちは！ Booting Zettlr at Thu Jul 08 2021 12:42:08 GMT+0530 (India Standard Time).
+[12:42:08] [Info] Performing environment check ...
+[12:42:08] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppI82dk2g/resources/pandoc
+[12:42:08] [Info] Environment check complete.
+[12:42:08] [Info] Registering custom protocol safe-file
+[12:42:09] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[12:42:09] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[12:42:09] [Info] Added DevTools extension:  Vue.js devtools
+[12:42:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_Certificates took 119ms to load.
+[12:42:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 280ms to load.
+[12:42:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/2250.md took 101ms to load.
+[12:42:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourse/Practical Contract Drafting_files took 394ms to load.
+[12:42:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourse took 525ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/HamRadioExam/701HamRadioExam/rules.md took 127ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/HamRadioExam/701HamRadioExam took 347ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/HamRadioExam took 660ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam/readmeHAM.md took 114ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/HamExam took 867ms to load.
+[12:42:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/LICyet2pay took 107ms to load.
+[12:42:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 683ms to load.
+[12:42:13] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 3024ms to load.
+[12:42:13] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja/2020_11_18_20_39_18.md took 285ms to load.
+[12:42:13] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja took 454ms to load.
+[12:42:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/12/7Sat/readme.md took 114ms to load.
+[12:42:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/12/7Sat took 116ms to load.
+[12:42:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/12 took 128ms to load.
+[12:42:15] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/20 took 533ms to load.
+[12:42:15] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/21 took 216ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/51 took 150ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020 took 2092ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/01 took 133ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02/Sat/this.Day took 116ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02/Sat took 122ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02 took 330ms to load.
+[12:42:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/03 took 183ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/13 took 246ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Fri/this.Day took 118ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Fri took 119ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Sun/this.Day/0Core/_Certificates took 314ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Sun/this.Day/0Core took 339ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Sun/this.Day took 403ms to load.
+[12:42:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14/Sun took 437ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14 took 701ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/15 took 204ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/16 took 114ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/17 took 167ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18/Fri took 109ms to load.
+[12:42:18] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18 took 181ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Sun/this.Day took 160ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Sun took 187ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Thu/this.Day took 171ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Thu took 199ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20 took 406ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21/Mon/this.Day took 159ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21/Mon took 161ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21 took 177ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/22/Fri/this.Day took 112ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/22/Fri took 116ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/22 took 126ms to load.
+[12:42:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/23 took 212ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Tue/this.Day/HamExam took 104ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Tue/this.Day took 409ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Tue took 522ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Wed/this.Day/screenshots took 152ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Wed/this.Day took 525ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26/Wed took 537ms to load.
+[12:42:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26 took 1099ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021 took 5283ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F took 7379ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/900_myMorningNotes/_draft/ideas took 110ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/900_myMorningNotes/_draft took 111ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/900_myMorningNotes took 280ms to load.
+[12:42:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo took 8629ms to load.
+[12:42:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD took 181ms to load.
+[12:42:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/Prj1_DhruvaIV took 165ms to load.
+[12:42:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation took 324ms to load.
+[12:42:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1200_MyFamily took 137ms to load.
+[12:42:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4 took 701ms to load.
+[12:42:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech took 457ms to load.
+[12:42:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho took 200ms to load.
+[12:42:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho took 275ms to load.
+[12:42:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith took 1219ms to load.
+[12:42:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1300HelpThoseIn took 127ms to load.
+[12:42:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64 took 102ms to load.
+[12:42:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/backupDhruva8gb took 219ms to load.
+[12:42:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL took 347ms to load.
+[12:42:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy took 1095ms to load.
+[12:42:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2100GoldenPastin took 172ms to load.
+[12:42:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2200DentInUniverseOf took 107ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/GTD_BlankStructure/_Contact took 398ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/GTD_BlankStructure took 667ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/_mygit/handbook-master/en took 176ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/_mygit/handbook-master/es took 189ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/_mygit/handbook-master took 371ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/_mygit took 414ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/dotfiles/_old took 108ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/dotfiles took 200ms to load.
+[12:42:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin took 1412ms to load.
+[12:42:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/1300_inspirationChart took 345ms to load.
+[12:42:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/_image took 192ms to load.
+[12:42:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/readme.md took 110ms to load.
+[12:42:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese took 2215ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/_archivedDataPoints took 246ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData took 498ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf/3400_Routine took 644ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf took 713ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2500ImageOf/myArtistic took 101ms to load.
+[12:42:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2500ImageOf took 305ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/3000Listen2/600_Music took 288ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/3000Listen2 took 465ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/3200TakeColdBackupOf/10000_Done took 174ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/3200TakeColdBackupOf took 180ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_Contacts_preeti/Onelife_Wiki took 227ms to load.
+[12:42:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_Contacts_preeti/Papa_Contacts took 201ms to load.
+[12:42:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_Contacts_preeti/Preeti_Contacts took 456ms to load.
+[12:42:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_Contacts_preeti took 1004ms to load.
+[12:42:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_People took 144ms to load.
+[12:42:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Companies took 124ms to load.
+[12:42:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Onelife_Wiki took 350ms to load.
+[12:42:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Preeti_Contacts took 179ms to load.
+[12:42:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone took 2041ms to load.
+[12:42:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily took 2094ms to load.
+[12:42:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4000How2/rsync_unison took 612ms to load.
+[12:42:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4000How2/useTaskWarriorTimeWarrior/readmeTaskwTImeW.md took 1993ms to load.
+[12:42:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4000How2/useTaskWarriorTimeWarrior took 2139ms to load.
+[12:42:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4000How2 took 3281ms to load.
+[12:42:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay/3000_GovtITProjects took 608ms to load.
+[12:42:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay/709_Someday/ITDept took 350ms to load.
+[12:42:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay/709_Someday took 455ms to load.
+[12:42:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay took 1072ms to load.
+[12:42:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/2600_legal/Custom Service Level Agreement ( SLA )Verizon_files took 174ms to load.
+[12:42:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/2600_legal/Head First Design Patterns_files took 677ms to load.
+[12:42:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/2600_legal took 945ms to load.
+[12:42:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment/02_GlobalVPCNetwork/terraform took 161ms to load.
+[12:42:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment/02_GlobalVPCNetwork took 182ms to load.
+[12:42:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment took 232ms to load.
+[12:42:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith took 376ms to load.
+[12:42:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/EKS-Training took 103ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline/single-event-stage/src/main/java/book took 126ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline/single-event-stage/src/main/java took 137ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline/single-event-stage/src/main took 139ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline/single-event-stage/src took 139ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline/single-event-stage took 140ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter5-data-pipeline took 175ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book/chapter6 took 115ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book took 444ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda took 657ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/awsDoc/aws-sam-developer-guide/doc_source took 163ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/awsDoc/aws-sam-developer-guide took 167ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/awsDoc took 168ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021 took 1393ms to load.
+[12:42:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/Practitioner took 131ms to load.
+[12:42:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-dev-associate took 266ms to load.
+[12:42:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-sa-associate-saac02 took 345ms to load.
+[12:42:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/learn-cantrill-io-labs took 129ms to load.
+[12:42:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill took 1130ms to load.
+[12:42:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS took 2838ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis took 4257ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/8Lpm took 140ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD took 240ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers/Etc took 152ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers/Kagaz/myKagaz took 156ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers/Kagaz took 199ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers took 546ms to load.
+[12:42:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas/Wallpapers took 562ms to load.
+[12:42:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil/ideas took 641ms to load.
+[12:42:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute/2201ArtofSunil took 703ms to load.
+[12:42:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia/2200Parachute took 926ms to load.
+[12:42:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999EarnVia took 1021ms to load.
+[12:42:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/_deletedSend2myPastin took 150ms to load.
+[12:42:41] [Warning] [FSAL] Path /home/rahu/Homebox took 28620ms to load.
+[12:42:41] [Info] Loaded all roots in 32.127 seconds
+[12:42:43] [Info] [Update Provider] Checking for application updates ...
+[12:42:45] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[12:43:48] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[13:06:31] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment/Private Benefits in Public Offerings Tax Receivable Agreements i.pdf
+[13:06:36] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment/Private Benefits in Public Offerings Tax Receivable Agreements i.pdf
+[13:06:47] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment/Private Benefits in Public Offerings Tax Receivable Agreements i.pdf
+[13:07:01] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment/out.pdf
+[13:07:02] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment/out.pdf
+[13:15:26] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/SVC-ActivePDF
+[13:15:29] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/SVC-ActivePDF/Microsoft Word - 299386_supp_undefined_16F70F22-1CB4-11E4-80D5-B40DEF8616FA.docx (57)
+[13:15:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/SVC-ActivePDF/Microsoft Word - 299386_supp_undefined_16F70F22-1CB4-11E4-80D5-B40DEF8616FA.docx (57)/Microsoft Word - 299386_supp_undefined_16F - SVC-ActivePDF.pdf
+[13:15:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/SVC-ActivePDF/Microsoft Word - 299386_supp_undefined_16F70F22-1CB4-11E4-80D5-B40DEF8616FA.docx (57)/cover.jpg
+[13:15:29] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Private Benefits in Public Offerings_ Tax Receivable Agreements in IPOs (58)
+[13:15:30] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Private Benefits in Public Offerings_ Tax Receivable Agreements in IPOs (58)/cover.jpg
+[13:15:30] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown/Private Benefits in Public Offerings_ Tax Receivable Agreements in IPOs (58)/Private Benefits in Public Offerings_ Tax - Unknown.pdf
+[13:44:28] [Info] さようなら！ Shutting down at Thu Jul 08 2021 13:44:28 GMT+0530 (India Standard Time)
+[13:44:28] [Info] Cleaned up FSAL cache: Removed 32 remnants.
+[13:44:33] [Info] Shutdown almost complete. Application uptime was: 1 hours, 2 minutes, and 24.982 seconds.

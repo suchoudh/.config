@@ -1,0 +1,463 @@
+[12:28:18] [Info] こんにちは！ Booting Zettlr at Tue Aug 03 2021 12:28:17 GMT+0530 (India Standard Time).
+[12:28:18] [Info] Performing environment check ...
+[12:28:18] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIzASdS7/resources/pandoc
+[12:28:18] [Info] Environment check complete.
+[12:28:18] [Info] Registering custom protocol safe-file
+[12:28:18] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[12:28:18] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[12:28:19] [Info] Added DevTools extension:  Vue.js devtools
+[12:28:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/1800_weight80KG took 123ms to load.
+[12:28:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3600_Zettlr took 106ms to load.
+[12:28:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 892ms to load.
+[12:28:21] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06 took 109ms to load.
+[12:28:21] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 920ms to load.
+[12:28:21] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 1822ms to load.
+[12:28:22] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 144ms to load.
+[12:28:22] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho/_assignment took 103ms to load.
+[12:28:22] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 139ms to load.
+[12:28:22] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 202ms to load.
+[12:28:22] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 361ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21 took 125ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 179ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1313ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 1382ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/readYourEpithat took 152ms to load.
+[12:28:23] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 3965ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SunilPic.pdf took 235ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx took 317ms to load.
+[12:28:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 539ms to load.
+[12:28:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 368ms to load.
+[12:28:24] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 996ms to load.
+[12:28:24] [Info] Loaded all roots in 5.251 seconds
+[12:28:24] [Info] [Update Provider] Checking for application updates ...
+[12:28:25] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[12:28:30] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:31:05] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ADITYA NAIK took 2158ms to load.
+[12:31:06] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/ARUSHI AGARWAL took 402ms to load.
+[12:31:06] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/DeLL took 136ms to load.
+[12:31:07] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Harshini Naidu took 319ms to load.
+[12:31:07] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/USER took 132ms to load.
+[12:31:07] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/Unknown took 115ms to load.
+[12:31:07] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/lawyeroncall.in@outlook.com took 242ms to load.
+[12:31:07] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho took 4299ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Fiverr/26_20210630-13_50_22.md took 364ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Fiverr took 367ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_28_12.md took 124ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_43_44.md took 297ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/registered2Months5k.md took 134ms to load.
+[12:31:08] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/_md took 671ms to load.
+[12:31:09] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/_pdf_doc_odt_pptx took 429ms to load.
+[12:31:09] [Warning] [FSAL] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho took 7888ms to load.
+[12:34:35] [Info] Saving file readmeLawsikho.md...
+[12:34:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/readmeLawsikho.md
+[12:34:35] [Info] Updated modtime for fileDescriptor readmeLawsikho.md to 1627974275509
+[12:34:35] [Info] File readmeLawsikho.md saved.
+[12:34:44] [Info] Saving file readmeLawsikho.md...
+[12:34:44] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/readmeLawsikho.md
+[12:34:44] [Info] Updated modtime for fileDescriptor readmeLawsikho.md to 1627974284053
+[12:34:44] [Info] File readmeLawsikho.md saved.
+[12:34:57] [Info] Saving file readmeLawsikho.md...
+[12:34:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/readmeLawsikho.md
+[12:34:57] [Info] Updated modtime for fileDescriptor readmeLawsikho.md to 1627974297633
+[12:34:57] [Info] File readmeLawsikho.md saved.
+[12:36:31] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:36:44] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:36:54] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:38:30] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:39:01] [Info] Saving file 2020_12_17_15_28_12.md...
+[12:39:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_28_12.md
+[12:39:01] [Info] Updated modtime for fileDescriptor 2020_12_17_15_28_12.md to 1627974541168
+[12:39:01] [Info] File 2020_12_17_15_28_12.md saved.
+[12:39:12] [Info] Saving file 2020_12_17_15_28_12.md...
+[12:39:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_28_12.md
+[12:39:12] [Info] Updated modtime for fileDescriptor 2020_12_17_15_28_12.md to 1627974552336
+[12:39:12] [Info] File 2020_12_17_15_28_12.md saved.
+[12:39:18] [Info] Updated modtime for fileDescriptor NotesAboutLawsikhoAsCompany.md to 1627974552336
+[12:39:18] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/NotesAboutLawsikhoAsCompany.md
+[12:39:18] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_28_12.md
+[12:39:20] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:39:50] [Info] Saving file 2020_12_17_15_43_44.md...
+[12:39:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_43_44.md
+[12:39:50] [Info] Updated modtime for fileDescriptor 2020_12_17_15_43_44.md to 1627974590992
+[12:39:51] [Info] File 2020_12_17_15_43_44.md saved.
+[12:40:04] [Info] Updated modtime for fileDescriptor startupAdviceFromLawsikhoSeminr.md to 1627974590992
+[12:40:04] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/startupAdviceFromLawsikhoSeminr.md
+[12:40:04] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/2020_12_17_15_43_44.md
+[12:40:10] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:40:15] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:40:36] [Info] Updated modtime for fileDescriptor TemplatesLawSikho.md to 1622104333982
+[12:40:36] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/TemplatesLawSikho.md
+[12:40:36] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/Templates.md
+[12:40:38] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[12:40:59] [Info] Updated modtime for fileDescriptor FreeLancer.md to 1625050206192
+[12:40:59] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Fiverr/FreeLancer.md
+[12:40:59] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/Fiverr/26_20210630-13_50_22.md
+[12:41:31] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_pdf_doc_odt_pptx/20210803124130.md
+[12:41:47] [Error] Could not find the target directory for moving.
+[12:41:55] [Info] Removed file 20210803124130.md.
+[12:41:55] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_pdf_doc_odt_pptx/20210803124130.md
+[12:41:56] [Error] [R] [Main Window] Uncaught TypeError: Cannot read property 'split' of null (index.js:47)
+[12:42:02] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:43:29] [Info] Saving file 20210803124201.md...
+[12:43:29] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:43:29] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627974809959
+[12:43:29] [Info] File 20210803124201.md saved.
+[12:44:36] [Info] Saving file 20210803124201.md...
+[12:44:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:44:36] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627974876476
+[12:44:36] [Info] File 20210803124201.md saved.
+[12:44:59] [Info] Saving file 20210803124201.md...
+[12:44:59] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:44:59] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627974899104
+[12:44:59] [Info] File 20210803124201.md saved.
+[12:45:13] [Info] Saving file 20210803124201.md...
+[12:45:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:45:13] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627974913297
+[12:45:13] [Info] File 20210803124201.md saved.
+[12:45:42] [Info] Saving file 20210803124201.md...
+[12:45:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:45:42] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627974942757
+[12:45:42] [Info] File 20210803124201.md saved.
+[12:47:48] [Info] Saving file 20210803124201.md...
+[12:47:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:47:48] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975068187
+[12:47:48] [Info] File 20210803124201.md saved.
+[12:47:57] [Info] Saving file 20210803124201.md...
+[12:47:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:47:57] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975077655
+[12:47:57] [Info] File 20210803124201.md saved.
+[12:48:42] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:50:01] [Info] Saving file 20210803124201.md...
+[12:50:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:50:01] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975201249
+[12:50:01] [Info] File 20210803124201.md saved.
+[12:50:41] [Info] Saving file 20210803124201.md...
+[12:50:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:50:41] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975241689
+[12:50:41] [Info] File 20210803124201.md saved.
+[12:51:14] [Info] Saving file 20210803124201.md...
+[12:51:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:51:14] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975274425
+[12:51:14] [Info] File 20210803124201.md saved.
+[12:51:38] [Info] Saving file 20210803124201.md...
+[12:51:38] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:51:38] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975298721
+[12:51:38] [Info] File 20210803124201.md saved.
+[12:52:11] [Info] Saving file 20210803124201.md...
+[12:52:11] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:52:11] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975331726
+[12:52:11] [Info] File 20210803124201.md saved.
+[12:52:21] [Info] Saving file 20210803124201.md...
+[12:52:21] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:52:21] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975341458
+[12:52:21] [Info] File 20210803124201.md saved.
+[12:52:40] [Info] Saving file 20210803124201.md...
+[12:52:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:52:40] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975360166
+[12:52:40] [Info] File 20210803124201.md saved.
+[12:53:07] [Info] Saving file 20210803124201.md...
+[12:53:07] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:53:07] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975387062
+[12:53:07] [Info] File 20210803124201.md saved.
+[12:53:19] [Info] Saving file 20210803124201.md...
+[12:53:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:53:19] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975399226
+[12:53:19] [Info] File 20210803124201.md saved.
+[12:53:52] [Info] Saving file 20210803124201.md...
+[12:53:52] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:53:52] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975432991
+[12:53:52] [Info] File 20210803124201.md saved.
+[12:54:22] [Info] Saving file 20210803124201.md...
+[12:54:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[12:54:22] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627975462383
+[12:54:22] [Info] File 20210803124201.md saved.
+[12:54:59] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:55:27] [Info] Saving file 20210803125456.md...
+[12:55:27] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:55:27] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975527195
+[12:55:27] [Info] File 20210803125456.md saved.
+[12:55:56] [Info] Saving file 20210803125456.md...
+[12:55:56] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:55:57] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975556988
+[12:55:57] [Info] File 20210803125456.md saved.
+[12:56:13] [Info] Saving file 20210803125456.md...
+[12:56:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:56:13] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975573488
+[12:56:13] [Info] File 20210803125456.md saved.
+[12:56:21] [Info] Saving file 20210803125456.md...
+[12:56:21] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:56:21] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975581864
+[12:56:21] [Info] File 20210803125456.md saved.
+[12:57:19] [Info] Saving file 20210803125456.md...
+[12:57:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:57:19] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975639400
+[12:57:19] [Info] File 20210803125456.md saved.
+[12:57:31] [Info] Saving file 20210803125456.md...
+[12:57:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:57:31] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975651964
+[12:57:31] [Info] File 20210803125456.md saved.
+[12:57:45] [Info] Saving file 20210803125456.md...
+[12:57:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:57:45] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975665508
+[12:57:45] [Info] File 20210803125456.md saved.
+[12:58:41] [Info] Saving file 20210803125456.md...
+[12:58:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:58:41] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975721425
+[12:58:41] [Info] File 20210803125456.md saved.
+[12:59:49] [Info] Saving file 20210803125456.md...
+[12:59:49] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[12:59:49] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975789746
+[12:59:49] [Info] File 20210803125456.md saved.
+[13:00:42] [Info] Saving file 20210803125456.md...
+[13:00:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:00:42] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975842539
+[13:00:42] [Info] File 20210803125456.md saved.
+[13:01:10] [Info] Saving file 20210803125456.md...
+[13:01:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:01:10] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975870759
+[13:01:10] [Info] File 20210803125456.md saved.
+[13:01:22] [Info] Saving file 20210803125456.md...
+[13:01:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:01:22] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975882084
+[13:01:22] [Info] File 20210803125456.md saved.
+[13:02:48] [Info] Saving file 20210803125456.md...
+[13:02:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:02:48] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975968345
+[13:02:48] [Info] File 20210803125456.md saved.
+[13:03:03] [Info] Saving file 20210803125456.md...
+[13:03:03] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:03:03] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627975983021
+[13:03:03] [Info] File 20210803125456.md saved.
+[13:03:23] [Info] Saving file 20210803125456.md...
+[13:03:23] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:03:23] [Info] Updated modtime for fileDescriptor 20210803125456.md to 1627976003054
+[13:03:23] [Info] File 20210803125456.md saved.
+[13:21:42] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:22:15] [Info] Saving file 20210803132139.md...
+[13:22:15] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:22:15] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977135690
+[13:22:15] [Info] File 20210803132139.md saved.
+[13:22:31] [Info] Saving file 20210803132139.md...
+[13:22:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:22:31] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977151106
+[13:22:31] [Info] File 20210803132139.md saved.
+[13:22:54] [Info] Saving file 20210803132139.md...
+[13:22:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:22:54] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977174907
+[13:22:54] [Info] File 20210803132139.md saved.
+[13:25:04] [Info] Saving file 20210803132139.md...
+[13:25:04] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:25:04] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977304476
+[13:25:04] [Info] File 20210803132139.md saved.
+[13:26:55] [Info] Saving file 20210803132139.md...
+[13:26:55] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:26:55] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977415425
+[13:26:55] [Info] File 20210803132139.md saved.
+[13:27:07] [Info] Saving file 20210803132139.md...
+[13:27:07] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:27:07] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977427773
+[13:27:07] [Info] File 20210803132139.md saved.
+[13:27:22] [Info] Saving file 20210803132139.md...
+[13:27:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:27:22] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977442773
+[13:27:22] [Info] File 20210803132139.md saved.
+[13:28:49] [Info] Saving file 20210803132139.md...
+[13:28:49] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:28:49] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977529278
+[13:28:49] [Info] File 20210803132139.md saved.
+[13:29:32] [Info] Saving file 20210803132139.md...
+[13:29:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:29:32] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977572314
+[13:29:32] [Info] File 20210803132139.md saved.
+[13:30:07] [Info] Saving file 20210803132139.md...
+[13:30:07] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:30:07] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977607631
+[13:30:07] [Info] File 20210803132139.md saved.
+[13:30:53] [Info] Saving file 20210803132139.md...
+[13:30:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:30:53] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977653587
+[13:30:53] [Info] File 20210803132139.md saved.
+[13:31:13] [Info] Saving file 20210803132139.md...
+[13:31:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:31:13] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977673683
+[13:31:13] [Info] File 20210803132139.md saved.
+[13:31:40] [Info] Saving file 20210803132139.md...
+[13:31:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:31:41] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977700223
+[13:31:41] [Info] File 20210803132139.md saved.
+[13:32:16] [Info] Saving file 20210803132139.md...
+[13:32:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:32:16] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977736808
+[13:32:16] [Info] File 20210803132139.md saved.
+[13:32:50] [Info] Saving file 20210803132139.md...
+[13:32:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:32:50] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977770648
+[13:32:50] [Info] File 20210803132139.md saved.
+[13:33:06] [Info] Saving file 20210803132139.md...
+[13:33:06] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:33:06] [Info] Updated modtime for fileDescriptor 20210803132139.md to 1627977786544
+[13:33:06] [Info] File 20210803132139.md saved.
+[13:33:10] [Info] Updated modtime for fileDescriptor myEnrollments.md to 1627977786544
+[13:33:10] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803132139.md
+[13:33:10] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/myEnrollments.md
+[13:33:35] [Info] Saving file myEnrollments.md...
+[13:33:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/myEnrollments.md
+[13:33:35] [Info] Updated modtime for fileDescriptor myEnrollments.md to 1627977815668
+[13:33:35] [Info] File myEnrollments.md saved.
+[13:33:55] [Info] Updated modtime for fileDescriptor Assignments2Do.md to 1627976003054
+[13:33:55] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/Assignments2Do.md
+[13:33:56] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803125456.md
+[13:34:10] [Info] Saving file Assignments2Do.md...
+[13:34:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/Assignments2Do.md
+[13:34:10] [Info] Updated modtime for fileDescriptor Assignments2Do.md to 1627977850429
+[13:34:10] [Info] File Assignments2Do.md saved.
+[13:36:18] [Info] Saving file 20210803124201.md...
+[13:36:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[13:36:19] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627977979066
+[13:36:19] [Info] File 20210803124201.md saved.
+[13:36:50] [Info] Saving file 20210803124201.md...
+[13:36:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[13:36:50] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627978010666
+[13:36:50] [Info] File 20210803124201.md saved.
+[13:37:12] [Info] Saving file 20210803124201.md...
+[13:37:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[13:37:12] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627978032358
+[13:37:12] [Info] File 20210803124201.md saved.
+[13:38:07] [Info] Saving file 20210803124201.md...
+[13:38:07] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[13:38:07] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627978087311
+[13:38:07] [Info] File 20210803124201.md saved.
+[13:38:31] [Info] Saving file 20210803124201.md...
+[13:38:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[13:38:31] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627978111583
+[13:38:31] [Info] File 20210803124201.md saved.
+[14:16:28] [Info] Saving file 20210803124201.md...
+[14:16:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[14:16:32] [Info] Updated modtime for fileDescriptor 20210803124201.md to 1627980391861
+[14:16:33] [Info] File 20210803124201.md saved.
+[14:17:24] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/20210803124201.md
+[14:17:24] [Info] Updated modtime for fileDescriptor LLP.md to 1627980391861
+[14:17:24] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:18:14] [Info] Saving file LLP.md...
+[14:18:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:18:14] [Info] Updated modtime for fileDescriptor LLP.md to 1627980494559
+[14:18:14] [Info] File LLP.md saved.
+[14:18:39] [Info] Saving file LLP.md...
+[14:18:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:18:40] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:18:40] [Info] Updated modtime for fileDescriptor LLP.md to 1627980520048
+[14:18:40] [Info] File LLP.md saved.
+[14:18:40] [Info] The file LLP.md has not changed, but a change event was fired by chokidar.
+[14:19:31] [Info] Saving file LLP.md...
+[14:19:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:19:31] [Info] Updated modtime for fileDescriptor LLP.md to 1627980571949
+[14:19:31] [Info] File LLP.md saved.
+[14:19:54] [Info] Saving file LLP.md...
+[14:19:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:19:54] [Info] Updated modtime for fileDescriptor LLP.md to 1627980594918
+[14:19:54] [Info] File LLP.md saved.
+[14:20:26] [Info] Saving file LLP.md...
+[14:20:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:20:26] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:20:26] [Info] Updated modtime for fileDescriptor LLP.md to 1627980626298
+[14:20:26] [Info] File LLP.md saved.
+[14:20:26] [Info] The file LLP.md has not changed, but a change event was fired by chokidar.
+[14:20:46] [Info] Saving file LLP.md...
+[14:20:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:20:46] [Info] Updated modtime for fileDescriptor LLP.md to 1627980646283
+[14:20:46] [Info] File LLP.md saved.
+[14:20:57] [Info] Saving file LLP.md...
+[14:20:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:20:57] [Info] Updated modtime for fileDescriptor LLP.md to 1627980657615
+[14:20:57] [Info] File LLP.md saved.
+[14:22:50] [Info] Saving file LLP.md...
+[14:22:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:22:50] [Info] Updated modtime for fileDescriptor LLP.md to 1627980770281
+[14:22:50] [Info] File LLP.md saved.
+[14:33:36] [Info] Saving file LLP.md...
+[14:33:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:33:36] [Info] Updated modtime for fileDescriptor LLP.md to 1627981416084
+[14:33:36] [Info] File LLP.md saved.
+[14:34:18] [Info] Saving file LLP.md...
+[14:34:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:34:18] [Info] Updated modtime for fileDescriptor LLP.md to 1627981458213
+[14:34:18] [Info] File LLP.md saved.
+[14:34:33] [Info] Saving file LLP.md...
+[14:34:33] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:34:33] [Info] Updated modtime for fileDescriptor LLP.md to 1627981473713
+[14:34:33] [Info] File LLP.md saved.
+[14:35:09] [Info] Saving file LLP.md...
+[14:35:09] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:35:09] [Info] Updated modtime for fileDescriptor LLP.md to 1627981509838
+[14:35:09] [Info] File LLP.md saved.
+[14:35:17] [Info] Saving file LLP.md...
+[14:35:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:35:17] [Info] Updated modtime for fileDescriptor LLP.md to 1627981517282
+[14:35:17] [Info] File LLP.md saved.
+[14:35:26] [Info] Saving file LLP.md...
+[14:35:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:35:26] [Info] Updated modtime for fileDescriptor LLP.md to 1627981526810
+[14:35:26] [Info] File LLP.md saved.
+[14:43:54] [Info] Saving file LLP.md...
+[14:43:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:43:54] [Info] Updated modtime for fileDescriptor LLP.md to 1627982034387
+[14:43:54] [Info] File LLP.md saved.
+[14:44:25] [Info] Saving file LLP.md...
+[14:44:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:44:25] [Info] Updated modtime for fileDescriptor LLP.md to 1627982065556
+[14:44:25] [Info] File LLP.md saved.
+[14:45:24] [Info] Saving file LLP.md...
+[14:45:24] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:45:24] [Info] Updated modtime for fileDescriptor LLP.md to 1627982124084
+[14:45:24] [Info] File LLP.md saved.
+[14:45:40] [Info] Saving file LLP.md...
+[14:45:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:45:40] [Info] Updated modtime for fileDescriptor LLP.md to 1627982140876
+[14:45:40] [Info] File LLP.md saved.
+[14:46:12] [Info] Saving file LLP.md...
+[14:46:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:46:12] [Info] Updated modtime for fileDescriptor LLP.md to 1627982172172
+[14:46:12] [Info] File LLP.md saved.
+[14:49:56] [Info] Saving file LLP.md...
+[14:49:56] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:49:56] [Info] Updated modtime for fileDescriptor LLP.md to 1627982396457
+[14:49:56] [Info] File LLP.md saved.
+[14:50:14] [Info] Saving file LLP.md...
+[14:50:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:50:14] [Info] Updated modtime for fileDescriptor LLP.md to 1627982414237
+[14:50:14] [Info] File LLP.md saved.
+[14:50:24] [Info] Saving file LLP.md...
+[14:50:24] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:50:24] [Info] Updated modtime for fileDescriptor LLP.md to 1627982424045
+[14:50:24] [Info] File LLP.md saved.
+[14:50:41] [Info] Saving file LLP.md...
+[14:50:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:50:41] [Info] Updated modtime for fileDescriptor LLP.md to 1627982441313
+[14:50:41] [Info] File LLP.md saved.
+[14:50:57] [Info] Saving file LLP.md...
+[14:50:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:50:57] [Info] Updated modtime for fileDescriptor LLP.md to 1627982457745
+[14:50:57] [Info] File LLP.md saved.
+[14:51:20] [Info] Saving file LLP.md...
+[14:51:20] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:51:20] [Info] Updated modtime for fileDescriptor LLP.md to 1627982480154
+[14:51:20] [Info] File LLP.md saved.
+[14:52:09] [Info] Saving file LLP.md...
+[14:52:09] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:52:09] [Info] Updated modtime for fileDescriptor LLP.md to 1627982529106
+[14:52:09] [Info] File LLP.md saved.
+[14:52:30] [Info] Saving file LLP.md...
+[14:52:30] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:52:30] [Info] Updated modtime for fileDescriptor LLP.md to 1627982550946
+[14:52:30] [Info] File LLP.md saved.
+[14:52:53] [Info] Saving file LLP.md...
+[14:52:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[14:52:53] [Info] Updated modtime for fileDescriptor LLP.md to 1627982573918
+[14:52:53] [Info] File LLP.md saved.
+[15:12:44] [Info] Saving file LLP.md...
+[15:12:44] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/lawSikho/_md/LLP.md
+[15:12:44] [Info] Updated modtime for fileDescriptor LLP.md to 1627983764606
+[15:12:44] [Info] File LLP.md saved.
+[15:37:43] [Info] さようなら！ Shutting down at Tue Aug 03 2021 15:37:43 GMT+0530 (India Standard Time)
+[15:37:44] [Info] Cleaned up FSAL cache: Removed 33 remnants.
+[15:37:48] [Info] Shutdown almost complete. Application uptime was: 3 hours, 9 minutes, and 30.423 seconds.

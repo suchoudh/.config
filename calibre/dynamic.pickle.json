@@ -1,6 +1,6 @@
 {
   "Export Catalog Directory": "/home/rahu/Desktop/0del",
-  "add books dialog dir": "/home/rahu/Homebox/1200InterfaceWith/lawSikho",
+  "add books dialog dir": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_lawsikho/_assignment",
   "auto add path choose": "/home/rahu/Documents/_add2Calibre",
   "catalog_add_to_library": true,
   "catalog_last_used_title": "My Books222",
@@ -24,43 +24,39 @@
     "__class__": "set",
     "__value__": [
       "4.7",
-      "4.9",
-      "5.21",
-      "4.2",
-      "4.16",
+      "4.10",
+      "5.3",
+      "4.11",
       "5.14",
-      "5.18",
+      "4.16",
+      "4.13",
       "4.8",
+      "4.12",
       "4.6",
       "4.4",
-      "5.3",
       "4.3",
-      "4.10",
-      "4.11",
-      "4.13",
-      "4.12"
+      "4.9",
+      "4.2",
+      "5.21",
+      "5.18"
     ]
   },
   "opml-select-dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day",
   "recursive book import root dir dialog": "/home/rahu/Downloads/jan2021/book-1",
   "s_r_search_mode": 0,
-  "save to disk dialog": "/home/rahu/Calibre_4meOnly",
+  "save to disk dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del",
   "select-folder-for-imported-library": "/home/rahu/Calibre_1",
   "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
     [
       "title",
       false
     ],
     [
       "rating",
-      false
-    ],
-    [
-      "timestamp",
-      false
-    ],
-    [
-      "timestamp",
       false
     ],
     [

@@ -1,8 +1,3 @@
-2021/06/12-13:31:42.181 59f7 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/06/12-13:31:42.182 59f7 Recovering log #125
-2021/06/12-13:31:42.182 59f7 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000125.log 
-2021/06/12-13:32:06.288 5955 Level-0 table #129: started
-2021/06/12-13:32:06.288 5955 Level-0 table #129: 0 bytes OK
-2021/06/12-13:32:06.530 5955 Delete type=0 #125
-2021/06/12-13:32:06.530 5955 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/06/12-13:32:06.530 5955 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/08/01-13:30:59.795 ea7 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/01-13:30:59.796 ea7 Recovering log #128
+2021/08/01-13:31:00.200 ea7 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000128.log 

@@ -1,0 +1,550 @@
+[11:58:08] [Info] こんにちは！ Booting Zettlr at Fri Jul 30 2021 11:58:07 GMT+0530 (India Standard Time).
+[11:58:08] [Info] Performing environment check ...
+[11:58:08] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIaeZbtM/resources/pandoc
+[11:58:08] [Info] Environment check complete.
+[11:58:08] [Info] Registering custom protocol safe-file
+[11:58:08] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[11:58:09] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[11:58:09] [Info] Added DevTools extension:  Vue.js devtools
+[11:58:10] [Warning] [FSAL] Path /home/rahu/Documents/Zettlr Tutorial took 670ms to load.
+[11:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 223ms to load.
+[11:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print/Assignment Guidelines for Lawsikho Courses for assignment portal.txt took 118ms to load.
+[11:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print took 180ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2print_economist.pdf took 462ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 862ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/Practical Contract Drafting_files took 117ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho/_assignment took 175ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 239ms to load.
+[11:58:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 589ms to load.
+[11:58:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 364ms to load.
+[11:58:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_md/2021_01_07_16_12_09.md took 102ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_md/RangerShortCuts.md took 293ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_md took 1051ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/AWS/CloudConsultantDevOps took 108ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/AWS took 109ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach took 199ms to load.
+[11:58:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 124ms to load.
+[11:58:13] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 3608ms to load.
+[11:58:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/1800_weight80KG took 114ms to load.
+[11:58:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja/_md/2020_11_18_20_03_42.md took 139ms to load.
+[11:58:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja/_md/2020_11_18_20_04_35.md took 154ms to load.
+[11:58:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja/_md took 458ms to load.
+[11:58:14] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/3100_Pooja took 668ms to load.
+[11:58:15] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/03 took 219ms to load.
+[11:58:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/20 took 336ms to load.
+[11:58:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/21 took 147ms to load.
+[11:58:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/22/1Sun took 528ms to load.
+[11:58:16] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/22 took 690ms to load.
+[11:58:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/23 took 147ms to load.
+[11:58:17] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/24 took 109ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/26/2Mon took 2759ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/26 took 2775ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/29/readme29.md took 137ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/29 took 180ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/30 took 150ms to load.
+[11:58:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/31 took 362ms to load.
+[11:58:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/35 took 114ms to load.
+[11:58:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/38 took 119ms to load.
+[11:58:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/42 took 135ms to load.
+[11:58:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020/51 took 168ms to load.
+[11:58:21] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2020 took 6982ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/01/Tue/2021_01_05_17_30_16.md took 325ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/01/Tue took 370ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/01 took 545ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02/Fri took 110ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02/Mon/this.Day took 102ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02/Mon took 148ms to load.
+[11:58:22] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/02 took 472ms to load.
+[11:58:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/03 took 132ms to load.
+[11:58:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/04 took 102ms to load.
+[11:58:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/13 took 238ms to load.
+[11:58:23] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/14 took 227ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/15 took 137ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/16 took 108ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/17 took 161ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18/Fri/this.Day took 112ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18/Fri took 126ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18/Wed/this.Day took 171ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18/Wed took 174ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/18 took 314ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/19/Sat/this.Day/screenshots took 104ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/19/Sat/this.Day took 189ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/19/Sat took 210ms to load.
+[11:58:24] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/19 took 218ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Sun/this.Day/screenshots took 105ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Sun/this.Day took 291ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Sun took 371ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20/Thu took 108ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/20 took 505ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21/Mon/this.Day/screenshots took 132ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21/Mon/this.Day took 232ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21/Mon took 235ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/21 took 252ms to load.
+[11:58:25] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/23 took 120ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/26 took 194ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/28/Wed/this.Day took 160ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/28/Wed took 162ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/28 took 182ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/30/Wed/this.Day took 403ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/30/Wed took 457ms to load.
+[11:58:26] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021/30 took 532ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F/2021 took 5115ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/43F took 12127ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/900_myMorningNotes took 248ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo/_pdf took 131ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1000DailyDo took 13805ms to load.
+[11:58:27] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD/Dhruva took 112ms to load.
+[11:58:28] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD/Pranay took 110ms to load.
+[11:58:29] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD/Utkarsha took 1124ms to load.
+[11:58:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD/Vaibhav took 1052ms to load.
+[11:58:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/10Delegated2_GTD took 2643ms to load.
+[11:58:30] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/DataTrack took 364ms to load.
+[11:58:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/English took 128ms to load.
+[11:58:31] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/Learning_Vids/Udemy/16. Statistics - Practical Example Hypothesis Testing took 402ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/Learning_Vids/Udemy/17. Part 3 Introduction to Python took 256ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/Learning_Vids/Udemy took 952ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation/Learning_Vids took 953ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1112_DhruvaEducation took 1747ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/1200_MyFamily took 104ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4/_img took 141ms to load.
+[11:58:32] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1100Responsible4 took 2352ms to load.
+[11:58:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/shopify took 123ms to load.
+[11:58:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech took 529ms to load.
+[11:58:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho took 200ms to load.
+[11:58:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho took 264ms to load.
+[11:58:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith took 1210ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1/icons took 108ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1 took 128ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64 took 141ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/backupDhruva8gb/Auto call record took 148ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/backupDhruva8gb took 398ms to load.
+[11:58:34] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL took 579ms to load.
+[11:58:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/Music took 137ms to load.
+[11:58:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy took 1313ms to load.
+[11:58:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2100GoldenPastin took 146ms to load.
+[11:58:35] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2200DentInUniverseOf took 213ms to load.
+[11:58:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin/_md took 177ms to load.
+[11:58:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/100_admin took 404ms to load.
+[11:58:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/1300_inspirationChart/_md took 293ms to load.
+[11:58:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/1300_inspirationChart took 401ms to load.
+[11:58:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/_image took 122ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/_md/1myProgress_1600_RoutineDRAMAL1.md took 237ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese/_md took 372ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2300RememberThese took 1450ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData took 295ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf/3400_Routine took 436ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2400QuantifiedSelf took 477ms to load.
+[11:58:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/2500ImageOf took 194ms to load.
+[11:58:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone/Ch_Contacts_preeti took 133ms to load.
+[11:58:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily/2100_GTD_Phone took 403ms to load.
+[11:58:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/36useExtFamily took 619ms to load.
+[11:58:38] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4000How2 took 274ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay/HamExam/HamRadioExam took 125ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay/HamExam took 197ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/40SomeDay took 260ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment/02_GlobalVPCNetwork/terraform took 107ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment/02_GlobalVPCNetwork took 147ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith/aws-infrastructure-concepts-and-deployment took 207ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/ChadSmith took 237ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda/programming-aws-lambda-book took 129ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021/Lambda took 222ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/11Jan2021 took 558ms to load.
+[11:58:39] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-dev-associate took 115ms to load.
+[11:58:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-sa-associate-saac02 took 337ms to load.
+[11:58:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-sa-pro took 136ms to load.
+[11:58:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/aws-sysops-associate took 123ms to load.
+[11:58:40] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill/learn-cantrill-io-labs took 305ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS/cantrill took 1226ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/AWS took 1793ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/DesignPattern/501_DesPatterns/Design-Patterns.git/objects took 102ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/DesignPattern/501_DesPatterns/Design-Patterns.git took 130ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/DesignPattern/501_DesPatterns took 161ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/DesignPattern took 166ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/myFinancials/1_Financial111 took 106ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis/myFinancials took 127ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/4100Whatis took 2522ms to load.
+[11:58:41] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/8Lpm took 229ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/90DRAMAL/stochastic-hill-climbing/tasks took 110ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/90DRAMAL/stochastic-hill-climbing took 117ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/90DRAMAL took 129ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD/_image took 153ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/70NextActionin_GTD took 634ms to load.
+[11:58:42] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers/Etc took 261ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute/2201ArtofSunil/ideas/Wallpapers/wallpapers took 523ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute/2201ArtofSunil/ideas/Wallpapers took 560ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute/2201ArtofSunil/ideas took 658ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute/2201ArtofSunil took 661ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom/2200Parachute took 820ms to load.
+[11:58:43] [Warning] [FSAL Directory] Path /home/rahu/Homebox/999MoneyFrom took 988ms to load.
+[11:58:43] [Warning] [FSAL] Path /home/rahu/Homebox took 29553ms to load.
+[11:58:43] [Info] Loaded all roots in 33.859 seconds
+[11:58:43] [Info] [Update Provider] Checking for application updates ...
+[11:58:45] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[12:01:47] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999MoneyFrom/New Folder
+[12:01:58] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Homebox/999MoneyFrom/New Folder
+[12:01:58] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Homebox/999MoneyFrom/JyothirMoyPathak
+[12:02:02] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Homebox/999MoneyFrom/JyothirMoyPathak/CFT Internship (3).pdf
+[12:02:03] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999MoneyFrom/JyothirMoyPathak/CFT Internship (3).pdf
+[12:02:05] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/999MoneyFrom/JyothirMoyPathak/CFT Internship (3).pdf
+[12:03:23] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/Untitled Folder
+[12:03:35] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/Untitled Folder
+[12:03:35] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/JPLeads
+[12:03:39] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/JPLeads/SC2021JulyNO_Cover.odt
+[12:03:39] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/JPLeads/SC2021JulyNO_Cover.odt
+[12:11:52] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach/JPLeads/SC2021JulyNO_Cover.odt
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1/icons/hicolor took 773ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1/icons took 781ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1/polkit-1 took 104ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64/anydesk-5.1.1 took 935ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/anydesk-5.1.1-amd64 took 960ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/backupDhruva8gb/Auto call record took 142ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL/backupDhruva8gb took 292ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/0DEL took 1278ms to load.
+[12:18:19] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/1000_ITNews took 134ms to load.
+[12:18:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood took 111ms to load.
+[12:18:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/FreeSoftwareNews took 206ms to load.
+[12:18:20] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1400EnjoyBy/Learning took 111ms to load.
+[12:18:20] [Warning] [FSAL] Path /home/rahu/Homebox/1400EnjoyBy took 2500ms to load.
+[12:18:35] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/00HowBestyouFollowed_BoD.BoD.md
+[12:23:28] [Error] Could not process remote change, as no fitting descriptor was found | Details: {"event":"change","path":"/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/00HowBestyouFollowed_BoD.BoD.md"}
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/0Affirmations.BoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/0GoodDeed4Day.EoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/0Grateful4Iam.BoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/1DidISeeSunSetNUM.EoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/1DidUSeeSunRiseNUM.BoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/2LearnFromOreillytoday.BoD.md
+[12:23:28] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/2400QuantifiedSelf/3400_Routine/myData/2QuotesWHichInspiredmeToday.EoD.md
+[12:32:29] [Info] Saving file readmeEnjoyBy.md...
+[12:32:29] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/_md/readmeEnjoyBy.md
+[12:32:29] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628549843
+[12:32:29] [Info] File readmeEnjoyBy.md saved.
+[12:32:59] [Info] Saving file readmeEnjoyBy.md...
+[12:32:59] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628579287
+[12:32:59] [Info] File readmeEnjoyBy.md saved.
+[12:33:49] [Info] Saving file readmeEnjoyBy.md...
+[12:33:49] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628629227
+[12:33:49] [Info] File readmeEnjoyBy.md saved.
+[12:33:59] [Info] Saving file readmeEnjoyBy.md...
+[12:33:59] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628639955
+[12:33:59] [Info] File readmeEnjoyBy.md saved.
+[12:34:19] [Info] Saving file readmeEnjoyBy.md...
+[12:34:19] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628659192
+[12:34:19] [Info] File readmeEnjoyBy.md saved.
+[12:35:08] [Info] Saving file readmeEnjoyBy.md...
+[12:35:08] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628708092
+[12:35:08] [Info] File readmeEnjoyBy.md saved.
+[12:35:28] [Info] Saving file readmeEnjoyBy.md...
+[12:35:28] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628728612
+[12:35:28] [Info] File readmeEnjoyBy.md saved.
+[12:35:45] [Info] Saving file readmeEnjoyBy.md...
+[12:35:45] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628745324
+[12:35:45] [Info] File readmeEnjoyBy.md saved.
+[12:35:58] [Info] Saving file readmeEnjoyBy.md...
+[12:35:58] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628758584
+[12:35:58] [Info] File readmeEnjoyBy.md saved.
+[12:36:04] [Info] Saving file readmeEnjoyBy.md...
+[12:36:04] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628764992
+[12:36:05] [Info] File readmeEnjoyBy.md saved.
+[12:36:23] [Info] Saving file readmeEnjoyBy.md...
+[12:36:23] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628783913
+[12:36:23] [Info] File readmeEnjoyBy.md saved.
+[12:36:35] [Info] Saving file readmeEnjoyBy.md...
+[12:36:35] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628795033
+[12:36:35] [Info] File readmeEnjoyBy.md saved.
+[12:36:54] [Info] Saving file readmeEnjoyBy.md...
+[12:36:54] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628814521
+[12:36:54] [Info] File readmeEnjoyBy.md saved.
+[12:37:09] [Info] Saving file readmeEnjoyBy.md...
+[12:37:09] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628829233
+[12:37:09] [Info] File readmeEnjoyBy.md saved.
+[12:37:30] [Info] Saving file readmeEnjoyBy.md...
+[12:37:30] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628850737
+[12:37:30] [Info] File readmeEnjoyBy.md saved.
+[12:37:38] [Info] Saving file readmeEnjoyBy.md...
+[12:37:38] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628858681
+[12:37:38] [Info] File readmeEnjoyBy.md saved.
+[12:37:49] [Info] Saving file readmeEnjoyBy.md...
+[12:37:49] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628869681
+[12:37:49] [Info] File readmeEnjoyBy.md saved.
+[12:38:06] [Info] Saving file readmeEnjoyBy.md...
+[12:38:06] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628886057
+[12:38:06] [Info] File readmeEnjoyBy.md saved.
+[12:38:19] [Info] Saving file readmeEnjoyBy.md...
+[12:38:19] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628899342
+[12:38:19] [Info] File readmeEnjoyBy.md saved.
+[12:38:38] [Info] Saving file readmeEnjoyBy.md...
+[12:38:38] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627628918310
+[12:38:38] [Info] File readmeEnjoyBy.md saved.
+[12:46:55] [Info] Saving file readmeEnjoyBy.md...
+[12:46:55] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629415579
+[12:46:55] [Info] File readmeEnjoyBy.md saved.
+[12:47:06] [Info] Saving file readmeEnjoyBy.md...
+[12:47:06] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629426095
+[12:47:06] [Info] File readmeEnjoyBy.md saved.
+[12:47:30] [Info] Saving file readmeEnjoyBy.md...
+[12:47:30] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629450351
+[12:47:30] [Info] File readmeEnjoyBy.md saved.
+[12:48:27] [Info] Saving file readmeEnjoyBy.md...
+[12:48:27] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629507652
+[12:48:27] [Info] File readmeEnjoyBy.md saved.
+[12:48:43] [Info] Saving file readmeEnjoyBy.md...
+[12:48:43] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629523668
+[12:48:43] [Info] File readmeEnjoyBy.md saved.
+[12:48:54] [Info] Saving file readmeEnjoyBy.md...
+[12:48:54] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627629534640
+[12:48:54] [Info] File readmeEnjoyBy.md saved.
+[12:58:54] [Info] Saving file readmeEnjoyBy.md...
+[12:58:54] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630134796
+[12:58:54] [Info] File readmeEnjoyBy.md saved.
+[12:59:12] [Info] Saving file readmeEnjoyBy.md...
+[12:59:12] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630152396
+[12:59:12] [Info] File readmeEnjoyBy.md saved.
+[12:59:28] [Info] Saving file readmeEnjoyBy.md...
+[12:59:28] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630168957
+[12:59:28] [Info] File readmeEnjoyBy.md saved.
+[13:00:00] [Info] Saving file readmeEnjoyBy.md...
+[13:00:00] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630200854
+[13:00:00] [Info] File readmeEnjoyBy.md saved.
+[13:00:11] [Info] Saving file readmeEnjoyBy.md...
+[13:00:11] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630211507
+[13:00:11] [Info] File readmeEnjoyBy.md saved.
+[13:00:24] [Info] Saving file readmeEnjoyBy.md...
+[13:00:24] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630224559
+[13:00:24] [Info] File readmeEnjoyBy.md saved.
+[13:00:37] [Info] Saving file readmeEnjoyBy.md...
+[13:00:37] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630237596
+[13:00:37] [Info] File readmeEnjoyBy.md saved.
+[13:01:12] [Info] Saving file readmeEnjoyBy.md...
+[13:01:12] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630272017
+[13:01:12] [Info] File readmeEnjoyBy.md saved.
+[13:01:37] [Info] Saving file readmeEnjoyBy.md...
+[13:01:37] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630297118
+[13:01:37] [Info] File readmeEnjoyBy.md saved.
+[13:02:09] [Info] Saving file readmeEnjoyBy.md...
+[13:02:09] [Info] Updated modtime for fileDescriptor readmeEnjoyBy.md to 1627630329315
+[13:02:09] [Info] File readmeEnjoyBy.md saved.
+[13:28:37] [Info] さようなら！ Shutting down at Fri Jul 30 2021 13:28:37 GMT+0530 (India Standard Time)
+[13:28:38] [Info] Cleaned up FSAL cache: Removed 176 remnants.
+[13:28:38] [Info] Shutdown almost complete. Application uptime was: 1 hours, 30 minutes, and 31.204 seconds.
+[13:37:46] [Info] こんにちは！ Booting Zettlr at Fri Jul 30 2021 13:37:45 GMT+0530 (India Standard Time).
+[13:37:46] [Info] Performing environment check ...
+[13:37:46] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIHRzJz8/resources/pandoc
+[13:37:46] [Info] Environment check complete.
+[13:37:46] [Info] Registering custom protocol safe-file
+[13:37:46] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[13:37:46] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[13:37:46] [Info] Added DevTools extension:  Vue.js devtools
+[13:37:46] [Info] Loaded all roots in 0.187 seconds
+[13:37:47] [Info] [Update Provider] Checking for application updates ...
+[13:37:48] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[13:39:02] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[13:39:05] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object] (index.js:593)
+[13:39:08] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object] (index.js:593)
+[13:39:14] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object] (index.js:593)
+[13:39:54] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1624778126280
+[13:39:54] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:39:54] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readme.md
+[13:39:54] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[13:40:09] [Info] Saving file readmeFoodCooking.md...
+[13:40:09] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:40:09] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632609421
+[13:40:09] [Info] File readmeFoodCooking.md saved.
+[13:40:19] [Info] Saving file readmeFoodCooking.md...
+[13:40:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:40:19] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632619713
+[13:40:19] [Info] File readmeFoodCooking.md saved.
+[13:40:37] [Info] Saving file readmeFoodCooking.md...
+[13:40:37] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:40:37] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632637069
+[13:40:37] [Info] File readmeFoodCooking.md saved.
+[13:40:54] [Info] Saving file readmeFoodCooking.md...
+[13:40:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:40:54] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632654609
+[13:40:54] [Info] File readmeFoodCooking.md saved.
+[13:41:16] [Info] Saving file readmeFoodCooking.md...
+[13:41:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:41:16] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632676157
+[13:41:16] [Info] File readmeFoodCooking.md saved.
+[13:41:40] [Info] Saving file readmeFoodCooking.md...
+[13:41:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:41:40] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632700297
+[13:41:40] [Info] File readmeFoodCooking.md saved.
+[13:41:48] [Info] Saving file readmeFoodCooking.md...
+[13:41:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:41:48] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632708925
+[13:41:48] [Info] File readmeFoodCooking.md saved.
+[13:41:59] [Info] Saving file readmeFoodCooking.md...
+[13:41:59] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:41:59] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632719177
+[13:41:59] [Info] File readmeFoodCooking.md saved.
+[13:42:15] [Info] Saving file readmeFoodCooking.md...
+[13:42:15] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:42:15] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632735497
+[13:42:15] [Info] File readmeFoodCooking.md saved.
+[13:42:22] [Info] Saving file readmeFoodCooking.md...
+[13:42:22] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:42:22] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632742201
+[13:42:22] [Info] File readmeFoodCooking.md saved.
+[13:42:37] [Info] Saving file readmeFoodCooking.md...
+[13:42:37] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:42:37] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632757357
+[13:42:37] [Info] File readmeFoodCooking.md saved.
+[13:42:48] [Info] Saving file readmeFoodCooking.md...
+[13:42:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:42:48] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632768129
+[13:42:48] [Info] File readmeFoodCooking.md saved.
+[13:43:04] [Info] Saving file readmeFoodCooking.md...
+[13:43:04] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:43:04] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632784517
+[13:43:04] [Info] File readmeFoodCooking.md saved.
+[13:43:13] [Info] Saving file readmeFoodCooking.md...
+[13:43:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:43:13] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632793741
+[13:43:13] [Info] File readmeFoodCooking.md saved.
+[13:43:58] [Info] Saving file readmeFoodCooking.md...
+[13:43:58] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:43:58] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632838010
+[13:43:58] [Info] File readmeFoodCooking.md saved.
+[13:44:36] [Info] Saving file readmeFoodCooking.md...
+[13:44:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:44:36] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632876578
+[13:44:36] [Info] File readmeFoodCooking.md saved.
+[13:45:01] [Info] Saving file readmeFoodCooking.md...
+[13:45:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:45:01] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632901366
+[13:45:01] [Info] File readmeFoodCooking.md saved.
+[13:45:28] [Info] Saving file readmeFoodCooking.md...
+[13:45:28] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:45:28] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632928126
+[13:45:28] [Info] File readmeFoodCooking.md saved.
+[13:45:44] [Info] Saving file readmeFoodCooking.md...
+[13:45:44] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:45:44] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632944766
+[13:45:44] [Info] File readmeFoodCooking.md saved.
+[13:45:57] [Info] Saving file readmeFoodCooking.md...
+[13:45:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:45:57] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632957810
+[13:45:57] [Info] File readmeFoodCooking.md saved.
+[13:46:04] [Info] Saving file readmeFoodCooking.md...
+[13:46:04] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:46:04] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632964239
+[13:46:04] [Info] File readmeFoodCooking.md saved.
+[13:46:14] [Info] Saving file readmeFoodCooking.md...
+[13:46:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:46:14] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632974947
+[13:46:14] [Info] File readmeFoodCooking.md saved.
+[13:46:26] [Info] Saving file readmeFoodCooking.md...
+[13:46:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:46:26] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627632986247
+[13:46:26] [Info] File readmeFoodCooking.md saved.
+[13:47:18] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object] (index.js:593)
+[13:59:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[13:59:43] [Info] Chokidar has detected a change event for file readmeFoodCooking.md. Attempting to re-parse ...
+[14:00:29] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:00:29] [Info] Chokidar has detected a change event for file readmeFoodCooking.md. Attempting to re-parse ...
+[14:00:43] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[14:02:31] [Info] Saving file readmeFoodCooking.md...
+[14:02:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:02:31] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627633951401
+[14:02:31] [Info] File readmeFoodCooking.md saved.
+[14:02:50] [Info] Saving file readmeFoodCooking.md...
+[14:02:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:02:50] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627633970477
+[14:02:50] [Info] File readmeFoodCooking.md saved.
+[14:03:16] [Info] Saving file readmeFoodCooking.md...
+[14:03:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:03:16] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627633996910
+[14:03:16] [Info] File readmeFoodCooking.md saved.
+[14:03:35] [Info] Saving file readmeFoodCooking.md...
+[14:03:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:03:35] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634015062
+[14:03:35] [Info] File readmeFoodCooking.md saved.
+[14:03:45] [Info] Saving file readmeFoodCooking.md...
+[14:03:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:03:45] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634025138
+[14:03:45] [Info] File readmeFoodCooking.md saved.
+[14:04:02] [Info] Saving file readmeFoodCooking.md...
+[14:04:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:04:02] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634042482
+[14:04:02] [Info] File readmeFoodCooking.md saved.
+[14:04:14] [Info] Saving file readmeFoodCooking.md...
+[14:04:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:04:14] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634054302
+[14:04:14] [Info] File readmeFoodCooking.md saved.
+[14:04:37] [Info] Saving file readmeFoodCooking.md...
+[14:04:37] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:04:37] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634077207
+[14:04:37] [Info] File readmeFoodCooking.md saved.
+[14:06:02] [Info] Saving file readmeFoodCooking.md...
+[14:06:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:06:02] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634162476
+[14:06:02] [Info] File readmeFoodCooking.md saved.
+[14:06:08] [Info] Saving file readmeFoodCooking.md...
+[14:06:08] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:06:08] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634168104
+[14:06:08] [Info] File readmeFoodCooking.md saved.
+[14:06:13] [Info] Saving file readmeFoodCooking.md...
+[14:06:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1400EnjoyBy/1700_food_CookingFood/_md/readmeFoodCooking.md
+[14:06:13] [Info] Updated modtime for fileDescriptor readmeFoodCooking.md to 1627634173240
+[14:06:13] [Info] File readmeFoodCooking.md saved.
+[14:09:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/1800_weight80KG took 859ms to load.
+[14:09:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja/_md took 201ms to load.
+[14:09:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 281ms to load.
+[14:09:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3600_Zettlr took 243ms to load.
+[14:09:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/01 took 113ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/51 took 132ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 1490ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/01 took 138ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02 took 251ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04 took 157ms to load.
+[14:09:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06 took 128ms to load.
+[14:09:17] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/35 took 125ms to load.
+[14:09:17] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/37/6Fri took 209ms to load.
+[14:09:17] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/37 took 250ms to load.
+[14:09:17] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/38 took 153ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/4/1Sun took 162ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/4 took 184ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/41 took 101ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/46/4Wed/46Week.md took 153ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/46/4Wed took 154ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/46 took 240ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 2553ms to load.
+[14:09:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 4048ms to load.
+[14:09:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/903Quotes took 242ms to load.
+[14:09:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft/ideas took 246ms to load.
+[14:09:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft took 247ms to load.
+[14:09:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes took 1006ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 107ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho/_assignment took 136ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 202ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 269ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 147ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach took 125ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 863ms to load.
+[14:09:20] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 966ms to load.
+[14:09:20] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 7550ms to load.
+[14:10:29] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[14:13:08] [Info] Saving file BeatingDepression.md...
+[14:13:08] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/3600_Zettlr/BeatingDepression.md
+[14:13:08] [Info] Updated modtime for fileDescriptor BeatingDepression.md to 1627634588310
+[14:13:08] [Info] File BeatingDepression.md saved.
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_md
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_img
+[14:15:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_md/2020_12_24_20_34_49.md
+[14:15:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_md/readmethisWeek.md
+[14:15:44] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_img/OneandHalfGoals.png
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_vid
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_pdf_doc_odt_pptx
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_sh
+[14:15:44] [Info] [WATCHDOG] Emitting event: addDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_tar_zip_gz
+[14:15:44] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2020_12_24_20_34_49.md
+[14:15:44] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/readmethisWeek.md
+[14:15:44] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/OneandHalfGoals.png
+[14:15:45] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 190ms to load.
+[14:15:46] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_vid
+[14:15:46] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_pdf_doc_odt_pptx
+[14:15:46] [Info] [WATCHDOG] Emitting event: unlinkDir:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_tar_zip_gz
+[18:03:37] [Info] さようなら！ Shutting down at Fri Jul 30 2021 18:03:37 GMT+0530 (India Standard Time)
+[18:03:39] [Info] Cleaned up FSAL cache: Removed 3594 remnants.
+[18:03:46] [Info] Shutdown almost complete. Application uptime was: 4 hours, 26 minutes, and 0.440 seconds.

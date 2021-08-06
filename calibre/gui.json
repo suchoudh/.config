@@ -472,12 +472,12 @@
   },
   "jobs_dialog_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAFGAAABNQAAA98AAAKQAAABSAAAATcAAAPdAAACjgAAAAAAAAAABVYAAAFIAAABNwAAA90AAAKO"
+    "__value__": "AdnQywADAAAAAAFIAAABNQAAA+EAAAKQAAABSgAAATcAAAPfAAACjgAAAAAAAAAABVYAAAFKAAABNwAAA98AAAKO"
   },
   "library_usage_stats": {
-    "/home/rahu/Calibre_1": 229,
-    "/home/rahu/Calibre_Books": 2,
-    "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 4
+    "/home/rahu/Calibre_1": 231,
+    "/home/rahu/Calibre_Books": 3,
+    "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 7
   },
   "manage-saved-searches-geometry": {
     "__class__": "bytearray",

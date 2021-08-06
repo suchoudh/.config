@@ -1,22 +1,9 @@
-rename 1112DhruvaMedical
-rename 1113ArtNews
-rename 1101ARS
-mkdir 1100Archive
-search wall
-search 
-mkdir Kagaz
-rename 27reyburn-4-jumboa.jpg
-mkdir myinspiration
-rename 4Bhw.jpg
-search prashant
 search Prashant
 touch PoliticalFolks.txt
 q
 search wallpa
 cw
-rename 
 search Wall
-open_with 
 bw
 rename
 rename giving.jpg
@@ -40,11 +27,24 @@ open_with c
 rename 5_6244488440969166865.wav
 touch 
 rename screenshot_20210326_131242.png
-
 rename screenshot_20210404_225247.png
 rename 800px-GTDcanonical.png
 rename awsaudiokelly
 rename 2see
 rename Zettlr Tutorial
+scout -ftsea m
+open_with 
+rename apple_isa_llvm.pdf
 scout -ftsea 
+rename _indore_from_ref
 delete
+rename Forensics_eesu
+rename jobSearch
+
+rename colourPallete
+rename typography
+rename typography.png
+rename typography.jpg
+rename `
+rename 
+q!

@@ -1,0 +1,383 @@
+[16:39:20] [Info] こんにちは！ Booting Zettlr at Mon Aug 02 2021 16:39:18 GMT+0530 (India Standard Time).
+[16:39:20] [Info] Performing environment check ...
+[16:39:20] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIzN5Mrz/resources/pandoc
+[16:39:20] [Info] Environment check complete.
+[16:39:20] [Info] Registering custom protocol safe-file
+[16:39:21] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[16:39:22] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[16:39:22] [Info] Added DevTools extension:  Vue.js devtools
+[16:39:23] [Warning] [FSAL] Path /home/rahu/Documents/Zettlr Tutorial took 544ms to load.
+[16:39:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/1800_weight80KG took 172ms to load.
+[16:39:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja/_md took 145ms to load.
+[16:39:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 160ms to load.
+[16:39:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3600_Zettlr took 145ms to load.
+[16:39:25] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/13 took 138ms to load.
+[16:39:25] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/14 took 148ms to load.
+[16:39:25] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/18 took 105ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/21/2Mon took 113ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/21 took 237ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/23 took 113ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/25 took 222ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/26 took 120ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/27 took 125ms to load.
+[16:39:26] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/28 took 112ms to load.
+[16:39:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/32 took 200ms to load.
+[16:39:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/40 took 145ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/43/5Thu took 107ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/43 took 181ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/47 took 111ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/48 took 102ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/50/7Sat took 240ms to load.
+[16:39:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/50 took 264ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 4400ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/01 took 111ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02/Fri/readmethisWeek.md took 113ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02/Fri took 222ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02/Mon took 143ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02/Wed/readmethisWeek.md took 207ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02/Wed took 226ms to load.
+[16:39:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02 took 736ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04/Mon/this.Day took 116ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04/Mon took 127ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04/Wed/Week01.md took 172ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04/Wed took 234ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/04 took 411ms to load.
+[16:39:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06 took 138ms to load.
+[16:39:31] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/42 took 133ms to load.
+[16:39:31] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/52 took 219ms to load.
+[16:39:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/6 took 327ms to load.
+[16:39:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 3224ms to load.
+[16:39:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 7630ms to load.
+[16:39:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft/ideas took 236ms to load.
+[16:39:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft took 264ms to load.
+[16:39:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes took 956ms to load.
+[16:39:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 281ms to load.
+[16:39:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 152ms to load.
+[16:39:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 270ms to load.
+[16:39:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 225ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21/MapIT/Consultant/UTC1626424776.md took 130ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21/MapIT/Consultant took 153ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21/MapIT took 186ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21 took 380ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1681ms to load.
+[16:39:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 1905ms to load.
+[16:39:35] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 11858ms to load.
+[16:39:35] [Info] Loaded all roots in 12.417 seconds
+[16:39:35] [Info] [Update Provider] Checking for application updates ...
+[16:39:36] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[16:39:51] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[16:49:36] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_img took 133ms to load.
+[16:49:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md took 123ms to load.
+[16:49:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_pdf_doc_odt_pptx took 138ms to load.
+[16:49:37] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/audioNotes took 119ms to load.
+[16:49:37] [Warning] [FSAL] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech took 754ms to load.
+[17:01:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2Print took 142ms to load.
+[17:01:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_img took 238ms to load.
+[17:01:18] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 138ms to load.
+[17:01:19] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 645ms to load.
+[17:01:19] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 1058ms to load.
+[17:03:07] [Info] Saving file readme_Core.md...
+[17:03:07] [Info] Updated modtime for fileDescriptor readme_Core.md to 1627903987836
+[17:03:07] [Info] File readme_Core.md saved.
+[17:04:25] [Info] Saving file manning.txt...
+[17:04:25] [Info] Updated modtime for fileDescriptor manning.txt to 1627904065444
+[17:04:25] [Info] File manning.txt saved.
+[17:05:12] [Info] Saving file 11_20210318-10_18_42.md...
+[17:05:12] [Info] Updated modtime for fileDescriptor 11_20210318-10_18_42.md to 1627904112362
+[17:05:12] [Info] File 11_20210318-10_18_42.md saved.
+[17:05:19] [Info] Updated modtime for fileDescriptor InterviewingIntegrity.md to 1627904112362
+[17:05:46] [Info] Updated modtime for fileDescriptor FreeBook.md to 1627904065444
+[17:05:46] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[17:07:29] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object] (index.js:593)
+[17:08:02] [Info] Saving file 2250.md...
+[17:08:02] [Info] Updated modtime for fileDescriptor 2250.md to 1627904282165
+[17:08:02] [Info] File 2250.md saved.
+[17:08:09] [Info] Saving file 2250.md...
+[17:08:09] [Info] Updated modtime for fileDescriptor 2250.md to 1627904289161
+[17:08:09] [Info] File 2250.md saved.
+[17:08:15] [Info] Saving file 2250.md...
+[17:08:15] [Info] Updated modtime for fileDescriptor 2250.md to 1627904295082
+[17:08:15] [Info] File 2250.md saved.
+[17:15:49] [Info] こんにちは！ Booting Zettlr at Mon Aug 02 2021 17:15:48 GMT+0530 (India Standard Time).
+[17:15:49] [Info] Performing environment check ...
+[17:15:49] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIQWWNQW/resources/pandoc
+[17:15:49] [Info] Environment check complete.
+[17:15:49] [Info] Registering custom protocol safe-file
+[17:15:49] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[17:15:49] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[17:15:49] [Warning] [FSAL Directory] Path /home/rahu/Documents/Zettlr Tutorial/Pandoc and LaTeX Guide.md took 107ms to load.
+[17:15:50] [Info] Added DevTools extension:  Vue.js devtools
+[17:15:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/1800_weight80KG took 181ms to load.
+[17:15:51] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja/_md took 118ms to load.
+[17:15:51] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 173ms to load.
+[17:15:51] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/01 took 188ms to load.
+[17:15:51] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/14 took 180ms to load.
+[17:15:52] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/15 took 140ms to load.
+[17:15:53] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/47 took 166ms to load.
+[17:15:53] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/51 took 129ms to load.
+[17:15:53] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/52 took 104ms to load.
+[17:15:53] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 2256ms to load.
+[17:15:53] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/02 took 126ms to load.
+[17:15:54] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06/Wed/this.Day took 101ms to load.
+[17:15:54] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06/Wed took 128ms to load.
+[17:15:54] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021/06 took 198ms to load.
+[17:15:55] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 2100ms to load.
+[17:15:55] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 4370ms to load.
+[17:15:55] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft/ideas took 152ms to load.
+[17:15:55] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes/_draft took 153ms to load.
+[17:15:56] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes took 535ms to load.
+[17:15:56] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 116ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho/_assignment/DraftingTaxReceivableAgreement took 193ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho/_assignment took 424ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 471ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 595ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/RentIndoreHome took 109ms to load.
+[17:15:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 158ms to load.
+[17:15:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_md took 215ms to load.
+[17:15:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21 took 164ms to load.
+[17:15:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 147ms to load.
+[17:15:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 2201ms to load.
+[17:15:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 2534ms to load.
+[17:15:58] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 8811ms to load.
+[17:15:58] [Info] Loaded all roots in 9.119 seconds
+[17:15:59] [Info] [Update Provider] Checking for application updates ...
+[17:16:00] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[17:16:28] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[17:18:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/_lawsikho took 120ms to load.
+[17:18:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23 took 253ms to load.
+[17:18:23] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 183ms to load.
+[17:18:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/fromonelife took 122ms to load.
+[17:18:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21/MapIT took 149ms to load.
+[17:18:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/jobSeach21LPM_31Aug21 took 368ms to load.
+[17:18:24] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 156ms to load.
+[17:18:24] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 2048ms to load.
+[17:18:56] [Info] Saving file readme0Core.md...
+[17:18:56] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/readme0Core.md
+[17:18:56] [Info] Updated modtime for fileDescriptor readme0Core.md to 1627904936664
+[17:18:56] [Info] File readme0Core.md saved.
+[17:19:07] [Info] Saving file readme0Core.md...
+[17:19:07] [Info] Updated modtime for fileDescriptor readme0Core.md to 1627904947652
+[17:19:07] [Info] File readme0Core.md saved.
+[17:19:13] [Info] Saving file readme0Core.md...
+[17:19:13] [Info] Updated modtime for fileDescriptor readme0Core.md to 1627904953040
+[17:19:13] [Info] File readme0Core.md saved.
+[17:33:38] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object],[object Object] (index.js:593)
+[17:33:54] [Info] Saving file readme_50kCourse.md...
+[17:33:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/50kCourseED_Y23/readme_50kCourse.md
+[17:33:54] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1627905834753
+[17:33:54] [Info] File readme_50kCourse.md saved.
+[17:36:14] [Info] Saving file readme_50kCourse.md...
+[17:36:14] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1627905974674
+[17:36:14] [Info] File readme_50kCourse.md saved.
+[17:37:17] [Info] Saving file readme_50kCourse.md...
+[17:37:17] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1627906037611
+[17:37:17] [Info] File readme_50kCourse.md saved.
+[17:49:18] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object],[object Object] (index.js:593)
+[17:49:19] [Error] [R] [Main Window] Uncaught TypeError: Cannot read property 'wrapClass' of null (index.js:585)
+[17:54:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md took 132ms to load.
+[17:54:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md took 285ms to load.
+[17:54:33] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_pdf_doc_odt_pptx took 130ms to load.
+[17:54:33] [Warning] [FSAL] Path /home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech took 614ms to load.
+[17:54:54] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/readmeBoT.md
+[17:55:27] [Info] Removed file readmeBoT.md.
+[17:55:27] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/readmeBoT.md
+[17:57:10] [Info] Saving file readMeBoT.md...
+[17:57:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:57:10] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907230994
+[17:57:10] [Info] File readMeBoT.md saved.
+[17:57:32] [Info] Saving file readMeBoT.md...
+[17:57:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:57:32] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907252963
+[17:57:32] [Info] File readMeBoT.md saved.
+[17:57:48] [Info] Saving file readMeBoT.md...
+[17:57:48] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:57:48] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907268311
+[17:57:48] [Info] File readMeBoT.md saved.
+[17:58:33] [Info] Saving file readMeBoT.md...
+[17:58:33] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:58:33] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907313611
+[17:58:33] [Info] File readMeBoT.md saved.
+[17:58:45] [Info] Saving file readMeBoT.md...
+[17:58:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:58:45] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907325847
+[17:58:45] [Info] File readMeBoT.md saved.
+[17:59:06] [Info] Saving file readMeBoT.md...
+[17:59:06] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:59:06] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907346059
+[17:59:06] [Info] File readMeBoT.md saved.
+[17:59:21] [Info] Saving file readMeBoT.md...
+[17:59:21] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[17:59:21] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907361048
+[17:59:21] [Info] File readMeBoT.md saved.
+[18:01:46] [Info] Saving file readMeBoT.md...
+[18:01:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:01:46] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907506885
+[18:01:46] [Info] File readMeBoT.md saved.
+[18:02:34] [Info] Saving file readMeBoT.md...
+[18:02:34] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:02:34] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907554498
+[18:02:34] [Info] File readMeBoT.md saved.
+[18:02:41] [Info] Saving file readMeBoT.md...
+[18:02:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:02:41] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907561434
+[18:02:41] [Info] File readMeBoT.md saved.
+[18:02:57] [Info] Saving file readMeBoT.md...
+[18:02:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:02:57] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907577958
+[18:02:57] [Info] File readMeBoT.md saved.
+[18:03:17] [Info] Saving file admin.md...
+[18:03:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/Admin/admin.md
+[18:03:17] [Info] Updated modtime for fileDescriptor admin.md to 1627907597386
+[18:03:17] [Info] File admin.md saved.
+[18:03:40] [Info] Saving file admin.md...
+[18:03:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/Admin/admin.md
+[18:03:40] [Info] Updated modtime for fileDescriptor admin.md to 1627907620510
+[18:03:40] [Info] File admin.md saved.
+[18:05:28] [Info] Saving file 2020_11_18_21_18_31.md...
+[18:05:28] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/2020_11_18_21_18_31.md
+[18:05:28] [Info] Updated modtime for fileDescriptor 2020_11_18_21_18_31.md to 1627907728039
+[18:05:28] [Info] File 2020_11_18_21_18_31.md saved.
+[18:05:41] [Info] Saving file admin.md...
+[18:05:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/Admin/admin.md
+[18:05:41] [Info] Updated modtime for fileDescriptor admin.md to 1627907741107
+[18:05:41] [Info] File admin.md saved.
+[18:06:40] [Info] Saving file 2020_11_18_23_08_49.md...
+[18:06:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/2020_11_18_23_08_49.md
+[18:06:40] [Info] Updated modtime for fileDescriptor 2020_11_18_23_08_49.md to 1627907800104
+[18:06:40] [Info] File 2020_11_18_23_08_49.md saved.
+[18:07:02] [Info] Saving file readMeBoT.md...
+[18:07:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:07:02] [Info] Updated modtime for fileDescriptor readMeBoT.md to 1627907822272
+[18:07:02] [Info] File readMeBoT.md saved.
+[18:08:30] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:07] [Info] Removed file 2020_11_18_21_18_31.md.
+[18:09:08] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/2020_11_18_21_18_31.md
+[18:09:10] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:16] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:34] [Info] Removed file 2020_11_18_23_08_49.md.
+[18:09:34] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/2020_11_18_23_08_49.md
+[18:09:41] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:58] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627907822272
+[18:09:58] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:09:58] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/readMeBoT.md
+[18:09:58] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:58] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:09:59] [Info] [R] [Main Window] No last file but theres something in the openFiles, opening ... [object Object] (index.js:593)
+[18:10:45] [Info] Saving file 0readMeBoT.md...
+[18:10:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:10:45] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908045058
+[18:10:45] [Info] File 0readMeBoT.md saved.
+[18:11:10] [Info] Saving file 0readMeBoT.md...
+[18:11:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:11:10] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908070095
+[18:11:10] [Info] File 0readMeBoT.md saved.
+[18:11:24] [Info] Saving file 0readMeBoT.md...
+[18:11:24] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:11:24] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908084579
+[18:11:24] [Info] File 0readMeBoT.md saved.
+[18:11:29] [Info] Saving file 0readMeBoT.md...
+[18:11:29] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:11:29] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908089987
+[18:11:29] [Info] File 0readMeBoT.md saved.
+[18:11:38] [Info] Saving file 0readMeBoT.md...
+[18:11:38] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:11:38] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908098587
+[18:11:38] [Info] File 0readMeBoT.md saved.
+[18:12:16] [Info] Saving file 0readMeBoT.md...
+[18:12:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:12:16] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908136167
+[18:12:16] [Info] File 0readMeBoT.md saved.
+[18:13:50] [Info] Saving file 0readMeBoT.md...
+[18:13:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:13:50] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908230148
+[18:13:50] [Info] File 0readMeBoT.md saved.
+[18:14:09] [Info] Saving file 0readMeBoT.md...
+[18:14:09] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:14:09] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908249392
+[18:14:09] [Info] File 0readMeBoT.md saved.
+[18:14:55] [Info] Saving file 0readMeBoT.md...
+[18:14:55] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Homebox/1200InterfaceWith/27BlueOceanTech/_md/0readMeBoT.md
+[18:14:55] [Info] Updated modtime for fileDescriptor 0readMeBoT.md to 1627908295369
+[18:14:55] [Info] File 0readMeBoT.md saved.
+[18:38:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 562ms to load.
+[18:38:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 461ms to load.
+[18:38:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 1028ms to load.
+[18:38:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes took 192ms to load.
+[18:38:12] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 1515ms to load.
+[18:38:29] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:39:04] [Info] Saving file readme.md...
+[18:39:04] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:39:04] [Info] Updated modtime for fileDescriptor readme.md to 1627909744378
+[18:39:04] [Info] File readme.md saved.
+[18:39:12] [Info] Saving file readme.md...
+[18:39:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:39:12] [Info] Updated modtime for fileDescriptor readme.md to 1627909752582
+[18:39:12] [Info] File readme.md saved.
+[18:40:01] [Info] Saving file readme.md...
+[18:40:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:40:01] [Info] Updated modtime for fileDescriptor readme.md to 1627909801319
+[18:40:01] [Info] File readme.md saved.
+[18:40:20] [Info] Saving file readme.md...
+[18:40:20] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:40:20] [Info] Updated modtime for fileDescriptor readme.md to 1627909820923
+[18:40:20] [Info] File readme.md saved.
+[18:40:35] [Info] Saving file readme.md...
+[18:40:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:40:35] [Info] Updated modtime for fileDescriptor readme.md to 1627909835491
+[18:40:35] [Info] File readme.md saved.
+[18:41:02] [Info] Saving file readme.md...
+[18:41:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:41:02] [Info] Updated modtime for fileDescriptor readme.md to 1627909862340
+[18:41:02] [Info] File readme.md saved.
+[18:41:12] [Info] Saving file readme.md...
+[18:41:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:41:12] [Info] Updated modtime for fileDescriptor readme.md to 1627909872664
+[18:41:12] [Info] File readme.md saved.
+[18:41:24] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627909872664
+[18:41:24] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:41:24] [Info] [WATCHDOG] Ignore event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/readme.md
+[18:41:25] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[18:42:41] [Info] Saving file readmeDailyDo.md...
+[18:42:41] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:42:41] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627909961737
+[18:42:41] [Info] File readmeDailyDo.md saved.
+[18:43:01] [Info] Saving file readmeDailyDo.md...
+[18:43:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:43:01] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627909981285
+[18:43:01] [Info] File readmeDailyDo.md saved.
+[18:43:16] [Info] Saving file readmeDailyDo.md...
+[18:43:16] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:43:16] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627909996029
+[18:43:16] [Info] File readmeDailyDo.md saved.
+[18:43:29] [Info] Saving file readmeDailyDo.md...
+[18:43:29] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:43:29] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910009726
+[18:43:29] [Info] File readmeDailyDo.md saved.
+[18:43:36] [Info] Saving file readmeDailyDo.md...
+[18:43:36] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:43:36] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910016190
+[18:43:36] [Info] File readmeDailyDo.md saved.
+[18:43:54] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja/readme_Pooja.md
+[18:44:10] [Info] Saving file readmeDailyDo.md...
+[18:44:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:44:10] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910050858
+[18:44:10] [Info] File readmeDailyDo.md saved.
+[18:44:28] [Info] Saving file readmeDailyDo.md...
+[18:44:28] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:44:28] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910068983
+[18:44:28] [Info] File readmeDailyDo.md saved.
+[18:44:50] [Info] Saving file readmeDailyDo.md...
+[18:44:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:44:50] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910090639
+[18:44:50] [Info] File readmeDailyDo.md saved.
+[18:45:53] [Info] Saving file readmeDailyDo.md...
+[18:45:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:45:53] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910153480
+[18:45:53] [Info] File readmeDailyDo.md saved.
+[18:46:14] [Info] Saving file readmeDailyDo.md...
+[18:46:14] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/readmeDailyDo.md
+[18:46:14] [Info] Updated modtime for fileDescriptor readmeDailyDo.md to 1627910174964
+[18:46:14] [Info] File readmeDailyDo.md saved.
+[18:48:42] [Info] さようなら！ Shutting down at Mon Aug 02 2021 18:48:42 GMT+0530 (India Standard Time)
+[18:48:42] [Info] Cleaned up FSAL cache: Removed 26 remnants.
+[18:48:43] [Info] Shutdown almost complete. Application uptime was: 1 hours, 32 minutes, and 54.361 seconds.

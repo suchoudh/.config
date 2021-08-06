@@ -1,42 +1,6 @@
-2021/06/12-13:31:21.044 5961 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/06/12-13:31:21.620 5961 Recovering log #676
-2021/06/12-13:31:22.029 5961 Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000676.log 
-2021/06/12-13:31:55.627 59b0 Level-0 table #680: started
-2021/06/12-13:31:55.965 59b0 Level-0 table #680: 101629 bytes OK
-2021/06/12-13:31:56.261 59b0 Delete type=0 #676
-2021/06/12-15:57:06.573 4ba1 Level-0 table #682: started
-2021/06/12-15:57:06.627 4ba1 Level-0 table #682: 94750 bytes OK
-2021/06/12-15:57:06.711 4ba1 Delete type=0 #679
-2021/06/12-15:57:06.712 4ba1 Compacting 4@0 + 1@1 files
-2021/06/12-15:57:06.866 4ba1 Generated table #683@0: 353 keys, 56642 bytes
-2021/06/12-15:57:06.866 4ba1 Compacted 4@0 + 1@1 files => 56642 bytes
-2021/06/12-15:57:06.917 4ba1 compacted to: files[ 0 1 0 0 0 0 0 ]
-2021/06/12-15:57:06.918 4ba1 Delete type=2 #680
-2021/06/12-15:57:06.918 4ba1 Delete type=2 #677
-2021/06/12-15:57:06.918 4ba1 Delete type=2 #672
-2021/06/12-15:57:06.918 4ba1 Delete type=2 #675
-2021/06/12-15:57:06.918 4ba1 Delete type=2 #682
-2021/06/12-16:07:09.685 74b2 Level-0 table #685: started
-2021/06/12-16:07:09.728 74b2 Level-0 table #685: 89448 bytes OK
-2021/06/12-16:07:09.779 74b2 Delete type=0 #681
-2021/06/12-16:57:09.781 9d0 Level-0 table #687: started
-2021/06/12-16:57:09.833 9d0 Level-0 table #687: 89619 bytes OK
-2021/06/12-16:57:09.885 9d0 Delete type=0 #684
-2021/06/12-17:47:52.684 1e8c Level-0 table #689: started
-2021/06/12-17:47:52.728 1e8c Level-0 table #689: 90555 bytes OK
-2021/06/12-17:47:52.790 1e8c Delete type=0 #686
-2021/06/12-18:06:16.683 4093 Level-0 table #691: started
-2021/06/12-18:06:16.725 4093 Level-0 table #691: 90276 bytes OK
-2021/06/12-18:06:16.777 4093 Delete type=0 #688
-2021/06/12-18:06:16.777 4093 Compacting 4@0 + 1@1 files
-2021/06/12-18:06:16.811 4093 Generated table #692@0: 353 keys, 56649 bytes
-2021/06/12-18:06:16.811 4093 Compacted 4@0 + 1@1 files => 56649 bytes
-2021/06/12-18:06:16.861 4093 compacted to: files[ 0 1 0 0 0 0 0 ]
-2021/06/12-18:06:16.862 4093 Delete type=2 #683
-2021/06/12-18:06:16.862 4093 Delete type=2 #685
-2021/06/12-18:06:16.862 4093 Delete type=2 #689
-2021/06/12-18:06:16.862 4093 Delete type=2 #687
-2021/06/12-18:06:16.862 4093 Delete type=2 #691
-2021/06/12-18:52:33.683 5681 Level-0 table #694: started
-2021/06/12-18:52:33.745 5681 Level-0 table #694: 89777 bytes OK
-2021/06/12-18:52:33.808 5681 Delete type=0 #690
+2021/08/01-13:30:26.900 c0d Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/08/01-13:30:26.901 c0d Recovering log #693
+2021/08/01-13:30:27.092 c0d Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000693.log 
+2021/08/01-13:31:57.085 eaa Level-0 table #697: started
+2021/08/01-13:31:58.675 eaa Level-0 table #697: 100015 bytes OK
+2021/08/01-13:31:59.564 eaa Delete type=0 #693

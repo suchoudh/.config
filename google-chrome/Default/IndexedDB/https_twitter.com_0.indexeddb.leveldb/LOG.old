@@ -1,8 +1,15 @@
-2021/01/07-01:48:43.225 6743 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/07-01:48:43.225 6743 Recovering log #25
-2021/01/07-01:48:43.225 6743 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000025.log 
-2021/01/07-01:49:19.833 195f Level-0 table #29: started
-2021/01/07-01:49:19.833 195f Level-0 table #29: 0 bytes OK
-2021/01/07-01:49:19.904 195f Delete type=0 #25
-2021/01/07-01:49:19.905 195f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/07-01:49:19.905 195f Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/01/07-03:04:28.212 96a Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/07-03:04:28.215 96a Recovering log #28
+2021/01/07-03:04:28.215 96a Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000028.log 
+2021/01/07-03:13:38.967 63c2 Level-0 table #32: started
+2021/01/07-03:13:39.026 63c2 Level-0 table #32: 190 bytes OK
+2021/01/07-03:13:39.099 63c2 Delete type=0 #28
+2021/01/07-03:13:39.100 63c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/07-03:13:39.100 63c2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 3997 : 1
+2021/01/07-03:13:39.100 63c2 Compacting 1@1 + 1@2 files
+2021/01/07-03:13:39.133 63c2 Generated table #33@1: 306 keys, 265943 bytes
+2021/01/07-03:13:39.133 63c2 Compacted 1@1 + 1@2 files => 265943 bytes
+2021/01/07-03:13:39.184 63c2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/07-03:13:39.185 63c2 Delete type=2 #32
+2021/01/07-03:13:39.185 63c2 Delete type=2 #23
+2021/01/07-03:13:39.185 63c2 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 3997 : 1 .. (end); will stop at (end)
