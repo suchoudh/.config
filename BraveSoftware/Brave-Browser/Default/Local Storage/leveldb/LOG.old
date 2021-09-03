@@ -1,6 +1,6 @@
-2021/09/02-16:55:16.831 3 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/09/02-16:55:16.835 3 Recovering log #3
-2021/09/02-16:55:17.042 3 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
-2021/09/02-17:03:55.327 3 Level-0 table #5: started
-2021/09/02-17:03:55.465 3 Level-0 table #5: 21587 bytes OK
-2021/09/02-17:03:55.572 3 Delete type=0 #3
+2021/09/03-21:30:36.927 5 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/03-21:30:36.983 5 Recovering log #4
+2021/09/03-21:30:37.187 5 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2021/09/03-21:36:22.658 a Level-0 table #8: started
+2021/09/03-21:36:22.880 a Level-0 table #8: 23454 bytes OK
+2021/09/03-21:36:22.964 a Delete type=0 #4
