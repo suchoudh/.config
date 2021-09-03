@@ -15,7 +15,7 @@
 
 	<recipe_customization keep_issues="0" add_title_tag="yes" custom_tags="" id="builtin:livemint"/>
 
-	<scheduled_recipe last_downloaded="2021-07-09T10:43:06.893336+00:00" id="builtin:business_standard" title="Business Standard"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
+	<scheduled_recipe last_downloaded="2021-08-15T07:39:18.789711+00:00" id="builtin:business_standard" title="Business Standard"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
 
 	<recipe_customization keep_issues="1" add_title_tag="yes" custom_tags="" id="builtin:business_standard"/>
 
@@ -35,15 +35,15 @@
 
 	<recipe_customization keep_issues="0" add_title_tag="yes" custom_tags="" id="builtin:cnd_weekly"/>
 
-	<scheduled_recipe last_downloaded="2021-07-09T10:46:09.900513+00:00" id="builtin:theeconomictimes_india" title="The Economic Times India"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
+	<scheduled_recipe last_downloaded="2021-08-15T07:39:19.790269+00:00" id="builtin:theeconomictimes_india" title="The Economic Times India"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
 
 	<recipe_customization keep_issues="1" add_title_tag="yes" custom_tags="" id="builtin:theeconomictimes_india"/>
 
-	<scheduled_recipe last_downloaded="2021-07-09T10:45:08.914332+00:00" id="builtin:toi" title="The Times of India"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
+	<scheduled_recipe last_downloaded="2021-08-15T07:39:19.369349+00:00" id="builtin:toi" title="The Times of India"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
 
 	<recipe_customization keep_issues="1" add_title_tag="yes" custom_tags="" id="builtin:toi"/>
 
-	<scheduled_recipe last_downloaded="2021-07-09T10:44:07.892651+00:00" id="builtin:epw" title="Economic and Political Weekly"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
+	<scheduled_recipe last_downloaded="2021-08-15T07:39:19.367993+00:00" id="builtin:epw" title="Economic and Political Weekly"><schedule type="days_of_week">0,1,2,3,4,5,6:6:0</schedule></scheduled_recipe>
 
 	<recipe_customization keep_issues="1" add_title_tag="yes" custom_tags="" id="builtin:epw"/>
 

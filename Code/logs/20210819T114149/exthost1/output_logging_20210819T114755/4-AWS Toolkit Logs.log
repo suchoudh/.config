@@ -1,0 +1,15 @@
+Error logs for this session are permanently stored in /home/rahu/.config/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/logs/aws_toolkit_20210819T114825.log
+2021-08-19 11:48:25 [ERROR]: log level: info
+2021-08-19 11:48:25 [INFO]: Retrieving AWS endpoint data
+2021-08-19 11:48:25 [INFO]: OS:  Linux x64 4.15.0-144-generic
+2021-08-19 11:48:25 [INFO]: Visual Studio Code Extension Host Version:  1.57.0AWS Toolkit Version:  1.28.0
+2021-08-19 11:48:25 [ERROR]: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at Function.readEventsFromCache (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.28.0/dist/extension.js:2780:3182)
+    at NS.start (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.28.0/dist/extension.js:2780:394)
+    at Module.Br (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.28.0/dist/extension.js:3076:828)
+    at activate (/home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.28.0/extensionMain.js:28:12)
+    at async Promise.all (index 0)
+    at f.$activate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:20149)
+2021-08-19 11:48:32 [ERROR]: Could not get details from manifest:
+2021-08-19 11:53:30 [INFO]: Successfully sent a telemetry batch of 3

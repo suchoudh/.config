@@ -321,7 +321,7 @@
     ]
   }, 
   "ui.feedback.last_pos": false, 
-  "colors.current": "#e2e2e2", 
+  "colors.current": "#170728", 
   "colors.hcywheel.mask.gamuts": [], 
   "view.default_zoom": 1.0, 
   "brushmanager.selected_groups": [], 
@@ -367,11 +367,11 @@
   "workspace.layout": {
     "fullscreen": false, 
     "left_sidebar": {
-      "h": 622, 
-      "w": 236, 
+      "h": 586, 
+      "w": 228, 
       "groups": [
         {
-          "h": 207, 
+          "h": 226, 
           "tools": [
             [
               "MyPaintScratchpadTool"
@@ -380,7 +380,28 @@
               "MyPaintModeOptionsTool"
             ]
           ], 
-          "w": 236, 
+          "w": 228, 
+          "active_page": 0
+        }, 
+        {
+          "h": 123, 
+          "tools": [
+            [
+              "MyPaintBrushGroupTool", 
+              "set#1"
+            ]
+          ], 
+          "w": 228, 
+          "active_page": 0
+        }, 
+        {
+          "h": 229, 
+          "tools": [
+            [
+              "MyPaintHCYWheelTool"
+            ]
+          ], 
+          "w": 228, 
           "active_page": 0
         }, 
         {
@@ -394,50 +415,9 @@
     "position": {}, 
     "floating": [], 
     "right_sidebar": {
-      "h": 739, 
-      "w": 256, 
+      "h": 586, 
+      "w": 8, 
       "groups": [
-        {
-          "h": 221, 
-          "tools": [
-            [
-              "MyPaintPaletteTool"
-            ], 
-            [
-              "MyPaintBrushGroupTool", 
-              "All in One"
-            ], 
-            [
-              "MyPaintHSVWheelTool"
-            ]
-          ], 
-          "w": 256, 
-          "active_page": 2
-        }, 
-        {
-          "h": 279, 
-          "tools": [
-            [
-              "MyPaintBrushGroupTool", 
-              "classic"
-            ], 
-            [
-              "MyPaintWashColorChangerTool"
-            ]
-          ], 
-          "w": 256, 
-          "active_page": 1
-        }, 
-        {
-          "h": 221, 
-          "tools": [
-            [
-              "MyPaintComponentSlidersTool"
-            ]
-          ], 
-          "w": 256, 
-          "active_page": 0
-        }, 
         {
           "tools": [], 
           "active_page": -1
@@ -446,11 +426,11 @@
     }
   }, 
   "colors.history": [
-    "#fc3c02", 
-    "#df3807", 
-    "#fce820", 
-    "#ffffff", 
-    "#e2e2e2"
+    "#e2e2e2", 
+    "#000000", 
+    "#181818", 
+    "#d9d8ca", 
+    "#160728"
   ], 
   "saving.scrap_prefix": "~/MyPaint/scrap", 
   "ui.hide_menubar_in_fullscreen": true, 
@@ -466,7 +446,7 @@
     ]
   ], 
   "saving.default_format": "jpeg-90%", 
-  "brushmanager.selected_brush": "classic/charcoal", 
+  "brushmanager.selected_brush": "ramon/Marker", 
   "ui.support_smooth_scrolling": true, 
   "input.devices": {
     "Virtual core XTEST pointer:mouse:2": {}, 
@@ -476,10 +456,11 @@
     "Elan Touchpad:mouse:7": {}, 
     "Wacom Bamboo 2FG 4x5 Finger touch:touchpad:6": {}, 
     "Wacom Bamboo 2FG 4x5 Pad pad:pen:6": {}, 
-    "Wacom Bamboo 2FG 4x5 Pen eraser:eraser:6": {}
+    "Wacom Bamboo 2FG 4x5 Pen eraser:eraser:6": {}, 
+    "Wacom Bamboo 2FG 4x5 Pad pad:tablet-pad:6": {}
   }, 
   "view.real_alpha_checks": true, 
   "document.autosave_interval": 10, 
   "scratchpad.last_opened_scratchpad": "/home/rahu/.local/share/mypaint/scratchpads/autosave.ora", 
-  "devbrush.last_used": "Wacom Bamboo 2FG 4x5 Pen eraser"
+  "devbrush.last_used": "Wacom Bamboo 2FG 4x5 Pen stylus"
 }

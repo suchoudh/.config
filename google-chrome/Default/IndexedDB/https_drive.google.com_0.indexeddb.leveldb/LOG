@@ -1,4 +1,15 @@
-2021/08/01-13:34:04.023 eaa Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/01-13:34:04.023 eaa Recovering log #1291
-2021/08/01-13:34:04.279 eaa Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001291.log 
-2021/08/01-13:34:09.352 18aa Moved #1292 to level-1 1769264 bytes OK: files[ 0 1 3 0 0 0 0 ]
+2021/09/02-17:37:23.182 16c5 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/02-17:37:23.183 16c5 Recovering log #1320
+2021/09/02-17:37:23.183 16c5 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001320.log 
+2021/09/02-17:37:40.597 16c6 Level-0 table #1330: started
+2021/09/02-17:37:42.447 16c6 Level-0 table #1330: 1714308 bytes OK
+2021/09/02-17:37:43.811 16c6 Delete type=0 #1320
+2021/09/02-17:40:21.479 1df1 Compacting 1@1 + 2@2 files
+2021/09/02-17:40:23.135 1df1 Generated table #1331@1: 6748 keys, 2135343 bytes
+2021/09/02-17:40:24.530 1df1 Generated table #1332@1: 3063 keys, 2120551 bytes
+2021/09/02-17:40:24.664 1df1 Generated table #1333@1: 3149 keys, 49181 bytes
+2021/09/02-17:40:24.664 1df1 Compacted 1@1 + 2@2 files => 4305075 bytes
+2021/09/02-17:40:24.996 1df1 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/09/02-17:40:24.996 1df1 Delete type=2 #1326
+2021/09/02-17:40:24.996 1df1 Delete type=2 #1330
+2021/09/02-17:40:24.996 1df1 Delete type=2 #1327

@@ -1,0 +1,4 @@
+[2021-08-19 11:41:53.414] [main] [info] update#setState idle
+[2021-08-19 11:42:03.422] [main] [warning] Resolving your shell environment is taking more than 10s. Please review your shell configuration. Learn more at https://go.microsoft.com/fwlink/?linkid=2149667.
+[2021-08-19 11:42:23.421] [main] [info] update#setState checking for updates
+[2021-08-19 11:42:28.922] [main] [info] update#setState available for download

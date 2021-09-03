@@ -1,0 +1,31 @@
+video+div {
+    background: transparent !important;
+}
+
+video~div button {
+    filter: invert(40%);
+}
+
+svg mask circle,
+svg mask rect {
+    fill: #fff !important;
+}
+
+
+#globalContainer div[role="banner"] svg,
+#globalContainer li[role="row"] svg {
+    filter: invert(80%);
+}
+
+div[id*='placeholder-'] {
+    filter: invert(80%);
+    padding-left: 10px;
+}
+
+div[role="presentation"] {
+    border: 1px solid #4d4d4d;
+}
+
+div[data-editor] {
+    padding-left: 10px;
+}

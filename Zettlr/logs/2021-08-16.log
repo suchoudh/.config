@@ -1,0 +1,186 @@
+[13:58:06] [Info] こんにちは！ Booting Zettlr at Mon Aug 16 2021 13:58:05 GMT+0530 (India Standard Time).
+[13:58:06] [Info] Performing environment check ...
+[13:58:06] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppI6B1YBv/resources/pandoc
+[13:58:06] [Info] Environment check complete.
+[13:58:06] [Info] Registering custom protocol safe-file
+[13:58:06] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[13:58:06] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[13:58:06] [Info] Added DevTools extension:  Vue.js devtools
+[13:58:07] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja/_md took 110ms to load.
+[13:58:07] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 179ms to load.
+[13:58:07] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/14 took 105ms to load.
+[13:58:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 987ms to load.
+[13:58:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 560ms to load.
+[13:58:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 1550ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21 took 148ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress took 238ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 357ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 360ms to load.
+[13:58:09] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 2408ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SC2021AugNO_Cover.odt took 208ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx took 453ms to load.
+[13:58:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 604ms to load.
+[13:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print took 133ms to load.
+[13:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/Panchatantra Stories - Sanskrit English - Unknown.jpg took 104ms to load.
+[13:58:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 485ms to load.
+[13:58:10] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1295ms to load.
+[13:58:10] [Info] Loaded all roots in 3.891 seconds
+[13:58:10] [Info] [Update Provider] Checking for application updates ...
+[13:58:11] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[13:58:17] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[14:00:33] [Info] Saving file readme_50kCourse.md...
+[14:00:33] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023/readme_50kCourse.md
+[14:00:33] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629102633485
+[14:00:33] [Info] File readme_50kCourse.md saved.
+[14:01:06] [Info] Saving file readme_50kCourse.md...
+[14:01:06] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629102666469
+[14:01:06] [Info] File readme_50kCourse.md saved.
+[14:02:05] [Info] Saving file readme_50kCourse.md...
+[14:02:05] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629102725529
+[14:02:05] [Info] File readme_50kCourse.md saved.
+[14:02:11] [Info] Saving file readme_50kCourse.md...
+[14:02:11] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629102731929
+[14:02:11] [Info] File readme_50kCourse.md saved.
+[14:02:19] [Info] Saving file readme_50kCourse.md...
+[14:02:19] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629102739861
+[14:02:19] [Info] File readme_50kCourse.md saved.
+[14:45:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023/_lawsikho/_assignment took 147ms to load.
+[14:45:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023/_lawsikho took 587ms to load.
+[14:45:11] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023 took 643ms to load.
+[14:45:17] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[15:13:02] [Info] Saving file readme_50kCourse.md...
+[15:13:02] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629106982732
+[15:13:02] [Info] File readme_50kCourse.md saved.
+[15:13:16] [Info] Saving file readme_50kCourse.md...
+[15:13:16] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629106996513
+[15:13:16] [Info] File readme_50kCourse.md saved.
+[15:41:23] [Info] Saving file readme_50kCourse.md...
+[15:41:23] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629108683213
+[15:41:23] [Info] File readme_50kCourse.md saved.
+[15:45:13] [Info] Saving file readme_50kCourse.md...
+[15:45:13] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629108913275
+[15:45:13] [Info] File readme_50kCourse.md saved.
+[15:45:43] [Error] [R] [Main Window] Uncaught TypeError: Cannot read property 'top' of undefined (index.js:160)
+[15:46:01] [Info] Saving file readme_50kCourse.md...
+[15:46:01] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629108961702
+[15:46:01] [Info] File readme_50kCourse.md saved.
+[15:46:13] [Info] Saving file readme_50kCourse.md...
+[15:46:13] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629108973818
+[15:46:13] [Info] File readme_50kCourse.md saved.
+[15:46:37] [Info] Saving file readme_50kCourse.md...
+[15:46:37] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629108997345
+[15:46:37] [Info] File readme_50kCourse.md saved.
+[15:46:50] [Info] Saving file readme_50kCourse.md...
+[15:46:50] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109010281
+[15:46:50] [Info] File readme_50kCourse.md saved.
+[15:48:14] [Info] Saving file readme_50kCourse.md...
+[15:48:14] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109094360
+[15:48:14] [Info] File readme_50kCourse.md saved.
+[15:48:21] [Info] Saving file readme_50kCourse.md...
+[15:48:21] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109101808
+[15:48:21] [Info] File readme_50kCourse.md saved.
+[15:48:45] [Info] Saving file readme_50kCourse.md...
+[15:48:45] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109125004
+[15:48:45] [Info] File readme_50kCourse.md saved.
+[15:49:49] [Info] Saving file readme_50kCourse.md...
+[15:49:49] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109189635
+[15:49:49] [Info] File readme_50kCourse.md saved.
+[15:50:14] [Info] Saving file readme_50kCourse.md...
+[15:50:14] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109214059
+[15:50:14] [Info] File readme_50kCourse.md saved.
+[15:50:30] [Info] Saving file readme_50kCourse.md...
+[15:50:30] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109230442
+[15:50:30] [Info] File readme_50kCourse.md saved.
+[15:50:52] [Info] Saving file readme_50kCourse.md...
+[15:50:52] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109252818
+[15:50:52] [Info] File readme_50kCourse.md saved.
+[15:51:05] [Info] Saving file readme_50kCourse.md...
+[15:51:05] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109265674
+[15:51:05] [Info] File readme_50kCourse.md saved.
+[15:51:19] [Info] Saving file readme_50kCourse.md...
+[15:51:19] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109279286
+[15:51:19] [Info] File readme_50kCourse.md saved.
+[15:52:36] [Info] Saving file readme_50kCourse.md...
+[15:52:36] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109356417
+[15:52:36] [Info] File readme_50kCourse.md saved.
+[15:52:51] [Info] Saving file readme_50kCourse.md...
+[15:52:51] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109371805
+[15:52:51] [Info] File readme_50kCourse.md saved.
+[15:53:22] [Info] Saving file readme_50kCourse.md...
+[15:53:22] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109402093
+[15:53:22] [Info] File readme_50kCourse.md saved.
+[15:53:42] [Info] Saving file readme_50kCourse.md...
+[15:53:42] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109422309
+[15:53:42] [Info] File readme_50kCourse.md saved.
+[15:54:32] [Info] Saving file readme_50kCourse.md...
+[15:54:32] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109472513
+[15:54:32] [Info] File readme_50kCourse.md saved.
+[15:54:42] [Info] Saving file readme_50kCourse.md...
+[15:54:42] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109482413
+[15:54:42] [Info] File readme_50kCourse.md saved.
+[15:54:54] [Info] Saving file readme_50kCourse.md...
+[15:54:54] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109494473
+[15:54:54] [Info] File readme_50kCourse.md saved.
+[15:55:08] [Info] Saving file readme_50kCourse.md...
+[15:55:08] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109508828
+[15:55:08] [Info] File readme_50kCourse.md saved.
+[15:55:38] [Info] Saving file readme_50kCourse.md...
+[15:55:38] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109538020
+[15:55:38] [Info] File readme_50kCourse.md saved.
+[15:55:48] [Info] Saving file readme_50kCourse.md...
+[15:55:48] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109548604
+[15:55:48] [Info] File readme_50kCourse.md saved.
+[15:56:19] [Info] Saving file readme_50kCourse.md...
+[15:56:19] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109579304
+[15:56:19] [Info] File readme_50kCourse.md saved.
+[15:56:40] [Info] Saving file readme_50kCourse.md...
+[15:56:40] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109600576
+[15:56:40] [Info] File readme_50kCourse.md saved.
+[15:57:34] [Info] Saving file readme_50kCourse.md...
+[15:57:34] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109654588
+[15:57:34] [Info] File readme_50kCourse.md saved.
+[15:58:12] [Info] Saving file readme_50kCourse.md...
+[15:58:12] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109692040
+[15:58:12] [Info] File readme_50kCourse.md saved.
+[15:58:31] [Info] Saving file readme_50kCourse.md...
+[15:58:31] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109711256
+[15:58:31] [Info] File readme_50kCourse.md saved.
+[15:58:50] [Info] Saving file readme_50kCourse.md...
+[15:58:50] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109730708
+[15:58:50] [Info] File readme_50kCourse.md saved.
+[15:59:01] [Info] Saving file readme_50kCourse.md...
+[15:59:01] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109741756
+[15:59:01] [Info] File readme_50kCourse.md saved.
+[15:59:38] [Info] Saving file readme_50kCourse.md...
+[15:59:38] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109778239
+[15:59:38] [Info] File readme_50kCourse.md saved.
+[16:00:16] [Info] Saving file readme_50kCourse.md...
+[16:00:16] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109816319
+[16:00:16] [Info] File readme_50kCourse.md saved.
+[16:00:31] [Info] Saving file readme_50kCourse.md...
+[16:00:31] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109831027
+[16:00:31] [Info] File readme_50kCourse.md saved.
+[16:01:13] [Info] Saving file readme_50kCourse.md...
+[16:01:13] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109873679
+[16:01:13] [Info] File readme_50kCourse.md saved.
+[16:02:17] [Info] Saving file readme_50kCourse.md...
+[16:02:17] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109937843
+[16:02:17] [Info] File readme_50kCourse.md saved.
+[16:02:25] [Info] Saving file readme_50kCourse.md...
+[16:02:25] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109945695
+[16:02:25] [Info] File readme_50kCourse.md saved.
+[16:02:36] [Info] Saving file readme_50kCourse.md...
+[16:02:36] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629109956311
+[16:02:36] [Info] File readme_50kCourse.md saved.
+[16:48:12] [Info] Saving file readme_50kCourse.md...
+[16:48:12] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629112692530
+[16:48:12] [Info] File readme_50kCourse.md saved.
+[16:56:49] [Info] Saving file readme_50kCourse.md...
+[16:56:49] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629113209861
+[16:56:49] [Info] File readme_50kCourse.md saved.
+[16:57:03] [Info] Saving file readme_50kCourse.md...
+[16:57:03] [Info] Updated modtime for fileDescriptor readme_50kCourse.md to 1629113223233
+[16:57:03] [Info] File readme_50kCourse.md saved.
+[16:57:58] [Info] Removed file meeting_saved_chat.txt.
+[16:58:05] [Info] さようなら！ Shutting down at Mon Aug 16 2021 16:58:05 GMT+0530 (India Standard Time)
+[16:58:05] [Info] Cleaned up FSAL cache: Removed 11 remnants.

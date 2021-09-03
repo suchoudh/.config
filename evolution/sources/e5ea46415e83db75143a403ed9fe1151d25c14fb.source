@@ -19,6 +19,8 @@ MailEnabled=true
 CalendarUrl=
 ContactsUrl=
 
+AllowSourcesRename=false
+
 [WebDAV Backend]
 AvoidIfmatch=false
 CalendarAutoSchedule=false
@@ -36,6 +38,8 @@ ProxyUid=system-proxy
 RememberPassword=true
 User=
 CredentialName=
+
+IsExternal=true
 
 [Security]
 Method=none

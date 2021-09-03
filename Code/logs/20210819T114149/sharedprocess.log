@@ -1,0 +1,104 @@
+[2021-08-19 11:42:26.977] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-19 11:42:28.706] [sharedprocess] [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+[2021-08-19 11:42:28.714] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2021-08-19 11:42:28.727] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2021-08-19 11:42:28.756] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-08-19 11:42:28.761] [sharedprocess] [info] Installing extension: dedsec727.jekyll-run
+[2021-08-19 11:42:28.767] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2021-08-19 11:42:28.779] [sharedprocess] [info] Installing extension: golang.go
+[2021-08-19 11:42:28.802] [sharedprocess] [info] Installing extension: kisstkondoros.vscode-gutter-preview
+[2021-08-19 11:42:28.805] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-08-19 11:42:28.815] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-08-19 11:42:28.818] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-08-19 11:42:28.821] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-08-19 11:42:28.824] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-08-19 11:42:28.849] [sharedprocess] [info] Installing extension: ms-vscode.powershell
+[2021-08-19 11:42:28.854] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-08-19 11:42:28.864] [sharedprocess] [info] Installing extension: yuenm18.ooxml-viewer
+[2021-08-19 11:42:35.922] [sharedprocess] [info] Downloaded extension: kisstkondoros.vscode-gutter-preview /home/rahu/.config/Code/CachedExtensionVSIXs/kisstkondoros.vscode-gutter-preview-0.27.1
+[2021-08-19 11:42:35.932] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/rahu/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.23
+[2021-08-19 11:42:36.143] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.4bf58354-a62e-4a50-bb29-3c81d442e054: kisstkondoros.vscode-gutter-preview
+[2021-08-19 11:42:38.599] [sharedprocess] [info] Downloaded extension: golang.go /home/rahu/.config/Code/CachedExtensionVSIXs/golang.go-0.27.1
+[2021-08-19 11:42:38.603] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/rahu/.config/Code/CachedExtensionVSIXs/dart-code.flutter-3.25.0
+[2021-08-19 11:42:38.718] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1
+[2021-08-19 11:42:38.725] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/rahu/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.0
+[2021-08-19 11:42:38.740] [sharedprocess] [info] Installation completed. kisstkondoros.vscode-gutter-preview
+[2021-08-19 11:42:38.742] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.e6a16fec-0f5a-4027-95ba-345e68c4f220: dbaeumer.vscode-eslint
+[2021-08-19 11:42:38.767] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/rahu/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.5
+[2021-08-19 11:42:38.770] [sharedprocess] [info] Downloaded extension: dedsec727.jekyll-run /home/rahu/.config/Code/CachedExtensionVSIXs/dedsec727.jekyll-run-1.6.0
+[2021-08-19 11:42:38.933] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.a5fdf6e3-5f95-4f98-b835-1f3980ab0ad3: dart-code.flutter
+[2021-08-19 11:42:38.959] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/rahu/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.21.6
+[2021-08-19 11:42:39.032] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.23
+[2021-08-19 11:42:39.208] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-08-19 11:42:39.292] [sharedprocess] [info] Extensions installed successfully: kisstkondoros.vscode-gutter-preview
+[2021-08-19 11:42:39.328] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dart-code.flutter-3.25.0
+[2021-08-19 11:42:39.442] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2021-08-19 11:42:39.957] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-08-19 11:42:39.987] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.183.0
+[2021-08-19 11:42:42.453] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.af82f452-f8f8-45df-96f1-0c4255a3e814: vscodevim.vim
+[2021-08-19 11:42:42.544] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.ea156611-98f2-4581-bf4b-a7ec87c4ed5d: golang.go
+[2021-08-19 11:42:43.106] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2021-08-19 11:42:43.679] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.6e9c7225-7812-4f96-8542-516ddbffac32: ms-azuretools.vscode-docker
+[2021-08-19 11:42:44.489] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/golang.go-0.27.1
+[2021-08-19 11:42:44.490] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/vscodevim.vim-1.21.6
+[2021-08-19 11:42:44.492] [sharedprocess] [info] Downloaded extension: yuenm18.ooxml-viewer /home/rahu/.config/Code/CachedExtensionVSIXs/yuenm18.ooxml-viewer-1.2.0
+[2021-08-19 11:42:44.498] [sharedprocess] [info] Installation completed. golang.go
+[2021-08-19 11:42:44.500] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-08-19 11:42:44.689] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-azuretools.vscode-docker-1.16.0
+[2021-08-19 11:42:44.702] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-08-19 11:42:45.639] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.77b7d554-ea7c-4268-a58f-885f6c5b56d5: formulahendry.code-runner
+[2021-08-19 11:42:49.731] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.5
+[2021-08-19 11:42:49.828] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2021-08-19 11:42:50.198] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-08-19 11:42:50.222] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/rahu/.config/Code/CachedExtensionVSIXs/dart-code.dart-code-3.25.1
+[2021-08-19 11:42:50.223] [sharedprocess] [info] Downloaded extension: amazonwebservices.aws-toolkit-vscode /home/rahu/.config/Code/CachedExtensionVSIXs/amazonwebservices.aws-toolkit-vscode-1.28.0
+[2021-08-19 11:42:50.319] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.5edd6259-ae21-47f3-8ad7-c24224c5cef7: dedsec727.jekyll-run
+[2021-08-19 11:42:50.386] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.5.1
+[2021-08-19 11:42:50.469] [sharedprocess] [info] Extensions installed successfully: golang.go
+[2021-08-19 11:42:50.637] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dedsec727.jekyll-run-1.6.0
+[2021-08-19 11:42:50.677] [sharedprocess] [info] Installation completed. dedsec727.jekyll-run
+[2021-08-19 11:42:50.806] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-08-19 11:42:51.375] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2021-08-19 11:42:51.768] [sharedprocess] [info] Extensions installed successfully: dedsec727.jekyll-run
+[2021-08-19 11:42:53.758] [sharedprocess] [info] Downloaded extension: ms-python.python /home/rahu/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.8.1105858891
+[2021-08-19 11:42:54.461] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.2334ec6b-c956-4ebe-8156-665fe6873689: yuenm18.ooxml-viewer
+[2021-08-19 11:42:58.217] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.1ed26712-2aa1-4133-9ce5-be45fc10a6c9: ms-vscode.cpptools
+[2021-08-19 11:42:58.343] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.37264a2f-e701-455f-a2d4-e1eff02e9326: amazonwebservices.aws-toolkit-vscode
+[2021-08-19 11:42:58.544] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/yuenm18.ooxml-viewer-1.2.0
+[2021-08-19 11:42:58.633] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/rahu/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.999662501
+[2021-08-19 11:42:58.635] [sharedprocess] [info] Installation completed. yuenm18.ooxml-viewer
+[2021-08-19 11:42:58.816] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.c114704d-1e0d-49be-bccf-8eac2b10e7f3: ms-vscode-remote.remote-containers
+[2021-08-19 11:43:00.642] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.28.0
+[2021-08-19 11:43:00.706] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.cpptools-1.5.1
+[2021-08-19 11:43:00.734] [sharedprocess] [info] Installation completed. amazonwebservices.aws-toolkit-vscode
+[2021-08-19 11:43:00.742] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-08-19 11:43:01.044] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-08-19 11:43:01.127] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode-remote.remote-containers-0.183.0
+[2021-08-19 11:43:01.216] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-08-19 11:43:01.475] [sharedprocess] [info] Downloaded extension: ms-vscode.powershell /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.powershell-2021.8.0
+[2021-08-19 11:43:01.727] [sharedprocess] [info] Extensions installed successfully: yuenm18.ooxml-viewer
+[2021-08-19 11:43:02.098] [sharedprocess] [info] Extensions installed successfully: amazonwebservices.aws-toolkit-vscode
+[2021-08-19 11:43:02.187] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-08-19 11:43:02.266] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2021-08-19 11:43:08.378] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.4e078439-a02c-447f-8f90-1038765e8089: ms-toolsai.jupyter
+[2021-08-19 11:43:11.456] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501
+[2021-08-19 11:43:11.464] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-08-19 11:43:19.463] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-08-19 11:43:24.097] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.c2ced620-203a-424f-8f51-810e757eceb4: ms-vscode.powershell
+[2021-08-19 11:43:24.904] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.powershell-2021.8.0
+[2021-08-19 11:43:24.908] [sharedprocess] [info] Installation completed. ms-vscode.powershell
+[2021-08-19 11:43:28.888] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.dbbc74d6-95ff-4f7f-a8af-1aff008af2c5: ms-python.python
+[2021-08-19 11:43:29.056] [sharedprocess] [info] Extensions installed successfully: ms-vscode.powershell
+[2021-08-19 11:43:29.629] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-python.python-2021.8.1105858891
+[2021-08-19 11:43:29.639] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-08-19 11:43:30.695] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-08-19 11:43:35.966] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.9e0f66ad-fc8d-4abe-b16c-81793454ce6b: dart-code.dart-code
+[2021-08-19 11:43:37.140] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dart-code.dart-code-3.25.1
+[2021-08-19 11:43:37.146] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2021-08-19 11:43:38.460] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2021-08-19 11:43:41.616] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/rahu/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.8.1
+[2021-08-19 11:43:48.412] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.5d44730a-a5b1-419c-ba24-1f0ca5f4ded9: ms-python.vscode-pylance
+[2021-08-19 11:43:54.727] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-python.vscode-pylance-2021.8.1
+[2021-08-19 11:43:54.731] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-08-19 11:43:57.935] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-08-19 11:43:58.083] [sharedprocess] [info] Extensions installed successfully: ms-python.python

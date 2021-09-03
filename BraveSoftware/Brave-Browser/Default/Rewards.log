@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+[Aug 25, 2021, 12:15:11.6 AM:ERROR:bundle.cc(486)] Failed to delete creative ad notifications state
+[Aug 25, 2021, 12:15:11.6 AM:ERROR:bundle.cc(498)] Failed to delete creative inline content ads state
+[Aug 25, 2021, 12:15:11.6 AM:ERROR:bundle.cc(510)] Failed to delete creative new tab page ads state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(522)] Failed to delete creative promoted content ads state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(534)] Failed to delete campaigns state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(546)] Failed to delete segments state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(558)] Failed to delete creative ads state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(570)] Failed to delete dayparts state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(582)] Failed to delete geo targets state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(624)] Failed to save creative new tab page ads state
+[Aug 25, 2021, 12:15:11.7 AM:ERROR:bundle.cc(650)] Failed to purge expired conversions
+[Aug 25, 2021, 12:16:21.2 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:16:35.8 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:20:12.9 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:22:52.6 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:25:56.6 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:26:29.9 AM:ERROR:publisher.cc(774)] Publisher info not found
+[Aug 25, 2021, 12:33:37.5 AM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Sep 02, 2021, 4:58:45.6 PM:ERROR:creative_new_tab_page_ads_database_table.cc(434)] Failed to get creative new tab page ad
+[Sep 02, 2021, 4:58:45.7 PM:ERROR:creative_new_tab_page_ads_database_table.cc(434)] Failed to get creative new tab page ad
+[Sep 02, 2021, 4:58:46.1 PM:ERROR:creative_new_tab_page_ads_database_table.cc(434)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Sep 02, 2021, 8:06:50.3 PM:ERROR:creative_new_tab_page_ads_database_table.cc(434)] Failed to get creative new tab page ad
+[Sep 02, 2021, 8:31:55.9 PM:ERROR:creative_new_tab_page_ads_database_table.cc(434)] Failed to get creative new tab page ad

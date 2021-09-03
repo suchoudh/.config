@@ -1,3 +1,15 @@
-2021/08/01-13:30:59.795 ea7 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/01-13:30:59.796 ea7 Recovering log #128
-2021/08/01-13:31:00.200 ea7 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000128.log 
+2021/08/23-10:12:53.265 1e9d Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/23-10:12:53.265 1e9d Recovering log #128
+2021/08/23-10:12:53.277 1e9d Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000128.log 
+2021/08/23-14:38:04.921 2ca3 Level-0 table #132: started
+2021/08/23-14:38:04.971 2ca3 Level-0 table #132: 4299 bytes OK
+2021/08/23-14:38:05.045 2ca3 Delete type=0 #128
+2021/08/23-14:38:05.057 2ca3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/08/23-14:38:05.058 2ca3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x15\x001\x000\x003\x001\x006\x005\x000\x008\x006\x007\x007\x004\x001\x007\x004\x001\x000\x003\x002\x001\x009' @ 142 : 1
+2021/08/23-14:38:05.058 2ca3 Compacting 1@1 + 1@2 files
+2021/08/23-14:38:05.100 2ca3 Generated table #133@1: 36 keys, 2700 bytes
+2021/08/23-14:38:05.100 2ca3 Compacted 1@1 + 1@2 files => 2700 bytes
+2021/08/23-14:38:05.151 2ca3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/23-14:38:05.151 2ca3 Delete type=2 #132
+2021/08/23-14:38:05.152 2ca3 Delete type=2 #117
+2021/08/23-14:38:05.152 2ca3 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x15\x001\x000\x003\x001\x006\x005\x000\x008\x006\x007\x007\x004\x001\x007\x004\x001\x000\x003\x002\x001\x009' @ 142 : 1 .. (end); will stop at (end)

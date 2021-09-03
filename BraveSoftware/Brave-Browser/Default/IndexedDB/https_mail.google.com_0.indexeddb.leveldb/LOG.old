@@ -1,0 +1,7 @@
+2021/08/28-13:59:10.074 5bab Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/28-13:59:10.075 5bab Recovering log #3
+2021/08/28-13:59:10.162 5bab Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/08/28-17:20:00.077 2b1d Level-0 table #5: started
+2021/08/28-17:20:00.199 2b1d Level-0 table #5: 403247 bytes OK
+2021/08/28-17:20:00.327 2b1d Delete type=0 #3
+2021/08/28-17:20:00.341 2b1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

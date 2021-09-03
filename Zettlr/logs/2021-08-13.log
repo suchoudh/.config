@@ -1,0 +1,127 @@
+[11:40:43] [Info] こんにちは！ Booting Zettlr at Fri Aug 13 2021 11:40:43 GMT+0530 (India Standard Time).
+[11:40:43] [Info] Performing environment check ...
+[11:40:43] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIyT4OHf/resources/pandoc
+[11:40:43] [Info] Environment check complete.
+[11:40:43] [Info] Registering custom protocol safe-file
+[11:40:44] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[11:40:44] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[11:40:44] [Info] Added DevTools extension:  Vue.js devtools
+[11:40:45] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 106ms to load.
+[11:40:45] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/01/Tue took 151ms to load.
+[11:40:45] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/01 took 165ms to load.
+[11:40:45] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/13 took 130ms to load.
+[11:40:46] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/24 took 104ms to load.
+[11:40:46] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020/26 took 142ms to load.
+[11:40:47] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 2242ms to load.
+[11:40:48] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 916ms to load.
+[11:40:48] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 3161ms to load.
+[11:40:48] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/900_myMorningNotes took 140ms to load.
+[11:40:48] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 111ms to load.
+[11:40:48] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 115ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023/_lawsikho/_assignment took 116ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023/_lawsikho took 177ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023 took 221ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21 took 246ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress took 722ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshots/_img took 142ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshots took 201ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots took 218ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1325ms to load.
+[11:40:49] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 1393ms to load.
+[11:40:49] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 5033ms to load.
+[11:40:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SC2021AugNO_Cover.odt took 242ms to load.
+[11:40:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SC2021JulyNO_Cover.odt took 114ms to load.
+[11:40:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx took 492ms to load.
+[11:40:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 671ms to load.
+[11:40:50] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print took 123ms to load.
+[11:40:51] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 489ms to load.
+[11:40:51] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1357ms to load.
+[11:40:51] [Warning] [FSAL Directory] Path /home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho took 200ms to load.
+[11:40:51] [Info] Loaded all roots in 6.859 seconds
+[11:40:51] [Info] [Update Provider] Checking for application updates ...
+[11:40:52] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[11:40:57] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[11:41:57] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:41:57] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[11:42:17] [Info] Saving file 20210813114156.md...
+[11:42:17] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:42:17] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835137519
+[11:42:17] [Info] File 20210813114156.md saved.
+[11:42:35] [Info] Saving file 20210813114156.md...
+[11:42:35] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:42:35] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835155551
+[11:42:35] [Info] File 20210813114156.md saved.
+[11:42:42] [Info] Saving file 20210813114156.md...
+[11:42:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:42:42] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835162708
+[11:42:42] [Info] File 20210813114156.md saved.
+[11:43:45] [Info] Saving file 20210813114156.md...
+[11:43:45] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:43:45] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835225264
+[11:43:45] [Info] File 20210813114156.md saved.
+[11:44:02] [Info] Saving file 20210813114156.md...
+[11:44:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:44:02] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835242356
+[11:44:02] [Info] File 20210813114156.md saved.
+[11:44:32] [Info] Saving file 20210813114156.md...
+[11:44:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:44:32] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835272620
+[11:44:32] [Info] File 20210813114156.md saved.
+[11:45:13] [Info] Saving file 20210813114156.md...
+[11:45:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:45:13] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835313377
+[11:45:13] [Info] File 20210813114156.md saved.
+[11:45:53] [Info] Saving file 20210813114156.md...
+[11:45:53] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:45:53] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835353293
+[11:45:53] [Info] File 20210813114156.md saved.
+[11:48:33] [Info] Saving file 20210813114156.md...
+[11:48:33] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:48:33] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835513976
+[11:48:33] [Info] File 20210813114156.md saved.
+[11:52:42] [Info] Saving file 20210813114156.md...
+[11:52:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:52:42] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835762958
+[11:52:42] [Info] File 20210813114156.md saved.
+[11:52:50] [Info] Saving file 20210813114156.md...
+[11:52:50] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:52:50] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835770030
+[11:52:50] [Info] File 20210813114156.md saved.
+[11:53:18] [Info] Saving file 20210813114156.md...
+[11:53:18] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:53:18] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835798518
+[11:53:18] [Info] File 20210813114156.md saved.
+[11:53:46] [Info] Saving file 20210813114156.md...
+[11:53:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[11:53:46] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628835826922
+[11:53:46] [Info] File 20210813114156.md saved.
+[12:41:56] [Info] Saving file 20210813114156.md...
+[12:41:56] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[12:41:56] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628838716432
+[12:41:57] [Info] File 20210813114156.md saved.
+[13:05:13] [Info] Saving file 20210813114156.md...
+[13:05:13] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:05:13] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628840113275
+[13:05:13] [Info] File 20210813114156.md saved.
+[13:07:26] [Info] Saving file 20210813114156.md...
+[13:07:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:07:26] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628840246471
+[13:07:26] [Info] File 20210813114156.md saved.
+[13:08:47] [Info] Saving file 20210813114156.md...
+[13:08:47] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:08:47] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628840327822
+[13:08:47] [Info] File 20210813114156.md saved.
+[13:09:32] [Info] Saving file 20210813114156.md...
+[13:09:32] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:09:32] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628840372730
+[13:09:32] [Info] File 20210813114156.md saved.
+[13:10:31] [Info] Saving file 20210813114156.md...
+[13:10:31] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:10:31] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628840431881
+[13:10:31] [Info] File 20210813114156.md saved.
+[13:23:08] [Info] Saving file 20210813114156.md...
+[13:23:08] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/20210813114156.md
+[13:23:09] [Info] Updated modtime for fileDescriptor 20210813114156.md to 1628841188425
+[13:23:09] [Info] File 20210813114156.md saved.
+[14:18:25] [Info] さようなら！ Shutting down at Fri Aug 13 2021 14:18:25 GMT+0530 (India Standard Time)
+[14:18:36] [Info] Shutdown almost complete. Application uptime was: 2 hours, 37 minutes, and 53.204 seconds.

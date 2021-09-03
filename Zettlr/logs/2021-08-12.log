@@ -1,0 +1,38 @@
+[11:55:57] [Info] こんにちは！ Booting Zettlr at Thu Aug 12 2021 11:55:56 GMT+0530 (India Standard Time).
+[11:55:57] [Info] Performing environment check ...
+[11:55:57] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIX0hSvS/resources/pandoc
+[11:55:57] [Info] Environment check complete.
+[11:55:57] [Info] Registering custom protocol safe-file
+[11:55:57] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[11:55:57] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[11:55:57] [Info] Added DevTools extension:  Vue.js devtools
+[11:55:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/1800_weight80KG took 159ms to load.
+[11:55:57] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/3100_Pooja took 188ms to load.
+[11:55:58] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2020 took 879ms to load.
+[11:55:59] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F/2021 took 720ms to load.
+[11:55:59] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/43F took 1602ms to load.
+[11:56:00] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/FinishLawsikhoinTop5May2023 took 137ms to load.
+[11:56:00] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21/8Lpm/2250_Gagne2020 took 136ms to load.
+[11:56:00] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21/8Lpm took 310ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21/MapIT took 110ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress/jobSeach21LPM_31Aug21 took 558ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_projectsInProgress took 1014ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1478ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 1543ms to load.
+[11:56:01] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo took 3745ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SC2021AugNO_Cover.odt took 197ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx/SC2021JulyNO_Cover.odt took 122ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core/_pdf_doc_odt_pptx took 444ms to load.
+[11:56:01] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 592ms to load.
+[11:56:02] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print/Assignment Guidelines for Lawsikho Courses for assignment portal.txt took 103ms to load.
+[11:56:02] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del/2Print took 136ms to load.
+[11:56:02] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del took 470ms to load.
+[11:56:02] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/_img took 104ms to load.
+[11:56:02] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 1298ms to load.
+[11:56:02] [Info] Loaded all roots in 5.312 seconds
+[11:56:02] [Info] [Update Provider] Checking for application updates ...
+[11:56:04] [Info] [Update Provider] No new update available. Current version is v1.8.9.
+[11:56:09] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[14:44:53] [Info] さようなら！ Shutting down at Thu Aug 12 2021 14:44:53 GMT+0530 (India Standard Time)
+[14:44:53] [Info] Cleaned up FSAL cache: Removed 22 remnants.
+[14:44:54] [Info] Shutdown almost complete. Application uptime was: 2 hours, 48 minutes, and 57.631 seconds.

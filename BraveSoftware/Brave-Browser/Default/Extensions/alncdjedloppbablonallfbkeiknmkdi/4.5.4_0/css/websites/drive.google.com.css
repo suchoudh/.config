@@ -1,0 +1,19 @@
+/* div[role="document"] {
+    filter: invert(85%);
+} */
+
+svg {
+    filter: invert(85%);
+}
+
+div[role="gridcell"] svg {
+    filter: none !important;
+}
+
+div[role="link"] svg {
+    filter: none !important;
+}
+
+.link-management-drop-down-icon {
+    filter: invert(85%);
+}

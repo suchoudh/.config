@@ -15,5 +15,7 @@ RememberPassword=true
 User=sunil.choudhary@gmail.com
 CredentialName=
 
+IsExternal=false
+
 [Security]
 Method=ssl-on-alternate-port

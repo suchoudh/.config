@@ -1,0 +1,25 @@
+/********* GLOBAL ***********/
+::selection {
+    background: #338ccc;
+    color: #fff;
+}
+
+::-moz-selection {
+    background: #338ccc;
+    color: #fff;
+}
+
+:root[nighteye="active"] .CodeMirror-cursor {
+    border-color: #cecece !important;
+}
+
+/*All medium websites */
+body.is-withMagicUnderlines .markup--anchor {
+    text-decoration: underline;
+}
+
+body.is-withMagicUnderlines .postArticle.is-withAccentColors .markup--quote.is-other {
+    background-image: linear-gradient(rgba(51, 204, 138, 0.2), rgba(51, 204, 138, 0.2)) !important;
+}
+
+/****************************/

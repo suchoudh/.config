@@ -1,0 +1,600 @@
+[2021-08-20 16:29:30.958] [renderer1] [info] The pty host became responsive again
+[2021-08-20 16:29:46.093] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5270.697ms, saved PROFILE here: 'file:///tmp/exthost-a16434.cpuprofile' [{"id":"gc","total":12403,"percentage":0},{"id":"ritwickdey.LiveServer","total":5257741,"percentage":100}]
+[2021-08-20 16:30:28.775] [renderer1] [error] Unable to write to Workspace Settings because yaml.customTags is not a registered configuration.: Error: Unable to write to Workspace Settings because yaml.customTags is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:30:29.073] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 94% of 118.511ms, saved PROFILE here: 'file:///tmp/exthost-cfab08.cpuprofile' [{"id":"program","total":184,"percentage":0},{"id":"self","total":1580,"percentage":1},{"id":"vscode.git","total":4772,"percentage":4},{"id":"vscode.microsoft-authentication","total":111805,"percentage":94}]
+[2021-08-20 16:30:36.964] [renderer1] [warning] UNRESPONSIVE extension host, 'Dart-Code.dart-code' took 66% of 5367.983ms, saved PROFILE here: 'file:///tmp/exthost-e206bf.cpuprofile' [{"id":"Dart-Code.dart-code","total":3545484,"percentage":66},{"id":"gc","total":38330,"percentage":1},{"id":"program","total":503,"percentage":0},{"id":"self","total":1782984,"percentage":33},{"id":"vscode.microsoft-authentication","total":313,"percentage":0}]
+[2021-08-20 16:30:46.645] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:30:50.377] [renderer1] [error] Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:30:52.116] [renderer1] [error] Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:30:57.442] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:31:56.596] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:32:56.297] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:33:56.496] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:34:56.312] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:35:59.171] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:36:56.367] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:37:56.301] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:38:56.288] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:39:56.314] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:40:56.403] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:41:56.358] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:42:56.309] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:43:56.411] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:44:32.082] [renderer1] [error] Could not find step with ID: pickAFolderTask-Other: Error: Could not find step with ID: pickAFolderTask-Other
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:47884
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at T.progressStep (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51151)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51486
+    at Set.forEach (<anonymous>)
+    at T.progressByEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51470)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39741
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at p._tryExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3556)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3241
+[2021-08-20 16:44:32.085] [renderer1] [error] Could not find category with ID: ms-python.python#pythonDataScienceWelcome: Error: Could not find category with ID: ms-python.python#pythonDataScienceWelcome
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:47665
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at T.progressStep (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51151)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51486
+    at Set.forEach (<anonymous>)
+    at T.progressByEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51470)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39741
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at p._tryExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3556)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3241
+[2021-08-20 16:44:32.086] [renderer1] [error] Could not find category with ID: ms-vscode.cpptools#cppWelcome: Error: Could not find category with ID: ms-vscode.cpptools#cppWelcome
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:47665
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at T.progressStep (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51151)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51486
+    at Set.forEach (<anonymous>)
+    at T.progressByEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51470)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39741
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at p._tryExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3556)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3241
+[2021-08-20 16:44:56.324] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:49:07.747] [renderer1] [error] Unable to write to User Settings because yaml.customTags is not a registered configuration.: Error: Unable to write to User Settings because yaml.customTags is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:49:16.620] [renderer1] [error] Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:49:18.001] [renderer1] [error] Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.
+    at b.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:15315)
+    at b.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:18300)
+    at b.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12505)
+    at Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12281)
+    at E.consume (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16017)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15832
+    at new Promise (<anonymous>)
+    at E.queue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:15756)
+    at b.writeConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:12266)
+    at E.writeConfigurationValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:41473)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27566
+    at Array.map (<anonymous>)
+    at E.updateValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2409:27554)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:49:18.001] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:49:34.812] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:50:09.148] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:51:09.210] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:52:09.182] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:53:09.152] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:54:09.340] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:55:09.183] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:56:09.146] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:57:09.683] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:58:09.194] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 16:59:09.193] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:00:09.323] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:01:29.605] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:02:09.357] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:03:09.256] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:04:09.204] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:05:14.207] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:06:09.168] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:07:15.338] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:08:09.208] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:09:09.348] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:10:09.179] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:11:09.327] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:12:09.252] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:13:09.256] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:14:09.243] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:15:09.184] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:16:09.190] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:17:09.162] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:18:09.401] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:19:09.250] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:20:09.388] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:21:09.284] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:22:09.266] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:23:09.219] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:24:09.285] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:25:09.282] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:26:09.231] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:27:09.206] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:28:09.414] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:29:09.211] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:30:09.347] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:31:09.188] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:32:09.237] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:33:09.498] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:34:10.594] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:35:09.186] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:36:09.342] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:37:09.218] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:38:09.403] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:39:09.182] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:40:09.346] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:41:09.205] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:42:09.347] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:43:09.269] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:44:09.240] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:45:09.228] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:46:09.175] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:47:09.246] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:48:09.309] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:49:09.267] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:50:09.187] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:51:09.391] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:52:09.206] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-08-20 17:53:09.360] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

@@ -15,11 +15,16 @@ RememberPassword=true
 User=sunil.choudhary@gmail.com
 CredentialName=
 
+IsExternal=false
+
 [Mail Account]
 BackendName=imapx
 IdentityUid=b4aafdd14a89db43586b341d8efd4ad4bd0b2930
 ArchiveFolder=
 NeedsInitialSetup=true
+
+MarkSeen=inconsistent
+MarkSeenTimeout=1500
 
 [Security]
 Method=ssl-on-alternate-port
@@ -51,3 +56,4 @@ UseShellCommand=false
 UseSubscriptions=false
 IgnoreOtherUsersNamespace=false
 IgnoreSharedFoldersNamespace=false
+FullUpdateOnMeteredNetwork=true

@@ -1,0 +1,543 @@
+{
+   "brightnessViewDescription": {
+      "message": "Ajuste a luminosidade arrastando a barra abaixo."
+   },
+   "brightnessViewTitle": {
+      "message": "Luminosidade"
+   },
+   "colorViewDescription": {
+      "message": "Escolha uma cor de um site e altere-a conforme desejar."
+   },
+   "colorViewOriginalColor": {
+      "description": "original color",
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "description": " replaced color",
+      "message": "Substituída"
+   },
+   "colorViewTitle": {
+      "message": "Escolher cor"
+   },
+   "contrastViewDescription": {
+      "message": "Ajuste o contraste arrastando a barra abaixo."
+   },
+   "contrastViewTitle": {
+      "message": "Contraste"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "todos os sites"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Aplicar"
+   },
+   "controlsPanelButtonApplyTo": {
+      "description": "Apply to all websites",
+      "message": "Aplicar a"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Cancelar"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Reiniciar"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "description": "Restore defaults for all websites",
+      "message": "Restaurar definições padrão"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "site atual"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "a todos os sites"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "ao site atual"
+   },
+   "dimViewDescription": {
+      "message": "Ajuste o nível de turvação de todos os sites."
+   },
+   "dimViewTitle": {
+      "message": "Fosco"
+   },
+   "extDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye ativa o modo noturno em qualquer site usando um algoritmo novo que analisa e converte todas as cores"
+   },
+   "extDisabledStatus": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye está desativado"
+   },
+   "extName": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye - Modo escuro em qualquer site"
+   },
+   "extToggleButton": {
+      "message": "Alterne entre os modos normal e escuro no separador"
+   },
+   "extTurnOnButton": {
+      "message": "Ativar"
+   },
+   "filterModeNameDark": {
+      "message": "Escuro"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrado"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Afeta a velocidade de carregamento em algumas páginas"
+   },
+   "firstRunViewFeature2": {
+      "message": "Aproveite 3 meses de graça\u003Cbr>Depois - apenas 9 $/ano"
+   },
+   "firstRunViewFeature3": {
+      "message": "Não são recolhidas informações de navegação"
+   },
+   "firstRunViewFeature4": {
+      "message": "Entre em contacto com a nossa equipa de atendimento usando a sala de chat incorporada"
+   },
+   "firstRunViewTitle": {
+      "message": "Início rápido"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Mais detalhes"
+   },
+   "helpViewActivateNow": {
+      "message": "Ative agora"
+   },
+   "helpViewActivated": {
+      "message": "Ativado"
+   },
+   "helpViewByExpires": {
+      "message": "de $1 \u003C/br>expira: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Área do cliente"
+   },
+   "helpViewDarkScroll": {
+      "message": "Pergaminhos escuros"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Deixe \"Night Eye\" virar qualquer pergaminho escuro."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Escolha o modo predefinido para ser executado ao abrir novos sites"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Modo predefinido"
+   },
+   "helpViewDisabled": {
+      "message": "Desativado"
+   },
+   "helpViewEnabled": {
+      "message": "Ativado"
+   },
+   "helpViewExpiredNever": {
+      "message": "nunca"
+   },
+   "helpViewExpires": {
+      "message": "Expira em $1"
+   },
+   "helpViewExportData": {
+      "message": "Exportar dados"
+   },
+   "helpViewGoProTitle": {
+      "message": "Torne-se Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Ajuda"
+   },
+   "helpViewImportData": {
+      "message": "Importar dados"
+   },
+   "helpViewLanguage": {
+      "message": "Língua"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Gerenciar lista de modo escuro"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integração do esquema de cores do sistema operacional"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sincronize o Night Eye com seu esquema de cores do SO ativo."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Saiba o que fazer para atribuir o seu próprio atalho"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Atalho Ativar/Desativar"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Entrar / Inscrever-se"
+   },
+   "helpViewSignOut": {
+      "message": "Sair"
+   },
+   "helpViewTimerDescr": {
+      "message": "Como funciona"
+   },
+   "helpViewTimerOff": {
+      "message": "Desligar"
+   },
+   "helpViewTimerOn": {
+      "message": "Ligar"
+   },
+   "helpViewTimerTitle": {
+      "message": "Cronograma"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Encontre o Night Eye na lista de extensões e clique em remover"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Desinstalar"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Lista de permissões"
+   },
+   "imageViewDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye processa as imagens, tornando-as mais escuras. Esta funcionalidade requer mais recursos informáticos e pode deixar o computador mais lento."
+   },
+   "imageViewTitle": {
+      "message": "Imagens"
+   },
+   "labelBlueLight": {
+      "message": "luz azul"
+   },
+   "labelBrightness": {
+      "message": "luminosidade"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "tema escuro \u003Cbr> embutido"
+   },
+   "labelColors": {
+      "message": "cores"
+   },
+   "labelContinue": {
+      "message": "Continuar"
+   },
+   "labelContrast": {
+      "message": "contraste"
+   },
+   "labelCurrent": {
+      "description": "Current website",
+      "message": "Atual"
+   },
+   "labelCustomCode": {
+      "message": "custom code"
+   },
+   "labelDim": {
+      "message": "fosco"
+   },
+   "labelDisabled": {
+      "message": "Desativado"
+   },
+   "labelEnabled": {
+      "message": "Ativado"
+   },
+   "labelExperimentalFeature": {
+      "message": "Funcionalidade experimental"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Conversão de fundos"
+   },
+   "labelImageHighCPU": {
+      "message": "Alto consumo de CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Conversão de ícones"
+   },
+   "labelImages": {
+      "message": "imagens"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Gerenciar a lista"
+   },
+   "labelPleaseWait": {
+      "message": "Aguarde"
+   },
+   "labelSaturation": {
+      "message": "saturação"
+   },
+   "labelTurboCache": {
+      "message": "cache \u003Cbr> local"
+   },
+   "labelWebsite": {
+      "description": "Current website",
+      "message": "site"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Este site não é adicionado à lista de modo escuro."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versão escura"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versão filtrada"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versão normal"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Não suportado"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Este site não é suportado"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Fechar"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Você está usando o Night Eye há 30 dias."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Como agradecimento, temos um desconto especial de 20%. Por favor, use o código de desconto \u003Cdiv class =\"DiscountCode\"> - \u003C/div> Esta oferta é válida por 48 horas."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Obtenha sua versão PRO agora"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Se você não estiver interessado, faltam mais 2 meses para a avaliação gratuita. Aproveitar!"
+   },
+   "refreshButton": {
+      "description": "Refresh current page - this is button",
+      "message": "Atualizar"
+   },
+   "refreshViewDescription": {
+      "message": "Tem de atualizar a página atual para aplicar as definições mais recentes"
+   },
+   "refreshViewTitle": {
+      "message": "Recarregue a página"
+   },
+   "saturationViewDescription": {
+      "message": "Ajuste a saturação arrastando a barra abaixo."
+   },
+   "saturationViewTitle": {
+      "message": "Saturação"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "A integração profunda permite controlar os temas escuros internos dos sites que já implementaram uma interface do usuário escura."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Veja como a integração profunda funciona"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "AQUI"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Integração profunda"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Desativado"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye escuro"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "O Night Eye converte imagens como ícones e planos de fundo para fornecer um modo escuro suave e consistente."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "A conversão de ícones e planos de fundo vem com alto consumo de CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Ligue para obter a melhor experiência no modo escuro."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Desligue para reduzir o consumo da CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "O cache acelera a conversão do site do modo Normal para o escuro (a velocidade de carregamento da página não é afetada). Pode reduzir os flashes brilhantes iniciais, dependendo do site."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "O recurso de cache funciona em cerca de 80% dos sites; portanto, se um site não estiver se comportando corretamente, desative-o!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Pode ser aplicado a sites específicos ou a tudo o que você visita."
+   },
+   "supportViewContinueBtn": {
+      "message": "Continuar"
+   },
+   "supportViewInfo1": {
+      "message": "Estamos aqui para ajudar se surgirem dúvidas ou problemas com o Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Para usar o nosso sistema de suporte, forneça informações de contacto corretas."
+   },
+   "supportViewInfo3": {
+      "message": "Envie-nos mensagens apenas em inglês."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Nome"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Por favor, espere..."
+   },
+   "switchLabelOff": {
+      "description": "Switch is Off",
+      "message": "Desligado"
+   },
+   "switchLabelOn": {
+      "description": "Switch is On",
+      "message": "Ligado"
+   },
+   "temperatureViewDescription": {
+      "message": "Ajuste a luz azul arrastando a barra abaixo."
+   },
+   "temperatureViewOption1": {
+      "message": "Luz azul"
+   },
+   "temperatureViewOption2": {
+      "message": "Sem azul"
+   },
+   "temperatureViewTitle": {
+      "message": "Luz azul"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Ativar"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Cancelar"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Área do Cliente"
+   },
+   "trailActivationViewDescr": {
+      "message": "Adicione o email que você usou para criar uma conta."
+   },
+   "trailActivationViewTitle": {
+      "message": "Ativação"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Cancelar"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Painel de controle"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Desativar"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "O Night Eye está associado ao seu e-mail \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Para mais detalhes, visite"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Você pode desativar permanentemente o Night Eye para este navegador."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Ativado"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Continuar"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Você pode desfrutar do Night Eye em até três navegadores de uma só vez até que a sua avaliação gratuita expire em $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Você pode desfrutar do Night Eye em até $1 navegadores ao mesmo tempo."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Você ativou a extensão com sucesso."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Você pode desfrutar do Night Eye em até 3 navegadores ao mesmo tempo."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Você pode gerenciar os navegadores ativos na área do cliente."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Para acessá-lo, acesse"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Ativação bem sucedida"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Cancelar"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Esperamos que o Night Eye tenha provado sua utilidade nos últimos meses!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Se você quiser continuar usando, confira nossos preços e todos os benefícios que acompanham."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye está associado ao seu e-mail \u003Cb class =\"AccountEmail\"> $1 \u003C/b> \u003Cbr> use-o se você decidir pagar."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Preços"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Versão Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Esperamos que o Night Eye tenha provado sua utilidade nos últimos meses."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Você pode usar a versão Lite gratuita para sempre ou usar o Pro. Confira nossos preços e todos os benefícios que acompanham."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Versão Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Modo escuro em até 5 sites"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Versão Pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Sem limites"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Sua avaliação gratuita expirou."
+   },
+   "trialLiteViewCancel": {
+      "message": "Cancelar"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Torne-se Pro (remova os limites)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "O Modo Escuro pode ser ativado em até 5 sites. Você pode gerenciar a lista e alterá-la a qualquer momento."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Versão Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Leia sobre Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Salve "
+   },
+   "trialProViewActivateBtn": {
+      "message": "Ativar"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Se você já possui uma conta, ative-a!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Cancelar"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Esperamos que o Night Eye tenha provado sua utilidade nos últimos meses!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Se você quiser continuar usando, confira nossos preços e todos os benefícios que acompanham."
+   },
+   "trialProViewPricing": {
+      "message": "Preços"
+   },
+   "trialProViewTitle": {
+      "message": "Versão Pro"
+   }
+}

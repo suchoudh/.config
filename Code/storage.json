@@ -446,59 +446,63 @@
     "themeBackground": "#272822",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/rahu/sarthak/taskwarrior",
-            "backupPath": "/home/rahu/.config/Code/Backups/1b2b33f4e98c35a98dd6c9ae2ce6abb0",
+            "folder": "file:///home/rahu/Homebox/2300RememberThese/100_admin",
+            "backupPath": "/home/rahu/.config/Code/Backups/36ac449ebf84914de8363170aa64c583",
             "uiState": {
                 "mode": 1,
                 "x": 27,
                 "y": 46,
-                "width": 644,
+                "width": 1312,
                 "height": 695
             }
         },
-        "openedWindows": [
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "/home/rahu/Homebox/2300RememberThese",
+    "openedPathsList": {
+        "entries": [
             {
-                "folder": "file:///home/rahu/sarthak/taskwarrior",
-                "backupPath": "/home/rahu/.config/Code/Backups/1b2b33f4e98c35a98dd6c9ae2ce6abb0",
-                "uiState": {
-                    "mode": 1,
-                    "x": 27,
-                    "y": 46,
-                    "width": 644,
-                    "height": 695
-                }
+                "folderUri": "file:///home/rahu/Homebox/2300RememberThese/100_admin"
             },
             {
-                "folder": "file:///home/rahu/Dropbox",
-                "backupPath": "/home/rahu/.config/Code/Backups/fefc69451fa8b27edf25d93bd969ce72",
-                "uiState": {
-                    "mode": 1,
-                    "x": 695,
-                    "y": 46,
-                    "width": 644,
-                    "height": 695
-                }
+                "folderUri": "file:///home/rahu/Dropbox"
+            },
+            {
+                "folderUri": "file:///home/rahu/sarthak/taskwarrior"
+            },
+            {
+                "folderUri": "file:///home/rahu/Dropbox/Whatis/Docker/class/layout"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/myPython"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/BlueGit/myKuno/kuno"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/suchoudh.github.io/suchoudh.github.io"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/sunilawsbit/awsbit"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/public_html"
+            },
+            {
+                "folderUri": "file:///home/rahu/1working1/BakersVille"
+            },
+            {
+                "folderUri": "file:///home/rahu/Downloads"
+            },
+            {
+                "fileUri": "file:///home/rahu/DND_Exclusion.lst"
+            },
+            {
+                "fileUri": "file:///home/rahu/1working1/BlueGit/myKuno/kuno/index.php"
+            },
+            {
+                "fileUri": "file:///home/rahu/1working1/suchoudh.github.io/suchoudh.github.io/index.html"
             }
-        ]
-    },
-    "pickerWorkingDir": "/home/rahu/sarthak",
-    "openedPathsList": {
-        "workspaces3": [
-            "file:///home/rahu/sarthak/taskwarrior",
-            "file:///home/rahu/Dropbox",
-            "file:///home/rahu/Dropbox/Whatis/Docker/class/layout",
-            "file:///home/rahu/1working1/myPython",
-            "file:///home/rahu/1working1/BlueGit/myKuno/kuno",
-            "file:///home/rahu/1working1/suchoudh.github.io/suchoudh.github.io",
-            "file:///home/rahu/1working1/sunilawsbit/awsbit",
-            "file:///home/rahu/1working1/public_html",
-            "file:///home/rahu/1working1/BakersVille",
-            "file:///home/rahu/Downloads"
-        ],
-        "files2": [
-            "file:///home/rahu/DND_Exclusion.lst",
-            "file:///home/rahu/1working1/BlueGit/myKuno/kuno/index.php",
-            "file:///home/rahu/1working1/suchoudh.github.io/suchoudh.github.io/index.html"
         ]
     },
     "lastKnownMenubarData": {
@@ -529,14 +533,13 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.29",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -545,13 +548,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/rahu/sarthak/taskwarrior",
-                                        "external": "file:///home/rahu/sarthak/taskwarrior",
-                                        "path": "/home/rahu/sarthak/taskwarrior",
+                                        "fsPath": "/home/rahu/Homebox/2300RememberThese/100_admin",
+                                        "external": "file:///home/rahu/Homebox/2300RememberThese/100_admin",
+                                        "path": "/home/rahu/Homebox/2300RememberThese/100_admin",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/sarthak/taskwarrior"
+                                    "label": "~/Homebox/2300RememberThese/100_admin"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -563,6 +566,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Dropbox"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/rahu/sarthak/taskwarrior",
+                                        "path": "/home/rahu/sarthak/taskwarrior",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/sarthak/taskwarrior"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -642,17 +656,6 @@
                                     "label": "~/1working1/BakersVille"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/rahu/Downloads",
-                                        "path": "/home/rahu/Downloads",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -721,14 +724,16 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
-                        "id": "workbench.action.files.saveAll",
+                        "id": "saveAll",
                         "label": "Save A&&ll",
                         "enabled": false
                     },
@@ -740,7 +745,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.23",
+                        "id": "submenuitem.28",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -786,6 +791,10 @@
                                     "label": "File &&Icon Theme"
                                 },
                                 {
+                                    "id": "workbench.action.selectProductIconTheme",
+                                    "label": "&&Product Icon Theme"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -800,11 +809,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -853,11 +864,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -978,7 +991,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.15",
+                        "id": "submenuitem.19",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -1018,13 +1031,13 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleEditorVisibility",
-                                    "label": "Show &&Editor Area",
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel",
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Show &&Editor Area",
                                     "checked": true
                                 },
                                 {
@@ -1061,7 +1074,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.26",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -1153,6 +1166,10 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.actions.view.problems",
+                        "label": "&&Problems"
+                    },
+                    {
                         "id": "workbench.action.output.toggleOutput",
                         "label": "&&Output"
                     },
@@ -1165,15 +1182,12 @@
                         "label": "&&Terminal"
                     },
                     {
-                        "id": "workbench.actions.view.problems",
-                        "label": "&&Problems"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -1200,8 +1214,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1210,14 +1223,13 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.31",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -1266,7 +1278,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -1435,7 +1447,8 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations"
+                        "label": "Open &&Configurations",
+                        "enabled": false
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -1472,7 +1485,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.22",
+                        "id": "submenuitem.27",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1527,8 +1540,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1585,6 +1597,10 @@
                     {
                         "id": "workbench.action.showWelcomePage",
                         "label": "&&Welcome"
+                    },
+                    {
+                        "id": "workbench.action.openWalkthrough",
+                        "label": "Getting Started"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1644,7 +1660,7 @@
                     },
                     {
                         "id": "workbench.action.toggleDevTools",
-                        "label": "&&Toggle Developer Tools"
+                        "label": "Toggle Developer Tools"
                     },
                     {
                         "id": "workbench.action.openProcessExplorer",
@@ -1727,8 +1743,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1884,6 +1900,10 @@
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
             },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
+            },
             "workbench.action.output.toggleOutput": {
                 "label": "Ctrl+K Ctrl+H",
                 "isNative": false,
@@ -1896,10 +1916,6 @@
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
-            },
-            "workbench.actions.view.problems": {
-                "label": "Ctrl+Shift+M",
-                "userSettingsLabel": "ctrl+shift+m"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -2085,6 +2101,28 @@
                 "label": "Ctrl+Shift+I",
                 "userSettingsLabel": "ctrl+shift+i"
             }
+        }
+    },
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#272822",
+            "editorBackground": "#272822",
+            "titleBarBackground": "#1e1f1c",
+            "activityBarBackground": "#272822",
+            "sideBarBackground": "#1e1f1c",
+            "statusBarBackground": "#414339",
+            "statusBarNoFolderBackground": "#414339"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 296,
+            "statusBarHeight": 22,
+            "windowBorder": false
         }
     }
 }
