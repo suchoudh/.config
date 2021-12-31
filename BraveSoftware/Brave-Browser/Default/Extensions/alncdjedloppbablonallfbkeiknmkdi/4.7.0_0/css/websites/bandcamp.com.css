@@ -1,0 +1,13 @@
+.progbar {
+    filter: invert(80%);
+}
+
+.prev_cell,
+.next_cell {
+    filter: invert(50%);
+}
+
+.playbutton,
+.play_status {
+    background: #5f5f5f !important;
+}

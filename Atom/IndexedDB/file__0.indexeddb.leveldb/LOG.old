@@ -1,3 +1,9 @@
-2021/05/27-15:18:27.622 21006 Reusing MANIFEST /home/rahu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/05/27-15:18:27.673 21006 Recovering log #19
-2021/05/27-15:18:28.722 21006 Reusing old log /home/rahu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000019.log 
+2021/09/12-22:40:21.071 718557 Reusing MANIFEST /home/rahu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/09/12-22:40:21.071 718557 Recovering log #24
+2021/09/12-22:40:21.167 718557 Reusing old log /home/rahu/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000024.log 
+2021/09/12-22:42:49.077 720891 Compacting 1@1 + 1@2 files
+2021/09/12-22:42:49.351 720891 Generated table #27@1: 103 keys, 187559 bytes
+2021/09/12-22:42:49.351 720891 Compacted 1@1 + 1@2 files => 187559 bytes
+2021/09/12-22:42:49.439 720891 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/12-22:42:49.440 720891 Delete type=2 #22
+2021/09/12-22:42:49.632 720891 Delete type=2 #25

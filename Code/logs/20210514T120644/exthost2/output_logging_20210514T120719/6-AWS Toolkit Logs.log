@@ -1,7 +1,0 @@
-Error logs for this session are permanently stored in /home/rahu/.config/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode/logs/aws_toolkit_20210514T120734.log
-2021-05-14 12:07:35 [ERROR]: log level: info
-2021-05-14 12:07:35 [INFO]: Retrieving AWS endpoint data
-2021-05-14 12:07:35 [INFO]: OS:  Linux x64 4.15.0-124-generic
-2021-05-14 12:07:35 [INFO]: Visual Studio Code Extension Host Version:  1.52.0
-2021-05-14 12:07:35 [INFO]: AWS Toolkit Version:  1.25.0
-2021-05-14 12:12:37 [INFO]: Successfully sent a telemetry batch of 4

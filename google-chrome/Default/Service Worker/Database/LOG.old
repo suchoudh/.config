@@ -1,3 +1,6 @@
-2021/08/23-10:02:07.597 768e Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
-2021/08/23-10:02:07.807 768e Recovering log #7
-2021/08/23-10:02:08.400 768e Reusing old log /home/rahu/.config/google-chrome/Default/Service Worker/Database/000007.log 
+2021/10/11-11:49:51.473 130fb Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
+2021/10/11-11:49:51.473 130fb Recovering log #7
+2021/10/11-11:49:52.969 130fb Reusing old log /home/rahu/.config/google-chrome/Default/Service Worker/Database/000007.log 
+2021/10/11-11:52:46.669 13d9d Level-0 table #13: started
+2021/10/11-11:52:46.718 13d9d Level-0 table #13: 83473 bytes OK
+2021/10/11-11:52:46.857 13d9d Delete type=0 #7

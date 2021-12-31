@@ -1,7 +1,0 @@
-[2020-12-28 03:14:04.309] [sharedprocess] [info] main {"machineId":"5798b655c0fa67a4c579a728601cf4b916f89fc6f98b92d12f1bdd3e01fc5a9c","windowId":2}
-[2020-12-28 03:14:19.060] [sharedprocess] [info] Installing extension: dart-code.dart-code
-[2020-12-28 03:14:19.061] [sharedprocess] [info] Installing extension: dart-code.flutter
-[2020-12-28 03:14:19.062] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
-[2020-12-28 03:14:19.064] [sharedprocess] [info] Installing extension: golang.go
-[2020-12-28 03:14:19.065] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
-[2020-12-28 03:14:19.066] [sharedprocess] [info] Installing extension: ms-python.python

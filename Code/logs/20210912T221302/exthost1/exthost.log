@@ -1,0 +1,106 @@
+[2021-09-12 22:13:16.181] [exthost] [info] extension host started
+[2021-09-12 22:13:16.182] [exthost] [info] Skipping acquiring lock for /home/rahu/.config/Code/User/workspaceStorage/effa4ef203d314cbe4b697ed449e6af4.
+[2021-09-12 22:13:16.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-12 22:13:16.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-12 22:13:17.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-12 22:13:17.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-12 22:13:17.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 22:13:17.446] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-09-12 22:13:17.964] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-12 22:13:17.964] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/github.vscode-pull-request-github-0.29.2/dist/extension
+[2021-09-12 22:13:18.408] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-09-12 22:13:18.408] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1/dist/extension
+[2021-09-12 22:13:18.576] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-12 22:13:18.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-12 22:13:20.646] [exthost] [info] ExtensionService#_doActivateExtension loskael.vscode-stocks-cn {"startup":true,"extensionId":{"value":"loskael.vscode-stocks-cn","_lower":"loskael.vscode-stocks-cn"},"activationEvent":"*"}
+[2021-09-12 22:13:20.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension
+[2021-09-12 22:13:20.796] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-12 22:13:20.796] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-12 22:13:20.873] [exthost] [info] ExtensionService#_doActivateExtension prasadbobby.auto-rename-tag {"startup":true,"extensionId":{"value":"prasadbobby.auto-rename-tag","_lower":"prasadbobby.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-12 22:13:20.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/prasadbobby.auto-rename-tag-0.1.5/dist/extensionMain.js
+[2021-09-12 22:13:21.434] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-12 22:13:21.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-12 22:13:24.620] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-12 22:13:24.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-12 22:13:25.187] [exthost] [info] ExtensionService#_doActivateExtension Dart-Code.dart-code {"startup":true,"extensionId":{"value":"Dart-Code.dart-code","_lower":"dart-code.dart-code"},"activationEvent":"workspaceContainsTimeout:*/pubspec.yaml,*/*/pubspec.yaml,*.dart,*/*.dart,*/*/*.dart"}
+[2021-09-12 22:13:25.188] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/dart-code.dart-code-3.26.0/out/dist/extension
+[2021-09-12 22:13:25.463] [exthost] [info] ExtensionService#_doActivateExtension Dedsec727.jekyll-run {"startup":true,"extensionId":{"value":"Dedsec727.jekyll-run","_lower":"dedsec727.jekyll-run"},"activationEvent":"workspaceContainsTimeout:**/_config.yml"}
+[2021-09-12 22:13:25.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/dedsec727.jekyll-run-1.6.0/out/extension.js
+[2021-09-12 22:13:26.197] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":true,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"workspaceContainsTimeout:**/*.go"}
+[2021-09-12 22:13:26.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/golang.go-0.27.2/dist/goMain.js
+[2021-09-12 22:13:26.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-12 22:13:26.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-12 22:13:27.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:27.044] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-12 22:13:27.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:27.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-12 22:13:27.484] [exthost] [info] ExtensionService#_doActivateExtension amazonwebservices.aws-toolkit-vscode {"startup":false,"extensionId":{"value":"amazonwebservices.aws-toolkit-vscode","_lower":"amazonwebservices.aws-toolkit-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:27.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.29.0/extensionMain
+[2021-09-12 22:13:28.281] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:28.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-12 22:13:28.377] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:28.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-12 22:13:28.590] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:28.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-12 22:13:28.950] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:13:28.950] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1/dist/extension/extension
+[2021-09-12 22:13:29.715] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-12 22:13:29.715] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-12 22:13:30.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 22:13:30.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-09-12 22:14:59.400] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-12 22:15:00.442] [exthost] [info] exiting with code 0
+[2021-09-12 22:15:04.615] [exthost] [info] extension host started
+[2021-09-12 22:15:04.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-12 22:15:04.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-12 22:15:04.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-12 22:15:04.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-12 22:15:04.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 22:15:04.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-09-12 22:15:04.777] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-09-12 22:15:04.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/github.vscode-pull-request-github-0.29.2/dist/extension
+[2021-09-12 22:15:04.803] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2021-09-12 22:15:04.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1/dist/extension
+[2021-09-12 22:15:04.830] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2021-09-12 22:15:04.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.6/out/src/main
+[2021-09-12 22:15:05.054] [exthost] [info] ExtensionService#_doActivateExtension loskael.vscode-stocks-cn {"startup":true,"extensionId":{"value":"loskael.vscode-stocks-cn","_lower":"loskael.vscode-stocks-cn"},"activationEvent":"*"}
+[2021-09-12 22:15:05.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension
+[2021-09-12 22:15:05.060] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-12 22:15:05.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-12 22:15:05.070] [exthost] [info] ExtensionService#_doActivateExtension prasadbobby.auto-rename-tag {"startup":true,"extensionId":{"value":"prasadbobby.auto-rename-tag","_lower":"prasadbobby.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-12 22:15:05.070] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/prasadbobby.auto-rename-tag-0.1.5/dist/extensionMain.js
+[2021-09-12 22:15:05.127] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-12 22:15:05.127] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-12 22:15:05.527] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-12 22:15:05.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-12 22:15:05.671] [exthost] [error] Activating extension kisstkondoros.vscode-gutter-preview failed due to an error:
+[2021-09-12 22:15:05.671] [exthost] [error] TypeError: Cannot read property 'fsPath' of undefined
+    at t.activate (/home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1/dist/extension.js:1:62877)
+    at Function._callActivateOptional (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:14919)
+    at Function._callActivate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:14592)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:12789
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 3)
+    at async Promise.all (index 0)
+[2021-09-12 22:15:05.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-12 22:15:05.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-12 22:15:06.000] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-12 22:15:06.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-12 22:15:06.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-12 22:15:06.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-09-12 22:15:14.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:14.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-12 22:15:14.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:14.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-12 22:15:14.754] [exthost] [info] ExtensionService#_doActivateExtension amazonwebservices.aws-toolkit-vscode {"startup":false,"extensionId":{"value":"amazonwebservices.aws-toolkit-vscode","_lower":"amazonwebservices.aws-toolkit-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:14.754] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.29.0/extensionMain
+[2021-09-12 22:15:15.100] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:15.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-12 22:15:15.109] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:15.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-12 22:15:15.190] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:15.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-12 22:15:15.229] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-09-12 22:15:15.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1/dist/extension/extension
+[2021-09-12 22:15:26.430] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-12 22:15:27.459] [exthost] [info] exiting with code 0

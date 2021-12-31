@@ -1,0 +1,30 @@
+[2021-09-12 13:22:09.823] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-12 13:22:13.858] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-12 13:22:13.861] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210514T120256'
+[2021-09-12 13:22:33.856] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-12 13:22:33.857] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-12 13:22:43.862] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-12 13:28:27.613] [sharedprocess] [info] Installing extension: tyriar.luna-paint
+[2021-09-12 13:28:32.976] [sharedprocess] [info] Downloaded extension: tyriar.luna-paint /home/rahu/.config/Code/CachedExtensionVSIXs/tyriar.luna-paint-0.9.0
+[2021-09-12 13:28:33.591] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.11049490-f7b3-4915-894c-8203ead9b026: tyriar.luna-paint
+[2021-09-12 13:28:33.879] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/tyriar.luna-paint-0.9.0
+[2021-09-12 13:28:33.885] [sharedprocess] [info] Extracting completed. tyriar.luna-paint
+[2021-09-12 13:28:33.942] [sharedprocess] [info] Extension installed successfully: tyriar.luna-paint
+[2021-09-12 13:30:57.600] [sharedprocess] [info] Installing extension: frinkr.pdf
+[2021-09-12 13:31:00.670] [sharedprocess] [info] Downloaded extension: frinkr.pdf /home/rahu/.config/Code/CachedExtensionVSIXs/frinkr.pdf-0.0.6
+[2021-09-12 13:31:00.724] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.61567725-746c-4c35-bb6c-420d6f340951: frinkr.pdf
+[2021-09-12 13:31:00.769] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/frinkr.pdf-0.0.6
+[2021-09-12 13:31:00.771] [sharedprocess] [info] Extracting completed. frinkr.pdf
+[2021-09-12 13:31:00.806] [sharedprocess] [info] Extension installed successfully: frinkr.pdf
+[2021-09-12 13:31:04.320] [sharedprocess] [info] Installing extension: tomoki1207.pdf
+[2021-09-12 13:31:09.408] [sharedprocess] [info] Downloaded extension: tomoki1207.pdf /home/rahu/.config/Code/CachedExtensionVSIXs/tomoki1207.pdf-1.1.0
+[2021-09-12 13:31:11.552] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.63af61c7-4122-4edf-b36f-445aaf720334: tomoki1207.pdf
+[2021-09-12 13:31:11.607] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/tomoki1207.pdf-1.1.0
+[2021-09-12 13:31:11.611] [sharedprocess] [info] Extracting completed. tomoki1207.pdf
+[2021-09-12 13:31:11.667] [sharedprocess] [info] Extension installed successfully: tomoki1207.pdf
+[2021-09-12 13:31:11.674] [sharedprocess] [info] Installing extension: analytic-signal.preview-pdf
+[2021-09-12 13:31:20.655] [sharedprocess] [info] Downloaded extension: analytic-signal.preview-pdf /home/rahu/.config/Code/CachedExtensionVSIXs/analytic-signal.preview-pdf-1.0.0
+[2021-09-12 13:31:22.021] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.63927c32-5576-4c58-879e-2f23b26baae2: analytic-signal.preview-pdf
+[2021-09-12 13:31:22.085] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/analytic-signal.preview-pdf-1.0.0
+[2021-09-12 13:31:22.088] [sharedprocess] [info] Extracting completed. analytic-signal.preview-pdf
+[2021-09-12 13:31:22.180] [sharedprocess] [info] Extension installed successfully: analytic-signal.preview-pdf

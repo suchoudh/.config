@@ -1,0 +1,23 @@
+[Info] /home/rahu/.ssh/config: ENOENT: no such file or directory, open '/home/rahu/.ssh/config'
+[Info] Registering git provider
+[Info] Looking for git repository
+[Info] Found 1 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] No remote with name 'upstream' found.
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch main
+[Info] Review> no matching pull request metadata found on GitHub for current branch main
+[Info] Error signing in to GitHub: Canceled: Canceled
+[Info] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)

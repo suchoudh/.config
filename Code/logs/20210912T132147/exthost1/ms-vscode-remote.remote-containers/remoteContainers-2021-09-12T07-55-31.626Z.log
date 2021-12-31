@@ -1,0 +1,21 @@
+[2021-09-12T08:02:37.597Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-12T08:02:37.630Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-12T08:02:37.597Z] Remote-Containers 0.191.1 in VS Code 1.59.1 (3866c3553be8b268c8a7f8c0482c0c0177aa8bfa).
+[2021-09-12T08:02:38.322Z] Stop (725 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-12T08:02:38.325Z] 1.39
+[2021-09-12T08:02:38.326Z] Start: Run: docker -v
+[2021-09-12T08:02:38.351Z] Stop (721 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-12T08:02:38.352Z] 1.39
+[2021-09-12T08:02:38.353Z] Start: Run: docker -v
+[2021-09-12T08:02:38.442Z] Stop (116 ms): Run: docker -v
+[2021-09-12T08:02:38.442Z] Start: Run: docker events --format {{json .}} --filter event=destroy --filter event=die --filter event=kill --filter event=create --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=prune
+[2021-09-12T08:02:38.526Z] Stop (173 ms): Run: docker -v
+[2021-09-12T08:02:38.527Z] Start: Run: docker events --format {{json .}} --filter event=create --filter event=destroy --filter event=die --filter event=health-status --filter event=kill --filter event=pause --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=update --filter event=exec_create
+[2021-09-12T08:02:38.565Z] Start: Run: docker ps -q -a
+[2021-09-12T08:02:38.705Z] Start: Run: docker volume ls -q
+[2021-09-12T08:02:39.736Z] Stop (1031 ms): Run: docker volume ls -q
+[2021-09-12T08:02:39.737Z] Start: Run: docker inspect --type volume 993805d9635da621160edd0398f55622c31a85a98597baa8ef4f33ac19661c3b ccd412d31c40bec68f5831088ac3cabc7d41956e8bd8c0cc63500fca6cbcb25e d5b6ede5d36ed5fec71bf63433af82f3e8b85c0885116cd81d58b7b281e53fda
+[2021-09-12T08:02:40.151Z] Stop (414 ms): Run: docker inspect --type volume 993805d9635da621160edd0398f55622c31a85a98597baa8ef4f33ac19661c3b ccd412d31c40bec68f5831088ac3cabc7d41956e8bd8c0cc63500fca6cbcb25e d5b6ede5d36ed5fec71bf63433af82f3e8b85c0885116cd81d58b7b281e53fda
+[2021-09-12T08:02:40.192Z] Stop (1627 ms): Run: docker ps -q -a
+[2021-09-12T08:02:40.196Z] Start: Run: docker inspect --type container fa81af53de6e 5d1a82530ef8 9f439f9725b1 d7b222663385 94f9f4303068 1a403ebdce7b f382c1713c4d f2107063e21e 21a724b3298a 9e4b6e938d34 68539006521b 2d33f3097229 2c61d1277872 e904fa3eef49 79e9999476f4 204aff267bb3 d337bbbd819e 51aa28e8d3cb 0534cf520a61 077204b33c3a f8394ec7701a 9da0cae4e713 665dc1cf10da d0fd5962d142 a1449de54321 b7f0bfa26b1c 2d0475043d6e f41bce290742 e4247bf41b00
+[2021-09-12T08:02:41.111Z] Stop (915 ms): Run: docker inspect --type container fa81af53de6e 5d1a82530ef8 9f439f9725b1 d7b222663385 94f9f4303068 1a403ebdce7b f382c1713c4d f2107063e21e 21a724b3298a 9e4b6e938d34 68539006521b 2d33f3097229 2c61d1277872 e904fa3eef49 79e9999476f4 204aff267bb3 d337bbbd819e 51aa28e8d3cb 0534cf520a61 077204b33c3a f8394ec7701a 9da0cae4e713 665dc1cf10da d0fd5962d142 a1449de54321 b7f0bfa26b1c 2d0475043d6e f41bce290742 e4247bf41b00

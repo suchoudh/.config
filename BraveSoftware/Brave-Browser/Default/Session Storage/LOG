@@ -1,8 +1,3 @@
-2021/09/03-21:45:06.578 5 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/09/03-21:45:06.580 5 Recovering log #4
-2021/09/03-21:45:06.690 5 Level-0 table #7: started
-2021/09/03-21:45:06.991 5 Level-0 table #7: 15876 bytes OK
-2021/09/03-21:45:06.998 5 Recovering log #7
-2021/09/03-21:45:07.002 5 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000007.log 
-2021/09/03-21:45:07.449 5 Delete type=0 #4
-2021/09/03-21:45:07.449 5 Delete type=2 #8
+2021/12/16-20:34:15.941 3 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/12/16-20:34:16.052 3 Recovering log #35
+2021/12/16-20:34:16.400 3 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000035.log 

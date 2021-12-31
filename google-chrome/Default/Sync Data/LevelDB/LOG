@@ -1,6 +1,9 @@
-2021/09/02-17:32:16.471 16c6 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/09/02-17:32:16.471 16c6 Recovering log #706
-2021/09/02-17:32:18.448 16c6 Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000706.log 
-2021/09/02-17:32:53.827 16c7 Level-0 table #710: started
-2021/09/02-17:32:54.885 16c7 Level-0 table #710: 75685 bytes OK
-2021/09/02-17:32:56.350 16c7 Delete type=0 #706
+2021/12/20-19:37:13.592 6e75 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/20-19:37:13.593 6e75 Recovering log #712
+2021/12/20-19:37:13.707 6e75 Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000712.log 
+2021/12/20-20:08:14.333 b81e Level-0 table #717: started
+2021/12/20-20:08:14.585 b81e Level-0 table #717: 88709 bytes OK
+2021/12/20-20:08:14.760 b81e Delete type=0 #712
+2021/12/20-22:08:59.706 24340 Level-0 table #719: started
+2021/12/20-22:08:59.810 24340 Level-0 table #719: 81027 bytes OK
+2021/12/20-22:08:59.945 24340 Delete type=0 #716

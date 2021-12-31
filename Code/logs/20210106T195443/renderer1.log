@@ -1,2 +1,0 @@
-[2021-01-06 19:55:10.603] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/rahu/Dropbox/.vscode'
-[2021-01-06 19:55:37.319] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 99% of 6688.803ms, saved PROFILE here: '/tmp/exthost-72d67f.cpuprofile' [{"id":"gc","total":34426,"percentage":1},{"id":"ritwickdey.LiveServer","total":6652297,"percentage":99}]

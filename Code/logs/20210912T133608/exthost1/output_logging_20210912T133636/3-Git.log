@@ -1,0 +1,18 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/rahu/NewLife
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :Resume_SunilChoudhary_html.html
+> git ls-files --stage -- /home/rahu/NewLife/Resume_SunilChoudhary_html.html
+> git cat-file -s 59c93a58b4f8cc388ef647a9f6eaad0957e4a434
+> git config --local branch.main.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/rahu/NewLife/Resume_SunilChoudhary_html.html
+> git check-ignore -v -z --stdin

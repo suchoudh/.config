@@ -1,0 +1,30 @@
+[2021-09-12 13:36:28.930] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-12 13:36:28.933] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210514T120644'
+[2021-09-12 13:36:48.930] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-12 13:36:48.934] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-12 13:36:48.957] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1631433242097.
+[2021-09-12 13:36:58.934] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-12 13:56:30.328] [sharedprocess] [info] Installing extension: analytic-signal.preview-mp4
+[2021-09-12 13:57:14.028] [sharedprocess] [info] Downloaded extension: analytic-signal.preview-mp4 /home/rahu/.config/Code/CachedExtensionVSIXs/analytic-signal.preview-mp4-0.0.1
+[2021-09-12 13:57:16.308] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.f6de77d9-e718-45c0-9083-19bcb80f1c1d: analytic-signal.preview-mp4
+[2021-09-12 13:57:16.354] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/analytic-signal.preview-mp4-0.0.1
+[2021-09-12 13:57:16.357] [sharedprocess] [info] Extracting completed. analytic-signal.preview-mp4
+[2021-09-12 13:57:16.401] [sharedprocess] [info] Extension installed successfully: analytic-signal.preview-mp4
+[2021-09-12 14:08:07.930] [sharedprocess] [info] Installing extension: nergal-perm.zettelkasten
+[2021-09-12 14:08:15.965] [sharedprocess] [info] Downloaded extension: nergal-perm.zettelkasten /home/rahu/.config/Code/CachedExtensionVSIXs/nergal-perm.zettelkasten-0.3.1
+[2021-09-12 14:08:16.619] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.8f595078-b48a-4ba5-aebc-93b409e467d2: nergal-perm.zettelkasten
+[2021-09-12 14:08:16.670] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/nergal-perm.zettelkasten-0.3.1
+[2021-09-12 14:08:16.675] [sharedprocess] [info] Extracting completed. nergal-perm.zettelkasten
+[2021-09-12 14:08:16.718] [sharedprocess] [info] Extension installed successfully: nergal-perm.zettelkasten
+[2021-09-12 14:22:40.332] [sharedprocess] [info] Installing extension: prasadbobby.auto-rename-tag
+[2021-09-12 14:22:45.762] [sharedprocess] [info] Downloaded extension: prasadbobby.auto-rename-tag /home/rahu/.config/Code/CachedExtensionVSIXs/prasadbobby.auto-rename-tag-0.1.5
+[2021-09-12 14:22:46.434] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.47f39ab3-dcea-4259-9e47-44932f14aebb: prasadbobby.auto-rename-tag
+[2021-09-12 14:22:46.489] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/prasadbobby.auto-rename-tag-0.1.5
+[2021-09-12 14:22:46.495] [sharedprocess] [info] Extracting completed. prasadbobby.auto-rename-tag
+[2021-09-12 14:22:46.537] [sharedprocess] [info] Extension installed successfully: prasadbobby.auto-rename-tag
+[2021-09-12 14:23:02.827] [sharedprocess] [info] Installing extension: jannisx11.batch-rename-extension
+[2021-09-12 14:23:06.448] [sharedprocess] [info] Downloaded extension: jannisx11.batch-rename-extension /home/rahu/.config/Code/CachedExtensionVSIXs/jannisx11.batch-rename-extension-0.0.4
+[2021-09-12 14:23:06.594] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.f5d39e71-3805-459b-b842-ec6f0b04a895: jannisx11.batch-rename-extension
+[2021-09-12 14:23:06.974] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/jannisx11.batch-rename-extension-0.0.4
+[2021-09-12 14:23:06.978] [sharedprocess] [info] Extracting completed. jannisx11.batch-rename-extension
+[2021-09-12 14:23:07.010] [sharedprocess] [info] Extension installed successfully: jannisx11.batch-rename-extension

@@ -47,6 +47,7 @@ video/mp4=vlc_vlc.desktop
 x-scheme-handler/webcal=google-chrome.desktop
 x-scheme-handler/about=brave-browser.desktop
 x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/msteams=teams.desktop
 
 [Added Associations]
 audio/midi=audacious.desktop;
@@ -105,3 +106,4 @@ application/binary=atom.desktop;
 application/vnd.openofficeorg.extension=libreoffice-startcenter.desktop;
 application/epub+zip=calibre-ebook-viewer.desktop;
 text/markdown=leafpad.desktop;okularApplication_md.desktop;
+text/x-python3=atom.desktop;

@@ -1,0 +1,35 @@
+[2021-09-10 17:39:02.790] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-10 17:39:07.012] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-10 17:39:07.166] [sharedprocess] [info] [logs cleanup]: Removing log folders '20201228T033244'
+[2021-09-10 17:39:07.654] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.23
+[2021-09-10 17:39:18.281] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/rahu/.vscode/extensions/ms-python.vscode-pylance-2021.9.0
+[2021-09-10 17:39:23.667] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-10 17:39:23.675] [sharedprocess] [info] Installing extension: ms-vscode.powershell
+[2021-09-10 17:39:26.818] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-10 17:39:26.819] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-10 17:39:36.821] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-10 17:41:03.658] [sharedprocess] [info] Downloaded extension: ms-python.python /home/rahu/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1218897484
+[2021-09-10 17:41:15.438] [sharedprocess] [info] Downloaded extension: ms-vscode.powershell /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.powershell-2021.9.0
+[2021-09-10 17:41:52.407] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.acee440d-2ab5-48c9-8a51-c0754445d4d3: ms-vscode.powershell
+[2021-09-10 17:41:56.260] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.powershell-2021.9.0
+[2021-09-10 17:41:56.264] [sharedprocess] [info] Extracting completed. ms-vscode.powershell
+[2021-09-10 17:41:59.980] [sharedprocess] [info] Extension installed successfully: ms-vscode.powershell
+[2021-09-10 17:42:04.456] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.8f563ae4-1a14-4bd1-8da5-8f9d1bab6779: ms-python.python
+[2021-09-10 17:42:05.849] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-python.python-2021.9.1218897484
+[2021-09-10 17:42:05.850] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-10 17:42:05.851] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-10 18:28:52.110] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-09-10 18:28:53.051] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2021-09-10 18:29:21.179] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/rahu/.config/Code/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.6
+[2021-09-10 18:29:25.331] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.cabb47ef-3684-4af0-a730-1f131d1da345: knisterpeter.vscode-github
+[2021-09-10 18:29:25.432] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.6
+[2021-09-10 18:29:25.435] [sharedprocess] [info] Extracting completed. knisterpeter.vscode-github
+[2021-09-10 18:29:25.530] [sharedprocess] [info] Extension installed successfully: knisterpeter.vscode-github
+[2021-09-10 18:30:16.882] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/rahu/.config/Code/CachedExtensionVSIXs/github.vscode-pull-request-github-0.29.2
+[2021-09-10 18:30:18.840] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.15349261-24be-46c5-b790-645dfa0987d0: github.vscode-pull-request-github
+[2021-09-10 18:30:18.953] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/github.vscode-pull-request-github-0.29.2
+[2021-09-10 18:30:18.960] [sharedprocess] [info] Extracting completed. github.vscode-pull-request-github
+[2021-09-10 18:30:19.204] [sharedprocess] [info] Extension installed successfully: github.vscode-pull-request-github
+[2021-09-10 19:01:32.250] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-10 20:26:28.219] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-10 20:27:33.442] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

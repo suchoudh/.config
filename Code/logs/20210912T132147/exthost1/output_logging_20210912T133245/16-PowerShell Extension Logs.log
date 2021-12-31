@@ -1,0 +1,4 @@
+9/12/2021 1:32:45 PM [NORMAL] - Visual Studio Code v1.59.1 64-bit
+9/12/2021 1:32:45 PM [NORMAL] - PowerShell Extension v2021.9.0
+9/12/2021 1:32:45 PM [NORMAL] - Operating System: Linux 64-bit
+9/12/2021 1:32:45 PM [ERROR] - Unable to find PowerShell. Do you have PowerShell installed? You can also configure custom PowerShell installations with the 'powershell.powerShellAdditionalExePaths' setting.

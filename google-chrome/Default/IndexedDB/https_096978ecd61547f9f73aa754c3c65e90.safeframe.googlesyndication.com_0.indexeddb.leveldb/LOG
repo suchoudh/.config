@@ -1,0 +1,7 @@
+2021/10/11-14:02:34.046 2cd59 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_096978ecd61547f9f73aa754c3c65e90.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/11-14:02:34.046 2cd59 Recovering log #3
+2021/10/11-14:02:34.120 2cd59 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_096978ecd61547f9f73aa754c3c65e90.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2021/10/11-14:02:37.295 2cd59 Level-0 table #5: started
+2021/10/11-14:02:37.435 2cd59 Level-0 table #5: 480 bytes OK
+2021/10/11-14:02:37.498 2cd59 Delete type=0 #3
+2021/10/11-14:02:37.536 2cd59 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

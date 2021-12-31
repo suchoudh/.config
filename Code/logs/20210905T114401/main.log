@@ -1,0 +1,8 @@
+[2021-09-05 11:44:34.474] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2021-09-05 11:45:09.208] [main] [info] update#setState idle
+[2021-09-05 11:45:19.925] [main] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2021-09-05 11:45:19.926] [main] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2021-09-05 11:45:32.314] [main] [error] CodeWindow: detected unresponsive
+[2021-09-05 11:46:01.981] [main] [info] update#setState checking for updates
+[2021-09-05 11:46:19.119] [main] [info] update#setState available for download
+[2021-09-06 01:33:12.151] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck

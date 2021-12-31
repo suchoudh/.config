@@ -1,0 +1,106 @@
+[2021-09-12 22:13:26.134] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 76% of 1889.805ms, saved PROFILE here: 'file:///tmp/exthost-afde0f.cpuprofile' [{"id":"gc","total":22773,"percentage":1},{"id":"GitHub.vscode-pull-request-github","total":3115,"percentage":0},{"id":"kisstkondoros.vscode-gutter-preview","total":36266,"percentage":2},{"id":"KnisterPeter.vscode-github","total":14273,"percentage":1},{"id":"loskael.vscode-stocks-cn","total":18368,"percentage":1},{"id":"PKief.material-icon-theme","total":28928,"percentage":2},{"id":"prasadbobby.auto-rename-tag","total":12898,"percentage":1},{"id":"program","total":2344,"percentage":0},{"id":"ritwickdey.LiveServer","total":1431661,"percentage":76},{"id":"self","total":185070,"percentage":10},{"id":"vscode.debug-auto-launch","total":830,"percentage":0},{"id":"vscode.git","total":64047,"percentage":3},{"id":"vscode.microsoft-authentication","total":20626,"percentage":1},{"id":"vscodevim.vim","total":48382,"percentage":3}]
+[2021-09-12 22:13:30.871] [renderer1] [error] Unable to write to User Settings because yaml.customTags is not a registered configuration.: Error: Unable to write to User Settings because yaml.customTags is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:13:35.102] [renderer1] [error] Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:13:35.724] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:13:36.879] [renderer1] [error] Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:14:26.922] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:15:08.829] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:15:15.479] [renderer1] [error] Unable to write to User Settings because yaml.customTags is not a registered configuration.: Error: Unable to write to User Settings because yaml.customTags is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:15:17.574] [renderer1] [error] Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.cfnSchemaVersion is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-09-12 22:15:19.624] [renderer1] [error] Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.: Error: Unable to write to Workspace Settings because aws.samSchemaVersion is not a registered configuration.
+    at E.toConfigurationEditingError (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:18781)
+    at E.validate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:21573)
+    at E.doWriteConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15186)
+    at Object.factory (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15020)
+    at d.consume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16672)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16487
+    at new Promise (<anonymous>)
+    at d.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:16411)
+    at E.writeConfiguration (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:15005)
+    at E.writeConfigurationValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:44591)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30749
+    at Array.map (<anonymous>)
+    at E.updateValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1979:30737)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

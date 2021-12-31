@@ -1,0 +1,57 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/rahu/NewLife
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/rahu/NewLife/index.html
+> git cat-file -s 1096b517cb7f625aa4c4a2d886b1919bf10695e2
+> git check-ignore -v -z --stdin
+> git config --local branch.main.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :NewDevLife/credit.html
+> git ls-files --stage -- /home/rahu/NewLife/NewDevLife/credit.html
+> git show --textconv HEAD:NewDevLife/delme.pdf
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/delme.pdf
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/delme.pdf
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/9IAS.gif
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/9IAS.gif
+> git show --textconv HEAD:NewDevLife/aifacs.jpg
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/aifacs.jpg
+> git show --textconv HEAD:NewDevLife/Bad_decisions_in_Liips.html
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/Bad_decisions_in_Liips.html
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/bw_pre7Dec17.gif
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/bw_pre7Dec17.gif
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/camel.gif
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/camel.gif
+> git show --textconv HEAD:NewDevLife/datestamp.js
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/datestamp.js
+> git show --textconv HEAD:NewDevLife/delme.html
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/delme.html
+> git show --textconv :NewDevLife/credit.html
+> git ls-files --stage -- /home/rahu/NewLife/NewDevLife/credit.html
+> git show --textconv HEAD:NewDevLife/squint.jpg
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/squint.jpg
+> git show --textconv HEAD:NewDevLife/ToDo.html
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/ToDo.html
+> git ls-tree -l HEAD -- /home/rahu/NewLife/NewDevLife/ToDo.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Resume_SunilChoudhary_html.html
+> git ls-files --stage -- /home/rahu/NewLife/Resume_SunilChoudhary_html.html
+> git cat-file -s 59c93a58b4f8cc388ef647a9f6eaad0957e4a434

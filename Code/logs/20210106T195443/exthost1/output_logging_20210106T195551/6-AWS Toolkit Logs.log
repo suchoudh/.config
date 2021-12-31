@@ -1,8 +1,0 @@
-Error logs for this session are permanently stored in /home/rahu/.config/Code/logs/aws_toolkit/aws_toolkit_20210106T195551.log
-2021-01-06 19:55:52 [INFO]: log level: info
-2021-01-06 19:55:52 [INFO]: Retrieving AWS endpoint data
-2021-01-06 19:55:52 [INFO]: OS:  Linux x64 4.15.0-124-generic
-Visual Studio Code Version:  1.52.0
-AWS Toolkit Version:  1.17.0
-
-2021-01-06 20:00:56 [INFO]: Successfully sent a telemetry batch of 10

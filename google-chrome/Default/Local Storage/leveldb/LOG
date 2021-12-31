@@ -1,5 +1,9 @@
-2021/09/02-17:32:13.063 3 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/09/02-17:32:14.105 3 Recovering log #7508
-2021/09/02-17:32:14.323 3 Level-0 table #7511: started
-2021/09/02-17:32:15.794 3 Level-0 table #7511: 11901 bytes OK
-2021/09/02-17:32:16.308 3 Delete type=0 #7508
+2021/12/20-19:37:11.197 5 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/20-19:37:11.303 5 Recovering log #7519
+2021/12/20-19:37:11.519 5 Reusing old log /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/007519.log 
+2021/12/20-20:47:15.257 3 Level-0 table #7523: started
+2021/12/20-20:47:15.392 3 Level-0 table #7523: 14526 bytes OK
+2021/12/20-20:47:15.498 3 Delete type=0 #7519
+2021/12/20-22:29:43.995 32 Level-0 table #7525: started
+2021/12/20-22:29:44.303 32 Level-0 table #7525: 16796 bytes OK
+2021/12/20-22:29:44.441 32 Delete type=0 #7522
