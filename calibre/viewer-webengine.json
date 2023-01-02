@@ -1,59 +1,95 @@
 {
   "main_window_geometry": {
-    "__class__": "bytearray", 
-    "__value__": "AdnQywADAAAAAAK1AAAALAAABTwAAALmAAACtwAAAC4AAAU6AAAC5AAAAAAAAAAABVYAAAK3AAAALgAABToAAALk"
-  }, 
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAEwAABVUAAAL/AAAAAgAAABUAAAVTAAAC/QAAAAAAAAAABVYAAAACAAAAFQAABVMAAAL9"
+  },
   "main_window_state": {
-    "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADpAAACt/wCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACtwAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAABDQAAArf8AgAAAAP7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAArcAAADNAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAD/////AAAAYwD///8AAAKEAAACtwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAAAAAABAAAAHgBhAGMAdABpAG8AbgBzAF8AdABvAG8AbABiAGEAcgIAAAAA/////wAAAAAAAAAA"
-  }, 
-  "old_prefs_migrated": true, 
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAADpAAACt/wCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAACtwAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAABDQAAArf8AgAAAAP7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAAArcAAADNAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAD/////AAAAYwD///8AAAVSAAAC6QAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAAAAAABAAAAHgBhAGMAdABpAG8AbgBzAF8AdABvAG8AbABiAGEAcgIAAAAA/////wAAAAAAAAAA"
+  },
+  "old_prefs_migrated": true,
   "session_data": {
-    "controls_help_shown_count": 2, 
-    "standalone_font_settings": {}, 
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
     "standalone_misc_settings": {
-      "remember_last_read": true, 
-      "remember_window_geometry": false, 
+      "remember_last_read": true,
+      "remember_window_geometry": false,
       "save_annotations_in_ebook": true
-    }, 
+    },
     "standalone_recently_opened": [
       {
         "authors": [
+          "Staffan Nöteberg"
+        ],
+        "key": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/(The Pragmatic Bookshelf) Staffan Noteberg - Pomodoro Technique Illustrated_ Can You Focus - Really Focus - for 25 Minutes_-Pragmatic Programmers, LLC. (2009).pdf",
+        "pathtoebook": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/(The Pragmatic Bookshelf) Staffan Noteberg - Pomodoro Technique Illustrated_ Can You Focus - Really Focus - for 25 Minutes_-Pragmatic Programmers, LLC. (2009).pdf",
+        "timestamp": "2022-12-24T21:49:55.723Z",
+        "title": "Pomodoro Technique Illustrated"
+      },
+      {
+        "authors": [
+          "VM (Vicky) Brasseur"
+        ],
+        "key": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L.Tech.FOSS.Contributing106/VM (Vicky) Brasseur - Forge Your Future with Open Source_ Build Your Skills. Build Your Network. Build the Future of Technology-Pragmatic Bookshel-1.epub",
+        "pathtoebook": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L.Tech.FOSS.Contributing106/VM (Vicky) Brasseur - Forge Your Future with Open Source_ Build Your Skills. Build Your Network. Build the Future of Technology-Pragmatic Bookshel-1.epub",
+        "timestamp": "2022-12-24T13:00:12.243Z",
+        "title": "Forge Your Future with Open Source"
+      },
+      {
+        "authors": [
+          "Prasenjit Sarkar"
+        ],
+        "key": "/home/rahu/0del/Prasenjit Sarkar - Oracle Cloud Infrastructure for Solutions Architects_ A practical guide to effectively designing enterprise-grade solutions with OCI services-Packt Publishing (2021).epub",
+        "pathtoebook": "/home/rahu/0del/Prasenjit Sarkar - Oracle Cloud Infrastructure for Solutions Architects_ A practical guide to effectively designing enterprise-grade solutions with OCI services-Packt Publishing (2021).epub",
+        "timestamp": "2022-12-24T12:34:57.272Z",
+        "title": "Oracle Cloud Infrastructure for Solutions Architects"
+      },
+      {
+        "authors": [
+          "calibre"
+        ],
+        "key": "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/calibre/Business Standard [Tue, 09 Aug 2022] (1)/Business Standard [Tue, 09 Aug 2022] - calibre.epub",
+        "pathtoebook": "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho/calibre/Business Standard [Tue, 09 Aug 2022] (1)/Business Standard [Tue, 09 Aug 2022] - calibre.epub",
+        "timestamp": "2022-08-09T05:50:21.469Z",
+        "title": "Business Standard [Tue, 09 Aug 2022]"
+      },
+      {
+        "authors": [
           "Appropriation Acs"
-        ], 
-        "key": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub", 
-        "pathtoebook": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub", 
-        "timestamp": "2020-08-03T12:00:47.643Z", 
+        ],
+        "key": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub",
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/Appropriation Acs 15-16 Eng (800)/Appropriation Acs 15-16 Eng - .epub",
+        "timestamp": "2020-08-03T12:00:47.643Z",
         "title": "Appropriation Acs 15-16 Eng"
-      }, 
+      },
       {
-        "key": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub", 
-        "pathtoebook": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub", 
-        "timestamp": "2020-07-22T12:24:29.982Z", 
+        "key": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub",
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/OracleAIM2016 (937)/OracleAIM2016 - .epub",
+        "timestamp": "2020-07-22T12:24:29.982Z",
         "title": "OracleAIM2016"
-      }, 
+      },
       {
-        "key": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub", 
-        "pathtoebook": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub", 
-        "timestamp": "2020-07-22T12:21:07.047Z", 
+        "key": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub",
+        "pathtoebook": "/home/rahu/Calibre Library/Unknown/ServerLessArchitecture (833)/ServerLessArchitecture - .epub",
+        "timestamp": "2020-07-22T12:21:07.047Z",
         "title": "ServerLessArchitecture"
-      }, 
+      },
       {
         "authors": [
           "Jakub Narobski"
-        ], 
-        "key": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub", 
-        "pathtoebook": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub", 
-        "timestamp": "2020-07-09T11:19:40.132Z", 
+        ],
+        "key": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub",
+        "pathtoebook": "/home/rahu/Calibre Library/Jakub Narobski/Mastering Git (1383)/Mastering Git - Jakub Narobski.epub",
+        "timestamp": "2020-07-09T11:19:40.132Z",
         "title": "Mastering Git"
-      }, 
+      },
       {
         "authors": [
           "Eric Pidoux"
-        ], 
-        "key": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub", 
-        "pathtoebook": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub", 
-        "timestamp": "2020-07-09T10:59:41.827Z", 
+        ],
+        "key": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub",
+        "pathtoebook": "/home/rahu/Calibre Library/Eric Pidoux/Git Best Practices Guide (1426)/Git Best Practices Guide - Eric Pidoux.epub",
+        "timestamp": "2020-07-09T10:59:41.827Z",
         "title": "Git Best Practices Guide"
       }
     ]

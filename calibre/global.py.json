@@ -26,7 +26,7 @@
   "installation_uuid": "e848b788-d7ff-4ef7-82cd-9b6ce583cf7c",
   "isbndb_com_key": "",
   "language": "en",
-  "library_path": "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho",
+  "library_path": "/home/rahu/Homebox/1000DailyDo/CalibreBackup/TestCalibre",
   "limit_search_columns": false,
   "limit_search_columns_to": [
     "title",
@@ -40,7 +40,7 @@
   "migrated": false,
   "network_timeout": 5,
   "new_book_tags": [
-    "may2021",
+    "dec2022",
     "newlyAdded"
   ],
   "output_format": "epub",

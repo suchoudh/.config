@@ -1,6 +1,0 @@
-a>span,
-button>span,
-a[href="/"]>div,
-a > svg {
-    filter: invert(80%);
-}

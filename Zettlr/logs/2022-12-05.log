@@ -1,0 +1,170 @@
+[11:17:25] [Info] こんにちは！ Booting Zettlr at Mon Dec 05 2022 11:17:24 GMT+0530 (India Standard Time).
+[11:17:25] [Info] Performing environment check ...
+[11:17:25] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIbkAPe5/resources/pandoc
+[11:17:25] [Info] Environment check complete.
+[11:17:25] [Info] Registering custom protocol safe-file
+[11:17:25] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[11:17:26] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[11:17:26] [Info] Added DevTools extension:  Vue.js devtools
+[11:17:26] [Warning] [FSAL Directory] Path /home/rahu/Documents/Zettlr Tutorial/Pandoc and LaTeX Guide.md took 145ms to load.
+[11:17:26] [Warning] [FSAL] Path /home/rahu/Documents/Zettlr Tutorial took 523ms to load.
+[11:17:26] [Warning] [Translation Provider] Could not update translations: CERT_HAS_EXPIRED | Details: {"name":"RequestError","code":"CERT_HAS_EXPIRED","timings":{"start":1670219246282,"socket":1670219246287,"lookup":1670219246456,"connect":1670219246631,"error":1670219246819,"phases":{"wait":5,"dns":169,"tcp":175,"total":537}}}
+[11:17:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/0delme took 360ms to load.
+[11:17:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Sat took 137ms to load.
+[11:17:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/FinishLawsikhoinTop5May2023_328/_lawsikho took 119ms to load.
+[11:17:27] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/FinishLawsikhoinTop5May2023_328 took 162ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm/2250_Gagne2020 took 116ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm took 235ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1 took 488ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress took 796ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_sh took 104ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/this.Day/0Core took 118ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/this.Day took 308ms to load.
+[11:17:28] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu took 1350ms to load.
+[11:17:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_Indrapuri.md took 179ms to load.
+[11:17:29] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_Personal.md took 163ms to load.
+[11:17:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_learning.md took 164ms to load.
+[11:17:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_nextA.md took 137ms to load.
+[11:17:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_none.md took 255ms to load.
+[11:17:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress/readme_useExtFamily.md took 111ms to load.
+[11:17:30] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress took 1849ms to load.
+[11:17:31] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_img took 310ms to load.
+[11:17:31] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_log took 332ms to load.
+[11:17:31] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/1800_Carry5KgLessBody_21Sept2022 took 277ms to load.
+[11:17:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/8Lpm/2250_Gagne2020/Nov2020 took 181ms to load.
+[11:17:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/8Lpm/2250_Gagne2020 took 498ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/8Lpm took 866ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_NOCALL/MapIT/Consultant took 203ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_NOCALL/MapIT took 388ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_NOCALL took 389ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_SawanKapoor_StRt_25june2022 took 104ms to load.
+[11:17:33] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/FLYNK_aartechConnection took 119ms to load.
+[11:17:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Bhopal/Dreamztech took 140ms to load.
+[11:17:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Bhopal/VGroup took 175ms to load.
+[11:17:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Bhopal took 538ms to load.
+[11:17:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore/ClearTrail_Indore took 124ms to load.
+[11:17:34] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore/Nagarro took 162ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore/WorldPay took 105ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore took 596ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Nagpur took 199ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Prospects took 128ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Ratlam/_AmbiVines took 145ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Ratlam took 336ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects took 1959ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd took 3482ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_999RentBhopalHome_ASAP2Units/readme__999RentBhopalHome_ASAP2Units.md took 161ms to load.
+[11:17:35] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_999RentBhopalHome_ASAP2Units took 162ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_999Virasat took 121ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_Learn_5newSanskritStrota_Dec2022/readme__Learn_5newSanskritStrota_Dec2022.md took 106ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_Learn_5newSanskritStrota_Dec2022 took 109ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_MoveLenovo2AWSEC2 took 120ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_OCI/readme__OCI.md took 111ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_OCI took 187ms to load.
+[11:17:36] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_TravelwithWifeandSon_EveryWeekEnd took 325ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_UseExtFamily_Habit/readme__UseExtFamily_Habit.md took 102ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_UseExtFamily_Habit took 104ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_UseVAssist_Habit/readme__UseVAssist_Habit.md took 104ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_UseVAssist_Habit took 106ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/2030MP_50 took 118ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/173DayJob took 107ms to load.
+[11:17:37] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/0Core took 145ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/2250_Gagne2020/_outsideJobs/canada_fullstack.md took 207ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/2250_Gagne2020/_outsideJobs took 210ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/2250_Gagne2020 took 614ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/WorkingRemotely.md took 144ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm took 1128ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/AWS/CloudConsultantDevOps took 124ms to load.
+[11:17:38] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/AWS took 180ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/MahindraUniversity took 265ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/NABCONS/readme.md took 109ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/NABCONS took 117ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/_ABANDONED/SGSITS_contractFaculty took 127ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/_ABANDONED took 129ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/_NOCALL/MapIT took 248ms to load.
+[11:17:39] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/_NOCALL took 249ms to load.
+[11:17:40] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM took 2742ms to load.
+[11:17:40] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/fromonelife took 144ms to load.
+[11:17:40] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old took 3265ms to load.
+[11:17:40] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del took 9188ms to load.
+[11:17:40] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/D100_UseVAssist_Habit took 157ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd took 205ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E050_999NFT_Sept2022 took 165ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E101_999RentIndoreHome took 132ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E102_999RentBhopalHome_ASAP2Units took 222ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/F100_LWM/readme_F100_LWM.md took 152ms to load.
+[11:17:41] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/F100_LWM took 219ms to load.
+[11:17:42] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H100_SelfHealth took 144ms to load.
+[11:17:42] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H200_FamilyHealth took 178ms to load.
+[11:17:42] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H300_7FamilyHabits/readme_H300_7FamilyHabits.md took 109ms to load.
+[11:17:42] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H300_7FamilyHabits took 177ms to load.
+[11:17:42] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L104_ToastMaster2DTM took 187ms to load.
+[11:17:43] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/2500_Cmpttn_Crtfct_Smnr took 105ms to load.
+[11:17:43] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar took 131ms to load.
+[11:17:43] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress took 12474ms to load.
+[11:17:44] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201/p1201LawsikhoinTop5May2023_328/_lawsikho took 165ms to load.
+[11:17:44] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201/p1201LawsikhoinTop5May2023_328 took 210ms to load.
+[11:17:44] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201 took 218ms to load.
+[11:17:44] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0Core took 167ms to load.
+[11:17:44] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 525ms to load.
+[11:17:44] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 17929ms to load.
+[11:17:44] [Info] Loaded all roots in 18.466 seconds
+[11:17:45] [Info] [Update Provider] Checking for application updates ...
+[11:17:51] [Error] [Update Provider] Error during update check: Could not check for updates: Could not establish connection
+[11:18:33] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[11:20:19] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:20:19] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:20:19] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219419238
+[11:20:19] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:22:30] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:22:30] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:22:30] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219550931
+[11:22:30] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:22:57] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:22:57] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:22:57] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219577083
+[11:22:57] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:23:10] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:23:10] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:23:10] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219590820
+[11:23:10] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:23:27] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:23:27] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:23:27] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219607972
+[11:23:27] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:23:38] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:23:38] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:23:38] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219618764
+[11:23:38] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:23:46] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:23:46] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:23:46] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219626536
+[11:23:46] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:26:39] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:26:40] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:26:40] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219799994
+[11:26:40] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:27:01] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:27:01] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:27:01] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219821926
+[11:27:01] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:27:25] [Info] [WATCHDOG] Ignore event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/Kolonizer.md
+[11:27:42] [Info] Saving file Kolonizer.md...
+[11:27:42] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/Kolonizer.md
+[11:27:42] [Info] Updated modtime for fileDescriptor Kolonizer.md to 1670219862310
+[11:27:42] [Info] File Kolonizer.md saved.
+[11:28:25] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:28:25] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:28:25] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219905443
+[11:28:25] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:28:43] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[11:28:43] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[11:28:43] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670219923219
+[11:28:43] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[11:29:30] [Info] Saving file readme_SOP4.md...
+[11:29:30] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_SOP4.md
+[11:29:30] [Info] Updated modtime for fileDescriptor readme_SOP4.md to 1670219970172
+[11:29:30] [Info] File readme_SOP4.md saved.
+[11:29:39] [Info] Saving file readme_SOP4.md...
+[11:29:39] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_SOP4.md
+[11:29:39] [Info] Updated modtime for fileDescriptor readme_SOP4.md to 1670219979804
+[11:29:39] [Info] File readme_SOP4.md saved.

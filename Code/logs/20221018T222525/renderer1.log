@@ -1,0 +1,9 @@
+[2022-10-18 22:25:46.915] [renderer1] [error] Cannot read property 'hc' of undefined: TypeError: Cannot read property 'hc' of undefined
+    at z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:45937)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47957
+    at Array.map (<anonymous>)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47078
+    at async Promise.all (index 0)
+    at async L.registerExtensionWalkthroughContributions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:46041)
+[2022-10-18 22:26:06.212] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 88% of 1567.675ms, saved PROFILE here: 'file:///tmp/exthost-0d59e9.cpuprofile' [{"id":"gc","total":70133,"percentage":4},{"id":"KnisterPeter.vscode-github","total":61103,"percentage":4},{"id":"self","total":36142,"percentage":2},{"id":"vscode.github-authentication","total":22546,"percentage":1},{"id":"vscode.microsoft-authentication","total":1376590,"percentage":88}]
+[2022-10-18 22:26:17.439] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 99% of 5244.008ms, saved PROFILE here: 'file:///tmp/exthost-8a68b3.cpuprofile' [{"id":"gc","total":10663,"percentage":0},{"id":"self","total":19009,"percentage":0},{"id":"vscode.microsoft-authentication","total":5214083,"percentage":99}]

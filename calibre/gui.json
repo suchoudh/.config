@@ -5,7 +5,7 @@
   },
   "Plugin Updater plugin:plugin updater dialog": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAADTAAAAgwAABKcAAAKHAAAA0wAAAKEAAASnAAAChwAAAAAAAAAABVYAAADTAAAAoQAABKcAAAKH"
+    "__value__": "AdnQywADAAAAAADTAAAAnwAABKsAAAKJAAAA1QAAAKEAAASpAAAChwAAAAAAAAAABVYAAADVAAAAoQAABKkAAAKH"
   },
   "Prefs Viewer dialog": {
     "__class__": "bytearray",
@@ -472,12 +472,12 @@
   },
   "jobs_dialog_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAFKAAABNQAAA+MAAAKQAAABTAAAATcAAAPhAAACjgAAAAAAAAAABVYAAAFMAAABNwAAA+EAAAKO"
+    "__value__": "AdnQywADAAAAAAFMAAABNQAAA+UAAAKQAAABTgAAATcAAAPjAAACjgAAAAAAAAAABVYAAAFOAAABNwAAA+MAAAKO"
   },
   "library_usage_stats": {
     "/home/rahu/Calibre_1": 232,
     "/home/rahu/Calibre_Books": 3,
-    "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 8
+    "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 11
   },
   "manage-saved-searches-geometry": {
     "__class__": "bytearray",

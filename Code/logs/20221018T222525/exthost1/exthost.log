@@ -1,0 +1,209 @@
+[2022-10-18 22:25:49.548] [exthost] [info] extension host started
+[2022-10-18 22:25:49.549] [exthost] [info] Skipping acquiring lock for /home/rahu/.config/Code/User/workspaceStorage/b70c54d4809def345bc385684d48a30f.
+[2022-10-18 22:25:50.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2022-10-18 22:25:50.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2022-10-18 22:25:50.332] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":false,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"onWebviewPanel:welcomeGo"}
+[2022-10-18 22:25:50.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/golang.go-0.33.1/dist/goMain.js
+[2022-10-18 22:25:51.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-10-18 22:25:51.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2022-10-18 22:25:51.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-10-18 22:25:51.245] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2022-10-18 22:25:51.340] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2022-10-18 22:25:51.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/github.vscode-pull-request-github-0.29.2/dist/extension
+[2022-10-18 22:25:51.637] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview {"startup":true,"extensionId":{"value":"kisstkondoros.vscode-gutter-preview","_lower":"kisstkondoros.vscode-gutter-preview"},"activationEvent":"*"}
+[2022-10-18 22:25:51.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.29.0/dist/extension
+[2022-10-18 22:25:51.775] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2022-10-18 22:25:51.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.7/out/src/main
+[2022-10-18 22:25:53.306] [exthost] [info] ExtensionService#_doActivateExtension loskael.vscode-stocks-cn {"startup":true,"extensionId":{"value":"loskael.vscode-stocks-cn","_lower":"loskael.vscode-stocks-cn"},"activationEvent":"*"}
+[2022-10-18 22:25:53.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension
+[2022-10-18 22:25:53.334] [exthost] [info] ExtensionService#_doActivateExtension prasadbobby.auto-rename-tag {"startup":true,"extensionId":{"value":"prasadbobby.auto-rename-tag","_lower":"prasadbobby.auto-rename-tag"},"activationEvent":"*"}
+[2022-10-18 22:25:53.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/prasadbobby.auto-rename-tag-0.1.5/dist/extensionMain.js
+[2022-10-18 22:25:53.700] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2022-10-18 22:25:53.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/vscodevim.vim-1.23.2/out/extension
+[2022-10-18 22:25:59.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2022-10-18 22:25:59.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2022-10-18 22:25:59.938] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-10-18 22:25:59.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2022-10-18 22:26:05.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-10-18 22:26:05.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2022-10-18 22:26:06.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:06.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2022-10-18 22:26:06.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:06.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2022-10-18 22:26:06.191] [exthost] [info] ExtensionService#_doActivateExtension amazonwebservices.aws-toolkit-vscode {"startup":false,"extensionId":{"value":"amazonwebservices.aws-toolkit-vscode","_lower":"amazonwebservices.aws-toolkit-vscode"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:06.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.51.0/dist/src/main
+[2022-10-18 22:26:12.265] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:12.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.2.1/client/out/extension
+[2022-10-18 22:26:12.497] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:12.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2022-10-18 22:26:13.600] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:13.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.8/out/src/extension
+[2022-10-18 22:26:18.580] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:18.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1/dist/extension/extension
+[2022-10-18 22:26:19.582] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":false,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:19.582] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/pkief.material-icon-theme-4.21.0/dist/extension
+[2022-10-18 22:26:19.976] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"onStartupFinished"}
+[2022-10-18 22:26:19.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rahu/.vscode/extensions/ritwickdey.liveserver-5.7.9/out/src/extension.js
+[2022-10-18 22:26:20.959] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-10-18 22:26:21.315] [exthost] [error] Activating extension vscode.emmet failed due to an error:
+[2022-10-18 22:26:21.316] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.316] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2022-10-18 22:26:21.316] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.316] [exthost] [error] Activating extension amazonwebservices.aws-toolkit-vscode failed due to an error:
+[2022-10-18 22:26:21.316] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.317] [exthost] [error] Activating extension dbaeumer.vscode-eslint failed due to an error:
+[2022-10-18 22:26:21.317] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.317] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2022-10-18 22:26:21.317] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.318] [exthost] [error] Activating extension formulahendry.code-runner failed due to an error:
+[2022-10-18 22:26:21.318] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.318] [exthost] [error] Activating extension ms-vscode-remote.remote-containers failed due to an error:
+[2022-10-18 22:26:21.318] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.319] [exthost] [error] Activating extension PKief.material-icon-theme failed due to an error:
+[2022-10-18 22:26:21.319] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.319] [exthost] [error] Activating extension ritwickdey.LiveServer failed due to an error:
+[2022-10-18 22:26:21.319] [exthost] [error] Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+    at Array.forEach (<anonymous>)
+    at h.dispose (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+    at P.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+    at h (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+    at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+    at Socket.emit (events.js:327:22)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at Pipe.<anonymous> (net.js:673:12)
+[2022-10-18 22:26:21.573] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2022-10-18 22:26:21.573] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2022-10-18 22:26:21.573] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2022-10-18 22:26:21.573] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2022-10-18 22:26:21.574] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 
+[2022-10-18 22:26:21.574] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13 

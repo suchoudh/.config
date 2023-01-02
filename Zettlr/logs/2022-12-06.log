@@ -1,0 +1,162 @@
+[03:03:18] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030257.png
+[03:03:27] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030257.png
+[03:06:27] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030626.png
+[03:08:30] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030830.png
+[03:08:31] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030830.png
+[03:08:32] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_030626.png took 1077ms to load.
+[03:10:53] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[03:10:54] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[03:10:54] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670276454027
+[03:10:54] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[03:11:02] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[03:11:02] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[03:11:02] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670276462616
+[03:11:02] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[03:14:18] [Info] さようなら！ Shutting down at Tue Dec 06 2022 03:14:18 GMT+0530 (India Standard Time)
+[03:14:19] [Info] Cleaned up FSAL cache: Removed 279 remnants.
+[13:07:04] [Info] こんにちは！ Booting Zettlr at Tue Dec 06 2022 13:07:04 GMT+0530 (India Standard Time).
+[13:07:04] [Info] Performing environment check ...
+[13:07:04] [Info] [Application] Pandoc has been bundled with this release. Path: /tmp/.mount_Z.AppIMZLUke/resources/pandoc
+[13:07:04] [Info] Environment check complete.
+[13:07:04] [Info] Registering custom protocol safe-file
+[13:07:05] [Info] [Citeproc Provider] There is no CSL library selected in the preferences. Nothing to do.
+[13:07:05] [Info] [Application] The bundled pandoc executable is now in PATH. If you do not want to use the bundled pandoc, uncheck the corresponding setting and reboot the app.
+[13:07:05] [Info] Added DevTools extension:  Vue.js devtools
+[13:07:06] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/0delme took 212ms to load.
+[13:07:06] [Warning] [Translation Provider] Could not update translations: CERT_HAS_EXPIRED | Details: {"name":"RequestError","code":"CERT_HAS_EXPIRED","timings":{"start":1670312225601,"socket":1670312225606,"lookup":1670312226069,"connect":1670312226322,"error":1670312226691,"phases":{"wait":5,"dns":463,"tcp":253,"total":1090}}}
+[13:07:06] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/2Print took 235ms to load.
+[13:07:06] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Fri took 164ms to load.
+[13:07:07] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Sat took 126ms to load.
+[13:07:07] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Sun took 257ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm/2250_Gagne2020/Lovee1.md took 104ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm/2250_Gagne2020/Nov2020 took 133ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm/2250_Gagne2020 took 352ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1/8Lpm took 509ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress/jobSeach21LPM_31Aug21_1 took 836ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/_projectsInProgress took 1060ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu/this.Day took 173ms to load.
+[13:07:08] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/Thu took 1498ms to load.
+[13:07:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_Temp took 121ms to load.
+[13:07:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_contextInProgress took 334ms to load.
+[13:07:09] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_log took 211ms to load.
+[13:07:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/7Aashima took 116ms to load.
+[13:07:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/8Lpm/2250_Gagne2020 took 109ms to load.
+[13:07:10] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/8Lpm took 243ms to load.
+[13:07:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Bhopal took 271ms to load.
+[13:07:11] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore/Nagarro took 266ms to load.
+[13:07:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore/WorldPay took 267ms to load.
+[13:07:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Indore took 585ms to load.
+[13:07:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects/_Nagpur took 185ms to load.
+[13:07:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd/_Suspects took 1233ms to load.
+[13:07:12] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_9993LPMRedDiamd took 1757ms to load.
+[13:07:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm/2250_Gagne2020 took 141ms to load.
+[13:07:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM/8Lpm took 327ms to load.
+[13:07:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/RedDiamond3LPM took 1030ms to load.
+[13:07:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old/fromonelife took 108ms to load.
+[13:07:13] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del/_old took 1433ms to load.
+[13:07:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/0del took 4292ms to load.
+[13:07:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/7Pachmari took 191ms to load.
+[13:07:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/D100_UseVAssist_Habit took 124ms to load.
+[13:07:14] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd took 196ms to load.
+[13:07:15] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H300_7FamilyHabits/readme_H300_7FamilyHabits.md took 312ms to load.
+[13:07:15] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/H300_7FamilyHabits took 317ms to load.
+[13:07:15] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L102_OCI/readme_L102_OCI.md took 168ms to load.
+[13:07:15] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L102_OCI took 170ms to load.
+[13:07:15] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/L104_ToastMaster2DTM took 236ms to load.
+[13:07:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress took 6329ms to load.
+[13:07:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201/p1201LawsikhoinTop5May2023_328/_lawsikho took 181ms to load.
+[13:07:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201/p1201LawsikhoinTop5May2023_328 took 255ms to load.
+[13:07:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/p1201 took 315ms to load.
+[13:07:16] [Warning] [FSAL Directory] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day took 434ms to load.
+[13:07:16] [Warning] [FSAL] Path /home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week took 10783ms to load.
+[13:07:16] [Info] Loaded all roots in 11.261 seconds
+[13:07:17] [Info] [Update Provider] Checking for application updates ...
+[13:07:22] [Error] [Update Provider] Error during update check: Could not check for updates: Could not establish connection
+[13:07:25] [Warning] [R] [Main Window] The current opened file was not found in the list of open files during sync! (index.js:593)
+[13:08:12] [Error] [Command] Could not close file: The file has the modified flag set.
+[13:08:12] [Info] Saving file readme_E010_9993LPMRedDiamd.md...
+[13:08:12] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E010_9993LPMRedDiamd/readme_E010_9993LPMRedDiamd.md
+[13:08:12] [Info] Updated modtime for fileDescriptor readme_E010_9993LPMRedDiamd.md to 1670312292621
+[13:08:12] [Info] File readme_E010_9993LPMRedDiamd.md saved.
+[13:08:54] [Info] Saving file readme_E100_Kolonizer_Nov2022GitSecondNature.md...
+[13:08:55] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E100_Kolonizer_Nov2022GitSecondNature/readme_E100_Kolonizer_Nov2022GitSecondNature.md
+[13:08:55] [Info] Updated modtime for fileDescriptor readme_E100_Kolonizer_Nov2022GitSecondNature.md to 1670312335029
+[13:08:55] [Info] File readme_E100_Kolonizer_Nov2022GitSecondNature.md saved.
+[13:09:08] [Info] Saving file readme_E100_Kolonizer_Nov2022GitSecondNature.md...
+[13:09:08] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E100_Kolonizer_Nov2022GitSecondNature/readme_E100_Kolonizer_Nov2022GitSecondNature.md
+[13:09:08] [Info] Updated modtime for fileDescriptor readme_E100_Kolonizer_Nov2022GitSecondNature.md to 1670312348454
+[13:09:08] [Info] File readme_E100_Kolonizer_Nov2022GitSecondNature.md saved.
+[13:09:26] [Info] Saving file readme_E100_Kolonizer_Nov2022GitSecondNature.md...
+[13:09:26] [Info] [WATCHDOG] Ignore event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E100_Kolonizer_Nov2022GitSecondNature/readme_E100_Kolonizer_Nov2022GitSecondNature.md
+[13:09:26] [Info] Updated modtime for fileDescriptor readme_E100_Kolonizer_Nov2022GitSecondNature.md to 1670312366470
+[13:09:26] [Info] File readme_E100_Kolonizer_Nov2022GitSecondNature.md saved.
+[13:10:26] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E100_Kolonizer_Nov2022GitSecondNature/readme_E100_Kolonizer_Nov2022GitSecondNature.md
+[13:10:26] [Info] Chokidar has detected a change event for file readme_E100_Kolonizer_Nov2022GitSecondNature.md. Attempting to re-parse ...
+[13:13:33] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:13:33] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:15:29] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:15:29] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:15:42] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:15:42] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:15:51] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:15:51] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:15:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:15:59] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:16:49] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V100_999Virasat/readme_V100_999Virasat.md
+[13:16:49] [Info] Chokidar has detected a change event for file readme_V100_999Virasat.md. Attempting to re-parse ...
+[13:18:14] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E101_999RentIndoreHome/readme_E101_999RentIndoreHome.md
+[13:18:14] [Info] Chokidar has detected a change event for file readme_E101_999RentIndoreHome.md. Attempting to re-parse ...
+[13:22:17] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E101_999RentIndoreHome/readme_E101_999RentIndoreHome.md
+[13:22:17] [Info] Chokidar has detected a change event for file readme_E101_999RentIndoreHome.md. Attempting to re-parse ...
+[13:22:17] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E101_999RentIndoreHome/readme_E101_999RentIndoreHome.md
+[13:22:18] [Info] The file readme_E101_999RentIndoreHome.md has not changed, but a change event was fired by chokidar.
+[13:23:12] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/E101_999RentIndoreHome/readme_E101_999RentIndoreHome.md
+[13:23:12] [Info] Chokidar has detected a change event for file readme_E101_999RentIndoreHome.md. Attempting to re-parse ...
+[13:24:40] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:24:41] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:24:41] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:24:41] [Info] The file readme_N101_Competition_Seminar.md has not changed, but a change event was fired by chokidar.
+[13:25:13] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:25:13] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:25:28] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:25:28] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:25:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:25:59] [Info] Chokidar has detected a change event for file readme_N101_Competition_Seminar.md. Attempting to re-parse ...
+[13:26:17] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/N101_Competition_Seminar/readme_N101_Competition_Seminar.md
+[13:26:17] [Info] Chokidar has detected a change event for file readme_N101_Competition_Seminar.md. Attempting to re-parse ...
+[14:15:32] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V050_1301SubhashChacha/readme_V050_1301SubhashChacha.md
+[14:15:33] [Info] Chokidar has detected a change event for file readme_V050_1301SubhashChacha.md. Attempting to re-parse ...
+[14:17:29] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V050_1301SubhashChacha/readme_V050_1301SubhashChacha.md
+[14:17:29] [Info] Chokidar has detected a change event for file readme_V050_1301SubhashChacha.md. Attempting to re-parse ...
+[14:17:30] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V050_1301SubhashChacha/readme_V050_1301SubhashChacha.md
+[14:17:30] [Info] Chokidar has detected a change event for file readme_V050_1301SubhashChacha.md. Attempting to re-parse ...
+[14:19:37] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V010_1107BDA/readme_V010_1107BDA.md
+[14:19:37] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V010_1107BDA/readme_V010_1107BDA.md
+[14:19:39] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V010_1107BDA/readme_V010_1107BDA.md
+[14:19:40] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V010_1107BDA/readme_V010_1107BDA.md
+[14:20:03] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/V010_1107BDA/readme_V010_1107BDA.md
+[14:20:03] [Info] Chokidar has detected a change event for file readme_V010_1107BDA.md. Attempting to re-parse ...
+[14:21:43] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[14:21:43] [Info] Chokidar has detected a change event for file readme_W020_1001OneLife.md. Attempting to re-parse ...
+[14:23:27] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[14:23:27] [Info] Chokidar has detected a change event for file readme_W020_1001OneLife.md. Attempting to re-parse ...
+[14:26:40] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W103_VisiblePending/readme_W103_VisiblePending.md
+[14:26:40] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W103_VisiblePending/readme_W103_VisiblePending.md
+[14:59:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W103_VisiblePending/readme_W103_VisiblePending.md
+[14:59:59] [Info] Chokidar has detected a change event for file readme_W103_VisiblePending.md. Attempting to re-parse ...
+[14:59:59] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W103_VisiblePending/readme_W103_VisiblePending.md
+[14:59:59] [Info] The file readme_W103_VisiblePending.md has not changed, but a change event was fired by chokidar.
+[15:01:30] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W103_VisiblePending/readme_W103_VisiblePending.md
+[15:01:30] [Info] Chokidar has detected a change event for file readme_W103_VisiblePending.md. Attempting to re-parse ...
+[15:07:13] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/screenshots/screenshot_20221206_150712.png
+[15:53:48] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[15:53:48] [Info] Chokidar has detected a change event for file readme_W020_1001OneLife.md. Attempting to re-parse ...
+[15:53:48] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[15:53:49] [Info] The file readme_W020_1001OneLife.md has not changed, but a change event was fired by chokidar.
+[15:57:29] [Info] [WATCHDOG] Emitting event: unlink:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[15:57:29] [Info] [WATCHDOG] Emitting event: add:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[15:59:40] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[15:59:40] [Info] Chokidar has detected a change event for file readme_W020_1001OneLife.md. Attempting to re-parse ...
+[17:50:04] [Info] [WATCHDOG] Emitting event: change:/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/_projectsInProgress/W020_1001OneLife/readme_W020_1001OneLife.md
+[17:50:04] [Info] Chokidar has detected a change event for file readme_W020_1001OneLife.md. Attempting to re-parse ...
+[17:56:54] [Info] さようなら！ Shutting down at Tue Dec 06 2022 17:56:54 GMT+0530 (India Standard Time)

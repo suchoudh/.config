@@ -1,0 +1,36 @@
+=============== Feb 8, 2022 (IST) ===============
+09:37:24.686210 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:37:25.145942 db@open opening
+09:37:25.877730 version@stat F·[] S·0B[] Sc·[]
+09:37:26.342690 db@janitor F·2 G·0
+09:37:26.342778 db@open done T·1.196769736s
+09:46:20.657994 db@close closing
+09:46:20.687505 db@close done T·28.237573ms
+=============== Feb 9, 2022 (IST) ===============
+22:39:47.929667 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:39:47.948145 version@stat F·[] S·0B[] Sc·[]
+22:39:47.948187 db@open opening
+22:39:47.948328 journal@recovery F·1
+22:39:47.987052 journal@recovery recovering @1
+22:39:48.023347 memdb@flush created L0@2 N·10 S·313B "\x04de..can,v10":"\npr..ion,v3"
+22:39:48.056340 version@stat F·[1] S·313B[313B] Sc·[0.25]
+22:39:48.157388 db@janitor F·3 G·0
+22:39:48.157476 db@open done T·209.245945ms
+23:57:27.863287 db@close closing
+23:57:27.938905 db@close done T·75.60949ms
+=============== Feb 9, 2022 (IST) ===============
+23:57:33.415205 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:57:34.745237 version@stat F·[1] S·313B[313B] Sc·[0.25]
+23:57:34.745322 db@open opening
+23:57:34.745481 journal@recovery F·1
+23:57:34.759062 journal@recovery recovering @3
+23:57:36.538941 memdb@flush created L0@5 N·4231 S·188KiB "\x00\x00\x00..lme,v2620":"\f\x00\x00..txt,v50"
+23:57:36.556083 version@stat F·[2] S·188KiB[188KiB] Sc·[0.50]
+23:57:38.652546 db@janitor F·4 G·0
+23:57:38.652624 db@open done T·3.907273087s
+23:57:38.675383 table@compaction L0·2 -> L1·0 S·188KiB Q·4244
+23:57:39.775292 table@build created L1@8 N·2612 S·164KiB "\x00\x00\x00..lme,v2620":"\v\x00\x00..\x00\x00\xfc,v2611"
+23:57:39.775387 version@stat F·[0 1] S·164KiB[0B 164KiB] Sc·[0.00 0.00]
+23:57:41.438750 table@compaction committed F-1 S-24KiB Ke·0 D·1629 T·2.763297462s
+23:57:41.439078 table@remove removed @5
+23:57:41.439215 table@remove removed @2

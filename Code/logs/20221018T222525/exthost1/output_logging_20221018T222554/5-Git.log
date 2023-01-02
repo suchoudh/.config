@@ -1,0 +1,131 @@
+Validating found git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/.dropbox' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/.dropbox.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/0_Delme' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/20220912_230709.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/2print' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/Apps' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/IMG-20220825-WA0003.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220903-WA0002.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0041.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0043.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0045.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0047.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0049.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220904-WA0051.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220907-WA0014.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220913-WA0015.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220916-WA0014.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220916-WA0025.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220916-WA0027.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG-20220917-WA0040.jpeg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220731085717.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811130004.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811130011.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131341.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131419.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131432.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131434.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131451.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131540.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131542.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131548.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811131610.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132623.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132626.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132649.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132701.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132714.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220811132723.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813122609.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133514.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133520.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133521.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133537.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133610.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133611.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133620.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133640.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133648.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133703.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813133944.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134140.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134414.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134425.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134529.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134533.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134535.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134649.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134659.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134710.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134730.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134739.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134739_01.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134739_02.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134739_03.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134742.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134807.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134917.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134921.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813134952.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135045.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135202.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135218.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135232.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135254.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135302.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135303.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135829.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220813135835.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220814151722.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220814151726.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220816114113_01.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220816150145.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220818082715.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220818082732.jpg' failed; ex=Error: spawn ENOTDIR

@@ -1,0 +1,6 @@
+2022-07-09 13:44:07 [ERROR]: log level: info
+2022-07-09 13:44:22 [INFO]: Retrieving AWS endpoint data
+2022-07-09 13:44:22 [INFO]: OS:  Linux x64 5.4.0-121-generic
+2022-07-09 13:44:22 [INFO]: Visual Studio Code Extension Host Version:  1.59.1
+2022-07-09 13:44:22 [INFO]: AWS Toolkit Version:  1.37.0
+2022-07-09 13:49:25 [INFO]: telemetry: sent batch (size=3)

@@ -1,0 +1,8 @@
+[2022-10-18 22:23:05.365] [renderer1] [error] Cannot read property 'hc' of undefined: TypeError: Cannot read property 'hc' of undefined
+    at z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:45937)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47957
+    at Array.map (<anonymous>)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47078
+    at async Promise.all (index 0)
+    at async L.registerExtensionWalkthroughContributions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:46041)
+[2022-10-18 22:23:58.010] [renderer1] [warning] UNRESPONSIVE extension host, 'loskael.vscode-stocks-cn' took 30% of 2839.901ms, saved PROFILE here: 'file:///tmp/exthost-4f4160.cpuprofile' [{"id":"gc","total":1883,"percentage":0},{"id":"GitHub.vscode-pull-request-github","total":891,"percentage":0},{"id":"golang.go","total":321620,"percentage":11},{"id":"kisstkondoros.vscode-gutter-preview","total":310799,"percentage":11},{"id":"KnisterPeter.vscode-github","total":172740,"percentage":6},{"id":"loskael.vscode-stocks-cn","total":864666,"percentage":30},{"id":"prasadbobby.auto-rename-tag","total":21662,"percentage":1},{"id":"program","total":5065,"percentage":0},{"id":"self","total":379225,"percentage":13},{"id":"vscode.debug-auto-launch","total":4362,"percentage":0},{"id":"vscode.git","total":562889,"percentage":20},{"id":"vscode.microsoft-authentication","total":122312,"percentage":4},{"id":"vscodevim.vim","total":69304,"percentage":2}]

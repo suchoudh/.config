@@ -1,0 +1,79 @@
+[2022-07-09 13:42:19.398] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-09 13:42:23.388] [sharedprocess] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2022-07-09 13:42:23.389] [sharedprocess] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2022-07-09 13:42:23.432] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2022-07-09 13:42:24.387] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210905T114401'
+[2022-07-09 13:42:43.146] [sharedprocess] [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+[2022-07-09 13:42:43.431] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2022-07-09 13:42:43.432] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2022-07-09 13:42:43.562] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-07-09 13:42:43.568] [sharedprocess] [info] Installing extension: yzhang.markdown-all-in-one
+[2022-07-09 13:42:43.591] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-07-09 13:42:43.598] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-07-09 13:42:43.605] [sharedprocess] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2022-07-09 13:42:43.611] [sharedprocess] [info] Installing extension: ms-vscode.powershell
+[2022-07-09 13:42:43.623] [sharedprocess] [info] Installing extension: golang.go
+[2022-07-09 13:42:53.435] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2022-07-09 13:43:22.837] [sharedprocess] [info] Deleted from disk golang.go /home/rahu/.vscode/extensions/golang.go-0.27.2
+[2022-07-09 13:43:22.838] [sharedprocess] [info] Deleted from disk kisstkondoros.vscode-gutter-preview /home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.27.1
+[2022-07-09 13:43:22.916] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1631465100145.
+[2022-07-09 13:43:23.720] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/rahu/.vscode/extensions/vscodevim.vim-1.21.7
+[2022-07-09 13:44:02.076] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.10.0
+[2022-07-09 13:44:22.225] [sharedprocess] [info] Deleted from disk yuenm18.ooxml-viewer /home/rahu/.vscode/extensions/yuenm18.ooxml-viewer-1.2.0
+[2022-07-09 13:44:29.854] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/rahu/.vscode/extensions/dart-code.flutter-3.26.0
+[2022-07-09 13:44:29.856] [sharedprocess] [info] Deleted from disk jsynowiec.vscode-insertdatestring /home/rahu/.vscode/extensions/jsynowiec.vscode-insertdatestring-2.3.0
+[2022-07-09 13:44:31.894] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/rahu/.vscode/extensions/dart-code.dart-code-3.26.0
+[2022-07-09 13:45:08.089] [sharedprocess] [info] Deleted from disk amazonwebservices.aws-toolkit-vscode /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.29.0
+[2022-07-09 13:45:08.110] [sharedprocess] [info] Deleted from disk jannisx11.batch-rename-extension /home/rahu/.vscode/extensions/jannisx11.batch-rename-extension-0.0.4
+[2022-07-09 13:45:08.123] [sharedprocess] [info] Deleted from disk tomoki1207.pdf /home/rahu/.vscode/extensions/tomoki1207.pdf-1.1.0
+[2022-07-09 13:45:08.124] [sharedprocess] [info] Deleted from disk tyriar.luna-paint /home/rahu/.vscode/extensions/tyriar.luna-paint-0.9.0
+[2022-07-09 13:45:22.364] [sharedprocess] [info] Deleted from disk formulahendry.code-runner /home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.5
+[2022-07-09 13:45:22.366] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/rahu/.vscode/extensions/ms-azuretools.vscode-docker-1.16.1
+[2022-07-09 13:45:45.871] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25
+[2022-07-09 13:45:45.872] [sharedprocess] [info] Deleted from disk dedsec727.jekyll-run /home/rahu/.vscode/extensions/dedsec727.jekyll-run-1.6.0
+[2022-07-09 13:45:45.873] [sharedprocess] [info] Deleted from disk knisterpeter.vscode-github /home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.6
+[2022-07-09 13:46:05.419] [sharedprocess] [info] Deleted from disk ms-vscode.powershell /home/rahu/.vscode/extensions/ms-vscode.powershell-2021.9.0
+[2022-07-09 13:46:06.696] [sharedprocess] [info] Deleted from disk ritwickdey.liveserver /home/rahu/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2022-07-09 13:46:30.792] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/rahu/.vscode/extensions/ms-python.vscode-pylance-2021.9.1
+[2022-07-09 13:46:32.475] [sharedprocess] [info] Deleted from disk ms-python.python /home/rahu/.vscode/extensions/ms-python.python-2021.9.1218897484
+[2022-07-09 13:46:32.476] [sharedprocess] [info] Deleted from disk shd101wyy.markdown-preview-enhanced /home/rahu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.0
+[2022-07-09 13:47:00.864] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/rahu/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.19.0
+[2022-07-09 13:47:01.032] [sharedprocess] [info] Downloaded extension: golang.go /home/rahu/.config/Code/CachedExtensionVSIXs/golang.go-0.33.1
+[2022-07-09 13:47:01.498] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.f7ae0f7b-2fee-4642-80ee-a9abf0f8aa6c: golang.go
+[2022-07-09 13:47:01.610] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/golang.go-0.33.1
+[2022-07-09 13:47:01.621] [sharedprocess] [info] Extracting completed. golang.go
+[2022-07-09 13:47:02.069] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-07-09 13:47:02.872] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/rahu/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.8
+[2022-07-09 13:47:03.676] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.fd01582c-3fed-4e8e-b0c7-50a17a0838e1: formulahendry.code-runner
+[2022-07-09 13:47:03.828] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.92d90f67-308c-4258-a9cf-0da058fc8224: pkief.material-icon-theme
+[2022-07-09 13:47:03.839] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/rahu/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.23.1
+[2022-07-09 13:47:04.082] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.1ab93700-bd28-4e9f-860e-a9286b8afeb6: vscodevim.vim
+[2022-07-09 13:47:04.477] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.19.0
+[2022-07-09 13:47:04.478] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.8
+[2022-07-09 13:47:04.483] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-07-09 13:47:04.485] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-07-09 13:47:04.949] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/vscodevim.vim-1.23.1
+[2022-07-09 13:47:04.951] [sharedprocess] [info] Downloaded extension: yzhang.markdown-all-in-one /home/rahu/.config/Code/CachedExtensionVSIXs/yzhang.markdown-all-in-one-3.4.3
+[2022-07-09 13:47:04.958] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-07-09 13:47:05.950] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.9a5d0aa6-11d7-40d0-882c-b6ade208ccc0: yzhang.markdown-all-in-one
+[2022-07-09 13:47:06.122] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-07-09 13:47:06.323] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/yzhang.markdown-all-in-one-3.4.3
+[2022-07-09 13:47:06.329] [sharedprocess] [info] Extracting completed. yzhang.markdown-all-in-one
+[2022-07-09 13:47:06.909] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2022-07-09 13:47:08.139] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2022-07-09 13:47:08.150] [sharedprocess] [info] Downloaded extension: amazonwebservices.aws-toolkit-vscode /home/rahu/.config/Code/CachedExtensionVSIXs/amazonwebservices.aws-toolkit-vscode-1.45.0
+[2022-07-09 13:47:09.586] [sharedprocess] [info] Extension installed successfully: yzhang.markdown-all-in-one
+[2022-07-09 13:47:10.329] [sharedprocess] [info] Downloaded extension: ms-vscode.powershell /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.powershell-2022.6.3
+[2022-07-09 13:47:11.141] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.520a52a6-b172-4423-8ca8-0d933981b5e0: amazonwebservices.aws-toolkit-vscode
+[2022-07-09 13:47:12.505] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.45.0
+[2022-07-09 13:47:12.512] [sharedprocess] [info] Extracting completed. amazonwebservices.aws-toolkit-vscode
+[2022-07-09 13:47:13.698] [sharedprocess] [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+[2022-07-09 13:47:15.279] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.18cc9efb-b739-4ae8-8e27-2b5d2cc32599: ms-vscode.powershell
+[2022-07-09 13:47:16.244] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.powershell-2022.6.3
+[2022-07-09 13:47:16.248] [sharedprocess] [info] Extracting completed. ms-vscode.powershell
+[2022-07-09 13:47:18.496] [sharedprocess] [info] Extension installed successfully: ms-vscode.powershell
+[2022-07-09 13:47:21.499] [sharedprocess] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /home/rahu/.config/Code/CachedExtensionVSIXs/shd101wyy.markdown-preview-enhanced-0.6.3
+[2022-07-09 13:47:42.221] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.bedd4ee0-5f77-42fe-a15f-c261b8ff4a1c: shd101wyy.markdown-preview-enhanced
+[2022-07-09 13:47:44.966] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.3
+[2022-07-09 13:47:44.971] [sharedprocess] [info] Extracting completed. shd101wyy.markdown-preview-enhanced
+[2022-07-09 13:47:46.220] [sharedprocess] [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced

@@ -1,0 +1,92 @@
+Validating found git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/.dropbox' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/.dropbox.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/0_Delme' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/Apps' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/IMG20211230223835.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220503180234.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG20220506142208.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG_20211220_224127.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG_20211220_224155.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG_20211220_224231.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG_20211220_224300.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/IMG_20220502_171456.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/Screenshot_2022-05-25-13-29-02-18.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/Screenshot_2022-05-25-13-29-16-80.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/Screenshot_2022-05-25-14-31-24-67.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/Sent files' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/admin' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/myCloud' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox/readmeArchitecutre.md.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/rahu/Dropbox/slideshowpics' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/rahu/Dropbox' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

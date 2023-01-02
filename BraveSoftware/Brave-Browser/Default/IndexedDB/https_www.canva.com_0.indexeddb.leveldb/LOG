@@ -1,0 +1,6 @@
+2022/05/03-14:25:15.626 14cb0 Creating DB /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2022/05/03-14:25:15.821 14cb0 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/03-14:26:17.214 16d72 Level-0 table #5: started
+2022/05/03-14:26:17.248 16d72 Level-0 table #5: 2966 bytes OK
+2022/05/03-14:26:17.300 16d72 Delete type=0 #3
+2022/05/03-14:26:17.300 16d72 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

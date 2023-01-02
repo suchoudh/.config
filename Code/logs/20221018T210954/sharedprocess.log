@@ -1,0 +1,52 @@
+[2022-10-18 21:10:40.550] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-18 21:10:44.256] [sharedprocess] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2022-10-18 21:10:44.274] [sharedprocess] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2022-10-18 21:10:44.278] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2022-10-18 21:10:44.545] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210909T170312'
+[2022-10-18 21:10:57.109] [sharedprocess] [info] Deleted from disk golang.go /home/rahu/.vscode/extensions/golang.go-0.32.0
+[2022-10-18 21:10:58.554] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/rahu/.vscode/extensions/vscodevim.vim-1.22.2
+[2022-10-18 21:11:00.885] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.15.0
+[2022-10-18 21:11:04.182] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2022-10-18 21:11:04.194] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2022-10-18 21:11:08.642] [sharedprocess] [info] Deleted from disk amazonwebservices.aws-toolkit-vscode /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.37.0
+[2022-10-18 21:11:09.657] [sharedprocess] [info] Deleted from disk formulahendry.code-runner /home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.7
+[2022-10-18 21:11:09.696] [sharedprocess] [info] Deleted from disk yzhang.markdown-all-in-one /home/rahu/.vscode/extensions/yzhang.markdown-all-in-one-3.4.0
+[2022-10-18 21:11:09.767] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-10-18 21:11:10.654] [sharedprocess] [info] Installing extension: ms-vscode.powershell
+[2022-10-18 21:11:10.730] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-10-18 21:11:11.193] [sharedprocess] [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+[2022-10-18 21:11:11.224] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-10-18 21:11:11.273] [sharedprocess] [info] Installing extension: yuenm18.ooxml-viewer
+[2022-10-18 21:11:14.018] [sharedprocess] [info] Deleted from disk ms-vscode.powershell /home/rahu/.vscode/extensions/ms-vscode.powershell-2021.12.0
+[2022-10-18 21:11:14.569] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2022-10-18 21:11:26.704] [sharedprocess] [info] Deleted from disk shd101wyy.markdown-preview-enhanced /home/rahu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.2
+[2022-10-18 21:11:48.064] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/rahu/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.21.0
+[2022-10-18 21:11:49.852] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/rahu/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2022-10-18 21:11:53.873] [sharedprocess] [info] Downloaded extension: amazonwebservices.aws-toolkit-vscode /home/rahu/.config/Code/CachedExtensionVSIXs/amazonwebservices.aws-toolkit-vscode-1.51.0
+[2022-10-18 21:11:53.874] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/rahu/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.23.2
+[2022-10-18 21:11:56.051] [sharedprocess] [info] Downloaded extension: yuenm18.ooxml-viewer /home/rahu/.config/Code/CachedExtensionVSIXs/yuenm18.ooxml-viewer-1.3.0
+[2022-10-18 21:12:00.005] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.6229d307-077f-4414-9689-62c02245556d: vscodevim.vim
+[2022-10-18 21:12:00.014] [sharedprocess] [info] Downloaded extension: ms-vscode.powershell /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.powershell-2022.7.2
+[2022-10-18 21:12:00.688] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/vscodevim.vim-1.23.2
+[2022-10-18 21:12:00.703] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-10-18 21:12:00.781] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.049c50dc-5778-48ba-826c-3d832e10551a: yuenm18.ooxml-viewer
+[2022-10-18 21:12:01.138] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/yuenm18.ooxml-viewer-1.3.0
+[2022-10-18 21:12:01.156] [sharedprocess] [info] Extracting completed. yuenm18.ooxml-viewer
+[2022-10-18 21:12:01.354] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2022-10-18 21:12:01.637] [sharedprocess] [info] Extension installed successfully: yuenm18.ooxml-viewer
+[2022-10-18 21:12:04.670] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.95f14e30-d004-477f-8a2a-7a702a45d581: amazonwebservices.aws-toolkit-vscode
+[2022-10-18 21:12:05.033] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.51.0
+[2022-10-18 21:12:05.066] [sharedprocess] [info] Extracting completed. amazonwebservices.aws-toolkit-vscode
+[2022-10-18 21:12:05.863] [sharedprocess] [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+[2022-10-18 21:12:06.287] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.ac5b4bae-db37-4451-9947-c686486decc5: pkief.material-icon-theme
+[2022-10-18 21:12:06.597] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.21.0
+[2022-10-18 21:12:06.622] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-10-18 21:12:07.681] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-10-18 21:12:22.922] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.9ddc0992-d436-4cf0-8f40-4dedceb6a08b: ms-vscode.powershell
+[2022-10-18 21:12:23.539] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.powershell-2022.7.2
+[2022-10-18 21:12:23.544] [sharedprocess] [info] Extracting completed. ms-vscode.powershell
+[2022-10-18 21:12:25.390] [sharedprocess] [info] Extension installed successfully: ms-vscode.powershell
+[2022-10-18 21:12:27.216] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.07263e92-918c-4f83-b2b8-5581161ff764: ritwickdey.liveserver
+[2022-10-18 21:12:28.097] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ritwickdey.liveserver-5.7.9
+[2022-10-18 21:12:28.117] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-10-18 21:12:29.810] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver

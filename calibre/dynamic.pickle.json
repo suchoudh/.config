@@ -15,7 +15,7 @@
     "__value__": []
   },
   "change cover dialog": "/home/rahu/Calibre Library/NA/samurai-on-horse-statue (907)",
-  "choose library location": "/home/rahu/Homebox/1200InterfaceWith/lawSikho",
+  "choose library location": "/home/rahu/Homebox/1000DailyDo/CalibreBackup/TestCalibre",
   "choose-export-folder-for-import": "/home/rahu/Calibre_Reorg",
   "database location dialog": "/home/rahu/Calibre1Mar2021",
   "export-calibre-dir": "/home/rahu/_backup/31mar2021/calibre",
@@ -23,22 +23,22 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "4.11",
-      "4.2",
-      "4.9",
-      "5.3",
-      "4.8",
       "5.21",
-      "4.12",
-      "4.6",
-      "4.4",
-      "4.16",
       "4.7",
-      "5.18",
-      "4.3",
-      "4.13",
+      "4.4",
       "5.14",
-      "4.10"
+      "4.8",
+      "4.13",
+      "4.6",
+      "4.2",
+      "4.10",
+      "4.16",
+      "5.3",
+      "4.11",
+      "5.18",
+      "4.9",
+      "4.12",
+      "4.3"
     ]
   },
   "opml-select-dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day",
@@ -47,6 +47,14 @@
   "save to disk dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day/0del",
   "select-folder-for-imported-library": "/home/rahu/Calibre_1",
   "sort_history": [
+    [
+      "title",
+      false
+    ],
+    [
+      "rating",
+      false
+    ],
     [
       "timestamp",
       false
@@ -60,11 +68,7 @@
       false
     ],
     [
-      "title",
-      false
-    ],
-    [
-      "rating",
+      "timestamp",
       false
     ],
     [

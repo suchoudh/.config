@@ -1,16 +1,3 @@
-touch PoliticalFolks.txt
-q
-search wallpa
-cw
-search Wall
-bw
-rename
-rename giving.jpg
-rename reach
-rename reach.jpg
-rename ph1
-rename ph2
-rename ph3
 rename ph4
 rename ph1.jpg
 rename ph2.jpg
@@ -32,7 +19,6 @@ rename 2see
 rename Zettlr Tutorial
 scout -ftsea m
 rename apple_isa_llvm.pdf
-scout -ftsea 
 rename _indore_from_ref
 rename Forensics_eesu
 rename jobSearch
@@ -42,9 +28,23 @@ rename typography.png
 rename typography.jpg
 rename `
 rename 
-q!
 open_with 
 rename BoT4Website
 touch 
-delete
+rename connectome.jpg
+scout -ftsea 
+rename p1201LawsikhoinTop5May2023_328
+rename RedDiamond3LPM
+rename BDA_1Dec2021_145
+mkdir ss
 
+mkdir p1800Loose5KG
+rename BDA_1Dec2022
+q!
+rename PapaPainting
+rename PapaPaining.jpg
+rename PapaStudio.jpg
+delete
+rename _bul1
+rename _bul2.jpg
+rename _sunilByhruva.jpg

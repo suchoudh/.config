@@ -1,0 +1,151 @@
+[2022-04-15 09:08:29.611] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-15 09:08:33.651] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2022-04-15 09:08:33.654] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210820T162855'
+[2022-04-15 09:08:33.795] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-04-15 09:08:33.805] [sharedprocess] [info] Installing extension: dedsec727.jekyll-run
+[2022-04-15 09:08:33.847] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2022-04-15 09:08:33.862] [sharedprocess] [info] Installing extension: tomoki1207.pdf
+[2022-04-15 09:08:33.866] [sharedprocess] [info] Installing extension: jsynowiec.vscode-insertdatestring
+[2022-04-15 09:08:33.871] [sharedprocess] [info] Installing extension: tyriar.luna-paint
+[2022-04-15 09:08:33.872] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-04-15 09:08:33.873] [sharedprocess] [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+[2022-04-15 09:08:33.889] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-04-15 09:08:33.893] [sharedprocess] [info] Installing extension: ms-vscode.powershell
+[2022-04-15 09:08:33.897] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2022-04-15 09:08:33.901] [sharedprocess] [info] Installing extension: jannisx11.batch-rename-extension
+[2022-04-15 09:08:33.904] [sharedprocess] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2022-04-15 09:08:33.907] [sharedprocess] [info] Installing extension: kisstkondoros.vscode-gutter-preview
+[2022-04-15 09:08:33.910] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-04-15 09:08:33.912] [sharedprocess] [info] Installing extension: golang.go
+[2022-04-15 09:08:33.916] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-04-15 09:08:33.919] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-04-15 09:08:33.923] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-04-15 09:08:33.925] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-04-15 09:08:33.927] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2022-04-15 09:08:34.129] [sharedprocess] [info] Installing extension: yuenm18.ooxml-viewer
+[2022-04-15 09:08:44.252] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/rahu/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.15.0
+[2022-04-15 09:08:44.822] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/rahu/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-04-15 09:08:46.058] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.6cc81c32-cc31-4ef6-a412-e419f2e3f408: formulahendry.code-runner
+[2022-04-15 09:08:46.183] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/formulahendry.code-runner-0.11.7
+[2022-04-15 09:08:46.187] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-04-15 09:08:46.638] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2022-04-15 09:08:47.288] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.abcc358f-1c8d-4afe-b06a-b682c6d0ff83: pkief.material-icon-theme
+[2022-04-15 09:08:47.458] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.15.0
+[2022-04-15 09:08:47.462] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-04-15 09:08:47.795] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-04-15 09:08:49.259] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/rahu/.config/Code/CachedExtensionVSIXs/dart-code.flutter-3.27.0
+[2022-04-15 09:08:49.281] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.1b692f41-65e6-433a-b29c-a22e336239b7: dart-code.flutter
+[2022-04-15 09:08:49.426] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dart-code.flutter-3.27.0
+[2022-04-15 09:08:49.431] [sharedprocess] [info] Extracting completed. dart-code.flutter
+[2022-04-15 09:08:50.101] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/rahu/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-04-15 09:08:50.290] [sharedprocess] [info] Extension installed successfully: dart-code.flutter
+[2022-04-15 09:08:51.511] [sharedprocess] [info] Downloaded extension: golang.go /home/rahu/.config/Code/CachedExtensionVSIXs/golang.go-0.32.0
+[2022-04-15 09:08:51.670] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.b66a8121-4307-451e-8bac-7285791330dc: golang.go
+[2022-04-15 09:08:51.940] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/golang.go-0.32.0
+[2022-04-15 09:08:51.950] [sharedprocess] [info] Extracting completed. golang.go
+[2022-04-15 09:08:52.241] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-04-15 09:08:52.396] [sharedprocess] [info] Downloaded extension: kisstkondoros.vscode-gutter-preview /home/rahu/.config/Code/CachedExtensionVSIXs/kisstkondoros.vscode-gutter-preview-0.29.0
+[2022-04-15 09:08:52.621] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.8bab265b-0e27-4854-8b5c-ec02b69d677e: kisstkondoros.vscode-gutter-preview
+[2022-04-15 09:08:52.785] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.29.0
+[2022-04-15 09:08:52.790] [sharedprocess] [info] Extracting completed. kisstkondoros.vscode-gutter-preview
+[2022-04-15 09:08:53.152] [sharedprocess] [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview
+[2022-04-15 09:08:53.634] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.86594c3e-60ac-4ea4-bd82-612a8a5da394: ritwickdey.liveserver
+[2022-04-15 09:08:53.651] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2022-04-15 09:08:53.653] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2022-04-15 09:08:53.655] [sharedprocess] [info] [code cache cleanup]: Removing code cache folder b4c1bd0a9b03c749ea011b06c6d2676c8091a70c.
+[2022-04-15 09:08:53.870] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ritwickdey.liveserver-5.7.5
+[2022-04-15 09:08:53.875] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-04-15 09:08:54.315] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-04-15 09:08:55.539] [sharedprocess] [info] Downloaded extension: tyriar.luna-paint /home/rahu/.config/Code/CachedExtensionVSIXs/tyriar.luna-paint-0.13.2
+[2022-04-15 09:08:55.949] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.0dbc52ca-58e7-47c6-a97f-2756be305e09: tyriar.luna-paint
+[2022-04-15 09:08:56.113] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/tyriar.luna-paint-0.13.2
+[2022-04-15 09:08:56.117] [sharedprocess] [info] Extracting completed. tyriar.luna-paint
+[2022-04-15 09:08:56.458] [sharedprocess] [info] Extension installed successfully: tyriar.luna-paint
+[2022-04-15 09:08:57.913] [sharedprocess] [info] Downloaded extension: jsynowiec.vscode-insertdatestring /home/rahu/.config/Code/CachedExtensionVSIXs/jsynowiec.vscode-insertdatestring-2.3.1
+[2022-04-15 09:08:57.947] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.be022795-5a8b-49fc-ab05-f8e13f85ed16: jsynowiec.vscode-insertdatestring
+[2022-04-15 09:08:58.192] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/jsynowiec.vscode-insertdatestring-2.3.1
+[2022-04-15 09:08:58.199] [sharedprocess] [info] Extracting completed. jsynowiec.vscode-insertdatestring
+[2022-04-15 09:08:58.746] [sharedprocess] [info] Extension installed successfully: jsynowiec.vscode-insertdatestring
+[2022-04-15 09:09:03.655] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2022-04-15 09:09:03.878] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/rahu/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.1
+[2022-04-15 09:09:04.518] [sharedprocess] [info] Downloaded extension: dedsec727.jekyll-run /home/rahu/.config/Code/CachedExtensionVSIXs/dedsec727.jekyll-run-1.7.0
+[2022-04-15 09:09:04.520] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/rahu/.config/Code/CachedExtensionVSIXs/dart-code.dart-code-3.27.2
+[2022-04-15 09:09:05.907] [sharedprocess] [info] Downloaded extension: ms-python.python /home/rahu/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.10.1365161279
+[2022-04-15 09:09:05.940] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.77c15f86-ff7b-4469-acdd-186cb7ee6789: dbaeumer.vscode-eslint
+[2022-04-15 09:09:06.039] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.90e17802-db19-4dc2-8530-d2e217021509: dedsec727.jekyll-run
+[2022-04-15 09:09:06.509] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/rahu/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.20.0
+[2022-04-15 09:09:06.951] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.9eed2f27-d081-4c3a-ab46-5f4fe654c762: ms-azuretools.vscode-docker
+[2022-04-15 09:09:06.976] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dbaeumer.vscode-eslint-2.2.1
+[2022-04-15 09:09:06.977] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dedsec727.jekyll-run-1.7.0
+[2022-04-15 09:09:06.987] [sharedprocess] [info] Extracting completed. dedsec727.jekyll-run
+[2022-04-15 09:09:06.988] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-04-15 09:09:07.319] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-azuretools.vscode-docker-1.20.0
+[2022-04-15 09:09:07.379] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-04-15 09:09:09.955] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-04-15 09:09:14.787] [sharedprocess] [info] Extension installed successfully: dedsec727.jekyll-run
+[2022-04-15 09:09:14.812] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.2d7f6603-2e8a-4349-802c-2cbe18807eaa: ms-python.python
+[2022-04-15 09:09:17.455] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-04-15 09:09:17.495] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-python.python-2021.10.1365161279
+[2022-04-15 09:09:18.147] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/rahu/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.1.3
+[2022-04-15 09:09:18.154] [sharedprocess] [info] Downloaded extension: ms-vscode.powershell /home/rahu/.config/Code/CachedExtensionVSIXs/ms-vscode.powershell-2021.12.0
+[2022-04-15 09:09:18.155] [sharedprocess] [info] Downloaded extension: jannisx11.batch-rename-extension /home/rahu/.config/Code/CachedExtensionVSIXs/jannisx11.batch-rename-extension-0.0.5
+[2022-04-15 09:09:18.156] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/rahu/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.22.2
+[2022-04-15 09:09:18.157] [sharedprocess] [info] Downloaded extension: tomoki1207.pdf /home/rahu/.config/Code/CachedExtensionVSIXs/tomoki1207.pdf-1.2.0
+[2022-04-15 09:09:18.158] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-04-15 09:09:18.276] [sharedprocess] [info] Downloaded extension: amazonwebservices.aws-toolkit-vscode /home/rahu/.config/Code/CachedExtensionVSIXs/amazonwebservices.aws-toolkit-vscode-1.37.0
+[2022-04-15 09:09:20.146] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/rahu/.config/Code/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.7
+[2022-04-15 09:09:20.899] [sharedprocess] [info] Downloaded extension: yuenm18.ooxml-viewer /home/rahu/.config/Code/CachedExtensionVSIXs/yuenm18.ooxml-viewer-1.2.2
+[2022-04-15 09:09:21.263] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-04-15 09:09:21.474] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.7a775cbe-3067-403b-883d-603fdac13623: jannisx11.batch-rename-extension
+[2022-04-15 09:09:21.752] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.38796dbc-915d-48ff-9932-da630592f3e6: vscodevim.vim
+[2022-04-15 09:09:22.127] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.34db933f-7079-4140-a05f-048aab13e277: yuenm18.ooxml-viewer
+[2022-04-15 09:09:22.391] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/jannisx11.batch-rename-extension-0.0.5
+[2022-04-15 09:09:22.393] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/vscodevim.vim-1.22.2
+[2022-04-15 09:09:22.401] [sharedprocess] [info] Extracting completed. jannisx11.batch-rename-extension
+[2022-04-15 09:09:22.403] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-04-15 09:09:23.002] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/yuenm18.ooxml-viewer-1.2.2
+[2022-04-15 09:09:23.017] [sharedprocess] [info] Extracting completed. yuenm18.ooxml-viewer
+[2022-04-15 09:09:23.768] [sharedprocess] [info] Extension installed successfully: jannisx11.batch-rename-extension
+[2022-04-15 09:09:24.312] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.27b2bdd4-26c7-41ca-a76f-9817b49ab437: amazonwebservices.aws-toolkit-vscode
+[2022-04-15 09:09:24.347] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2022-04-15 09:09:25.574] [sharedprocess] [info] Extension installed successfully: yuenm18.ooxml-viewer
+[2022-04-15 09:09:25.577] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.37.0
+[2022-04-15 09:09:25.602] [sharedprocess] [info] Extracting completed. amazonwebservices.aws-toolkit-vscode
+[2022-04-15 09:09:28.366] [sharedprocess] [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+[2022-04-15 09:09:35.207] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.03700846-733a-4452-9b89-c3f5f967d88a: tomoki1207.pdf
+[2022-04-15 09:09:35.724] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.483c203a-046f-473b-aa36-2b0953d0a245: knisterpeter.vscode-github
+[2022-04-15 09:09:37.189] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/tomoki1207.pdf-1.2.0
+[2022-04-15 09:09:37.196] [sharedprocess] [info] Extracting completed. tomoki1207.pdf
+[2022-04-15 09:09:39.587] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/knisterpeter.vscode-github-0.30.7
+[2022-04-15 09:09:39.592] [sharedprocess] [info] Extracting completed. knisterpeter.vscode-github
+[2022-04-15 09:09:43.847] [sharedprocess] [info] Extension installed successfully: tomoki1207.pdf
+[2022-04-15 09:09:43.851] [sharedprocess] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /home/rahu/.config/Code/CachedExtensionVSIXs/shd101wyy.markdown-preview-enhanced-0.6.2
+[2022-04-15 09:09:45.643] [sharedprocess] [info] Extension installed successfully: knisterpeter.vscode-github
+[2022-04-15 09:11:23.391] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.f9347dec-6a16-407f-ac9b-fd4ce7c634d7: dart-code.dart-code
+[2022-04-15 09:11:24.184] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/dart-code.dart-code-3.27.2
+[2022-04-15 09:11:24.185] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2022-04-15 09:11:24.186] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code
+[2022-04-15 09:11:24.187] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.407cfc37-15f6-4034-bb8e-93f05b8f1656: shd101wyy.markdown-preview-enhanced
+[2022-04-15 09:11:24.188] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.2
+[2022-04-15 09:11:24.188] [sharedprocess] [info] Extracting completed. shd101wyy.markdown-preview-enhanced
+[2022-04-15 09:11:24.189] [sharedprocess] [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
+[2022-04-15 09:11:24.190] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.30f035ae-d0cc-48c0-9a63-beaa32684deb: ms-python.vscode-pylance
+[2022-04-15 09:11:24.191] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-python.vscode-pylance-2022.1.3
+[2022-04-15 09:11:24.191] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-04-15 09:11:24.192] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-04-15 09:11:24.193] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.e40f1384-400c-4cb7-b438-213aef6f3f6b: ms-vscode.powershell
+[2022-04-15 09:11:24.193] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/ms-vscode.powershell-2021.12.0
+[2022-04-15 09:11:24.194] [sharedprocess] [info] Extracting completed. ms-vscode.powershell
+[2022-04-15 09:11:24.195] [sharedprocess] [info] Extension installed successfully: ms-vscode.powershell
+[2022-04-15 09:19:18.160] [sharedprocess] [info] Installing extension: xdebug.php-debug
+[2022-04-15 09:19:25.045] [sharedprocess] [info] Downloaded extension: xdebug.php-debug /home/rahu/.config/Code/CachedExtensionVSIXs/xdebug.php-debug-1.22.0
+[2022-04-15 09:19:29.598] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.309dc941-3ca8-43f1-a7b1-356c2171bdb1: xdebug.php-debug
+[2022-04-15 09:19:30.297] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/xdebug.php-debug-1.22.0
+[2022-04-15 09:19:30.303] [sharedprocess] [info] Extracting completed. xdebug.php-debug
+[2022-04-15 09:19:30.450] [sharedprocess] [info] Extension installed successfully: xdebug.php-debug
+[2022-04-15 09:26:20.129] [sharedprocess] [info] Installing extension: onecentlin.laravel5-snippets
+[2022-04-15 09:26:23.727] [sharedprocess] [info] Downloaded extension: onecentlin.laravel5-snippets /home/rahu/.config/Code/CachedExtensionVSIXs/onecentlin.laravel5-snippets-1.15.0
+[2022-04-15 09:26:24.105] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.c2592e90-80a7-4777-b27b-2ac0e04995d6: onecentlin.laravel5-snippets
+[2022-04-15 09:26:24.240] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/onecentlin.laravel5-snippets-1.15.0
+[2022-04-15 09:26:24.245] [sharedprocess] [info] Extracting completed. onecentlin.laravel5-snippets
+[2022-04-15 09:26:24.386] [sharedprocess] [info] Extension installed successfully: onecentlin.laravel5-snippets

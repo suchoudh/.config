@@ -1,3 +1,23 @@
+quit
+a
+pl-rename AudioNotes
+pl-import secondPL
+pl-export secondPL
+pl-create firstPL
+save -q thisisQue
+save -q
+pl-export firstplaylist
+pl-export ss
+h
+add Music/
+q!
+live-filter 
+add ~/Music/600Music/
+clear -l
+q
+add ~/Music/Bhupen_Hazarika/
+add ~/Music/
+wq
 add /home/rahu/Music
 add /home/rahu/Music/*
 add /home/rahu/Music/
@@ -11,15 +31,11 @@ add -p
 help
 myRecorded.pl
 w
-quit
 save
 play
 rand
 clear
-q
-a
 add ~/Music
 a /home/rahu/Music/trfd/SunilSelection5may19
 find
 f Dhaar
-add ~/Music/

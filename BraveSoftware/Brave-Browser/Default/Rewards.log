@@ -156,3 +156,35 @@
 --------------------------------------------------------------------------------
 [Dec 16, 2021, 9:35:40.3 PM:ERROR:creative_new_tab_page_ads_database_table.cc(448)] Failed to get creative new tab page ad
 [Dec 16, 2021, 10:35:33.6 PM:ERROR:creative_new_tab_page_ads_database_table.cc(448)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Feb 06, 2022, 10:00:31.8 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Feb 06, 2022, 10:13:03.6 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Feb 08, 2022, 9:38:41.0 AM:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[Feb 08, 2022, 9:38:42.8 AM:ERROR:get_prefix_list.cc(58)] Invalid server response for publisher prefix list
+[Feb 08, 2022, 9:38:42.9 AM:ERROR:publisher_prefix_list_updater.cc(77)] Invalid server response for publisher prefix list
+[Feb 08, 2022, 9:38:45.1 AM:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[Feb 08, 2022, 9:38:45.1 AM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 08, 2022, 9:39:38.1 AM:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+--------------------------------------------------------------------------------
+[Feb 08, 2022, 9:45:08.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+[Feb 08, 2022, 9:45:08.4 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2022, 11:56:37.0 PM:ERROR:publisher.cc(774)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 23, 2022, 10:17:27.8 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Mar 27, 2022, 3:52:29.6 PM:ERROR:refill_unblinded_tokens.cc(225)] Failed to get signed tokens
+[Mar 27, 2022, 3:52:53.9 PM:ERROR:creative_new_tab_page_ads_database_table.cc(523)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[Apr 17, 2022, 10:31:08.3 PM:ERROR:redeem_unblinded_payment_tokens.cc(57)] Failed to redeem unblinded payment tokens due to invalid wallet
+--------------------------------------------------------------------------------
+[Apr 30, 2022, 9:43:01.6 AM:ERROR:redeem_unblinded_payment_tokens.cc(57)] Failed to redeem unblinded payment tokens due to invalid wallet
+--------------------------------------------------------------------------------
+[Jun 07, 2022, 7:16:06.6 AM:ERROR:bundle.cc(591)] Failed to save creative ad notifications state
+[Jun 07, 2022, 7:16:07.1 AM:ERROR:bundle.cc(605)] Failed to save creative inline content ads state
+[Jun 07, 2022, 7:16:07.3 AM:ERROR:bundle.cc(619)] Failed to save creative new tab page ads state
+[Jun 07, 2022, 7:16:07.4 AM:ERROR:bundle.cc(645)] Failed to purge expired deposits
+--------------------------------------------------------------------------------
+[Jun 21, 2022, 7:37:06.0 PM:ERROR:refill_unblinded_tokens.cc(193)] Failed to get signed tokens

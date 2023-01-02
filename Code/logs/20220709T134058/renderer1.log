@@ -1,0 +1,57 @@
+[2022-07-09 13:42:29.918] [renderer1] [error] Cannot read property 'hc' of undefined: TypeError: Cannot read property 'hc' of undefined
+    at z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:45937)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47957
+    at Array.map (<anonymous>)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47078
+    at async Promise.all (index 0)
+    at async L.registerExtensionWalkthroughContributions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:46041)
+[2022-07-09 13:42:49.303] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 100% of 5369.32ms, saved PROFILE here: 'file:///tmp/exthost-59c508.cpuprofile' [{"id":"gc","total":144,"percentage":0},{"id":"vscode.microsoft-authentication","total":5368769,"percentage":100}]
+[2022-07-09 13:42:49.441] [renderer1] [error] Server returned 422: Error: Server returned 422
+    at w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:637:164752)
+    at a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1508:27031)
+    at async o._processCpuProfile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1567:37643)
+[2022-07-09 13:43:34.760] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 95% of 5319.311ms, saved PROFILE here: 'file:///tmp/exthost-f57bef.cpuprofile' [{"id":"gc","total":2521,"percentage":0},{"id":"self","total":265008,"percentage":5},{"id":"vscode.microsoft-authentication","total":5046604,"percentage":95}]
+[2022-07-09 13:44:17.535] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 97% of 2798.576ms, saved PROFILE here: 'file:///tmp/exthost-79bada.cpuprofile' [{"id":"gc","total":41281,"percentage":1},{"id":"self","total":48660,"percentage":2},{"id":"vscode.microsoft-authentication","total":2706959,"percentage":97}]
+[2022-07-09 13:44:31.699] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 79% of 202.265ms, saved PROFILE here: 'file:///tmp/exthost-ca4dd2.cpuprofile' [{"id":"prasadbobby.auto-rename-tag","total":162,"percentage":0},{"id":"program","total":163,"percentage":0},{"id":"self","total":1980,"percentage":1},{"id":"vscode.git","total":40693,"percentage":20},{"id":"vscode.microsoft-authentication","total":158906,"percentage":79}]
+[2022-07-09 13:44:45.245] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:45:25.811] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:46:26.067] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:46:44.523] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:47:26.012] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:48:26.026] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-07-09 13:49:26.304] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

@@ -14,5 +14,6 @@
 "code-runner.saveFileBeforeRun": true,
 "window.zoomLevel": 0,
 "editor.minimap.enabled": true,
-"editor.defaultFormatter": "esbenp.prettier-vscode"
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"json.schemas": []
 }

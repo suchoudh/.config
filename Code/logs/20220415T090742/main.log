@@ -1,0 +1,5 @@
+[2022-04-15 09:07:45.921] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2022-04-15 09:07:48.821] [main] [info] update#setState idle
+[2022-04-15 09:08:18.824] [main] [info] update#setState checking for updates
+[2022-04-15 09:08:23.307] [main] [info] update#setState available for download
+[2022-04-15 09:09:48.965] [main] [error] CodeWindow: detected unresponsive

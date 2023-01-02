@@ -1,0 +1,12 @@
+2022/06/07-07:18:59.699 211fd Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/07-07:18:59.700 211fd Recovering log #4
+2022/06/07-07:18:59.702 211fd Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/000004.log 
+2022/06/07-07:25:28.368 22a3d Level-0 table #8: started
+2022/06/07-07:25:28.556 22a3d Level-0 table #8: 913998 bytes OK
+2022/06/07-07:25:28.829 22a3d Delete type=0 #4
+2022/06/07-07:26:13.478 22a3c Compacting 1@1 + 1@2 files
+2022/06/07-07:26:13.569 22a3c Generated table #9@1: 88 keys, 5807 bytes
+2022/06/07-07:26:13.569 22a3c Compacted 1@1 + 1@2 files => 5807 bytes
+2022/06/07-07:26:13.683 22a3c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/07-07:26:13.684 22a3c Delete type=2 #8
+2022/06/07-07:26:13.684 22a3c Delete type=2 #5

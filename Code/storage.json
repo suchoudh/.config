@@ -446,13 +446,14 @@
     "themeBackground": "#272822",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/rahu/.config/Code/Backups/1631465100145",
+            "folder": "file:///home/rahu/Dropbox",
+            "backupPath": "/home/rahu/.config/Code/Backups/fefc69451fa8b27edf25d93bd969ce72",
             "uiState": {
                 "mode": 1,
-                "x": 458,
+                "x": 685,
                 "y": 21,
-                "width": 451,
-                "height": 540
+                "width": 679,
+                "height": 745
             }
         },
         "openedWindows": []
@@ -461,6 +462,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/rahu/Dropbox"
+            },
+            {
                 "folderUri": "file:///home/rahu/Dropbox/myCloud"
             },
             {
@@ -468,9 +472,6 @@
             },
             {
                 "folderUri": "file:///home/rahu/NewLife"
-            },
-            {
-                "folderUri": "file:///home/rahu/Dropbox"
             },
             {
                 "folderUri": "file:///home/rahu/Homebox/2300RememberThese/100_admin"
@@ -526,10 +527,6 @@
                         "label": "New &&Window"
                     },
                     {
-                        "id": "welcome.showNewFileEntries",
-                        "label": "New File..."
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -556,6 +553,18 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/rahu/Dropbox",
+                                        "external": "file:///home/rahu/Dropbox",
+                                        "path": "/home/rahu/Dropbox",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Dropbox"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -589,17 +598,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/NewLife"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/rahu/Dropbox",
-                                        "path": "/home/rahu/Dropbox",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dropbox"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -811,13 +809,6 @@
                                 {
                                     "id": "workbench.action.selectProductIconTheme",
                                     "label": "&&Product Icon Theme"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Turn on Settings Sync..."
                                 }
                             ]
                         }
@@ -835,8 +826,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -871,6 +861,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.22",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "issue.copyGithubPermalink",
+                                    "label": "Copy GitHub Permalink"
+                                },
+                                {
+                                    "id": "issue.copyMarkdownGithubPermalink",
+                                    "label": "Copy GitHub Permalink as Markdown"
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -1174,6 +1180,10 @@
                     {
                         "id": "workbench.view.extensions",
                         "label": "E&&xtensions"
+                    },
+                    {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1696,10 +1706,6 @@
             "workbench.action.newWindow": {
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
-            },
-            "welcome.showNewFileEntries": {
-                "label": "Ctrl+Alt+Super+N",
-                "userSettingsLabel": "ctrl+alt+meta+n"
             },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",

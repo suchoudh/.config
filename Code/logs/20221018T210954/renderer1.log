@@ -1,0 +1,28 @@
+[2022-10-18 21:10:42.245] [renderer1] [error] Cannot read property 'hc' of undefined: TypeError: Cannot read property 'hc' of undefined
+    at z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:45937)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47957
+    at Array.map (<anonymous>)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:47078
+    at async Promise.all (index 0)
+    at async L.registerExtensionWalkthroughContributions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:46041)
+[2022-10-18 21:11:01.086] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 97% of 5424.085ms, saved PROFILE here: 'file:///tmp/exthost-6eaebc.cpuprofile' [{"id":"gc","total":180416,"percentage":3},{"id":"vscode.microsoft-authentication","total":5243215,"percentage":97}]
+[2022-10-18 21:11:34.746] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 98% of 8130.022ms, saved PROFILE here: 'file:///tmp/exthost-9a984a.cpuprofile' [{"id":"gc","total":131973,"percentage":2},{"id":"vscode.microsoft-authentication","total":7995646,"percentage":98}]
+[2022-10-18 21:12:03.234] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 29% of 2262.265ms, saved PROFILE here: 'file:///tmp/exthost-22a80a.cpuprofile' [{"id":"amazonwebservices.aws-toolkit-vscode","total":15526,"percentage":1},{"id":"Dart-Code.dart-code","total":137396,"percentage":6},{"id":"dbaeumer.vscode-eslint","total":6231,"percentage":0},{"id":"Dedsec727.jekyll-run","total":4742,"percentage":0},{"id":"esbenp.prettier-vscode","total":160969,"percentage":7},{"id":"formulahendry.code-runner","total":3467,"percentage":0},{"id":"gc","total":13484,"percentage":1},{"id":"golang.go","total":215845,"percentage":10},{"id":"kisstkondoros.vscode-gutter-preview","total":1474,"percentage":0},{"id":"KnisterPeter.vscode-github","total":158988,"percentage":7},{"id":"loskael.vscode-stocks-cn","total":6879,"percentage":0},{"id":"ms-vscode-remote.remote-containers","total":504,"percentage":0},{"id":"PKief.material-icon-theme","total":57789,"percentage":3},{"id":"prasadbobby.auto-rename-tag","total":218608,"percentage":10},{"id":"program","total":12212,"percentage":1},{"id":"ritwickdey.LiveServer","total":9386,"percentage":0},{"id":"self","total":461803,"percentage":20},{"id":"vscode.debug-auto-launch","total":466,"percentage":0},{"id":"vscode.emmet","total":82616,"percentage":4},{"id":"vscode.git","total":10313,"percentage":0},{"id":"vscode.merge-conflict","total":19001,"percentage":1},{"id":"vscode.microsoft-authentication","total":660746,"percentage":29}]
+[2022-10-18 21:12:18.813] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 82% of 5343.846ms, saved PROFILE here: 'file:///tmp/exthost-a5f72d.cpuprofile' [{"id":"gc","total":4832,"percentage":0},{"id":"program","total":3927,"percentage":0},{"id":"self","total":945432,"percentage":18},{"id":"vscode.git","total":4389286,"percentage":82}]
+[2022-10-18 21:12:33.670] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-10-18 21:12:35.663] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2022-10-18 21:13:25.201] [renderer1] [error] Invalid response: undefined: Error: Invalid response: undefined
+    at /home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:140:19
+    at Generator.throw (<anonymous>)
+    at rejected (/home/rahu/.vscode/extensions/loskael.vscode-stocks-cn-0.1.5/out/src/extension.js:5:65)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

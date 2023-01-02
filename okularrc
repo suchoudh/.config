@@ -5,13 +5,12 @@ shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
 Height 768=768
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1366=1366
 
 [Recent Files]
 File1[$e]=$HOME/cookbook-openshift3-frozen/README.md
-File2[$e]=$HOME/GigDesc.pdf
+File2[$e]=$HOME/0delme/0/BhawanaCV_UpdatedAugust2022.pdf
 Name1[$e]=README.md
-Name2[$e]=GigDesc.pdf
+Name2[$e]=BhawanaCV_UpdatedAugust2022.pdf
