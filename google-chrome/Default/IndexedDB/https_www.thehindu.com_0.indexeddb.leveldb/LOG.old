@@ -1,3 +1,15 @@
-2021/08/01-13:31:29.725 ea5 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/08/01-13:31:29.726 ea5 Recovering log #18
-2021/08/01-13:31:29.726 ea5 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/000018.log 
+2023/03/06-18:04:54.065 6564f Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-18:04:54.065 6564f Recovering log #18
+2023/03/06-18:04:54.176 6564f Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.thehindu.com_0.indexeddb.leveldb/000018.log 
+2023/03/06-18:08:08.672 65654 Level-0 table #22: started
+2023/03/06-18:08:08.704 65654 Level-0 table #22: 13884 bytes OK
+2023/03/06-18:08:08.755 65654 Delete type=0 #18
+2023/03/06-18:08:08.813 65654 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/06-18:08:08.813 65654 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x000\x1e\xc7nkxB\x00\x03\x000\x1e\xc7nkxB' @ 5032 : 1
+2023/03/06-18:08:08.813 65654 Compacting 1@1 + 1@2 files
+2023/03/06-18:08:08.855 65654 Generated table #23@1: 331 keys, 12981 bytes
+2023/03/06-18:08:08.855 65654 Compacted 1@1 + 1@2 files => 12981 bytes
+2023/03/06-18:08:08.906 65654 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/06-18:08:08.906 65654 Delete type=2 #22
+2023/03/06-18:08:08.907 65654 Delete type=2 #13
+2023/03/06-18:08:08.924 65654 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x000\x1e\xc7nkxB\x00\x03\x000\x1e\xc7nkxB' @ 5032 : 1 .. (end); will stop at (end)

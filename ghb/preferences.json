@@ -1,5 +1,6 @@
 {
     "Preferences": {
+        "ActivityFontSize": 8.0,
         "AddCC": false,
         "AutoScan": false,
         "DiskFreeCheck": true,
@@ -37,7 +38,7 @@
         "update_skip_version": 0,
         "use_dvdnav": true,
         "version": "0.1",
-        "window_height": 695,
-        "window_width": 644
+        "window_height": 745,
+        "window_width": 679
     }
 }

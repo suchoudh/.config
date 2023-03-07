@@ -1,3 +1,7 @@
-2018/07/25-16:21:50.870 17010 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/07/25-16:21:50.871 17010 Recovering log #3
-2018/07/25-16:21:50.873 17010 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2023/02/01-20:46:54.043 1c82aa Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-20:46:54.043 1c82aa Recovering log #4
+2023/02/01-20:46:54.043 1c82aa Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2023/02/01-20:47:02.226 1c8877 Level-0 table #8: started
+2023/02/01-20:47:02.259 1c8877 Level-0 table #8: 518 bytes OK
+2023/02/01-20:47:02.310 1c8877 Delete type=0 #4
+2023/02/01-20:47:02.310 1c8877 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

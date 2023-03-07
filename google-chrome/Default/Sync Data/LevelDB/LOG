@@ -1,9 +1,45 @@
-2021/12/20-19:37:13.592 6e75 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2021/12/20-19:37:13.593 6e75 Recovering log #712
-2021/12/20-19:37:13.707 6e75 Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000712.log 
-2021/12/20-20:08:14.333 b81e Level-0 table #717: started
-2021/12/20-20:08:14.585 b81e Level-0 table #717: 88709 bytes OK
-2021/12/20-20:08:14.760 b81e Delete type=0 #712
-2021/12/20-22:08:59.706 24340 Level-0 table #719: started
-2021/12/20-22:08:59.810 24340 Level-0 table #719: 81027 bytes OK
-2021/12/20-22:08:59.945 24340 Delete type=0 #716
+2023/03/06-12:29:44.019 21951 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/06-12:29:44.047 21951 Recovering log #801
+2023/03/06-12:29:44.179 21951 Reusing old log /home/rahu/.config/google-chrome/Default/Sync Data/LevelDB/000801.log 
+2023/03/06-12:47:09.504 25222 Level-0 table #805: started
+2023/03/06-12:47:09.561 25222 Level-0 table #805: 96633 bytes OK
+2023/03/06-12:47:09.656 25222 Delete type=0 #801
+2023/03/06-12:47:09.657 25222 Compacting 4@0 + 1@1 files
+2023/03/06-12:47:09.800 25222 Generated table #806@0: 448 keys, 75671 bytes
+2023/03/06-12:47:09.800 25222 Compacted 4@0 + 1@1 files => 75671 bytes
+2023/03/06-12:47:09.894 25222 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/03/06-12:47:09.895 25222 Delete type=2 #796
+2023/03/06-12:47:09.895 25222 Delete type=2 #800
+2023/03/06-12:47:09.895 25222 Delete type=2 #802
+2023/03/06-12:47:09.895 25222 Delete type=2 #805
+2023/03/06-12:47:09.895 25222 Delete type=2 #798
+2023/03/06-13:05:36.171 28820 Level-0 table #808: started
+2023/03/06-13:05:36.214 28820 Level-0 table #808: 98897 bytes OK
+2023/03/06-13:05:36.298 28820 Delete type=0 #804
+2023/03/06-13:39:59.306 2fbb0 Level-0 table #810: started
+2023/03/06-13:39:59.474 2fbb0 Level-0 table #810: 107489 bytes OK
+2023/03/06-13:39:59.961 2fbb0 Delete type=0 #807
+2023/03/06-13:46:15.358 2e33b Level-0 table #812: started
+2023/03/06-13:46:15.398 2e33b Level-0 table #812: 86823 bytes OK
+2023/03/06-13:46:15.449 2e33b Delete type=0 #809
+2023/03/06-14:39:05.847 3c0a5 Level-0 table #814: started
+2023/03/06-14:39:05.889 3c0a5 Level-0 table #814: 101124 bytes OK
+2023/03/06-14:39:05.941 3c0a5 Delete type=0 #811
+2023/03/06-14:39:05.941 3c0a5 Compacting 4@0 + 1@1 files
+2023/03/06-14:39:06.096 3c0a5 Generated table #815@0: 440 keys, 75857 bytes
+2023/03/06-14:39:06.096 3c0a5 Compacted 4@0 + 1@1 files => 75857 bytes
+2023/03/06-14:39:06.147 3c0a5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/03/06-14:39:06.147 3c0a5 Delete type=2 #812
+2023/03/06-14:39:06.148 3c0a5 Delete type=2 #806
+2023/03/06-14:39:06.148 3c0a5 Delete type=2 #810
+2023/03/06-14:39:06.148 3c0a5 Delete type=2 #808
+2023/03/06-14:39:06.148 3c0a5 Delete type=2 #814
+2023/03/06-15:26:00.367 460ca Level-0 table #817: started
+2023/03/06-15:26:00.449 460ca Level-0 table #817: 105133 bytes OK
+2023/03/06-15:26:00.532 460ca Delete type=0 #813
+2023/03/06-15:36:07.995 4774f Level-0 table #819: started
+2023/03/06-15:36:08.039 4774f Level-0 table #819: 101506 bytes OK
+2023/03/06-15:36:08.089 4774f Delete type=0 #816
+2023/03/06-17:19:46.050 5c65f Level-0 table #821: started
+2023/03/06-17:19:46.099 5c65f Level-0 table #821: 93145 bytes OK
+2023/03/06-17:19:46.150 5c65f Delete type=0 #818

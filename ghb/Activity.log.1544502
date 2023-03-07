@@ -1,0 +1,299 @@
+[19:09:54] gtkgui: HandBrake 1.3.1 (2020032300) - Linux x86_64 - https://handbrake.fr
+[19:09:54] hb_init: starting libhb thread
+[19:09:54] hb_init: starting libhb thread
+[19:09:54] hb_init: starting libhb thread
+[19:09:56] CPU: 
+[19:09:56]  - logical processor count: 2
+[19:09:56] hb_scan: path=/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov/) failed
+[19:09:56] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[19:09:56] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2022-04-25T03:51:33.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: MacBookPro18,3
+    com.apple.quicktime.software: macOS 12.3.1 (21E258)
+    com.apple.quicktime.creationdate: 2022-04-25T09:21:30+0530
+  Duration: 00:43:26.63, start: 0.000000, bitrate: 8151 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 3840x2160, 7724 kb/s, 51.79 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2022-04-25T03:51:33.000000Z
+      handler_name    : Core Media Video
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 126 kb/s (default)
+    Metadata:
+      creation_time   : 2022-04-25T03:51:33.000000Z
+      handler_name    : Core Media Audio
+[19:09:57] scan: decoding previews for title 1
+[19:09:57] scan: audio 0x1: aac, rate=48000Hz, bitrate=126286 Unknown (AAC LC) (1.0 ch) (126 kbps)
+[19:10:00] scan: 10 previews, 3840x2160, 51.812 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1
+[19:10:00] libhb: scan thread found 1 valid title(s)
+[19:10:24] gtkgui: Modified Preset: /General/Fast 1080p30
+[19:10:24] Starting work at: Sat Feb 25 19:10:24 2023
+
+[19:10:24] 1 job(s) to process
+[19:10:24] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "mono",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": false,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 43,
+                    "Seconds": 26,
+                    "Ticks": 234596999
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/rahu/Videos/Screen Recording 2022-04-25 at 9.21.22 AM.mkv",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 12,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 1080,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Screen Recording 2022-04-25 at 9.21.22 AM"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "4.0",
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[19:10:24] CPU: 
+[19:10:24]  - logical processor count: 2
+[19:10:24] hb_scan: path=/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:323: failed opening UDF image /media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov/) failed
+[19:10:24] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[19:10:24] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2022-04-25T03:51:33.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: MacBookPro18,3
+    com.apple.quicktime.software: macOS 12.3.1 (21E258)
+    com.apple.quicktime.creationdate: 2022-04-25T09:21:30+0530
+  Duration: 00:43:26.63, start: 0.000000, bitrate: 8151 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 3840x2160, 7724 kb/s, 51.79 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2022-04-25T03:51:33.000000Z
+      handler_name    : Core Media Video
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 126 kb/s (default)
+    Metadata:
+      creation_time   : 2022-04-25T03:51:33.000000Z
+      handler_name    : Core Media Audio
+[19:10:24] scan: decoding previews for title 1
+[19:10:24] scan: audio 0x1: aac, rate=48000Hz, bitrate=126286 Unknown (AAC LC) (1.0 ch) (126 kbps)
+[19:10:26] scan: 10 previews, 3840x2160, 51.812 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1
+[19:10:26] libhb: scan thread found 1 valid title(s)
+[19:10:26] Starting Task: Encoding Pass
+[19:10:27] job configuration:
+[19:10:27]  * source
+[19:10:27]    + /media/rahu/Untitled/2p_Mamnoon_TrainingsKolo/Screen Recording 2022-04-25 at 9.21.22 AM.mov
+[19:10:27]    + title 1, chapter(s) 1 to 1
+[19:10:27]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[19:10:27]    + data rate: 8151 kbps
+[19:10:27]  * destination
+[19:10:27]    + /home/rahu/Videos/Screen Recording 2022-04-25 at 9.21.22 AM.mkv
+[19:10:27]    + container: Matroska (libavformat)
+[19:10:27]  * video track
+[19:10:27]    + decoder: h264
+[19:10:27]      + bitrate 7724 kbps
+[19:10:27]    + filters
+[19:10:27]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[19:10:27]      + Decomb (mode=39)
+[19:10:27]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[19:10:27]        + frame rate: 51.812 fps -> peak rate limited to 30.000 fps
+[19:10:27]      + Crop and Scale (width=1920:height=1080:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[19:10:27]        + source: 3840 * 2160, crop (0/0/0/0): 3840 * 2160, scale: 1920 * 1080
+[19:10:27]    + Output geometry
+[19:10:27]      + storage dimensions: 1920 x 1080
+[19:10:27]      + pixel aspect ratio: 1 : 1
+[19:10:27]      + display dimensions: 1920 x 1080
+[19:10:27]    + encoder: H.264 (libx264)
+[19:10:27]      + preset:  fast
+[19:10:27]      + profile: main
+[19:10:27]      + level:   4.0
+[19:10:27]      + quality: 22.00 (RF)
+[19:10:27]      + color profile: 1-1-1
+[19:10:27]  * audio track 1
+[19:10:27]    + decoder: Unknown (AAC LC) (1.0 ch) (126 kbps) (track 1, id 0x1)
+[19:10:27]      + bitrate: 126 kbps, samplerate: 48000 Hz
+[19:10:27]    + mixdown: Mono
+[19:10:27]    + dither: triangular
+[19:10:27]    + encoder: AAC (libavcodec)
+[19:10:27]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[19:10:27] sync: expecting 135055 video frames
+[19:10:27] encx264: min-keyint: 30, keyint: 300
+[19:10:27] encx264: encoding at constant RF 22.000000
+[19:10:27] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0
+[19:10:27] sync: first pts audio 0x1 is 0
+[19:10:27] sync: first pts video is 450
+[19:10:27] sync: Chapter 1 at frame 1 time 450
+[19:11:39] work: average encoding speed for job is 8.701388 fps
+[19:11:39] comb detect: heavy 0 | light 3 | uncombed 605 | total 608
+[19:11:39] decomb: deinterlaced 0 | blended 3 | unfiltered 600 | total 603
+[19:11:39] vfr: 338 frames output, 258 dropped and 0 duped for CFR/PFR
+[19:11:39] vfr: lost time: 0 (0 frames)
+[19:11:39] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[19:11:39] aac-decoder done: 643 frames, 0 decoder errors
+[19:11:39] h264-decoder done: 666 frames, 0 decoder errors
+[19:11:39] sync: got 624 frames, 135055 expected
+[19:11:39] sync: framerate min 30.000 fps, max 51.812 fps, avg 51.692 fps
+x264 [info]: frame I:2     Avg QP: 9.84  size: 47165
+x264 [info]: frame P:80    Avg QP:16.64  size:  2838
+x264 [info]: frame B:209   Avg QP:16.46  size:   139
+x264 [info]: consecutive B-frames:  2.4%  4.1%  2.0% 91.5%
+x264 [info]: mb I  I16..4: 88.7%  0.0% 11.3%
+x264 [info]: mb P  I16..4:  1.0%  0.0%  0.4%  P16..4:  1.4%  0.1%  0.1%  0.0%  0.0%    skip:97.1%
+x264 [info]: mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.3%  0.0%  0.0%  direct: 0.0%  skip:99.6%  L0:49.9% L1:48.8% BI: 1.3%
+x264 [info]: coded y,uvDC,uvAC intra: 11.9% 7.5% 6.0% inter: 0.1% 0.2% 0.1%
+x264 [info]: i16 v,h,dc,p: 82% 16%  1%  0%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 29% 18%  2%  3%  3%  4%  2%  5%
+x264 [info]: i8c dc,h,v,p: 87% 10%  2%  0%
+x264 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x264 [info]: ref P L0: 87.7% 12.3%
+x264 [info]: ref B L0: 87.2% 12.8%
+x264 [info]: ref B L1: 95.8%  4.2%
+x264 [info]: kb/s:282.36
+[19:11:39] mux: track 0, 290 frames, 350171 bytes, 232.16 kbps, fifo 512
+[19:11:39] mux: track 1, 565 frames, 241989 bytes, 160.43 kbps, fifo 1024
+[19:11:39] Finished work at: Sat Feb 25 19:11:39 2023
+
+[19:11:40] libhb: work result = 1

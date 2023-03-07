@@ -188,3 +188,81 @@
 [Jun 07, 2022, 7:16:07.4 AM:ERROR:bundle.cc(645)] Failed to purge expired deposits
 --------------------------------------------------------------------------------
 [Jun 21, 2022, 7:37:06.0 PM:ERROR:refill_unblinded_tokens.cc(193)] Failed to get signed tokens
+--------------------------------------------------------------------------------
+[Jan 07, 2023, 3:07:51.9 PM:ERROR:redeem_unblinded_payment_tokens.cc(83)] Failed to redeem unblinded payment tokens due to invalid wallet
+[Jan 07, 2023, 3:07:53.0 PM:ERROR:refill_unblinded_tokens.cc(76)] Failed to refill unblinded tokens due to an invalid wallet
+[Jan 07, 2023, 3:08:16.5 PM:ERROR:refill_unblinded_tokens.cc(76)] Failed to refill unblinded tokens due to an invalid wallet
+--------------------------------------------------------------------------------
+[Jan 18, 2023, 7:29:24.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 7:30:13.7 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 7:30:13.7 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 8:20:00.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 8:20:00.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 9:50:41.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 18, 2023, 10:28:24.7 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 22, 2023, 9:15:37.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 22, 2023, 9:15:37.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 22, 2023, 10:19:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 22, 2023, 10:19:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 23, 2023, 11:52:48.6 AM:ERROR:publisher.cc(849)] Failed to retrieve publisher info while updating media duration
+[Jan 23, 2023, 11:52:51.0 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 29, 2023, 9:54:53.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 29, 2023, 10:04:07.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 29, 2023, 10:04:38.3 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 29, 2023, 10:06:54.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 29, 2023, 7:19:28.7 PM:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens
+[Jan 30, 2023, 6:28:54.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 30, 2023, 6:28:54.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 30, 2023, 6:33:15.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 30, 2023, 6:33:15.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 31, 2023, 1:41:21.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 31, 2023, 1:45:23.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 06, 2023, 10:00:48.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 10:00:48.9 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 06, 2023, 5:37:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:15.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:53.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:53.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 06, 2023, 5:37:53.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 07, 2023, 9:43:03.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 8:23:12.2 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 16, 2023, 8:23:12.3 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 17, 2023, 12:59:41.6 AM:ERROR:publisher.cc(841)] Failed to retrieve publisher info while updating media duration
+[Feb 17, 2023, 12:59:41.7 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 17, 2023, 12:59:41.7 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 18, 2023, 7:02:45.0 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:13:17.0 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:22:43.0 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:23:37.6 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:25:48.8 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:37:25.7 PM:ERROR:publisher.cc(841)] Failed to retrieve publisher info while updating media duration
+[Feb 18, 2023, 8:37:26.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 18, 2023, 8:46:43.4 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 19, 2023, 4:18:07.0 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 20, 2023, 11:05:41.8 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 23, 2023, 3:05:35.4 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 23, 2023, 3:10:33.7 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 25, 2023, 6:09:28.3 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 25, 2023, 6:09:28.3 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Mar 04, 2023, 12:01:33.1 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Mar 04, 2023, 12:01:33.1 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Mar 04, 2023, 1:52:59.8 PM:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens

@@ -1,3 +1,6 @@
-2021/10/11-11:49:59.264 1306c Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2021/10/11-11:49:59.491 1306c Recovering log #38
-2021/10/11-11:50:02.173 1306c Reusing old log /home/rahu/.config/google-chrome/Default/Extension State/000038.log 
+2023/03/04-22:01:20.011 926b Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2023/03/04-22:01:20.012 926b Recovering log #41
+2023/03/04-22:01:21.476 926b Reusing old log /home/rahu/.config/google-chrome/Default/Extension State/000041.log 
+2023/03/05-02:14:13.128 3a57d Level-0 table #45: started
+2023/03/05-02:14:13.762 3a57d Level-0 table #45: 1601986 bytes OK
+2023/03/05-02:14:13.861 3a57d Delete type=0 #41

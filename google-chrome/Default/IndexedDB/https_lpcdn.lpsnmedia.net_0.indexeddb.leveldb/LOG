@@ -1,15 +1,3 @@
-2020/12/18-23:22:36.036 3219 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/18-23:22:36.037 3219 Recovering log #7
-2020/12/18-23:22:36.037 3219 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000007.log 
-2020/12/18-23:22:52.057 3751 Level-0 table #12: started
-2020/12/18-23:22:52.097 3751 Level-0 table #12: 993 bytes OK
-2020/12/18-23:22:52.147 3751 Delete type=0 #7
-2020/12/18-23:22:52.148 3751 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/18-23:22:52.148 3751 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 217 : 1
-2020/12/18-23:22:52.148 3751 Compacting 1@1 + 1@2 files
-2020/12/18-23:22:52.182 3751 Generated table #13@1: 28 keys, 907 bytes
-2020/12/18-23:22:52.182 3751 Compacted 1@1 + 1@2 files => 907 bytes
-2020/12/18-23:22:52.233 3751 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/12/18-23:22:52.233 3751 Delete type=2 #9
-2020/12/18-23:22:52.234 3751 Delete type=2 #12
-2020/12/18-23:22:52.234 3751 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 217 : 1 .. (end); will stop at (end)
+2023/02/17-23:00:46.006 59b8 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/17-23:00:46.006 59b8 Recovering log #15
+2023/02/17-23:00:46.007 59b8 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000015.log 

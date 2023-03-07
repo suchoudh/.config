@@ -1,0 +1,6 @@
+[2023-02-01 15:01:36.287] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2023-02-01 15:01:40.217] [main] [info] update#setState idle
+[2023-02-01 15:01:50.221] [main] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2023-02-01 15:01:50.222] [main] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2023-02-01 15:02:10.223] [main] [info] update#setState checking for updates
+[2023-02-01 15:02:12.448] [main] [info] update#setState available for download

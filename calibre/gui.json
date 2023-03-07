@@ -464,7 +464,7 @@
   "grid view visible": true,
   "job-detail-view-dialog-geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywACAAAAAAElAAAA6QAAA+AAAAL6AAABJQAAAQcAAAPgAAAC+gAAAAAAAAAABVY="
+    "__value__": "AdnQywADAAAAAAEnAAABBQAAA+YAAAL8AAABKQAAAQcAAAPkAAAC+gAAAAAAAAAABVYAAAEpAAABBwAAA+QAAAL6"
   },
   "jobs view column layout3": {
     "__class__": "bytearray",
@@ -472,11 +472,12 @@
   },
   "jobs_dialog_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAFMAAABNQAAA+UAAAKQAAABTgAAATcAAAPjAAACjgAAAAAAAAAABVYAAAFOAAABNwAAA+MAAAKO"
+    "__value__": "AdnQywADAAAAAAFOAAABNQAAA+cAAAKQAAABUAAAATcAAAPlAAACjgAAAAAAAAAABVYAAAFQAAABNwAAA+UAAAKO"
   },
   "library_usage_stats": {
     "/home/rahu/Calibre_1": 232,
     "/home/rahu/Calibre_Books": 3,
+    "/home/rahu/Homebox/1000DailyDo/CalibreBackup/TestCalibre": 1,
     "/home/rahu/Homebox/1200InterfaceWith/lawSikho/Calibre_LawSikho": 11
   },
   "manage-saved-searches-geometry": {

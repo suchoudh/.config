@@ -1,9 +1,61 @@
-2021/12/20-19:37:11.197 5 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/12/20-19:37:11.303 5 Recovering log #7519
-2021/12/20-19:37:11.519 5 Reusing old log /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/007519.log 
-2021/12/20-20:47:15.257 3 Level-0 table #7523: started
-2021/12/20-20:47:15.392 3 Level-0 table #7523: 14526 bytes OK
-2021/12/20-20:47:15.498 3 Delete type=0 #7519
-2021/12/20-22:29:43.995 32 Level-0 table #7525: started
-2021/12/20-22:29:44.303 32 Level-0 table #7525: 16796 bytes OK
-2021/12/20-22:29:44.441 32 Delete type=0 #7522
+2023/03/06-12:29:42.626 5 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/03/06-12:29:42.833 5 Recovering log #7813
+2023/03/06-12:29:42.843 5 Reusing old log /home/rahu/.config/google-chrome/Default/Local Storage/leveldb/007813.log 
+2023/03/06-12:33:03.309 5 Level-0 table #7820: started
+2023/03/06-12:33:03.523 5 Level-0 table #7820: 55277 bytes OK
+2023/03/06-12:33:03.667 5 Delete type=0 #7813
+2023/03/06-13:20:25.760 19 Level-0 table #7822: started
+2023/03/06-13:20:25.935 19 Level-0 table #7822: 58579 bytes OK
+2023/03/06-13:20:26.228 19 Delete type=0 #7819
+2023/03/06-14:24:34.635 2d Level-0 table #7824: started
+2023/03/06-14:24:34.704 2d Level-0 table #7824: 20602 bytes OK
+2023/03/06-14:24:34.767 2d Delete type=0 #7821
+2023/03/06-14:52:15.165 41 Level-0 table #7826: started
+2023/03/06-14:52:15.199 41 Level-0 table #7826: 20058 bytes OK
+2023/03/06-14:52:15.251 41 Delete type=0 #7823
+2023/03/06-14:52:15.252 41 Compacting 4@0 + 5@1 files
+2023/03/06-14:52:15.406 41 Generated table #7827@0: 3810 keys, 2293633 bytes
+2023/03/06-14:52:15.551 41 Generated table #7828@0: 1612 keys, 2173751 bytes
+2023/03/06-14:52:15.740 41 Generated table #7829@0: 1562 keys, 2266406 bytes
+2023/03/06-14:52:15.841 41 Generated table #7830@0: 67 keys, 1709322 bytes
+2023/03/06-14:52:15.841 41 Compacted 4@0 + 5@1 files => 8443112 bytes
+2023/03/06-14:52:15.892 41 compacted to: files[ 0 4 3 0 0 0 0 ]
+2023/03/06-14:52:15.894 41 Delete type=2 #7745
+2023/03/06-14:52:15.894 41 Delete type=2 #7816
+2023/03/06-14:52:15.894 41 Delete type=2 #7826
+2023/03/06-14:52:15.894 41 Delete type=2 #7815
+2023/03/06-14:52:15.894 41 Delete type=2 #7824
+2023/03/06-14:52:15.894 41 Delete type=2 #7822
+2023/03/06-14:52:15.895 41 Delete type=2 #7817
+2023/03/06-14:52:15.895 41 Delete type=2 #7733
+2023/03/06-14:52:15.895 41 Delete type=2 #7820
+2023/03/06-15:27:15.373 60 Level-0 table #7832: started
+2023/03/06-15:27:15.425 60 Level-0 table #7832: 18945 bytes OK
+2023/03/06-15:27:15.510 60 Delete type=0 #7825
+2023/03/06-16:12:15.168 73 Level-0 table #7834: started
+2023/03/06-16:12:15.217 73 Level-0 table #7834: 17726 bytes OK
+2023/03/06-16:12:15.303 73 Delete type=0 #7831
+2023/03/06-16:57:15.219 85 Level-0 table #7836: started
+2023/03/06-16:57:15.287 85 Level-0 table #7836: 24262 bytes OK
+2023/03/06-16:57:15.340 85 Delete type=0 #7833
+2023/03/06-18:12:15.181 92 Level-0 table #7838: started
+2023/03/06-18:12:15.367 92 Level-0 table #7838: 14792 bytes OK
+2023/03/06-18:12:15.739 92 Delete type=0 #7835
+2023/03/06-18:12:15.740 92 Compacting 4@0 + 4@1 files
+2023/03/06-18:12:16.322 92 Generated table #7839@0: 3849 keys, 2295665 bytes
+2023/03/06-18:12:16.520 92 Generated table #7840@0: 1679 keys, 2102728 bytes
+2023/03/06-18:12:17.037 92 Generated table #7841@0: 1341 keys, 2102946 bytes
+2023/03/06-18:12:17.326 92 Generated table #7842@0: 382 keys, 1960099 bytes
+2023/03/06-18:12:17.327 92 Compacted 4@0 + 4@1 files => 8461438 bytes
+2023/03/06-18:12:17.470 92 compacted to: files[ 0 4 3 0 0 0 0 ]
+2023/03/06-18:12:17.472 92 Delete type=2 #7838
+2023/03/06-18:12:17.472 92 Delete type=2 #7836
+2023/03/06-18:12:17.472 92 Delete type=2 #7829
+2023/03/06-18:12:17.472 92 Delete type=2 #7832
+2023/03/06-18:12:17.472 92 Delete type=2 #7827
+2023/03/06-18:12:17.472 92 Delete type=2 #7834
+2023/03/06-18:12:17.472 92 Delete type=2 #7830
+2023/03/06-18:12:17.472 92 Delete type=2 #7828
+2023/03/06-19:18:31.892 a1 Level-0 table #7844: started
+2023/03/06-19:18:31.989 a1 Level-0 table #7844: 14529 bytes OK
+2023/03/06-19:18:32.141 a1 Delete type=0 #7837

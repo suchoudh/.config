@@ -1,3 +1,12 @@
-2022/05/03-14:26:35.290 15957 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/03-14:26:35.291 15957 Recovering log #7
-2022/05/03-14:26:35.305 15957 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2023/03/06-11:39:02.464 13b3a Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-11:39:02.466 13b3a Recovering log #33
+2023/03/06-11:39:05.567 13b3a Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000033.log 
+2023/03/06-11:39:06.945 17996 Level-0 table #38: started
+2023/03/06-11:39:07.162 17996 Level-0 table #38: 1958220 bytes OK
+2023/03/06-11:39:07.331 17996 Delete type=0 #33
+2023/03/06-11:39:29.337 13b3a Compacting 1@1 + 1@2 files
+2023/03/06-11:39:29.444 13b3a Generated table #39@1: 104 keys, 128261 bytes
+2023/03/06-11:39:29.444 13b3a Compacted 1@1 + 1@2 files => 128261 bytes
+2023/03/06-11:39:29.628 13b3a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/06-11:39:29.629 13b3a Delete type=2 #38
+2023/03/06-11:39:29.629 13b3a Delete type=2 #35

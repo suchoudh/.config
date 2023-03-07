@@ -1,3 +1,15 @@
-2021/12/20-22:19:13.329 26632 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/20-22:19:13.329 26632 Recovering log #135
-2021/12/20-22:19:13.329 26632 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000135.log 
+2023/03/06-19:30:58.656 76512 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-19:30:58.656 76512 Recovering log #135
+2023/03/06-19:30:58.670 76512 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000135.log 
+2023/03/06-19:31:30.631 76512 Level-0 table #140: started
+2023/03/06-19:31:30.727 76512 Level-0 table #140: 209 bytes OK
+2023/03/06-19:31:30.778 76512 Delete type=0 #135
+2023/03/06-19:31:30.795 76512 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/06-19:31:30.795 76512 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 362 : 1
+2023/03/06-19:31:30.795 76512 Compacting 1@1 + 1@2 files
+2023/03/06-19:31:30.833 76512 Generated table #141@1: 36 keys, 2704 bytes
+2023/03/06-19:31:30.833 76512 Compacted 1@1 + 1@2 files => 2704 bytes
+2023/03/06-19:31:30.885 76512 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/06-19:31:30.885 76512 Delete type=2 #140
+2023/03/06-19:31:30.885 76512 Delete type=2 #137
+2023/03/06-19:31:30.899 76512 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 362 : 1 .. (end); will stop at (end)

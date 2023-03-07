@@ -1,3 +1,3 @@
-2021/12/21-03:22:10.054 62c37 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/21-03:22:10.054 62c37 Recovering log #6621
-2021/12/21-03:22:10.092 62c37 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/006621.log 
+2023/03/06-20:22:10.090 7e107 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-20:22:10.091 7e107 Recovering log #6700
+2023/03/06-20:22:10.092 7e107 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/006700.log 

@@ -1,0 +1,10 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.20618556701030932 0.035978689545423097 0.19216856703361371))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(pattern "Maple Leaves")
+(gradient "Custom")
+(palette "Color History")
+
+# end of gimp-vector-tool options

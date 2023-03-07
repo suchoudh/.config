@@ -1,3 +1,7 @@
-2020/04/24-07:05:26.139 1131 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/24-07:05:26.139 1131 Recovering log #3
-2020/04/24-07:05:26.140 1131 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/000003.log 
+2023/02/01-19:54:39.778 1bc98c Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-19:54:39.778 1bc98c Recovering log #3
+2023/02/01-19:54:39.780 1bc98c Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_www.bbc.com_0.indexeddb.leveldb/000003.log 
+2023/02/01-20:27:40.094 1c353a Level-0 table #5: started
+2023/02/01-20:27:40.183 1c353a Level-0 table #5: 88571 bytes OK
+2023/02/01-20:27:40.257 1c353a Delete type=0 #3
+2023/02/01-20:27:40.273 1c353a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

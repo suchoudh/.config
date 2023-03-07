@@ -1,0 +1,44 @@
+[2023-02-01 15:02:27.865] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2023-02-01 15:02:32.424] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2023-02-01 15:02:32.434] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210911T151915'
+[2023-02-01 15:02:37.888] [sharedprocess] [info] Installing extension: tomoki1207.pdf
+[2023-02-01 15:02:37.933] [sharedprocess] [info] Installing extension: jannisx11.batch-rename-extension
+[2023-02-01 15:02:37.969] [sharedprocess] [info] Installing extension: amazonwebservices.aws-toolkit-vscode
+[2023-02-01 15:02:38.032] [sharedprocess] [info] Installing extension: yuenm18.ooxml-viewer
+[2023-02-01 15:02:38.047] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2023-02-01 15:02:38.073] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2023-02-01 15:02:50.169] [sharedprocess] [info] Downloaded extension: tomoki1207.pdf /home/rahu/.config/Code/CachedExtensionVSIXs/tomoki1207.pdf-1.2.2
+[2023-02-01 15:02:50.359] [sharedprocess] [info] Downloaded extension: jannisx11.batch-rename-extension /home/rahu/.config/Code/CachedExtensionVSIXs/jannisx11.batch-rename-extension-0.0.6
+[2023-02-01 15:02:50.701] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/rahu/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0
+[2023-02-01 15:02:51.430] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/rahu/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.23.1
+[2023-02-01 15:02:51.934] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2023-02-01 15:02:51.936] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2023-02-01 15:02:53.329] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.64fa1f91-9043-46be-8850-900e3d0467d5: jannisx11.batch-rename-extension
+[2023-02-01 15:02:54.240] [sharedprocess] [info] Downloaded extension: amazonwebservices.aws-toolkit-vscode /home/rahu/.config/Code/CachedExtensionVSIXs/amazonwebservices.aws-toolkit-vscode-1.62.0
+[2023-02-01 15:02:54.967] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/jannisx11.batch-rename-extension-0.0.6
+[2023-02-01 15:02:54.972] [sharedprocess] [info] Extracting completed. jannisx11.batch-rename-extension
+[2023-02-01 15:02:55.537] [sharedprocess] [info] Downloaded extension: yuenm18.ooxml-viewer /home/rahu/.config/Code/CachedExtensionVSIXs/yuenm18.ooxml-viewer-1.3.1
+[2023-02-01 15:02:57.499] [sharedprocess] [info] Extension installed successfully: jannisx11.batch-rename-extension
+[2023-02-01 15:02:59.336] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.82797db0-0965-47c8-bac4-ec8cf2c4b80d: formulahendry.code-runner
+[2023-02-01 15:02:59.599] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/formulahendry.code-runner-0.12.0
+[2023-02-01 15:02:59.619] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2023-02-01 15:03:00.367] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
+[2023-02-01 15:03:02.412] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2023-02-01 15:03:03.518] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.41364b90-c0dc-4730-b7b7-4f6ef9684ff2: yuenm18.ooxml-viewer
+[2023-02-01 15:03:03.979] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/yuenm18.ooxml-viewer-1.3.1
+[2023-02-01 15:03:03.985] [sharedprocess] [info] Extracting completed. yuenm18.ooxml-viewer
+[2023-02-01 15:03:05.085] [sharedprocess] [info] Extension installed successfully: yuenm18.ooxml-viewer
+[2023-02-01 15:03:08.022] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.1d868ff9-54de-47b6-9809-8601525a35e7: tomoki1207.pdf
+[2023-02-01 15:03:08.186] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/tomoki1207.pdf-1.2.2
+[2023-02-01 15:03:08.213] [sharedprocess] [info] Extracting completed. tomoki1207.pdf
+[2023-02-01 15:03:08.469] [sharedprocess] [info] Extension installed successfully: tomoki1207.pdf
+[2023-02-01 15:03:13.594] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.ea5879a8-e850-4644-af7c-f2941564764c: pkief.material-icon-theme
+[2023-02-01 15:03:14.712] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/pkief.material-icon-theme-4.23.1
+[2023-02-01 15:03:14.719] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2023-02-01 15:03:18.339] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2023-02-01 15:03:19.193] [sharedprocess] [info] Extracted extension to /home/rahu/.vscode/extensions/.b040eee9-c372-4708-bc76-7b226f2534c0: amazonwebservices.aws-toolkit-vscode
+[2023-02-01 15:03:20.554] [sharedprocess] [info] Renamed to /home/rahu/.vscode/extensions/amazonwebservices.aws-toolkit-vscode-1.62.0
+[2023-02-01 15:03:20.581] [sharedprocess] [info] Extracting completed. amazonwebservices.aws-toolkit-vscode
+[2023-02-01 15:03:22.300] [sharedprocess] [info] Extension installed successfully: amazonwebservices.aws-toolkit-vscode
+[2023-02-01 15:03:29.314] [sharedprocess] [info] Installing extension: shd101wyy.markdown-preview-enhanced
+[2023-02-01 15:03:54.210] [sharedprocess] [info] Downloaded extension: shd101wyy.markdown-preview-enhanced /home/rahu/.config/Code/CachedExtensionVSIXs/shd101wyy.markdown-preview-enhanced-0.6.5

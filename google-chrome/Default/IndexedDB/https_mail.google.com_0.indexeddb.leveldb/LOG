@@ -1,31 +1,3 @@
-2021/12/20-22:13:20.083 2595a Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/20-22:13:20.084 2595a Recovering log #304
-2021/12/20-22:13:20.181 2595a Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000304.log 
-2021/12/20-22:13:29.551 2538f Compacting 1@1 + 1@2 files
-2021/12/20-22:13:29.705 2538f Generated table #307@1: 175 keys, 195963 bytes
-2021/12/20-22:13:29.705 2538f Compacted 1@1 + 1@2 files => 195963 bytes
-2021/12/20-22:13:29.768 2538f compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/12/20-22:13:29.769 2538f Delete type=2 #305
-2021/12/20-22:13:29.769 2538f Delete type=2 #302
-2021/12/20-22:29:51.742 28a5b Level-0 table #309: started
-2021/12/20-22:29:51.862 28a5b Level-0 table #309: 1973450 bytes OK
-2021/12/20-22:29:52.253 28a5b Delete type=0 #304
-2021/12/21-03:25:50.783 61cae Level-0 table #311: started
-2021/12/21-03:25:52.069 61cae Level-0 table #311: 305861 bytes OK
-2021/12/21-03:25:54.505 61cae Delete type=0 #308
-2021/12/21-03:25:54.568 61cae Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 117158 : 1
-2021/12/21-03:25:54.568 61cae Compacting 1@0 + 1@1 files
-2021/12/21-03:25:57.263 61cae Generated table #312@0: 1258 keys, 412954 bytes
-2021/12/21-03:25:57.263 61cae Compacted 1@0 + 1@1 files => 412954 bytes
-2021/12/21-03:25:57.906 61cae compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/12/21-03:25:57.907 61cae Delete type=2 #309
-2021/12/21-03:25:57.907 61cae Delete type=2 #311
-2021/12/21-03:25:57.914 61cae Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 117158 : 1 .. (end); will stop at (end)
-2021/12/21-03:25:57.914 61cae Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 117158 : 1
-2021/12/21-03:25:57.914 61cae Compacting 1@1 + 1@2 files
-2021/12/21-03:25:58.757 61cae Generated table #313@1: 93 keys, 76833 bytes
-2021/12/21-03:25:58.757 61cae Compacted 1@1 + 1@2 files => 76833 bytes
-2021/12/21-03:25:59.530 61cae compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/12/21-03:25:59.531 61cae Delete type=2 #312
-2021/12/21-03:25:59.531 61cae Delete type=2 #307
-2021/12/21-03:25:59.531 61cae Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 117158 : 1 .. (end); will stop at (end)
+2023/03/06-12:30:03.294 2196c Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-12:30:03.295 2196c Recovering log #328
+2023/03/06-12:30:03.745 2196c Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000328.log 

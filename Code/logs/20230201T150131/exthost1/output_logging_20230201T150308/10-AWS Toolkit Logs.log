@@ -1,0 +1,7 @@
+2023-02-01 15:03:32 [ERROR]: log level: info
+2023-02-01 15:03:39 [INFO]: Retrieving AWS endpoint data
+2023-02-01 15:03:39 [INFO]: OS: Linux x64 5.4.0-137-generic
+2023-02-01 15:03:39 [INFO]: Visual Studio Code extension host:  1.59.1
+2023-02-01 15:03:39 [INFO]: AWS Toolkit:  1.51.0
+2023-02-01 15:03:39 [INFO]: node: 14.16.0
+2023-02-01 15:03:39 [INFO]: electron: 13.1.7

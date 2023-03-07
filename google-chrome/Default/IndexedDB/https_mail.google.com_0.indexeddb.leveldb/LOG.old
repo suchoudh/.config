@@ -1,3 +1,9 @@
-2021/12/20-19:38:15.049 6e74 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/20-19:38:15.049 6e74 Recovering log #304
-2021/12/20-19:38:15.447 6e74 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000304.log 
+2023/03/04-22:01:18.172 92d4 Reusing MANIFEST /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/04-22:01:18.172 92d4 Recovering log #328
+2023/03/04-22:01:18.287 92d4 Reusing old log /home/rahu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000328.log 
+2023/03/04-22:01:38.545 92d6 Compacting 1@1 + 1@2 files
+2023/03/04-22:01:38.884 92d6 Generated table #331@1: 178 keys, 255459 bytes
+2023/03/04-22:01:38.884 92d6 Compacted 1@1 + 1@2 files => 255459 bytes
+2023/03/04-22:01:39.370 92d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/04-22:01:39.370 92d6 Delete type=2 #326
+2023/03/04-22:01:39.370 92d6 Delete type=2 #329

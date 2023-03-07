@@ -23,22 +23,22 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "5.21",
-      "4.7",
-      "4.4",
-      "5.14",
-      "4.8",
       "4.13",
-      "4.6",
-      "4.2",
-      "4.10",
-      "4.16",
-      "5.3",
-      "4.11",
       "5.18",
+      "4.6",
       "4.9",
+      "4.3",
       "4.12",
-      "4.3"
+      "5.3",
+      "5.14",
+      "4.2",
+      "4.8",
+      "4.10",
+      "4.11",
+      "5.21",
+      "4.16",
+      "4.4",
+      "4.7"
     ]
   },
   "opml-select-dialog": "/home/rahu/Dropbox/myCloud/1000DailyDo/C_this.Week/this.Day",
@@ -53,22 +53,6 @@
     ],
     [
       "rating",
-      false
-    ],
-    [
-      "timestamp",
-      false
-    ],
-    [
-      "title",
-      false
-    ],
-    [
-      "rating",
-      false
-    ],
-    [
-      "timestamp",
       false
     ],
     [

@@ -14,7 +14,7 @@
         "id": "pulse_input_capture",
         "mixers": 255,
         "monitoring_type": 0,
-        "muted": true,
+        "muted": false,
         "name": "Mic/Aux",
         "prev_ver": 419430403,
         "private_settings": {},
@@ -27,7 +27,7 @@
         },
         "sync": 0,
         "versioned_id": "pulse_input_capture",
-        "volume": 0.0
+        "volume": 0.010861501097679138
     },
     "DesktopAudioDevice1": {
         "balance": 0.5,
@@ -59,41 +59,11 @@
         },
         "sync": 0,
         "versioned_id": "pulse_output_capture",
-        "volume": 3.1227235012920573e-5
+        "volume": 0.10914546996355057
     },
-    "DesktopAudioDevice2": {
-        "balance": 0.5,
-        "deinterlace_field_order": 0,
-        "deinterlace_mode": 0,
-        "enabled": true,
-        "flags": 0,
-        "hotkeys": {
-            "libobs.mute": [],
-            "libobs.push-to-mute": [],
-            "libobs.push-to-talk": [],
-            "libobs.unmute": []
-        },
-        "id": "pulse_output_capture",
-        "mixers": 255,
-        "monitoring_type": 0,
-        "muted": false,
-        "name": "Desktop Audio 2",
-        "prev_ver": 419430403,
-        "private_settings": {},
-        "push-to-mute": false,
-        "push-to-mute-delay": 0,
-        "push-to-talk": false,
-        "push-to-talk-delay": 0,
-        "settings": {
-            "device_id": "default"
-        },
-        "sync": 0,
-        "versioned_id": "pulse_output_capture",
-        "volume": 1.0
-    },
-    "current_program_scene": "Scene 2",
-    "current_scene": "Scene 2",
-    "current_transition": "Cut",
+    "current_program_scene": "Scene",
+    "current_scene": "Scene",
+    "current_transition": "Fade",
     "groups": [],
     "modules": {
         "auto-scene-switcher": {
@@ -155,7 +125,7 @@
     "scaling_off_y": 0.0,
     "scene_order": [
         {
-            "name": "Scene 2"
+            "name": "Scene"
         }
     ],
     "sources": [
@@ -170,14 +140,16 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Screen Capture (XSHM) 2",
+            "name": "Screen Capture (XSHM) 3",
             "prev_ver": 419430403,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "settings": {},
+            "settings": {
+                "advanced": false
+            },
             "sync": 0,
             "versioned_id": "xshm_input",
             "volume": 1.0
@@ -190,14 +162,16 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.Screen Capture (XSHM) 2": [],
-                "libobs.show_scene_item.Screen Capture (XSHM) 2": []
+                "libobs.hide_scene_item.Screen Capture (XSHM) 3": [],
+                "libobs.hide_scene_item.Window Capture (Xcomposite)": [],
+                "libobs.show_scene_item.Screen Capture (XSHM) 3": [],
+                "libobs.show_scene_item.Window Capture (Xcomposite)": []
             },
             "id": "scene",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Scene 2",
+            "name": "Scene",
             "prev_ver": 419430403,
             "private_settings": {},
             "push-to-mute": false,
@@ -206,7 +180,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 4,
+                "id_counter": 2,
                 "items": [
                     {
                         "align": 5,
@@ -221,9 +195,38 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 4,
+                        "id": 1,
                         "locked": false,
-                        "name": "Screen Capture (XSHM) 2",
+                        "name": "Screen Capture (XSHM) 3",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Window Capture (Xcomposite)",
                         "pos": {
                             "x": 0.0,
                             "y": 0.0
@@ -250,11 +253,11 @@
             "enabled": true,
             "flags": 0,
             "hotkeys": {},
-            "id": "xshm_input",
+            "id": "xcomposite_input",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Screen Capture (XSHM)",
+            "name": "Window Capture (Xcomposite)",
             "prev_ver": 419430403,
             "private_settings": {},
             "push-to-mute": false,
@@ -262,10 +265,10 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "advanced": false
+                "capture_window": "39845891\r\n(1) Sadhguru's DANCE At MahaShivaRatri 2023! | TAMANA | #MahaShivRatri2023 | Isha - YouTube - Brave\r\nbrave-browser"
             },
             "sync": 0,
-            "versioned_id": "xshm_input",
+            "versioned_id": "xcomposite_input",
             "volume": 1.0
         }
     ],

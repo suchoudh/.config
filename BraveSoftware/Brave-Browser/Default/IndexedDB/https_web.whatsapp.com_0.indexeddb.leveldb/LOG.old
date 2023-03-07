@@ -1,3 +1,61 @@
-2021/11/04-12:17:24.003 2d594 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/04-12:17:24.004 2d594 Recovering log #41
-2021/11/04-12:17:24.198 2d594 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000041.log 
+2023/03/04-13:53:03.382 1bd24 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/04-13:53:03.510 1bd24 Recovering log #6879
+2023/03/04-13:53:03.510 1bd24 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/006879.log 
+2023/03/04-13:53:16.933 fecf Level-0 table #6980: started
+2023/03/04-13:53:17.030 fecf Level-0 table #6980: 932925 bytes OK
+2023/03/04-13:53:17.082 fecf Delete type=0 #6879
+2023/03/04-13:53:17.113 fecf Compacting 1@1 + 0@2 files
+2023/03/04-13:53:17.231 fecf Generated table #6981@1: 11401 keys, 239449 bytes
+2023/03/04-13:53:17.304 fecf Generated table #6982@1: 6985 keys, 317459 bytes
+2023/03/04-13:53:17.304 fecf Compacted 1@1 + 0@2 files => 556908 bytes
+2023/03/04-13:53:17.472 fecf compacted to: files[ 0 0 2 65 0 0 0 ]
+2023/03/04-13:53:17.629 fece Compacting 1@2 + 8@3 files
+2023/03/04-13:53:17.828 fece Generated table #6983@2: 44659 keys, 2268992 bytes
+2023/03/04-13:53:18.072 fece Generated table #6984@2: 10470 keys, 2164666 bytes
+2023/03/04-13:53:18.351 fece Generated table #6985@2: 15701 keys, 2213929 bytes
+2023/03/04-13:53:18.661 fece Generated table #6986@2: 19005 keys, 2285677 bytes
+2023/03/04-13:53:18.661 fece Level-0 table #6988: started
+2023/03/04-13:53:18.757 fece Level-0 table #6988: 959799 bytes OK
+2023/03/04-13:53:18.832 fece Delete type=2 #6980
+2023/03/04-13:53:18.832 fece Delete type=0 #6979
+2023/03/04-13:53:19.291 fece Generated table #6989@2: 22901 keys, 2288407 bytes
+2023/03/04-13:53:19.563 fece Generated table #6990@2: 45322 keys, 2200986 bytes
+2023/03/04-13:53:19.918 fece Generated table #6991@2: 67295 keys, 2244525 bytes
+2023/03/04-13:53:20.170 fece Generated table #6992@2: 12203 keys, 2156206 bytes
+2023/03/04-13:53:20.222 fece Generated table #6993@2: 70 keys, 133731 bytes
+2023/03/04-13:53:20.222 fece Compacted 1@2 + 8@3 files => 17957119 bytes
+2023/03/04-13:53:20.285 fece compacted to: files[ 0 1 1 66 0 0 0 ]
+2023/03/04-13:53:20.286 fece Delete type=2 #6914
+2023/03/04-13:53:20.286 fece Delete type=2 #6981
+2023/03/04-13:53:20.286 fece Delete type=2 #6915
+2023/03/04-13:53:20.286 fece Delete type=2 #6919
+2023/03/04-13:53:20.287 fece Delete type=2 #6913
+2023/03/04-13:53:20.287 fece Delete type=2 #6917
+2023/03/04-13:53:20.287 fece Delete type=2 #6918
+2023/03/04-13:53:20.287 fece Delete type=2 #6916
+2023/03/04-13:53:20.287 fece Delete type=2 #6920
+2023/03/04-13:53:20.355 fece Compacting 1@1 + 1@2 files
+2023/03/04-13:53:20.497 fece Generated table #6994@1: 11715 keys, 133802 bytes
+2023/03/04-13:53:20.610 fece Generated table #6995@1: 9723 keys, 547952 bytes
+2023/03/04-13:53:20.610 fece Compacted 1@1 + 1@2 files => 681754 bytes
+2023/03/04-13:53:20.685 fece compacted to: files[ 0 0 2 66 0 0 0 ]
+2023/03/04-13:53:20.687 fece Delete type=2 #6982
+2023/03/04-13:53:20.687 fece Delete type=2 #6988
+2023/03/04-13:53:20.704 fece Compacting 1@2 + 7@3 files
+2023/03/04-13:53:20.921 fece Generated table #6996@2: 43627 keys, 2266970 bytes
+2023/03/04-13:53:21.167 fece Generated table #6997@2: 10619 keys, 2166393 bytes
+2023/03/04-13:53:21.514 fece Generated table #6998@2: 16382 keys, 2219208 bytes
+2023/03/04-13:53:21.891 fece Generated table #6999@2: 18961 keys, 2286034 bytes
+2023/03/04-13:53:22.508 fece Generated table #7000@2: 23389 keys, 2283111 bytes
+2023/03/04-13:53:22.851 fece Generated table #7001@2: 49034 keys, 2205573 bytes
+2023/03/04-13:53:23.180 fece Generated table #7002@2: 62135 keys, 2136932 bytes
+2023/03/04-13:53:23.180 fece Compacted 1@2 + 7@3 files => 15564221 bytes
+2023/03/04-13:53:23.324 fece compacted to: files[ 0 0 1 66 0 0 0 ]
+2023/03/04-13:53:23.327 fece Delete type=2 #6985
+2023/03/04-13:53:23.327 fece Delete type=2 #6989
+2023/03/04-13:53:23.327 fece Delete type=2 #6990
+2023/03/04-13:53:23.327 fece Delete type=2 #6994
+2023/03/04-13:53:23.327 fece Delete type=2 #6991
+2023/03/04-13:53:23.327 fece Delete type=2 #6986
+2023/03/04-13:53:23.327 fece Delete type=2 #6983
+2023/03/04-13:53:23.327 fece Delete type=2 #6984

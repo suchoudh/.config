@@ -1,24 +1,15 @@
-2021/11/04-13:23:50.251 3a831 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/04-13:23:50.287 3a831 Recovering log #81
-2021/11/04-13:23:50.484 3a831 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000081.log 
-2021/11/04-13:38:30.536 3adc9 Level-0 table #86: started
-2021/11/04-13:38:30.743 3adc9 Level-0 table #86: 1024198 bytes OK
-2021/11/04-13:38:30.906 3adc9 Delete type=0 #81
-2021/11/04-13:40:23.522 3ca98 Compacting 1@1 + 1@2 files
-2021/11/04-13:40:24.039 3ca98 Generated table #87@1: 378 keys, 49048 bytes
-2021/11/04-13:40:24.039 3ca98 Compacted 1@1 + 1@2 files => 49048 bytes
-2021/11/04-13:40:24.326 3ca98 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/11/04-13:40:24.327 3ca98 Delete type=2 #86
-2021/11/04-13:40:24.329 3ca98 Delete type=2 #83
-2021/11/04-13:45:23.844 3ee80 Level-0 table #89: started
-2021/11/04-13:45:23.954 3ee80 Level-0 table #89: 169771 bytes OK
-2021/11/04-13:45:24.017 3ee80 Delete type=0 #85
-2021/11/04-13:45:24.029 3ee80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/11/04-13:45:24.029 3ee80 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0d\x01\x1f\x03\x9a!\xfd\xab.\xc7wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 118409 : 0
-2021/11/04-13:45:24.029 3ee80 Compacting 1@1 + 1@2 files
-2021/11/04-13:45:24.073 3ee80 Generated table #90@1: 369 keys, 27868 bytes
-2021/11/04-13:45:24.073 3ee80 Compacted 1@1 + 1@2 files => 27868 bytes
-2021/11/04-13:45:24.123 3ee80 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/11/04-13:45:24.123 3ee80 Delete type=2 #87
-2021/11/04-13:45:24.123 3ee80 Delete type=2 #89
-2021/11/04-13:45:24.124 3ee80 Manual compaction at level-1 from '\x00\x0d\x01\x1f\x03\x9a!\xfd\xab.\xc7wB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 118409 : 0 .. (end); will stop at (end)
+2023/03/06-11:40:23.706 17ed9 Reusing MANIFEST /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/06-11:40:23.724 17ed9 Recovering log #171
+2023/03/06-11:40:23.724 17ed9 Reusing old log /home/rahu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000171.log 
+2023/03/06-12:19:38.927 13b3a Level-0 table #176: started
+2023/03/06-12:19:38.972 13b3a Level-0 table #176: 344837 bytes OK
+2023/03/06-12:19:39.023 13b3a Delete type=0 #171
+2023/03/06-12:19:39.024 13b3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/06-12:19:39.024 13b3a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x18\x02\x1f\x03\x00\x90\x19\xaeXkxB\x00\x03\x00\x00\x00\x00\x00\x002@' @ 221674 : 1
+2023/03/06-12:19:39.024 13b3a Compacting 1@1 + 1@2 files
+2023/03/06-12:19:39.056 13b3a Generated table #177@1: 439 keys, 44616 bytes
+2023/03/06-12:19:39.056 13b3a Compacted 1@1 + 1@2 files => 44616 bytes
+2023/03/06-12:19:39.107 13b3a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/06-12:19:39.108 13b3a Delete type=2 #173
+2023/03/06-12:19:39.108 13b3a Delete type=2 #176
+2023/03/06-12:19:39.108 13b3a Manual compaction at level-1 from '\x00\x18\x02\x1f\x03\x00\x90\x19\xaeXkxB\x00\x03\x00\x00\x00\x00\x00\x002@' @ 221674 : 1 .. (end); will stop at (end)
